@@ -1,0 +1,17 @@
+month,status,horizon,exclusion,breadth_gt3_pct,excluded_weight_share_pct
+2026-09,BEA published,12m,none,60.626,0.0
+2026-09,BEA published,12m,ex_OER_162,54.704,13.074
+2026-09,BEA published,12m,ex_hospitals_184_186,56.864,8.721
+2026-09,BEA published,12m,ex_OER_and_hospitals,49.653,21.795
+2026-09,BEA published,3m_ann,none,44.814,0.0
+2026-09,BEA published,3m_ann,ex_OER_162,36.627,12.919
+2026-09,BEA published,3m_ann,ex_hospitals_184_186,49.177,8.873
+2026-09,BEA published,3m_ann,ex_OER_and_hospitals,40.782,21.791
+2026-10,UMD est.,12m,none,54.038,0.0
+2026-10,UMD est.,12m,ex_OER_162,47.133,13.061
+2026-10,UMD est.,12m,ex_hospitals_184_186,59.239,8.78
+2026-10,UMD est.,12m,ex_OER_and_hospitals,52.427,21.841
+2026-10,UMD est.,3m_ann,none,45.467,0.0
+2026-10,UMD est.,3m_ann,ex_OER_162,37.363,12.939
+2026-10,UMD est.,3m_ann,ex_hospitals_184_186,49.912,8.905
+2026-10,UMD est.,3m_ann,ex_OER_and_hospitals,41.62,21.844

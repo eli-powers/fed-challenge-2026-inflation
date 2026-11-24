@@ -1,0 +1,10 @@
+Inflation slide 3B build check, 2026-11-16T23:17:53
+1. workbook formula cells: 25 checked after LibreOffice recalc; mismatches: 0 []
+2. cross-checks vs pipeline CSV (max abs diff): actual q/q vs pipeline (2026Q1-Q3) 2.7e-07; 2027 Q4/Q4 vs pipeline 4.3e-07
+3. chart points vs Forecast tab (main + alternate): 44 points (expected 44); max abs diff 8.4e-14; blanks match
+4. axis 0..4 step 1; data 1.99..3.94; fit True
+5. right-hand values ['2.5%', '2.8%', '2.3%'] (workbook TEXT cells) present on the slide: True; 2027 Q4/Q4: SPF 2.5213, $110 2.7507, reopens 2.3107; SPF published 2.5
+6. deck: 13 slides; 3B main / alternate at positions [12, 13]; all other slides unchanged: True; duplicates: none
+   order: Inflation SECTION 1 | Inflation: Firming Again After a Summer  | Inflation: Firming Again After a Summer  | Inflation: Broad Since the Low, Hotter a | Inflation: Three Shocks Now Drive the Ex | Inflation: Tech Prices During the AI Bui |  AI Buildout: Tech Costs Are Rising Soft |  AI Buildout: Tech Costs Are Rising Soft | Inflation: A First Round, Not a Spiral T | Inflation: A First Round, Not a Spiral T | Inflation: Early Signs of Persistence Ho | Inflation Forecast: SPF Median with Oil  | Inflation Forecast: SPF Median with Oil 
+7. plotted values: 2025Q4 act 2.49; 2026Q1 act 3.94; 2026Q2 act 3.31; 2026Q3 act 2.47 | SPF median 3.00/2.71/2.60/2.41/2.36; Oil to $110 3.03/2.78/2.70/2.73/2.80; Hormuz reopens 2.91/2.69/2.41/2.15/1.99
+RESULT: PASS

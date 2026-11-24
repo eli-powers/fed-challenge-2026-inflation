@@ -1,0 +1,1 @@
+VERDICT: OPEN (R1-F01) — 1 blocking finding, 0 non-blocking findings, 0 judgment calls.

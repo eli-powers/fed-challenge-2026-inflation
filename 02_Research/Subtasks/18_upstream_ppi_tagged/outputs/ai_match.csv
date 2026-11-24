@@ -1,0 +1,27 @@
+code,name,ai_list(central/buildout),industry,naics,reason
+381101,"Hosting, ASP and other IT infrastructure provisioning services",buildout,"Data processing, hosting and related services",518210,Name matches 518210 hosting/ASP; BLS item-to-NAICS link not opened (unverified)
+381103,"Data management, information transformation and other services",buildout,"Data processing, hosting and related services",518210,Data processing/management is 518210 output; item-level BLS mapping unverified
+117522,Switchgear and switchboard apparatus,buildout,Switchgear and switchboard apparatus mfg,335313,Product named by NAICS 335313 title [2]
+119701,Turbines and turbine generator sets (excluding parts),buildout,Turbine and power transmission equipment mfg,333611,Primary product of 333611
+119801,"Parts & accesories for turbines, turbine generators, and turbine generator sets",buildout,Turbine and power transmission equipment mfg,333611,Parts of 333611 output
+114501,"Speed changers, drives, gears",buildout,Turbine and power transmission equipment mfg,333612,Speed changers/drives/gears = 333612
+114502,Other power transmission equipment,buildout,Turbine and power transmission equipment mfg,333613,Mechanical power transmission equipment = 333613
+453201,Engineering services,buildout,Municipal utility and power engineering (product line of 541330),541330,"Only broad Engineering services item in CSV; municipal-utility product line (541330202) is a subset, NOT primary. Weak/partial match; coordinator decide"
+115201,"Computer storage devices (except parts, attachments and accessories)",central,Computers and peripherals,334112,BLS 115*
+115203,"Parts, attachments and accessories for computer storage devices",central,Computers and peripherals,334112,BLS 115*
+115405,"Parts, attachments, and accessories for computer terminals and peripherals",central,Computers and peripherals,334118,BLS 115*
+115406,Computer terminals (including POS and funds-transfer devices) and other computer peripherals,central,Computers and peripherals,334118,BLS 115*
+117601,Telephone and wireline data networking equipment,central,Communications equipment,334210,NAICS 3342
+117603,"Other communications and related equipment, including broadcast and wireless",central,Communications equipment,334220,NAICS 3342
+117605,"Electronic systems and equipment, n.e.c.",central,Communications equipment,334290,"NAICS 3342 (334290); low confidence, residual item"
+117821,"Relays for electronic circuitry, industrial control overload, and switchgear type",central,Electronic components (BLS group 1178),335314,In BLS 1178 but NAICS 335314 not 3344
+117822,"Switches, mechanical, for electronic circuitry",central,Electronic components (BLS group 1178),334419,BLS 1178
+117824,Connectors for electronic circuitry,central,Electronic components (BLS group 1178),334417,BLS 1178
+117828,"Filters, crystals, and transducers",central,Electronic components (BLS group 1178),334419,BLS 1178
+117839,"Integrated circuit packages, including microprocessors",central,Semiconductors (BLS group 1178),334413,BLS 1178
+117847,"Other semiconductor devices, incl. transistors, diodes, wafers",central,Semiconductors (BLS group 1178),334413,BLS 1178
+117849,Bare printed circuit boards,central,Electronic components (BLS group 1178),334412,BLS 1178
+117853,"Electronic coils, transformers, and other inductors",central,Electronic components (BLS group 1178),334416,BLS 1178
+117854,Capacitors and resistors for electronic circuitry,central,Electronic components (BLS group 1178),334416,BLS 1178
+117856,"Microwave components, electron tubes, and other electronic components, n.e.c.",central,Electronic components (BLS group 1178),334419,BLS 1178
+117861,"Printed circuit assemblies, loaded boards, modules and consumer external modems",central,Electronic components (BLS group 1178),334418,BLS 1178

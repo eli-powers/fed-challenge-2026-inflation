@@ -1,0 +1,552 @@
+code,name,naics_2017,level,confidence,note
+011101,Citrus fruits,1113,4-digit,high,fruit and tree nut farming (citrus 111310/111320)
+011102,Other fruits and berries,1113,4-digit,high,fruit farming
+011103,Melons,1112,4-digit,med,melons: 111219 within vegetable and melon farming
+011301,Dry vegetables,111130,6-digit,high,dry pea and bean farming
+011302,"Fresh vegetables, except potatoes",1112,4-digit,high,vegetable farming
+011303,Sweet potatoes,1112,4-digit,high,vegetable farming
+011306,Potatoes,1112,4-digit,high,potato farming 111211
+011901,Tree nuts,111335,6-digit,high,tree nut farming
+012101,Wheat,111140,6-digit,high,wheat farming
+012201,Barley,111199,6-digit,high,barley: all other grain farming
+012202,Corn,111150,6-digit,high,corn farming
+012203,Oats,111199,6-digit,high,oats: all other grain farming
+012204,Rye,111199,6-digit,high,rye: all other grain farming
+012205,Sorghum,111199,6-digit,high,sorghum: all other grain farming
+012301,Rough rice,111160,6-digit,high,rice farming
+013201,Slaughter barrows and gilts,112210,6-digit,high,hog farming
+013202,Slaughter sows,112210,6-digit,high,hog farming
+013301,Slaughter lambs,112410,6-digit,high,sheep farming
+014102,Broilers and other meat type chickens,112320,6-digit,high,broilers: chicken meat production
+014201,Slaughter turkeys,112330,6-digit,high,turkey production
+014301,Slaughter ducks,112390,6-digit,med,ducks: other poultry production
+015101,Raw cotton,111920,6-digit,high,cotton farming
+016101,Raw milk,112120,6-digit,high,dairy cattle and milk production
+017108,Breaker stock and checks and undergrades,112111;112112,6-digit,med,cull cattle/breaker stock: beef cattle ranching/feedlots
+018101,Hay and hayseeds,111940,6-digit,high,hay farming
+018301,Oilseeds,111110;111120,6-digit,high,soybean and other oilseed farming
+021102,"Bread (white, wheat, rye, etc.), including frozen",311812,6-digit,high,commercial bakeries
+021105,"Rolls (bread-type), muffins, bagels, and croissants",311812,6-digit,high,commercial bakeries
+021107,"Other sweet goods, excluding frozen",311812,6-digit,med,commercial bakeries
+021108,"Soft cakes, excluding frozen",311812,6-digit,med,commercial bakeries
+021109,"Pies (fruit, cream, and custard), excluding frozen",311812,6-digit,med,commercial bakeries
+021121,"Cookies, crackers, and related products",311821,6-digit,high,cookie and cracker mfg
+021130,"Retail bakery products, excluding retail trade",311811,6-digit,high,retail bakeries (excl retail trade margin)
+021203,Wheat flour,311211,6-digit,high,flour milling
+021204,Flour base mixes and doughs,311824,6-digit,med,"dry pasta, dough and flour mixes from purchased flour"
+021301,Head rice,311212,6-digit,high,rice milling
+021302,"Milled rice (incl second heads, screenings, brewers, bran, sharps, rice flour, and byproducts)",311212,6-digit,high,rice milling
+021402,"Dry macaroni, spaghetti, and egg noodle products, made from purchased flour",311824,6-digit,high,pasta from purchased flour
+021409,"Cereal and mill products, other than flour",311230;311211,6-digit,med,breakfast cereal / other grain milling
+022101,"Beef and veal products, fresh or frozen",311611,6-digit,high,animal slaughtering
+022103,"Lamb/mutton, fresh or frozen, not canned or made into sausage, made in slaughtering plants",311611,6-digit,high,slaughtering plants
+022104,"Pork products, fresh, frozen, or processed, except sausage",311611;311612,6-digit,med,slaughter plus processed meat from carcasses
+022105,"Other meats, fresh, frozen, or canned",311611;311612,6-digit,med,slaughter plus processed meat
+022203,"Young chickens, including bulk, chilled, frozen, whole, and in parts",311615,6-digit,high,poultry processing
+022206,"Turkeys, including frozen, whole, and in parts",311615,6-digit,high,poultry processing
+022208,"Canned, cooked, smoked or prepared poultry",311615,6-digit,high,poultry processing
+022209,Chicken hens and other poultry/small game,311615,6-digit,high,poultry processing
+022301,Unprocessed finfish,114111,6-digit,med,unprocessed finfish: fishing
+022304,"Canned seafood (including soups, stews, and chowders)",311710,6-digit,high,seafood product preparation and packaging
+022305,Unprocessed shellfish,114112,6-digit,med,unprocessed shellfish: fishing
+022306,Prepared fresh and frozen seafood,311710,6-digit,high,seafood product preparation and packaging
+023103,Packaged fluid milk and related products,311511,6-digit,high,fluid milk mfg
+023104,Cottage cheese,311513,6-digit,high,cheese mfg
+023105,Other milk products,311511;311514,6-digit,med,other milk products
+023106,Bulk fluid milk and cream,311511,6-digit,med,bulk fluid milk/cream
+023201,Butter,311512,6-digit,high,creamery butter
+023302,"Natural cheese, except cottage cheese",311513,6-digit,high,cheese mfg
+023303,Processed cheese and related products,311513,6-digit,high,cheese mfg
+023304,Cheese substitutes and imitations,311513,6-digit,high,cheese mfg
+023307,Raw liquid whey,311513,6-digit,med,whey byproduct of cheese
+023402,Ice cream and frozen desserts,311520,6-digit,high,ice cream and frozen dessert
+023502,"Dry milk products, including feed grade",311514,6-digit,high,dry/condensed/evaporated dairy
+023503,Liquid milk products,311514;311511,6-digit,low,"liquid milk products, ambiguous"
+023505,Ice cream mixes and related products,311520,6-digit,high,ice cream mixes
+024101,"Canned fruits, excluding baby foods",311421,6-digit,high,fruit and vegetable canning
+024102,"Canned and fresh fruit juices, nectars, and concentrates",311421;311411,6-digit,med,juices canned and frozen
+024202,Frozen fruits,311411,6-digit,high,frozen fruit mfg
+024203,"Frozen juices, ades, drinks, and cocktails, including orange juice",311411,6-digit,high,frozen juice
+024401,Canned vegetables and juices,311421,6-digit,high,canned vegetables
+024502,"Frozen potato products (French-fried, patties, puffs, etc.)",311411,6-digit,high,frozen potato products
+024505,"Frozen vegetables, other than potato products",311411,6-digit,high,frozen vegetables
+024801,Dried and dehydrated food,311423,6-digit,high,dried and dehydrated food
+025201,Raw cane sugar and sugarcane mill products and byproducts,311314,6-digit,high,cane sugar mfg
+025307,Refined sugar products and byproducts,311313;311314,6-digit,med,beet and cane sugar refining
+025401,Confectionery materials,3113,4-digit,low,"confectionery materials: chocolate/cocoa/sugar-based inputs, mixed"
+025502,"Chewing gum, bubble gum, and chewing gum base",311340,6-digit,high,nonchocolate confectionery
+025503,Candy and nuts,311340;311351;311352;311911,6-digit,med,candy plus roasted nuts
+026101,Malt beverages,312120,6-digit,high,breweries
+026102,"Distilled and bottled liquor, excluding brandy",312140,6-digit,high,distilleries
+026104,"Wines, brandy, and brandy spirits",312130,6-digit,high,wineries
+026206,"Soft drinks, non-carbonated and bottled water",312112,6-digit,high,bottled water
+026210,"Soft drinks, carbonated, bottle/can, all types",312111,6-digit,high,soft drink mfg
+026211,"Soft drinks, energy and sport",312111,6-digit,med,energy/sport soft drinks
+026301,"Coffee (whole bean, ground, & instant)",311920,6-digit,high,coffee and tea mfg
+026303,"Tea in consumer packages, exc. canned ice tea",311920,6-digit,high,coffee and tea mfg
+026401,Other beverage materials,311930,6-digit,low,flavoring syrup and concentrate; ambiguous
+027101,"Lard, made in slaughtering plants",311611,6-digit,med,lard made in slaughtering plants
+027801,"Shortening, cooking oil, and margarine",311225,6-digit,high,fats and oils refining and blending
+027A01,Other oilseed processing,311224,6-digit,high,oilseed processing
+027B01,"Corn oil, made by wet milling",311221,6-digit,high,wet corn milling
+028101,"Canned jams, jellies, and preserves",311421,6-digit,high,jam/jelly canning
+028201,Pickles and other pickled products,311421,6-digit,high,pickling
+028301,"Processed eggs (dried, frozen, or liquid)",311999,6-digit,med,egg processing in all other misc food
+028401,Specialty canning,311422,6-digit,high,specialty canning
+028501,Frozen specialty food,311412,6-digit,high,frozen specialty food
+028601,"Prepared sauces, excluding tomato-based sauces and sauces comprised of 20 percent or more meat",311941,6-digit,high,sauces and dressings
+028901,Other miscellaneous processed foods,3119,4-digit,low,other misc processed foods: mixed 3119 industries
+029201,"Soybean cake, meal, and byproducts",311224,6-digit,high,soybean meal
+029301,Formula feeds,311119,6-digit,high,other animal food
+029402,Pet food,311111,6-digit,high,dog and cat food
+029403,Miscellaneous feedstuffs other than pet food,311119,6-digit,med,other feedstuffs
+031504,Noncellulosic and cellulosic organic fibers,325220,6-digit,high,artificial and synthetic fibers and filaments
+032601,Spun cotton yarns,313110,6-digit,high,yarn spinning
+032603,Spun synthetic yarns,313110,6-digit,high,yarn spinning
+032604,Textured and twisted yarns,313110,6-digit,high,yarn texturizing/twisting
+032607,Other spun noncellulosic and natural fiber (excluding cotton and wool) yarns,313110,6-digit,high,yarn spinning
+032608,"Spun wool yarns, including new, reused, and reprocessed",313110,6-digit,high,yarn spinning
+032705,Thread,313110,6-digit,high,thread mills
+033701,Greige cotton broadwoven fabrics,313210,6-digit,high,broadwoven fabric mills
+033703,"Greige manmade, silk, and other natural fiber (exc cotton/wool) broadwoven fabrics",313210,6-digit,high,broadwoven fabric mills
+033803,"Weft (circular) knit fabrics, greige goods (excluding hosiery)",313240,6-digit,high,knit fabric mills
+033804,"Warp knit fabrics, greige goods (excluding hosiery)",313240,6-digit,high,knit fabric mills
+033901,Tire cord and tire fabrics,313210,6-digit,med,tire cord fabric: broadwoven mills
+034201,Finished cotton broadwoven fabrics,313310,6-digit,high,textile and fabric finishing
+034202,Finished wool broadwoven fabrics and felts,313310,6-digit,high,textile and fabric finishing
+034203,"Finished manmade, silk, and other natural fiber (exc. cotton and wool) broadwoven fabrics",313310,6-digit,high,textile and fabric finishing
+034503,Nonwoven fabrics and felts,313230,6-digit,high,nonwoven fabric mills
+034601,"Coated fabrics, not rubberized",313320,6-digit,high,fabric coating mills
+034701,Screen printed textile and apparel materials and embroideries,313310,6-digit,med,screen printing on textiles; embroidery may be 313220
+034702,"Lace & net goods, all leavers & Nottingham lace machine products, incl. bobbinets/barmen laces",313240,6-digit,med,lace and net goods (knit fabric and lace mills)
+034801,"Weft (circular) knit fabrics, knit and finished in the same establishment (excluding hosiery)",313240,6-digit,high,knit fabric mills
+034802,"Warp knit goods, knit and finished in the same establishment",313240,6-digit,high,knit fabric mills
+038104,Miscellaneous apparel and accessories,315990,6-digit,low,misc apparel and accessories
+038203,Textile house furnishings,314120;314110,6-digit,med,textile house furnishings
+038303,Industrial and other fabricated products,3149,4-digit,low,industrial and other fabricated textile products
+039401,Miscellaneous textile products/services,3149,4-digit,low,misc textile products and services
+051301,Coal,2121,4-digit,high,coal mining
+053101,Natural gas,211130,6-digit,high,natural gas extraction (brief default for 054/055 is 2212; this is production)
+053201,Natural gas liquids,211130,6-digit,high,NGL extraction is in 211130
+054221,Commercial electric power,2211,4-digit,high,electric power
+054321,Industrial electric power,2211,4-digit,high,electric power
+054621,Transportation electric power,2211,4-digit,high,electric power
+055221,Commercial natural gas,2212,4-digit,high,natural gas distribution
+055321,Industrial natural gas,2212,4-digit,high,natural gas distribution
+055421,Natural gas to electric power,2212,4-digit,high,natural gas distribution
+056101,Crude petroleum (domestic production),211120,6-digit,high,crude petroleum extraction
+057103,Unleaded premium gasoline,324110,6-digit,high,petroleum refineries
+057104,Unleaded regular gasoline,324110,6-digit,high,petroleum refineries
+057105,Unleaded mid-premium gasoline,324110,6-digit,high,petroleum refineries
+057108,Aviation gasoline,324110,6-digit,high,petroleum refineries
+057202,Kerosene,324110,6-digit,high,petroleum refineries
+057203,Jet fuel,324110,6-digit,high,petroleum refineries
+057302,Home heating oil and distillates,324110,6-digit,high,petroleum refineries
+057303,No. 2 diesel fuel,324110,6-digit,high,petroleum refineries
+057407,"Residual fuels (heavy fuel oils, incl. #5, #6, & other residual fuels)",324110,6-digit,high,petroleum refineries
+057603,Lubricating grease,324191,6-digit,high,lubricating oil and grease
+057604,Lubricating and similar oils,324191,6-digit,high,lubricating oil and grease
+057801,Lubricating oil base stocks,324110;324191,6-digit,med,base stocks from refineries/re-refiners
+058102,Asphalt,324110,6-digit,med,refinery asphalt (not paving mixture 324121)
+058103,"Other petroleum and coal products, including coke oven products, n.e.c.",324199;324110,6-digit,med,"other petroleum and coal products, coke"
+061302,"Inorganic chemicals, other than alkalies and chlorine",325180,6-digit,high,other basic inorganic chemicals
+061303,"Alkalies and chlorine, including natural sodium carbonate and sulfate",325180,6-digit,high,alkalies and chlorine in 325180 (2017)
+061401,Primary basic organic chemicals,325110;325190,6-digit,med,petrochemical and other basic organic
+061402,Cyclic intermediate chemicals and dyes,325110;325130,6-digit,med,cyclic intermediates and dyes
+061403,Other basic organics,325199;325193,6-digit,med,all other basic organic chemicals
+062101,Architectural coatings,325510,6-digit,high,paint and coating
+062102,OEM finishes excluding marine coatings,325510,6-digit,high,paint and coating
+062103,"Special purpose coatings, incl. marine, industrial & construction coatings",325510,6-digit,high,paint and coating
+062202,Paint colors,325130,6-digit,low,paint colors (pigments) vs 325510
+062204,Kaolin and ball clay,212324,6-digit,med,kaolin and ball clay mining
+062301,Allied and miscellaneous paint products,325510,6-digit,med,allied paint products
+063102,"Medicinal and botanical chemicals, drugs, and other products",325411,6-digit,high,medicinal and botanical mfg
+063403,Pharmaceuticals for veterinary use,325412,6-digit,high,pharmaceutical preparation
+063717,"Biological products, excluding diagnostic, for veterinary, industrial, and all other misc. uses",325414,6-digit,high,biological product (exc diagnostic)
+063718,Diagnostics,325413,6-digit,high,in-vitro diagnostic substance
+063719,"Biological products, excluding diagnostic, for human use",325414,6-digit,high,biological product
+063801,"Pharmaceuticals affecting neoplasms, the endocrine system, & metabolic diseases",325412,6-digit,high,pharmaceutical preparation
+063802,Pharmaceuticals acting on the central nervous system and the sense organs,325412,6-digit,high,pharmaceutical preparation
+063803,Pharmaceuticals acting on the cardiovascular system,325412,6-digit,high,pharmaceutical preparation
+063804,Pharmaceuticals acting on the respiratory system,325412,6-digit,high,pharmaceutical preparation
+063805,Pharmaceuticals acting on the digestive or the genito-urinary systems,325412,6-digit,high,pharmaceutical preparation
+063806,Pharmaceuticals acting on the skin,325412,6-digit,high,pharmaceutical preparation
+063807,"Vitamin, nutrient, and hematinic preparations",325412,6-digit,high,pharmaceutical preparation
+063808,Pharmaceuticals affecting parasitic and infective diseases,325412,6-digit,high,pharmaceutical preparation
+064101,"Fats and oils, inedible",311613,6-digit,med,rendering and meat byproduct processing
+065105,Mixed fertilizers,325314,6-digit,high,mixed fertilizer
+065201,Nitrogenates,325311,6-digit,high,nitrogenous fertilizer
+065202,Phosphates,325312,6-digit,high,phosphatic fertilizer
+065301,Other agricultural chemicals,325320,6-digit,high,pesticide and agricultural chemical
+066212,Thermoplastic resins and plastics materials,325211,6-digit,high,plastics material and resin
+066306,Thermosetting resins and plastics materials,325211,6-digit,high,plastics material and resin
+067104,Soaps and other detergents,325611,6-digit,high,soap and other detergent
+067201,Polish and other sanitation goods,325612,6-digit,high,polish and other sanitation goods
+067502,Shaving preparations,325620,6-digit,high,toilet preparation
+067503,"Perfumes, toilet waters, and colognes",325620,6-digit,high,toilet preparation
+067504,Hair preparations (including shampoos),325620,6-digit,high,toilet preparation
+067505,"Toothpastes, denture cleaners, and mouthwashes",325620,6-digit,high,toilet preparation
+067514,"Creams, lotions, and oils, excluding shaving, hair, and deodorant",325620,6-digit,high,toilet preparation
+067515,Other cosmetics and toilet preparations,325620,6-digit,high,toilet preparation
+067902,Explosives and blasting accessories,325920,6-digit,high,explosives
+067903,Industrial gases,325120,6-digit,high,industrial gas
+067904,Adhesives and sealants,325520,6-digit,high,adhesive
+067905,Surface active agents,325613,6-digit,high,surface active agents
+067906,"Gum and wood chemicals, including wood distillation products",325194,6-digit,med,cyclic crude and gum/wood chemicals
+067909,Other miscellaneous chemical products,325998,6-digit,med,all other misc chemical products
+071102,Synthetic rubber,325212,6-digit,high,synthetic rubber
+071201,Tires,326211,6-digit,high,tire mfg
+071203,"Tread rubber, tire sundries, and repair materials",326212;326299,6-digit,med,tire retreading and sundries
+071303,Rubber and plastic belts and belting,326220,6-digit,high,rubber and plastics hoses and belting
+071304,Rubber and plastics hose,326220,6-digit,high,rubber and plastics hoses and belting
+071306,"Miscellaneous rubber products, n.e.c.",326299,6-digit,high,all other rubber products
+072106,Plastics construction products,326122;326191;326199,6-digit,med,"plastic pipe, plumbing fixtures and other construction products"
+072205,"Unsupported plastics film, sheet, and other shapes",326113;326121,6-digit,med,"film, sheet and profile shapes"
+072304,"Laminated plastics plates, sheet (except packaging), and shapes",326130,6-digit,high,laminated plastics plate/sheet/shape
+072601,Parts for transportation equipment,326199,6-digit,low,"plastic parts for transportation equipment, spread across 3261"
+072602,Other parts and components for manufacturing,326199,6-digit,low,plastic parts and components
+072603,Foam components for furniture,326150;326140,6-digit,med,urethane and polystyrene foam products
+072901,Other plastics products,326199,6-digit,med,all other plastics products
+072A01,Plastics packaging products,326111;326112;326160,6-digit,med,"plastic bags, packaging film, bottles"
+072B01,"All other consumer, institutional, and commercial products",326199,6-digit,low,all other plastics products
+072C01,Recyclable plastics,SCRAP,scrap,high,recyclable plastics
+081106,"Softwood lumber, not edge worked",321113,6-digit,high,sawmills
+081108,"Softwood lumber, made from purchased lumber, cut stock, and dimension",321912,6-digit,med,"cut stock, resawing, planing"
+081204,Hardwood flooring,321918,6-digit,med,hardwood flooring in other millwork
+081205,"Hardwood lumber, not edge worked",321113,6-digit,high,sawmills
+081207,"Hardwood lumber, made from purchased lumber, cut stock, and dimension",321912,6-digit,med,"cut stock, resawing, planing"
+082101,General millwork,32191,5-digit,high,millwork (321911/321918)
+082201,Prefabricated structural members,321213;321214,6-digit,high,engineered wood member and truss
+083103,Softwood veneer and plywood,321212;321211,6-digit,med,softwood veneer/plywood
+083501,Hardwood veneer and plywood,321211,6-digit,high,hardwood veneer and plywood
+084101,Wood pallets and pallet containers,321920,6-digit,high,wood container and pallet
+084201,Wood boxes,321920,6-digit,high,wood container and pallet
+084903,"Wood ties, siding, shingles, and shakes, and contract sawing of logs owned by others",321113;321912,6-digit,low,ties/siding/shingles and contract sawing
+084904,"Sawn wood fence stock, wood lath, and contract resawing and planing",321912;321113,6-digit,low,"fence stock, lath, contract resawing"
+084909,All other miscellaneous wood products,321999,6-digit,med,all other misc wood product
+085105,"Logs, bolts, timber, pulpwood and wood chips",113310,6-digit,med,logging
+086101,Prefabricated wood buildings and components,321992,6-digit,high,prefabricated wood building
+087101,Treated wood,321114,6-digit,high,wood preservation
+087102,Contract wood preservation,321114,6-digit,high,wood preservation
+091105,Wood pulp,322110,6-digit,high,pulp mills
+091201,News and other low grade recyclable paper,SCRAP,scrap,high,recyclable paper
+091203,Corrugated recyclable paper,SCRAP,scrap,high,recyclable paper
+091207,High grade recyclable paper (including pulp substitutes and deinking),SCRAP,scrap,high,recyclable paper
+091301,Writing and printing papers,322121,6-digit,high,paper mills
+091302,Newsprint,322122,6-digit,high,newsprint mills
+091303,Packaging and industrial converting paper,322121,6-digit,med,paper mills
+091305,All other coated and processed papers,322220;322121,6-digit,low,coated and processed papers
+091405,"Corrugated paperboard in sheets and rolls, lined and unlined",322211,6-digit,med,corrugated sheets from corrugated box mfg
+091411,"Paperboard, excluding corrugated paperboard in sheets and rolls",322130,6-digit,high,paperboard mills
+091501,"Sanitary paper products, including stock",322291;322121,6-digit,med,sanitary paper products
+091502,"Paper, plastic, and foil bags",322220,6-digit,high,paper bag and coated paper
+091503,Paper boxes and containers,322211;322212;322219,6-digit,med,paperboard containers
+091504,"Other corrugated and solid fiber products, including containers, pallets, pads, etc.",322211,6-digit,high,corrugated and solid fiber box
+091506,Office supplies and accessories,322230,6-digit,high,stationery product
+091507,"Fiber cans, tubes, and similar fiber products",322219,6-digit,med,fiber cans and tubes
+091508,"Molded pulp goods, including egg cartons, florists pots, food trays, etc.",322299,6-digit,med,molded pulp: all other converted paper
+091509,Miscellaneous converted paper and paperboard products,322299,6-digit,med,all other converted paper
+091601,Pressure-sensitive products,322220,6-digit,med,pressure-sensitive coated/laminated products
+092201,Particleboard and fiberboard,321219,6-digit,high,reconstituted wood product
+092202,Hardboard products,321219,6-digit,high,reconstituted wood product
+094401,Books printing,323117,6-digit,high,books printing
+094501,Manifold business forms printing,323111,6-digit,high,commercial printing
+094701,Magazine and periodical printing,323111,6-digit,high,commercial printing
+094702,Label and wrapper printing for packaging,323111,6-digit,high,commercial printing
+094703,Catalog and directory printing,323111,6-digit,high,commercial printing
+094704,Financial and legal printing (lithographic),323111,6-digit,high,commercial printing
+094705,Advertising printing,323111,6-digit,high,commercial printing
+094706,Other general job printing,323111,6-digit,high,commercial printing
+094711,"Other commercial printing, incl. screen, engraving, digital, & general job exc. labels/wrappers",323111;323113,6-digit,med,commercial printing incl screen
+094A01,"Checkbooks, blankbooks, looseleaf binders, and devices",323111;322230,6-digit,low,checkbooks and blankbooks/binders
+101105,Iron ores,212210,6-digit,high,iron ore mining
+101211,Carbon steel scrap,SCRAP,scrap,high,ferrous scrap
+101212,Stainless and other alloy steel scrap,SCRAP,scrap,high,ferrous scrap
+101213,Cast iron scrap,SCRAP,scrap,high,ferrous scrap
+101215,Other ferrous scrap,SCRAP,scrap,high,ferrous scrap
+101502,"Pressure and soil pipe and fittings, cast iron",331511,6-digit,high,iron foundries
+101504,Other gray and ductile iron castings,331511,6-digit,high,iron foundries
+101506,Steel investment castings,331512,6-digit,high,steel investment foundries
+101507,"Carbon steel castings, except investment",331513,6-digit,high,steel foundries
+101508,"High alloy steel castings, excluding investment",331513,6-digit,high,steel foundries
+101509,"Other alloy steel castings, except investment",331513,6-digit,high,steel foundries
+101513,Other forge shop products,332111,6-digit,high,iron and steel forging
+101702,Semifinished steel mill products,331110,6-digit,high,iron and steel mills
+101703,"Hot rolled steel sheet and strip, including tin mill products",331110,6-digit,high,iron and steel mills
+101704,"Hot rolled steel bars, plates, and structural shapes",331110,6-digit,high,iron and steel mills
+101705,Steel wire,331222,6-digit,high,steel wire drawing
+101706,Steel pipe and tube,331210;331110,6-digit,med,pipe/tube from purchased steel plus integrated mills
+101707,Cold rolled steel sheet and strip,331110;331221,6-digit,med,mills and rolled steel from purchased steel
+101708,Cold finished steel bars and bar shapes,331221,6-digit,high,rolled steel shapes
+101712,Electrometallurgical ferroalloy products,331110,6-digit,med,ferroalloy in 331110 since 2017
+102102,Copper and nickel ores,212234,6-digit,high,copper and nickel ore mining
+102105,Gold ores,212221,6-digit,high,gold ore mining
+102112,Other metal ores,212299,6-digit,med,other metal ore mining
+102114,Lead and zinc ores,212231,6-digit,high,lead and zinc ore mining
+102201,Primary nonferrous metals,331313;331410,6-digit,med,primary aluminum and nonferrous smelting
+102301,Copper base scrap,SCRAP,scrap,high,nonferrous scrap
+102302,Aluminum base scrap,SCRAP,scrap,high,nonferrous scrap
+102303,"Other nonferrous scrap (including lead, zinc and precious metals)",SCRAP,scrap,high,nonferrous scrap
+102403,"Secondary copper, alloyed and unalloyed",331420;331410,6-digit,low,"secondary copper smelting, NAICS home unclear"
+102406,Secondary precious metals,331410,6-digit,med,precious metal refining
+102408,"All other miscellaneous secondary nonferrous metals, including lead and zinc",331492,6-digit,high,secondary smelting nonferrous exc Cu/Al
+102501,Aluminum mill shapes,331315;331318,6-digit,high,aluminum sheet and other rolling/extruding
+102502,Copper and brass mill shapes,331420,6-digit,high,copper rolling/drawing/extruding
+102504,Nickel and nickel-base alloy mill shapes,331491,6-digit,high,nonferrous rolling exc Cu/Al
+102505,Titanium and titanium-base alloy mill shapes,331491,6-digit,high,nonferrous rolling exc Cu/Al
+102519,Other nonferrous mill shapes,331491,6-digit,med,other nonferrous mill shapes
+102603,Nonferrous wire and cable,331420;335929,6-digit,low,nonferrous wire and cable: drawing vs insulated wire
+102701,Nonferrous forge shop products,332112,6-digit,high,nonferrous forging
+102802,Aluminum castings,331524;331523,6-digit,high,aluminum foundries and die-casting
+102807,"Castings, nonferrous (except aluminum)",331529;331523,6-digit,high,nonferrous foundries
+103102,Steel cans and tinware end products,332431,6-digit,high,metal can
+103103,Aluminum cans and can components,332431,6-digit,high,metal can
+103201,"Barrels, drums, pails and other metal containers",332439,6-digit,high,other metal container
+104101,Builders' hardware,332510,6-digit,high,hardware
+104103,Transportation equipment hardware,332510,6-digit,high,hardware
+104104,Furniture hardware,332510,6-digit,high,hardware
+104105,Other miscellaneous hardware,332510,6-digit,high,hardware
+104201,Hand and edge tools,332216,6-digit,high,saw blade and handtool
+105201,"Vitreous plumbing fixtures, china lavatories, & flush tanks, incl. plumbing accessories",327110,6-digit,high,pottery/ceramics plumbing fixtures
+105402,"Plumbing fixtures, fittings, and trim",332913,6-digit,high,plumbing fixture fitting and trim
+105601,Enameled iron and metal sanitary ware,332999,6-digit,med,"enameled iron sanitary ware, in 332999 since 2012 NAICS"
+106101,Steam and hot water equipment,332410,6-digit,high,power boiler and heat exchanger
+106201,"Furnaces and heaters, including parts",333414;333415,6-digit,med,heating equipment and warm air furnaces
+106301,"Other heating equipment, non-electric, including parts",333414,6-digit,high,heating equipment
+106401,Domestic heating stoves,333414,6-digit,med,domestic heating stoves
+106601,Domestic water heaters,335220,6-digit,med,water heaters
+107102,Metal doors and frames (except storm),332321,6-digit,high,metal window and door
+107103,Metal windows (except storm sash),332321,6-digit,high,metal window and door
+107104,Metal molding and trim and store fronts,332321,6-digit,med,metal window and door
+107105,"Metal combination screen, storm sash, and storm doors",332321,6-digit,high,metal window and door
+107107,Metal window and door screens (except combination screens) and metal weather strip,332321,6-digit,med,metal window and door
+107201,Metal tanks,332420,6-digit,high,metal tank heavy gauge
+107301,Sheet metal products,332322,6-digit,high,sheet metal work
+107405,Fabricated structural metal,332312,6-digit,high,fabricated structural metal
+107407,Custom roll form products,332114,6-digit,high,custom roll forming
+107408,Ornamental and architectural metal work,332323,6-digit,high,ornamental and architectural metal
+107411,"Fabricated metal pipe, tube, and fittings",332996,6-digit,high,fabricated pipe and fittings
+107501,Heat exchangers and steam condensers,332410,6-digit,high,heat exchangers
+107601,Fabricated steel plate,332313,6-digit,high,plate work
+107901,"Prefabricated metal building systems (excl. farm service bldgs, residential bldgs, and parts)",332311,6-digit,high,prefab metal building
+107902,"Farm service buildings and other prefabricated and portable buildings, steel and aluminum",332311,6-digit,high,prefab metal building
+107903,"Panels, parts, and sections for prefabricated buildings, steel and aluminum",332311,6-digit,high,prefab metal building
+108102,"Externally threaded fasteners, except aircraft types",332722,6-digit,high,bolt nut screw rivet washer
+108103,"Internally threaded fasteners, except aircraft types",332722,6-digit,high,bolt nut screw rivet washer
+108104,"Nonthreaded metal fasteners, except aircraft types",332722,6-digit,high,bolt nut screw rivet washer
+108105,"Aircraft fasteners, except plastics (including aerospace)",332722,6-digit,high,bolt nut screw rivet washer
+108106,"Formed products, except fasteners, made by cold-, warm-, or hot-heading processes",332722,6-digit,med,cold-headed products
+108303,"Commercial, institutional and industrial electric lighting fixtures",335122,6-digit,high,commercial lighting fixtures
+108305,Other lighting equipment,335129,6-digit,high,other lighting equipment
+108801,"Ferrous wire rope, cable, forms and strand",331222,6-digit,high,steel wire drawing products
+108807,"Ferrous wire cloth, other woven wire products",332618,6-digit,high,other fabricated wire product
+108809,Other fabricated ferrous wire products,332618,6-digit,high,other fabricated wire product
+108812,"Steel nails, staples, tacks, spikes and brads",331222;332618,6-digit,med,nails from wire drawing or purchased wire
+108904,Wire springs,332613,6-digit,high,spring mfg
+108905,Other metal products,332999;332919,6-digit,low,other metal products; broad residual
+108907,Metal stampings n.e.c.,332119,6-digit,high,metal stamping
+108908,Metal foil and leaf,331315;332999,6-digit,low,metal foil and leaf
+108909,Heavy gauge springs,332613,6-digit,high,spring mfg
+111401,"Commercial turf and grounds care equipment, including parts and attachments",333112,6-digit,med,lawn and garden equipment
+111409,"Parts for farm machinery, for sale separately",333111,6-digit,high,farm machinery
+112J01,"Winches, aerial work platforms, and automotive wrecker hoists, including parts and attachments",333923;333120,6-digit,low,winches/hoists vs aerial work platforms
+112K01,"Parts for construction machinery and equipment, sold separately",333120,6-digit,high,construction machinery
+113301,"Arc welding machines, components, and accessories, excluding electrodes and stud welding equip",333992,6-digit,high,welding and soldering equipment
+113302,"Resistance welders, components, accessories, and electrodes",333992,6-digit,high,welding and soldering equipment
+113303,"Arc welding electrodes, metal",333992,6-digit,high,welding and soldering equipment
+113304,"Gas welding and cutting equipment, parts, attachments, and accessories",333992,6-digit,high,welding and soldering equipment
+113306,"Other welding equipment, components, and accessories (excluding arc, resistance, and gas)",333992,6-digit,high,welding and soldering equipment
+113409,Parts and attachments for industrial process furnaces and ovens,333994,6-digit,high,industrial process furnace and oven
+113501,Small cutting tools,333515,6-digit,high,cutting tool and machine tool accessory
+113502,Precision measuring tools,333515,6-digit,med,precision measuring tools
+113505,Other machine tool attachments and accessories,333515,6-digit,high,machine tool accessories
+113601,"Nonmetallic sized grains, powders, and flour abrasives (incl. graded only)",327910,6-digit,high,abrasive product
+113603,Nonmetallic abrasive products (including diamond abrasives),327910,6-digit,high,abrasive product
+113605,"Nonmetallic coated abrasive products and buffing wheels, polishing wheels, and laps",327910,6-digit,high,abrasive product
+113632,"Metal abrasives including steel and iron grid, shot, and sand, and other metal abrasives",327910,6-digit,low,metal abrasives
+113753,Rebuilt metal-cutting machine tools and parts for metal-cutting machine tools,333517,6-digit,med,metal-cutting machine tools
+113852,Rebuilt metal-forming machine tools and parts for metal-forming machine tools,333517,6-digit,med,metal-forming machine tools
+113901,"Special tools, dies, jigs, and fixtures",333514,6-digit,high,"special die and tool, jig, fixture"
+113903,Industrial molds and mold boxes,333511,6-digit,high,industrial mold
+114107,Parts and attachments for air and gas compressors and vacuum pumps,333912,6-digit,high,air and gas compressor
+114108,Industrial spraying equipment,333999;333912,6-digit,low,industrial spraying equipment
+114115,Air and gas compressors and vacuum pumps,333912,6-digit,high,air and gas compressor
+114201,Elevators and moving stairways,333921,6-digit,high,elevator and moving stairway
+114202,Parts and attachments for elevators and moving stairs (sold separately),333921,6-digit,high,elevator and moving stairway
+114301,Fluid power pumps and parts,333996,6-digit,high,fluid power pump and motor
+114302,Fluid power valves,332912,6-digit,high,fluid power valve and hose fitting
+114303,"Fluid power cylinders, actuators, accumulators, cushions, & parts",333995,6-digit,high,fluid power cylinder and actuator
+114304,Fluid power hose and tube fittings,332912,6-digit,high,fluid power valve and hose fitting
+114305,Parts for fluid power valves,332912,6-digit,high,fluid power valve
+114403,"Industrial trucks, trailers, and stackers",333924,6-digit,high,"industrial truck, tractor, trailer, stacker"
+114404,"Hoists, overhead cranes, and monorail systems",333923,6-digit,high,"overhead crane, hoist, monorail"
+114406,Parts and accessories for conveyors and conveying systems,333922,6-digit,high,conveyor and conveying equipment
+114501,"Speed changers, drives, gears",333612,6-digit,high,"speed changers, industrial high-speed drives, gears"
+114502,Other power transmission equipment,333613,6-digit,high,mechanical power transmission equipment
+114613,"Parts, attachments, and accessories for scales and balances",333997,6-digit,high,scale and balance
+114701,"Fan, blower, air purification equipment",333413,6-digit,high,"industrial and commercial fan, blower, air purification"
+114802,"Unitary air-conditioners, except air source heat pumps",333415,6-digit,high,"AC, refrigeration, warm air heating equipment"
+114803,Commercial refrigeration equipment,333415,6-digit,high,"AC, refrigeration, warm air heating equipment"
+114806,All other miscellaneous refrigeration and air-conditioning equipment,333415,6-digit,high,"AC, refrigeration, warm air heating equipment"
+114807,"Heat transfer equipment, including heat pumps",333415,6-digit,high,"AC, refrigeration, warm air heating equipment"
+114808,"Refrigerant compressors, except automotive",333415,6-digit,high,"AC, refrigeration, warm air heating equipment"
+114809,Parts and accessories for air conditioning and heat transfer equipment,333415,6-digit,high,"AC, refrigeration, warm air heating equipment"
+114815,Refrigeration condensing units,333415,6-digit,high,"AC, refrigeration, warm air heating equipment"
+114902,"Metal valves, except fluid power",332911,6-digit,high,industrial valve
+114903,"Metal pipe fittings, flanges, and unions",332919,6-digit,high,other metal valve and pipe fitting
+114905,Ball and roller bearings,332991,6-digit,high,ball and roller bearing
+114907,Industrial patterns,333511;333514,6-digit,low,industrial patterns
+114908,Filters and strainers,333999;333413,6-digit,low,filters and strainers
+114911,Other miscellaneous general purpose equipment,333999,6-digit,med,all other misc general purpose machinery
+115201,"Computer storage devices (except parts, attachments and accessories)",334112,6-digit,high,computer storage device
+115203,"Parts, attachments and accessories for computer storage devices",334112,6-digit,med,computer storage device parts
+115405,"Parts, attachments, and accessories for computer terminals and peripherals",334118,6-digit,med,computer terminal and other peripheral parts
+115406,Computer terminals (including POS and funds-transfer devices) and other computer peripherals,334118,6-digit,high,computer terminal and other peripheral
+116101,Dairy and milk products plant machinery and equipment,333241,6-digit,high,food product machinery
+116104,Commercial food products machinery (except packaging and cooking equipment),333241,6-digit,high,food product machinery
+116105,"Industrial food products machinery for processing foods, beverages, & animal & fowl feed",333241,6-digit,high,food product machinery
+116306,Sawmill and woodworking machinery,333243,6-digit,high,"sawmill, woodworking, paper machinery"
+116401,Paper industries machinery,333243,6-digit,high,"sawmill, woodworking, paper machinery"
+116510,Printing machinery and equipment,333244,6-digit,high,printing machinery
+116603,Plastics-working and rubber-working machinery and equipment,333249,6-digit,med,plastics/rubber machinery in other industrial machinery
+116606,All other industrial machinery,333249,6-digit,med,all other industrial machinery
+116705,"Packing, packaging, and bottling machinery and parts",333993,6-digit,high,packaging machinery
+116801,Service industry machinery and parts,333318,6-digit,med,commercial and service industry machinery
+117101,Current-carrying wiring devices,335931,6-digit,high,current-carrying wiring device
+117102,Noncurrent-carrying wiring devices,335932,6-digit,high,noncurrent-carrying wiring device
+117205,"Test equipment for electrical, radio, & communication circuits & motors",334515,6-digit,high,instruments for measuring and testing electricity
+117209,Electrical integrating instruments and other instruments to measure electricity,334515,6-digit,high,instruments for measuring electricity
+117303,Fractional horsepower motors and generators,335312,6-digit,high,motor and generator
+117304,Integral horsepower motors and generators (excluding land transportation types),335312,6-digit,high,motor and generator
+117309,Parts and supplies for motors and generators,335312,6-digit,high,motor and generator
+117311,Other motors and generators,335312,6-digit,high,motor and generator
+117411,Other transformers and parts for transformers,335311,6-digit,high,"power, distribution and specialty transformer"
+117507,Industrial controls and related parts and accessories,335314,6-digit,high,relay and industrial control
+117522,Switchgear and switchboard apparatus,335313,6-digit,high,switchgear and switchboard apparatus
+117601,Telephone and wireline data networking equipment,334210,6-digit,high,telephone apparatus (incl data networking)
+117603,"Other communications and related equipment, including broadcast and wireless",334220,6-digit,high,radio/TV broadcasting and wireless communications equipment
+117605,"Electronic systems and equipment, n.e.c.",334290,6-digit,low,other communications equipment; n.e.c.
+117606,"Search, detection, navigation & guidance systems and equipment",334511,6-digit,high,"search, detection, navigation, guidance"
+117704,"Electric lamp bulbs, tubes, and components",335110,6-digit,high,electric lamp bulb and part
+117821,"Relays for electronic circuitry, industrial control overload, and switchgear type",335314,6-digit,med,relays: relay and industrial control (BLS group 1178)
+117822,"Switches, mechanical, for electronic circuitry",334419,6-digit,med,mechanical switches for electronic circuitry
+117824,Connectors for electronic circuitry,334417,6-digit,high,electronic connector
+117828,"Filters, crystals, and transducers",334419,6-digit,med,"filters, crystals, transducers"
+117839,"Integrated circuit packages, including microprocessors",334413,6-digit,high,semiconductor and related device
+117847,"Other semiconductor devices, incl. transistors, diodes, and semiconductor parts such as wafers",334413,6-digit,high,semiconductor and related device
+117849,Bare printed circuit boards,334412,6-digit,high,bare printed circuit board
+117853,"Electronic coils, transformers, and other inductors",334416,6-digit,high,"capacitor, resistor, coil, transformer, inductor"
+117854,Capacitors and resistors for electronic circuitry,334416,6-digit,high,"capacitor, resistor, coil, transformer, inductor"
+117856,"Microwave components, electron tubes, and other electronic components, n.e.c.",334419,6-digit,med,other electronic component
+117861,"Printed circuit assemblies, loaded boards, modules and consumer external modems",334418,6-digit,med,printed circuit assembly
+117901,Storage batteries,335911,6-digit,high,storage battery
+117902,Primary batteries,335912,6-digit,high,primary battery
+117903,Carbon and graphite products,335991,6-digit,high,carbon and graphite product
+117905,X-ray and electromedical equipment,334517;334510,6-digit,med,irradiation apparatus and electromedical
+117929,Miscellaneous electrical industrial apparatus,335999,6-digit,med,all other misc electrical equipment
+117939,"All other electrical equipment and components, except industrial",335999,6-digit,med,all other misc electrical equipment
+118105,"Automatic environmental controls for monitoring residential, commercial, and appliance use",334512,6-digit,high,automatic environmental control
+118201,Industrial process control instruments,334513,6-digit,high,industrial process variable instruments
+118401,Fluid meters and counting devices,334514,6-digit,high,totalizing fluid meter and counting device
+118501,"Aeronautical, nautical, and navigational instruments",334511,6-digit,high,"search, detection, navigation instruments"
+118601,"Sighting, tracking, and fire-control equipment, optical type",333314,6-digit,med,optical instrument and lens
+118602,All other miscellaneous optical instruments and lenses,333314,6-digit,med,optical instrument and lens
+118603,Laboratory analytical instruments,334516,6-digit,high,analytical laboratory instrument
+118901,Aircraft engine instruments,334519;334511,6-digit,low,aircraft engine instruments
+118904,Nuclear radiation detection & monitoring instruments,334519,6-digit,med,other measuring and controlling devices
+118905,Physical properties and kinematic testing equipment,334519,6-digit,med,other measuring and controlling devices
+118906,"Commercial, geophysical, meteorological, surveying & all other measuring & controlling devices",334519,6-digit,med,other measuring and controlling devices
+119106,Parts and attachments for oil and gas field machinery and equipment,333132,6-digit,high,oil and gas field machinery
+119253,Parts and attachments for mining machinery and equipment (sold separately),333131,6-digit,high,mining machinery
+119401,"Gasoline engines (except aircraft, automobile, highway truck, bus & tank)",333618,6-digit,high,other engine equipment
+119407,"Diesel, semidiesel, and dual-fuel engines (except automotive)",333618,6-digit,high,other engine equipment
+119408,"Diesel, semidiesel, and dual-fuel engines for automobiles, trucks, and buses",333618;336310,6-digit,low,vehicle diesel engines; may be vehicle makers
+119413,"Parts & accessories for internal combustion engines, ex. aircraft & gasoline automotive engines",333618;336310,6-digit,low,IC engine parts
+119420,Miscellaneous engine equipment,333618,6-digit,med,other engine equipment
+119505,Machine shop products,332710,6-digit,high,machine shops
+119701,Turbines and turbine generator sets (excluding parts),333611,6-digit,high,turbine and turbine generator set units
+119801,"Parts & accesories for turbines, turbine generators, and turbine generator sets",333611,6-digit,high,turbine parts
+121206,Wood household furniture (nonupholstered),337122,6-digit,high,nonupholstered wood household furniture
+121401,Bedding,337910,6-digit,high,mattress
+122101,Wood office furniture and store fixtures,337211;337212,6-digit,med,wood office furniture and wood store fixtures
+122204,Nonwood partitions and fixtures,337215,6-digit,high,"showcase, partition, shelving, locker"
+122301,Public building furniture,337127,6-digit,high,institutional furniture
+122401,"Commercial furniture and fixtures, n.e.c.",337127;337215,6-digit,low,commercial furniture n.e.c.
+123101,Carpet and rugs,314110,6-digit,high,carpet and rug mills
+123201,Resilient floor coverings,326192,6-digit,high,resilient floor covering
+124101,Household cooking appliances,335220,6-digit,high,household cooking appliance
+124102,Household laundry equipment and parts,335220,6-digit,high,household laundry equipment
+124103,Household refrigeration equipment,335220,6-digit,high,household refrigerator and freezer
+124104,Other major household appliances including room air-conditioners,335220;333415,6-digit,med,other major appliances incl room AC
+124301,Household vacuum cleaners and other floor care machines (including parts and attachments),335210,6-digit,high,small electrical appliance
+124403,"Parts and attachments for small electric household appliances, including fan parts",335210,6-digit,high,small electrical appliance
+124404,"Small electric household appliances, including fans",335210,6-digit,high,small electrical appliance
+125707,Speakers and commercial sound equipment,334310,6-digit,high,audio and video equipment
+125803,"Other home electronic equipment, including television receivers and automotive A/V equipment",334310,6-digit,high,audio and video equipment
+126101,"Vitreous china, porcelain, and earthenware table and kitchenware and other pottery products",327110,6-digit,high,pottery
+126501,"Mirrors (decorated and undecorated), made from purchased glass",327215,6-digit,high,glass products from purchased glass
+126605,"Parts and attachments for consumer lawn, garden, and snow equipment",333112,6-digit,high,lawn and garden equipment
+126607,"Consumer lawn, garden, and snow equipment",333112,6-digit,high,lawn and garden equipment
+131107,Specialty glass,327212,6-digit,med,specialty glass: other pressed and blown glass
+131108,"Flat glass (float, sheet, and plate process)",327211,6-digit,high,flat glass
+131301,Pressed and blown glassware,327212,6-digit,high,pressed and blown glass
+131702,Recyclable glass,SCRAP,scrap,high,recyclable glass
+132101,"Construction sand, gravel and crushed stone",212321;212312;212319,6-digit,med,construction sand/gravel/crushed stone
+132201,"Cement, hydraulic",327310,6-digit,high,cement
+133111,Structural concrete block,327331,6-digit,high,concrete block and brick
+133121,Decorative concrete block,327331,6-digit,high,concrete block and brick
+133131,Concrete brick,327331,6-digit,high,concrete block and brick
+133141,Concrete pavers,327331,6-digit,high,concrete pavers
+133201,Concrete pipe,327332,6-digit,high,concrete pipe
+133301,Ready-mix concrete,327320,6-digit,high,ready-mix concrete
+133401,Precast concrete products,327390,6-digit,high,other concrete product
+133501,Prestressed concrete products,327390,6-digit,high,other concrete product
+134201,Building or common brick,327120,6-digit,high,clay building material and refractories
+134202,"Glazed brick and other brick (paving, floor, and sewer)",327120,6-digit,high,clay building material and refractories
+134401,"Clay floor and wall tile, glazed and unglazed (including quarry tile and ceramic mosaic tile)",327120,6-digit,high,clay building material
+134501,"Structural clay products, n.e.c.",327120,6-digit,high,clay building material
+135201,Clay refractories,327120,6-digit,high,clay refractories
+135301,Nonclay refractories (excluding dead-burned magnesia),327120,6-digit,med,nonclay refractories
+136101,Prepared asphalt and tar roofing and siding products,324122,6-digit,high,asphalt shingle and coating
+136201,"Roofing asphalts, pitches, coatings, and cement",324122,6-digit,high,asphalt shingle and coating
+137101,Gypsum products,327420,6-digit,high,gypsum product
+138101,Glass containers (including value of packaging),327213,6-digit,high,glass container
+139201,Mineral wool for thermal and acoustical envelope insulation,327993,6-digit,high,mineral wool
+139202,"Mineral wool for industrial, equipment, and appliance insulation",327993,6-digit,high,mineral wool
+139401,Paving mixtures and blocks,324121,6-digit,high,asphalt paving mixture and block
+139501,Cut stone and stone products,327991,6-digit,high,cut stone
+139801,Gaskets and gasketing material,339991,6-digit,high,"gasket, packing, sealing device"
+139802,Packing and sealing,339991,6-digit,high,"gasket, packing, sealing device"
+139902,Clay and stone mining and quarrying,2123,4-digit,low,"clay and stone mining, multiple 2123 industries"
+139903,All other nonmetallic mineral products,327999,6-digit,med,all other nonmetallic mineral products
+139904,Industrial sand,212322,6-digit,high,industrial sand mining
+141104,"Motorcycles, including three-wheel motorbikes, motorscooters, mopeds, and parts",336991,6-digit,high,"motorcycle, bicycle and parts"
+141205,Motor vehicles parts,3363,4-digit,med,"motor vehicle parts, spans 33631-33639"
+141301,Truck and bus bodies sold separately,336211,6-digit,high,motor vehicle body
+141406,Truck trailers,336212,6-digit,high,truck trailer
+141602,"Camping trailers, campers, pick-up covers, and parts",336214,6-digit,high,travel trailer and camper
+142301,Aircraft engine and engine parts,336412,6-digit,high,aircraft engine and engine parts
+142501,Other aircraft parts and equipment,336413,6-digit,high,other aircraft parts and auxiliary equipment
+143103,"Nonmilitary self-propelled ships, new construction",336611,6-digit,high,ship building and repairing
+143104,"Nonpropelled ships, new construction",336611,6-digit,high,ship building and repairing
+144401,Railroad cars and locomotives,336510,6-digit,high,railroad rolling stock
+144501,Railway maintenance of way equipment and parts,336510,6-digit,med,railway maintenance of way equipment
+149111,"Other transportation equipment, incl. golf carts, vehicle trailers, and all-terrain vehicles",336999;336214,6-digit,low,"other transportation equipment, mixed"
+151201,Sporting and athletic goods,339920,6-digit,high,sporting and athletic goods
+152402,Stemmed and redried tobacco,312230,6-digit,high,tobacco stemming/redrying in tobacco mfg
+152501,Other tobacco products,312230,6-digit,high,tobacco manufacturing
+154107,Photographic and photocopying equipment,333316,6-digit,high,photographic and photocopying equipment
+154206,Photographic supplies,325992,6-digit,high,"photographic film, paper, plate, chemicals"
+156201,Surgical and medical instruments,339112,6-digit,high,surgical and medical instrument
+156301,Medical and surgical appliances and supplies,339113,6-digit,high,surgical appliance and supplies
+156501,Dental equipment and supplies,339114,6-digit,high,dental equipment and supplies
+157108,Personal safety equipment and clothing,339113,6-digit,med,personal safety equipment
+159101,Burial caskets,339995,6-digit,high,burial casket
+159301,Musical instruments,339992,6-digit,high,musical instrument
+159404,Costume jewelry and novelties,339910,6-digit,med,costume jewelry
+159408,Jewelers' material and lapidary work,339910,6-digit,med,jewelers' material and lapidary
+159705,"Brooms, brushes and mops",339994,6-digit,high,"broom, brush, mop"
+159A04,Signs and advertising displays,339950,6-digit,high,sign
+159A11,All other miscellaneous fabricated products and recyclable materials,339999,6-digit,low,all other misc mfg and recyclables
+159F11,"Hides, skins, and pelts, made in slaughtering plants",311611,6-digit,med,hides/skins from slaughtering
+159F31,"Leather belts, made from purchased materials",316990,6-digit,med,other leather product

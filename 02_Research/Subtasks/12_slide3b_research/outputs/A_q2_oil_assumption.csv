@@ -1,0 +1,193 @@
+proxy,vintage,quarter,brent_usd,source_file,note
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","jul26 (released 07/07/2026, modeling completed 2026-07-01, last hist. month 202606)",2026Q1,80.21,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","jul26 (released 07/07/2026, modeling completed 2026-07-01, last hist. month 202606)",2026Q2,103.28,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","jul26 (released 07/07/2026, modeling completed 2026-07-01, last hist. month 202606)",2026Q3,74.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","jul26 (released 07/07/2026, modeling completed 2026-07-01, last hist. month 202606)",2026Q4,70.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","jul26 (released 07/07/2026, modeling completed 2026-07-01, last hist. month 202606)",2027Q1,67.67,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","jul26 (released 07/07/2026, modeling completed 2026-07-01, last hist. month 202606)",2027Q2,65.67,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","jul26 (released 07/07/2026, modeling completed 2026-07-01, last hist. month 202606)",2027Q3,64.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","jul26 (released 07/07/2026, modeling completed 2026-07-01, last hist. month 202606)",2027Q4,62.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2026-07,75.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2026-08,75.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2026-09,72.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2026-10,71.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2026-11,70.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2026-12,69.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-01,68.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-02,68.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-03,67.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-04,66.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-05,66.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-06,65.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-07,65.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-08,64.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-09,63.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-10,63.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-11,62.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",jul26,2027-12,61.0,EIA_STEO_2026-11-15/jul26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","aug26 (released 08/11/2026, modeling completed 2026-08-06, last hist. month 202607)",2026Q1,80.21,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","aug26 (released 08/11/2026, modeling completed 2026-08-06, last hist. month 202607)",2026Q2,103.28,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","aug26 (released 08/11/2026, modeling completed 2026-08-06, last hist. month 202607)",2026Q3,85.26,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","aug26 (released 08/11/2026, modeling completed 2026-08-06, last hist. month 202607)",2026Q4,78.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","aug26 (released 08/11/2026, modeling completed 2026-08-06, last hist. month 202607)",2027Q1,74.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","aug26 (released 08/11/2026, modeling completed 2026-08-06, last hist. month 202607)",2027Q2,71.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","aug26 (released 08/11/2026, modeling completed 2026-08-06, last hist. month 202607)",2027Q3,68.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","aug26 (released 08/11/2026, modeling completed 2026-08-06, last hist. month 202607)",2027Q4,65.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2026-07,83.77,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2026-08,87.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2026-09,85.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2026-10,80.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2026-11,78.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2026-12,76.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-01,75.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-02,74.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-03,73.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-04,72.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-05,71.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-06,70.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-07,69.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-08,68.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-09,67.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-10,66.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-11,65.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",aug26,2027-12,64.0,EIA_STEO_2026-11-15/aug26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","sep26 (released 09/09/2026, modeling completed 2026-09-03, last hist. month 202608)",2026Q1,80.21,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","sep26 (released 09/09/2026, modeling completed 2026-09-03, last hist. month 202608)",2026Q2,103.28,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","sep26 (released 09/09/2026, modeling completed 2026-09-03, last hist. month 202608)",2026Q3,89.28,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","sep26 (released 09/09/2026, modeling completed 2026-09-03, last hist. month 202608)",2026Q4,90.67,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","sep26 (released 09/09/2026, modeling completed 2026-09-03, last hist. month 202608)",2027Q1,85.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","sep26 (released 09/09/2026, modeling completed 2026-09-03, last hist. month 202608)",2027Q2,77.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","sep26 (released 09/09/2026, modeling completed 2026-09-03, last hist. month 202608)",2027Q3,70.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","sep26 (released 09/09/2026, modeling completed 2026-09-03, last hist. month 202608)",2027Q4,64.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2026-07,83.76,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2026-08,91.08,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2026-09,93.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2026-10,92.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2026-11,91.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2026-12,89.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-01,87.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-02,85.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-03,83.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-04,80.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-05,77.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-06,74.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-07,72.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-08,70.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-09,68.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-10,66.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-11,64.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",sep26,2027-12,62.0,EIA_STEO_2026-11-15/sep26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","oct26 (released 10/06/2026, modeling completed 2026-10-01, last hist. month 202609)",2026Q1,80.21,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","oct26 (released 10/06/2026, modeling completed 2026-10-01, last hist. month 202609)",2026Q2,103.28,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","oct26 (released 10/06/2026, modeling completed 2026-10-01, last hist. month 202609)",2026Q3,96.33,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","oct26 (released 10/06/2026, modeling completed 2026-10-01, last hist. month 202609)",2026Q4,104.67,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","oct26 (released 10/06/2026, modeling completed 2026-10-01, last hist. month 202609)",2027Q1,95.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","oct26 (released 10/06/2026, modeling completed 2026-10-01, last hist. month 202609)",2027Q2,87.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","oct26 (released 10/06/2026, modeling completed 2026-10-01, last hist. month 202609)",2027Q3,80.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","oct26 (released 10/06/2026, modeling completed 2026-10-01, last hist. month 202609)",2027Q4,74.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2026-07,83.76,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2026-08,91.08,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2026-09,114.16,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2026-10,111.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2026-11,104.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2026-12,99.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-01,97.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-02,95.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-03,93.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-04,90.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-05,87.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-06,84.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-07,82.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-08,80.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-09,78.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-10,76.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-11,74.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",oct26,2027-12,72.0,EIA_STEO_2026-11-15/oct26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","nov26 (released 11/10/2026, modeling completed 2026-11-05, last hist. month 202610)",2026Q1,80.21,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","nov26 (released 11/10/2026, modeling completed 2026-11-05, last hist. month 202610)",2026Q2,103.28,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","nov26 (released 11/10/2026, modeling completed 2026-11-05, last hist. month 202610)",2026Q3,96.33,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","nov26 (released 11/10/2026, modeling completed 2026-11-05, last hist. month 202610)",2026Q4,108.98,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","nov26 (released 11/10/2026, modeling completed 2026-11-05, last hist. month 202610)",2027Q1,95.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","nov26 (released 11/10/2026, modeling completed 2026-11-05, last hist. month 202610)",2027Q2,89.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","nov26 (released 11/10/2026, modeling completed 2026-11-05, last hist. month 202610)",2027Q3,83.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), quarterly mean of monthly","nov26 (released 11/10/2026, modeling completed 2026-11-05, last hist. month 202610)",2027Q4,77.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published monthly; quarter = simple mean of 3 months (derived)
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2026-07,83.76,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2026-08,91.08,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2026-09,114.16,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2026-10,123.93,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2026-11,104.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2026-12,99.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-01,97.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-02,95.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-03,93.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-04,91.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-05,89.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-06,87.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-07,85.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-08,83.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-09,81.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-10,79.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-11,77.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"EIA STEO Brent spot (BREPUUS), monthly",nov26,2027-12,75.0,EIA_STEO_2026-11-15/nov26_base.xlsx sheet 2tab row BREPUUS,published
+"Actual EIA spot RBRTE, quarterly mean of daily",to 2026-11-11,2026Q1,80.72,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, quarterly mean of daily",to 2026-11-11,2026Q2,102.63,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, quarterly mean of daily",to 2026-11-11,2026Q3,96.3,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, quarterly mean of daily",to 2026-11-11,2026Q4,116.73,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",2026Q4 is partial (Oct 1 - Nov 11)
+"Actual EIA spot RBRTE, monthly mean of daily",to 2026-11-11,2026-01,66.6,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, monthly mean of daily",to 2026-11-11,2026-02,70.89,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, monthly mean of daily",to 2026-11-11,2026-03,103.13,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, monthly mean of daily",to 2026-11-11,2026-04,117.29,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, monthly mean of daily",to 2026-11-11,2026-05,107.14,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, monthly mean of daily",to 2026-11-11,2026-06,85.4,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, monthly mean of daily",to 2026-11-11,2026-07,83.76,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, monthly mean of daily",to 2026-11-11,2026-08,91.08,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, monthly mean of daily",to 2026-11-11,2026-09,114.16,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, monthly mean of daily",to 2026-11-11,2026-10,123.93,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+"Actual EIA spot RBRTE, monthly mean of daily",to 2026-11-11,2026-11,96.92,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+EIA spot Brent RBRTE on deadline,2026-08-11,deadline day,93.26,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",date used 2026-08-11
+EIA spot Brent 20 trading-day mean BEFORE deadline day,2026-07-14 to 2026-08-10,20d avg,90.19,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",excludes deadline day
+EIA spot Brent 20 trading-day mean INCLUDING deadline day,2026-07-15 to 2026-08-11,20d avg,90.67,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",
+EIA spot WTI RWTC on deadline,2026-08-11,deadline day,84.77,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)","WTI, for spread"
+EIA Brent minus WTI spot on deadline,2026-08-11,deadline day,8.49,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",USD/bbl
+EIA spot Brent RBRTE,2026-07-31,day,96.95,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",STEO Aug data cutoff = Aug 6; SPF questionnaire sent ~after Jul 30 GDP advance (documentation)
+EIA spot Brent RBRTE,2026-08-06,day,89.65,"02_Research/Subtasks/10_slide2_research/outputs/C_q8_oil_daily.csv (EIA RBRTE/RWTC daily, to 2026-11-11)",STEO Aug data cutoff = Aug 6; SPF questionnaire sent ~after Jul 30 GDP advance (documentation)
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-01,82.57,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-02,81.3,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-03,80.24,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-04,79.33,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-05,78.55,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-06,77.87,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-07,77.27,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-08,76.75,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-09,76.28,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-10,75.85,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-11,75.46,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2027-12,75.1,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2028-01,74.75,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2028-02,74.43,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2028-03,74.14,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2028-06,73.37,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-10,2028-12,72.19,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-01,82.73,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-02,81.39,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-03,80.32,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-04,79.43,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-05,78.68,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-06,78.04,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-07,77.47,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-08,76.98,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-09,76.53,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-10,76.12,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-11,75.75,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2027-12,75.4,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2028-01,75.06,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2028-02,74.75,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2028-03,74.47,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2028-06,73.71,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+NYMEX Brent Last-Day futures (BZ) by contract month,2026-08-11,2028-12,72.52,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])","contract month price, not average spot for the month"
+"NYMEX Brent futures (BZ), quarterly mean of 3 contract months",2026-08-11,2027Q1,81.48,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])",derived: simple mean of monthly contracts; 2026 contracts unavailable (expired)
+"NYMEX Brent futures (BZ), quarterly mean of 3 contract months",2026-08-11,2027Q2,78.72,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])",derived: simple mean of monthly contracts; 2026 contracts unavailable (expired)
+"NYMEX Brent futures (BZ), quarterly mean of 3 contract months",2026-08-11,2027Q3,76.99,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])",derived: simple mean of monthly contracts; 2026 contracts unavailable (expired)
+"NYMEX Brent futures (BZ), quarterly mean of 3 contract months",2026-08-11,2027Q4,75.76,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])",derived: simple mean of monthly contracts; 2026 contracts unavailable (expired)
+Yahoo BZ=F continuous front-month close,2026-08-11,front,88.91,"Yahoo_BZ_futures_curve_2026-11-15/BZ_F.json (Yahoo Finance chart API, daily close; secondary [2])",roll convention unverified; compare EIA spot same day
+Yahoo BZ=F minus EIA spot Brent same day,2026-08-11,front,-4.35,"Yahoo_BZ_futures_curve_2026-11-15/BZ<m><yy>.NYM.json (Yahoo Finance chart API, daily close; secondary [2])",

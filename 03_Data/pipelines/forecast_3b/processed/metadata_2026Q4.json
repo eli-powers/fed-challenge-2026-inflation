@@ -1,0 +1,90 @@
+{
+ "run_timestamp": "2026-11-21T12:28:58",
+ "script": "03_Data/pipelines/forecast_3b/code/forecast.py",
+ "raw_folder": "03_Data/pipelines/forecast_3b/raw/2026-11-16",
+ "spf_vintage": "2026Q4",
+ "spf_deadline": "2026-11-11",
+ "spf_release": "2026-11-16",
+ "survey_quarter": "2026Q4",
+ "last_actual_quarter": "2026Q3",
+ "core_pce_vintage": "FRED PCEPILFE realtime 2026-10-29",
+ "baseline_sources": {
+  "2026Q1": "actual, FRED PCEPILFE realtime 2026-10-29",
+  "2026Q2": "actual, FRED PCEPILFE realtime 2026-10-29",
+  "2026Q3": "actual, FRED PCEPILFE realtime 2026-10-29",
+  "2026Q4": "SPF median, published",
+  "2027Q1": "SPF median, published",
+  "2027Q2": "SPF median, published",
+  "2027Q3": "SPF median, published",
+  "2027Q4": "SPF median, published"
+ },
+ "spf_published_q4q4": {
+  "2026": 3.1826,
+  "2027": 2.5,
+  "2028": 2.2
+ },
+ "assumption_proxies": {
+  "steo_matched": "EIA STEO nov26 (released 2026-11-10, completed 2026-11-05); latest STEO released on/before SPF deadline 2026-11-11",
+  "steo_previous": "EIA STEO oct26 (released 2026-10-06); one vintage earlier"
+ },
+ "oil": {
+  "last_brent_date": "2026-11-11",
+  "last_brent_usd": 92.14,
+  "splice_quarter": "2026Q4",
+  "n_observed_days": 30,
+  "n_remaining_weekdays": 34,
+  "remaining_by_month": {
+   "2026-12": 22,
+   "2026-11": 12
+  },
+  "weight_observed": 0.46875,
+  "latest_steo": "nov26"
+ },
+ "regimes": {
+  "pre": "pre-pandemic",
+  "post": "post-pandemic (stronger persistence and pass-through)",
+  "persistence_only": "post-pandemic persistence only (backup)"
+ },
+ "central_regimes": [
+  "pre",
+  "post"
+ ],
+ "backup_regimes": [
+  "persistence_only"
+ ],
+ "REGIME_WEIGHT_POST": null,
+ "parameters": {
+  "gap": "100*ln(scenario/assumed), from survey quarter",
+  "response": "cumulative level % per permanent 10% oil rise, held at k=12 beyond",
+  "compounding": "(1+s/100)=(1+b/100)*exp(4*dL/100)",
+  "actual_quarters": "not adjusted",
+  "q4q4": "product of quarterly path incl. actual quarters"
+ },
+ "inputs": {
+  "03_Data/pipelines/forecast_3b/raw/2026-11-16/medianLevel.xlsx": "400b5f34fc6c749031f929c6809115e773ece6cc4afa9d479b097585892f593e",
+  "03_Data/pipelines/forecast_3b/raw/2026-11-16/Dispersion_1.xlsx": "71d0e9f36dee96c404dc9de2771b923a7a69f750ab1f658344c0662746bb1c5c",
+  "03_Data/pipelines/forecast_3b/raw/2026-11-16/page_steo_outlook.html": "fa217f00017b184a65578167ef92f426058632fe36f5f2a9db39a9d1ce1d0342",
+  "03_Data/pipelines/forecast_3b/raw/2026-11-16/PCEPILFE_observations.json": "1699238d2f36c209b7d761b0d1d76bfc006a0dc8aeddda946e0003fc61107a20",
+  "03_Data/pipelines/forecast_3b/raw/2026-11-16/EIA_RBRTEd.xls": "e37f0a6f81a10627d90ad22943d6945a11ce4e08fb28eea84479037f53e31405",
+  "03_Data/pipelines/forecast_3b/config/oil_path_rules.json": "fc16c0ef778d4d8401ab1b7e94a7bc5d3da0c799cd3affe707fd2c89c4c37ae8",
+  "03_Data/pipelines/forecast_3b/config/regime_response.csv": "9e1eb034dfe58c4b27503bc992c42241b3cede445b8e551cf5127d3e729babeb",
+  "03_Data/pipelines/forecast_3b/raw/2026-11-16/spf-release-dates.txt": "b5dd7c4c4b9114e455c3cce4aa55f6d90283e10b6fd34d781e46f2533812f390",
+  "03_Data/pipelines/forecast_3b/raw/2026-11-16/nov26_base.xlsx": "7d28012ff726ebeafd584905d842ded42bb3c9922550cb26e005af9cd4e27fb5",
+  "03_Data/pipelines/forecast_3b/config/futures_curve_2026-11-13.csv": "9d6dff03cba60746ee59de4ada2a5a549db95082927b5f7308dd46eae74c198f",
+  "03_Data/pipelines/forecast_3b/raw/2026-11-16/feb26_base.xlsx": "6137d255d2d794a8862b96b5234a33f8a3e52d2633dff546c82e511fb85847d8",
+  "03_Data/pipelines/forecast_3b/raw/2026-11-16/oct26_base.xlsx": "54989362410da4aff5673580396380c3a8f4f111fa6d01c6d4fab05ef90efbf4"
+ },
+ "outputs": [
+  "processed/scenario_grid_2026Q4.csv",
+  "processed/fan_2026Q4.csv",
+  "processed/sensitivity_proxy_2026Q4.csv",
+  "processed/oil_paths_2026Q4.csv",
+  "processed/oil_assumption_2026Q4.csv"
+ ],
+ "caveats": [
+  "Oil note = five-economy panel average (not U.S.-specific); authors treat the post-pandemic projection as an upper bound.",
+  "The SPF publishes no oil assumption; the STEO vintage is a proxy.",
+  "Scenarios, not probabilities; the scenario range is not a probability fan.",
+  "The note is not evidence of changed price-setting behaviour."
+ ]
+}

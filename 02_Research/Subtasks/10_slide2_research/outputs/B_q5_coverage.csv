@@ -1,0 +1,7 @@
+rule,cls,n_leaves,core_weight_pct
+primary: leave out mixed,sticky,94,52.12
+primary: leave out mixed,flexible,17,9.14
+primary: leave out mixed,unclassified,38,38.74
+alt: majority by ELI count,sticky,95,52.61
+alt: majority by ELI count,flexible,19,10.06
+alt: majority by ELI count,unclassified,35,37.32

@@ -1,0 +1,20 @@
+scheme,tag,n_items,core_weight_share
+tag_final,AI,4,0.0204
+tag_final,tariff,30,0.1111
+tag_final,energy,42,0.1826
+tag_final,untagged,73,0.686
+tag_main,AI,4,0.0204
+tag_main,tariff,32,0.149
+tag_main,energy,17,0.0394
+tag_main,untagged,96,0.7913
+tag_alt,AI,8,0.0549
+tag_alt,tariff,28,0.137
+tag_alt,energy,43,0.1902
+tag_alt,untagged,70,0.6179
+pre-priority energy_alt_only,,61,0.2513
+pre-priority energy_transport_sens,,29,0.0687
+pre-priority energy_main_raw,,20,0.0428
+pre-priority tariff_main_raw,,35,0.1568
+pre-priority tariff_alt_raw,,34,0.149
+pre-priority ai_main_raw,,4,0.0204
+pre-priority ai_alt_raw,,8,0.0549

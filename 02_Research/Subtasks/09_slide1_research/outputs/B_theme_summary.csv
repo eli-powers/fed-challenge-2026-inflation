@@ -1,0 +1,52 @@
+run,theme,pp_bea_convention,pp_centered_alt,basis
+core_sep_12m,"Shelter (OER, rent, hotels, housing at school)",-0.7974,-0.1049,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,Health care: third-party-paid medical (PCE-only scope),0.3576,-0.2618,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,"Health care: in-scope medical weight and price (incl. Rx, physicians, hospitals)",-0.1443,-0.1095,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,Health insurance (weight and price),0.1807,0.2078,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,"Financial: portfolio mgmt, imputed bank services, commissions, life insurance (PCE-only)",0.2968,0.0913,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,Software (weight and price),0.2130,0.2923,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,Motor vehicle insurance (weight and price),0.1755,0.2432,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,Airfares (weight and price),-0.0339,0.0700,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,Core definition: restaurant meals in core PCE only,0.2103,0.0015,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,Core definition: alcohol at home in core CPI only,-0.0010,0.0126,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,"NPISH, foreign travel, social services, gambling, other PCE-only",0.0771,-0.1352,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,"CPI-only items (vehicle fees, lawn care)",-0.0222,-0.0033,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,Formula (Fisher vs fixed weight),-0.0305,-0.0305,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,CPI Jan-2026 weight update,-0.0014,-0.0014,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,Residual (CPI replication),-0.0961,-0.0961,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,All other matched items (weight and price),0.1726,0.3807,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_sep_12m,TOTAL = gap,0.5568,0.5568,"Sep 2025 -> Sep 2026, 12-month change; PCE SA, CPI NSA (as published y/y)"
+core_oct_12m_approx,"Shelter (OER, rent, hotels, housing at school)",-0.8365,-0.0821,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,Health care: third-party-paid medical (PCE-only scope),0.3139,-0.3408,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,"Health care: in-scope medical weight and price (incl. Rx, physicians, hospitals)",-0.1796,-0.1459,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,Health insurance (weight and price),0.1815,0.2045,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,"Financial: portfolio mgmt, imputed bank services, commissions, life insurance (PCE-only)",0.2923,0.0736,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,Software (weight and price),0.1860,0.2448,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,Motor vehicle insurance (weight and price),0.2211,0.2963,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,Airfares (weight and price),-0.1271,-0.0464,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,Core definition: restaurant meals in core PCE only,0.2280,0.0085,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,Core definition: alcohol at home in core CPI only,0.0010,0.0162,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,"NPISH, foreign travel, social services, gambling, other PCE-only",0.1113,-0.1134,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,"CPI-only items (vehicle fees, lawn care)",-0.0181,0.0030,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,Formula (Fisher vs fixed weight),-0.0397,-0.0397,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,CPI Jan-2026 weight update,0.0215,0.0215,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,Residual (CPI replication),-0.1160,-0.1160,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,All other matched items (weight and price),0.1878,0.4435,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_12m_approx,TOTAL = gap,0.4275,0.4275,Oct 2025 -> Oct 2026 approx. 12m (interpolated CPI base; PCE Oct = estimate)
+core_oct_3m_ann,"Shelter (OER, rent, hotels, housing at school)",-0.9889,0.0612,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,Health care: third-party-paid medical (PCE-only scope),0.1589,-0.6302,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,"Health care: in-scope medical weight and price (incl. Rx, physicians, hospitals)",-0.1435,-0.1096,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,Health insurance (weight and price),0.1549,0.1413,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,"Financial: portfolio mgmt, imputed bank services, commissions, life insurance (PCE-only)",0.2315,-0.0389,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,Software (weight and price),-0.1151,-0.2590,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,Motor vehicle insurance (weight and price),-0.0029,0.0919,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,Airfares (weight and price),-0.0549,0.0281,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,Core definition: restaurant meals in core PCE only,0.2523,-0.0124,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,Core definition: alcohol at home in core CPI only,0.0026,0.0221,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,"NPISH, foreign travel, social services, gambling, other PCE-only",0.1727,-0.1008,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,"CPI-only items (vehicle fees, lawn care)",0.0305,0.0634,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,Formula (Fisher vs fixed weight),-0.0369,-0.0369,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,CPI Jan-2026 weight update,-0.0000,-0.0000,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,Residual (CPI replication),0.1003,0.1003,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,All other matched items (weight and price),0.0428,0.4840,"Jul -> Oct 2026, 3m annualized, SA"
+core_oct_3m_ann,TOTAL = gap,-0.1956,-0.1956,"Jul -> Oct 2026, 3m annualized, SA"

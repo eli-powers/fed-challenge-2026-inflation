@@ -1,0 +1,13 @@
+Inflation slides 3a.1/3a.2 build check, 2026-11-16T13:14:16
+1. workbook formula cells: 544 checked after LibreOffice recalc; mismatches: 0 []
+2. cross-checks vs audited outputs (max abs diff, pp): trans Feb/Sep vs P3 0.00042; goods Feb/Sep vs P2 0.00004; goods 2018-19 vs P2 summary 0.00021; svx 2018-19 vs C_q6_summary 0.00040; trim 2018-19 vs C_q6_summary 0.00042; med 2018-19 vs C_q6_summary 0.00008; ULC y/y vs B_q3 0.00005; ECI y/y vs B_q3 0.00005
+3. chart points vs workbook tabs: 770 points (expected 770); max abs diff 9.6e-15
+4. axis 3a.1 left: -2..10; data -0.48..9.21; fit True
+4. axis 3a.1 right: 0..7; data 0.33..6.13; fit True
+4. axis 3a.2 left: 0..7; data 1.30..6.78; fit True
+4. axis 3a.2 right: -10..60; data -3.00..54.00; fit True
+5. deck: 11 slides; 3a.1 / 3a.1 alt (vertical) / 3a.2 at positions [9, 10, 11]; all other slides unchanged: True; duplicates: none
+   order: Inflation SECTION 1 | Inflation: Firming Again After a Summer Lull  | Inflation: Firming Again After a Summer Lull  | Inflation: Broad Since the Low, Hotter at the | Inflation: Three Shocks Now Drive the Excess  | Inflation: Tech Prices During the AI Buildout |  AI Buildout: Tech Costs Are Rising Software, |  AI Buildout: Tech Costs Are Rising Software, | Inflation: A First Round, Not a Spiral The Sh | Inflation: A First Round, Not a Spiral The Sh | Inflation: Early Signs of Persistence Househo
+6. end-label values: ULC y/y 2.39, ECI 3.12, ref 1.77; SCE 3.91, 5y5y 2.30; NFIB prices 37, pay 24; V/U 1.06 vs 1.16
+   bars (2018-19 / Feb 2026 / Sep 2026): Transportation services: 2.05 / 4.30 / 9.21; Core goods: -0.48 / 2.04 / 1.98; Services ex. housing & transportation: 2.26 / 3.24 / 3.21; Trimmed mean PCE (Dallas Fed): 1.94 / 2.38 / 2.26; Median PCE (Cleveland Fed): 2.34 / 2.91 / 2.67
+RESULT: PASS

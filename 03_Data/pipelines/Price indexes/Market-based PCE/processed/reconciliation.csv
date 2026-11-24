@@ -1,0 +1,136 @@
+check_type,version,period,item,computed,benchmark,gap,gap_pct_of_benchmark,note
+nominal_total,leaf,2025M09,sum market leaves vs line 377 Market-based PCE,18275877.000000,18273050.000000,2827.000000,0.015471,$ millions SAAR
+nominal_total,leaf,2025M09,sum market core leaves vs line 402 MB core,15975409.000000,15972584.000000,2825.000000,0.017687,$ millions SAAR
+nominal_total,leaf_variant_whole_partial_leaves,2025M09,"Dallas leaves as-is (13,17,258 counted whole) vs line 377",18738427.000000,18273050.000000,465377.000000,2.546794,sensitivity only; not the delivered basket
+nominal_total,leaf,2025M09,"domestic services in-kind (approx 7% of line 328; non-market, included in leaf sum)",2656.710000,0.000000,2656.710000,,BEA footnote 1 approximation; benchmark 0 = correct treatment
+nominal_total,leaf,2025M09,implied in-kind domestic service in line 328 (leaf sum line 398 minus BEA line 398) as % of line 328,7.438147,7.000000,0.438147,6.259245,"benchmark = BEA 2009 footnote '~7%'; computed is inference from the residual, not published"
+nominal_category,leaf,2025M09,leaves mapped to line 378 Market-based PCE motor vehicles and parts,683108.000000,683107.000000,1.000000,0.000146,7 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 379 Market-based PCE durable goods other than motor vehicles and parts,1502307.000000,1502305.000000,2.000000,0.000133,34 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 380 Market-based PCE food and beverages purchased for off-premises consumption,1531577.000000,1531575.000000,2.000000,0.000131,21 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 381 Market-based PCE clothing and footwear,564017.000000,564015.000000,2.000000,0.000355,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 382 Market-based PCE gasoline and other energy goods,424687.000000,424687.000000,0.000000,0.000000,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 383 Market-based PCE other nondurable goods,1734217.000000,1734218.000000,-1.000000,-0.000058,18 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 385 Market-based PCE housing services,3330886.000000,3330886.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 386 Market-based PCE household utilities,484474.000000,484475.000000,-1.000000,-0.000206,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 387 Market-based PCE health care,3634330.000000,3634331.000000,-1.000000,-0.000028,7 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 388 Market-based PCE transportation services,714919.000000,714918.000000,1.000000,0.000140,11 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 389 Market-based PCE recreation services,595801.000000,595803.000000,-2.000000,-0.000336,10 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 390 Market-based PCE food services and accommodations,1475954.000000,1475955.000000,-1.000000,-0.000068,6 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 391 Market-based PCE financial services and insurance,193653.000000,193652.000000,1.000000,0.000516,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 393 Market-based PCE communication services,318659.000000,318659.000000,0.000000,0.000000,1 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 394 Market-based PCE education,366400.000000,366400.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 395 Market-based PCE professional services,293841.000000,293840.000000,1.000000,0.000340,6 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 396 Market-based PCE personal care and clothing services,240895.000000,240895.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 397 Market-based PCE child care,69107.000000,69107.000000,0.000000,0.000000,1 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 398 Market-based PCE household maintenance,117045.000000,114222.000000,2823.000000,2.471503,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2025M09,leaves mapped to line 384 Market-based PCE services,11835964.000000,11833142.000000,2822.000000,0.023848,Market-based PCE services = 385-391 + 392
+nominal_category,leaf,2025M09,leaves mapped to line 392 Market-based PCE other services,1405947.000000,1403124.000000,2823.000000,0.201194,Market-based PCE other services = 393-398
+nominal_total,category,2025M09,"sum of non-overlapping lines 378-383,385-391,393-398 vs line 377",18273050.000000,18273050.000000,0.000000,0.000000,$ millions SAAR
+nominal_total,category,2025M09,sum of core category set (386 replaced by line 166) vs line 402,15972584.000000,15972584.000000,0.000000,0.000000,$ millions SAAR
+nominal_total,leaf,2026M06,sum market leaves vs line 377 Market-based PCE,19093868.000000,19091015.000000,2853.000000,0.014944,$ millions SAAR
+nominal_total,leaf,2026M06,sum market core leaves vs line 402 MB core,16676840.000000,16673987.000000,2853.000000,0.017110,$ millions SAAR
+nominal_total,leaf_variant_whole_partial_leaves,2026M06,"Dallas leaves as-is (13,17,258 counted whole) vs line 377",19600915.000000,19091015.000000,509900.000000,2.670890,sensitivity only; not the delivered basket
+nominal_total,leaf,2026M06,"domestic services in-kind (approx 7% of line 328; non-market, included in leaf sum)",2707.040000,0.000000,2707.040000,,BEA footnote 1 approximation; benchmark 0 = correct treatment
+nominal_total,leaf,2026M06,implied in-kind domestic service in line 328 (leaf sum line 398 minus BEA line 398) as % of line 328,7.382602,7.000000,0.382602,5.465749,"benchmark = BEA 2009 footnote '~7%'; computed is inference from the residual, not published"
+nominal_category,leaf,2026M06,leaves mapped to line 378 Market-based PCE motor vehicles and parts,700245.000000,700246.000000,-1.000000,-0.000143,7 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 379 Market-based PCE durable goods other than motor vehicles and parts,1614513.000000,1614513.000000,0.000000,0.000000,34 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 380 Market-based PCE food and beverages purchased for off-premises consumption,1562139.000000,1562139.000000,0.000000,0.000000,21 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 381 Market-based PCE clothing and footwear,599636.000000,599636.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 382 Market-based PCE gasoline and other energy goods,494951.000000,494951.000000,0.000000,0.000000,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 383 Market-based PCE other nondurable goods,1790071.000000,1790071.000000,0.000000,0.000000,18 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 385 Market-based PCE housing services,3437716.000000,3437717.000000,-1.000000,-0.000029,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 386 Market-based PCE household utilities,506169.000000,506169.000000,0.000000,0.000000,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 387 Market-based PCE health care,3827351.000000,3827351.000000,0.000000,0.000000,7 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 388 Market-based PCE transportation services,752421.000000,752422.000000,-1.000000,-0.000133,11 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 389 Market-based PCE recreation services,639146.000000,639148.000000,-2.000000,-0.000313,10 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 390 Market-based PCE food services and accommodations,1524122.000000,1524122.000000,0.000000,0.000000,6 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 391 Market-based PCE financial services and insurance,204315.000000,204315.000000,0.000000,0.000000,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 393 Market-based PCE communication services,321729.000000,321729.000000,0.000000,0.000000,1 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 394 Market-based PCE education,370888.000000,370888.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 395 Market-based PCE professional services,297974.000000,297973.000000,1.000000,0.000336,6 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 396 Market-based PCE personal care and clothing services,257932.000000,257932.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 397 Market-based PCE child care,71010.000000,71010.000000,0.000000,0.000000,1 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 398 Market-based PCE household maintenance,121540.000000,118685.000000,2855.000000,2.405527,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M06,leaves mapped to line 384 Market-based PCE services,12332313.000000,12329460.000000,2853.000000,0.023140,Market-based PCE services = 385-391 + 392
+nominal_category,leaf,2026M06,leaves mapped to line 392 Market-based PCE other services,1441073.000000,1438217.000000,2856.000000,0.198579,Market-based PCE other services = 393-398
+nominal_total,category,2026M06,"sum of non-overlapping lines 378-383,385-391,393-398 vs line 377",19091017.000000,19091015.000000,2.000000,0.000010,$ millions SAAR
+nominal_total,category,2026M06,sum of core category set (386 replaced by line 166) vs line 402,16673988.000000,16673987.000000,1.000000,0.000006,$ millions SAAR
+nominal_total,leaf,2026M08,sum market leaves vs line 377 Market-based PCE,19289658.000000,19286793.000000,2865.000000,0.014855,$ millions SAAR
+nominal_total,leaf,2026M08,sum market core leaves vs line 402 MB core,16844652.000000,16841786.000000,2866.000000,0.017017,$ millions SAAR
+nominal_total,leaf_variant_whole_partial_leaves,2026M08,"Dallas leaves as-is (13,17,258 counted whole) vs line 377",19803255.000000,19286793.000000,516462.000000,2.677801,sensitivity only; not the delivered basket
+nominal_total,leaf,2026M08,"domestic services in-kind (approx 7% of line 328; non-market, included in leaf sum)",2721.530000,0.000000,2721.530000,,BEA footnote 1 approximation; benchmark 0 = correct treatment
+nominal_total,leaf,2026M08,implied in-kind domestic service in line 328 (leaf sum line 398 minus BEA line 398) as % of line 328,7.379305,7.000000,0.379305,5.418643,"benchmark = BEA 2009 footnote '~7%'; computed is inference from the residual, not published"
+nominal_category,leaf,2026M08,leaves mapped to line 378 Market-based PCE motor vehicles and parts,714068.000000,714068.000000,0.000000,0.000000,7 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 379 Market-based PCE durable goods other than motor vehicles and parts,1626244.000000,1626245.000000,-1.000000,-0.000061,34 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 380 Market-based PCE food and beverages purchased for off-premises consumption,1569650.000000,1569650.000000,0.000000,0.000000,21 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 381 Market-based PCE clothing and footwear,606859.000000,606859.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 382 Market-based PCE gasoline and other energy goods,501617.000000,501618.000000,-1.000000,-0.000199,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 383 Market-based PCE other nondurable goods,1814698.000000,1814700.000000,-2.000000,-0.000110,18 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 385 Market-based PCE housing services,3459208.000000,3459208.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 386 Market-based PCE household utilities,521379.000000,521380.000000,-1.000000,-0.000192,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 387 Market-based PCE health care,3858230.000000,3858230.000000,0.000000,0.000000,7 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 388 Market-based PCE transportation services,770352.000000,770353.000000,-1.000000,-0.000130,11 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 389 Market-based PCE recreation services,635411.000000,635411.000000,0.000000,0.000000,10 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 390 Market-based PCE food services and accommodations,1556458.000000,1556458.000000,0.000000,0.000000,6 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 391 Market-based PCE financial services and insurance,196639.000000,196638.000000,1.000000,0.000509,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 393 Market-based PCE communication services,329893.000000,329893.000000,0.000000,0.000000,1 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 394 Market-based PCE education,373878.000000,373878.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 395 Market-based PCE professional services,300794.000000,300793.000000,1.000000,0.000332,6 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 396 Market-based PCE personal care and clothing services,260558.000000,260557.000000,1.000000,0.000384,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 397 Market-based PCE child care,71410.000000,71410.000000,0.000000,0.000000,1 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 398 Market-based PCE household maintenance,122312.000000,119443.000000,2869.000000,2.401983,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M08,leaves mapped to line 384 Market-based PCE services,12456522.000000,12453653.000000,2869.000000,0.023037,Market-based PCE services = 385-391 + 392
+nominal_category,leaf,2026M08,leaves mapped to line 392 Market-based PCE other services,1458845.000000,1455975.000000,2870.000000,0.197119,Market-based PCE other services = 393-398
+nominal_total,category,2026M08,"sum of non-overlapping lines 378-383,385-391,393-398 vs line 377",19286792.000000,19286793.000000,-1.000000,-0.000005,$ millions SAAR
+nominal_total,category,2026M08,sum of core category set (386 replaced by line 166) vs line 402,16841785.000000,16841786.000000,-1.000000,-0.000006,$ millions SAAR
+nominal_total,leaf,2026M09,sum market leaves vs line 377 Market-based PCE,19394236.000000,19391362.000000,2874.000000,0.014821,$ millions SAAR
+nominal_total,leaf,2026M09,sum market core leaves vs line 402 MB core,16898821.000000,16895944.000000,2877.000000,0.017028,$ millions SAAR
+nominal_total,leaf_variant_whole_partial_leaves,2026M09,"Dallas leaves as-is (13,17,258 counted whole) vs line 377",19910054.000000,19391362.000000,518692.000000,2.674861,sensitivity only; not the delivered basket
+nominal_total,leaf,2026M09,"domestic services in-kind (approx 7% of line 328; non-market, included in leaf sum)",2729.580000,0.000000,2729.580000,,BEA footnote 1 approximation; benchmark 0 = correct treatment
+nominal_total,leaf,2026M09,implied in-kind domestic service in line 328 (leaf sum line 398 minus BEA line 398) as % of line 328,7.378058,7.000000,0.378058,5.400831,"benchmark = BEA 2009 footnote '~7%'; computed is inference from the residual, not published"
+nominal_category,leaf,2026M09,leaves mapped to line 378 Market-based PCE motor vehicles and parts,699898.000000,699899.000000,-1.000000,-0.000143,7 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 379 Market-based PCE durable goods other than motor vehicles and parts,1626596.000000,1626596.000000,0.000000,0.000000,34 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 380 Market-based PCE food and beverages purchased for off-premises consumption,1571173.000000,1571175.000000,-2.000000,-0.000127,21 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 381 Market-based PCE clothing and footwear,607546.000000,607546.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 382 Market-based PCE gasoline and other energy goods,547292.000000,547292.000000,0.000000,0.000000,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 383 Market-based PCE other nondurable goods,1815534.000000,1815534.000000,0.000000,0.000000,18 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 385 Market-based PCE housing services,3473286.000000,3473284.000000,2.000000,0.000058,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 386 Market-based PCE household utilities,524970.000000,524971.000000,-1.000000,-0.000190,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 387 Market-based PCE health care,3871188.000000,3871188.000000,0.000000,0.000000,7 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 388 Market-based PCE transportation services,788790.000000,788789.000000,1.000000,0.000127,11 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 389 Market-based PCE recreation services,632508.000000,632507.000000,1.000000,0.000158,10 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 390 Market-based PCE food services and accommodations,1571767.000000,1571766.000000,1.000000,0.000064,6 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 391 Market-based PCE financial services and insurance,201209.000000,201208.000000,1.000000,0.000497,4 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 393 Market-based PCE communication services,329334.000000,329334.000000,0.000000,0.000000,1 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 394 Market-based PCE education,375528.000000,375528.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 395 Market-based PCE professional services,299971.000000,299971.000000,0.000000,0.000000,6 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 396 Market-based PCE personal care and clothing services,263875.000000,263875.000000,0.000000,0.000000,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 397 Market-based PCE child care,70979.000000,70979.000000,0.000000,0.000000,1 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 398 Market-based PCE household maintenance,122792.000000,119915.000000,2877.000000,2.399199,5 leaves; mapping by U20405 line ranges
+nominal_category,leaf,2026M09,leaves mapped to line 384 Market-based PCE services,12526197.000000,12523319.000000,2878.000000,0.022981,Market-based PCE services = 385-391 + 392
+nominal_category,leaf,2026M09,leaves mapped to line 392 Market-based PCE other services,1462479.000000,1459604.000000,2875.000000,0.196971,Market-based PCE other services = 393-398
+nominal_total,category,2026M09,"sum of non-overlapping lines 378-383,385-391,393-398 vs line 377",19391357.000000,19391362.000000,-5.000000,-0.000026,$ millions SAAR
+nominal_total,category,2026M09,sum of core category set (386 replaced by line 166) vs line 402,16895939.000000,16895944.000000,-5.000000,-0.000030,$ millions SAAR
+rate,leaf,2026M09,"sum contributions, headline vs line 377: 12m pct (2025M09->2026M09)",3.802616,3.730546,0.072070,1.931899,benchmark = U20404 line 377 index ratio
+rate,leaf,2026M09,"sum contributions, headline vs line 377: 3m annualized pct (2026M06->2026M09)",3.742149,3.692367,0.049783,1.348263,benchmark = U20404 line 377 index ratio
+rate,leaf,2026M09,"sum contributions, headline vs line 377: 1m pct (2026M08->2026M09)",0.542096,0.537838,0.004258,0.791707,benchmark = U20404 line 377 index ratio
+rate,leaf,2026M09,"sum weight_latest*pct_12m (Paasche-style), headline vs line 377",4.027492,3.730546,0.296946,7.959864,diagnostic: latest-month weights
+rate,leaf,2026M09,"sum excess_contrib_12m_calc, headline vs line 377",2.445736,,,,no BEA benchmark; = sum wL*(pct12 - avg 2018-19)
+rate,leaf,2026M09,"sum contributions, core vs line 402: 12m pct (2025M09->2026M09)",3.149841,3.118339,0.031502,1.010219,benchmark = U20404 line 402 index ratio
+rate,leaf,2026M09,"sum contributions, core vs line 402: 3m annualized pct (2026M06->2026M09)",2.981386,2.935562,0.045824,1.561011,benchmark = U20404 line 402 index ratio
+rate,leaf,2026M09,"sum contributions, core vs line 402: 1m pct (2026M08->2026M09)",0.343503,0.338882,0.004621,1.363474,benchmark = U20404 line 402 index ratio
+rate,leaf,2026M09,"sum weight_latest*pct_12m (Paasche-style), core vs line 402",3.216052,3.118339,0.097713,3.133489,diagnostic: latest-month weights
+rate,leaf,2026M09,"sum excess_contrib_12m_calc, core vs line 402",1.649828,,,,no BEA benchmark; = sum wL*(pct12 - avg 2018-19)
+rate,category,2026M09,"sum contributions, headline vs line 377: 12m pct (2025M09->2026M09)",3.763692,3.730546,0.033146,0.888500,benchmark = U20404 line 377 index ratio
+rate,category,2026M09,"sum contributions, headline vs line 377: 3m annualized pct (2026M06->2026M09)",3.698051,3.692367,0.005685,0.153955,benchmark = U20404 line 377 index ratio
+rate,category,2026M09,"sum contributions, headline vs line 377: 1m pct (2026M08->2026M09)",0.537551,0.537838,-0.000287,-0.053304,benchmark = U20404 line 377 index ratio
+rate,category,2026M09,"sum weight_latest*pct_12m (Paasche-style), headline vs line 377",3.950361,3.730546,0.219815,5.892298,diagnostic: latest-month weights
+rate,category,2026M09,"sum excess_contrib_12m_calc, headline vs line 377",2.350844,,,,no BEA benchmark; = sum wL*(pct12 - avg 2018-19)
+rate,category,2026M09,"sum contributions, core vs line 402: 12m pct (2025M09->2026M09)",3.123612,3.118339,0.005273,0.169081,benchmark = U20404 line 402 index ratio
+rate,category,2026M09,"sum contributions, core vs line 402: 3m annualized pct (2026M06->2026M09)",2.936482,2.935562,0.000920,0.031349,benchmark = U20404 line 402 index ratio
+rate,category,2026M09,"sum contributions, core vs line 402: 1m pct (2026M08->2026M09)",0.338954,0.338882,0.000072,0.021143,benchmark = U20404 line 402 index ratio
+rate,category,2026M09,"sum weight_latest*pct_12m (Paasche-style), core vs line 402",3.146757,3.118339,0.028417,0.911296,diagnostic: latest-month weights
+rate,category,2026M09,"sum excess_contrib_12m_calc, core vs line 402",1.558595,,,,no BEA benchmark; = sum wL*(pct12 - avg 2018-19)
+input_check,leaf,2026M09,max abs diff recomputed vs PCE/processed/components.csv pct_1m_calc (177 Dallas leaves),0.000000,0.000000,0.000000,,
+input_check,leaf,2026M09,max abs diff recomputed vs PCE/processed/components.csv pct_3m_ann_calc (177 Dallas leaves),0.000000,0.000000,0.000000,,
+input_check,leaf,2026M09,max abs diff recomputed vs PCE/processed/components.csv pct_12m_calc (177 Dallas leaves),0.000000,0.000000,0.000000,,

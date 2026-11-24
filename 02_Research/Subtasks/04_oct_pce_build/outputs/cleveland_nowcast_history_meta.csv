@@ -1,0 +1,11 @@
+field,description
+source,"Cleveland Fed Inflation Nowcasting chart data: https://www.clevelandfed.org/-/media/files/webcharts/inflationnowcasting/nowcast_month.json (also nowcast_year.json, nowcast_quarter.json)"
+raw_files,03_Data/Raw/ClevelandFed_nowcast_month_2026-11-11.json; ..._year_...; ..._quarter_... (downloaded 2026-11-11; file stamp _comment = 2026-11-10 00:00)
+series,"Nowcasts of CPI, core CPI, PCE (headline) and core PCE price index; units percent change m/m (month file), y/y (year file); no seasonal-adjustment label in file (Cleveland Fed methodology: SA m/m, annualized not applied in month file)"
+target_month,Month being nowcast (chart subcaption). Rows Jan 2024 .. Oct 2026
+nowcast_dates,File gives MM/DD without a year; year inferred from target month and date order (script C_cleveland_nowcast_history.py). Business days only
+release_dates,Inferred as the date on which Cleveland's 'Actual ...' series has a value (nowcast series is blank from that day). Cross-checked against ALFRED first-release vintages in notes_C.md
+last_pre_pce,Last non-blank nowcast dated strictly before pce_release_date
+day_after_cpi,First nowcast date strictly after cpi_release_date. Also given: on cpi day and day before. CPI-day PCE nowcasts appear to already incorporate that day's CPI
+errors,"err = nowcast minus Cleveland's 'actual' (their first-print m/m, from unrounded BEA/BLS indexes); percentage points"
+script,02_Research/Subtasks/04_oct_pce_build/code/C_cleveland_nowcast_history.py; long form of all values: outputs/C_cleveland_nowcast_long_mm.csv

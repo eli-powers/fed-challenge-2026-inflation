@@ -1,0 +1,5 @@
+url,what_it_would_support,status
+https://www.sciencedirect.com/science/article/pii/S016920702300047X,"Second 'research has shown' source in Dallas Apr 2026 blog on skewness and trimmed-mean bias",HTTP 403 (blocked to script); not opened; unverified
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5254123,"Dallas Aug 2026 blog claim that a wide range of trim points often give similar results",HTTP 403 (blocked to script); not opened; unverified
+https://www.brookings.edu/wp-content/uploads/2021/09/15985-BPEA-BPEA-FA21_WEB_Reis.pdf,"Full text of Reis (2021) 'Losing the Inflation Anchor' (only the Brookings summary page was opened)",not attempted (not cited by BB; summary page sufficient to confirm title/year/venue)
+https://www.dallasfed.org/research/pce/about,"Trimmed-mean methodology page (guessed URL)",HTTP 404 (URL does not exist); methodology taken from WP 0506 and the Apr 2026 blog instead

@@ -1,0 +1,18 @@
+component_name,weight_base_12m_b,contrib_12m_calc_b,contrib_3m_ann_calc_b,weight_base_12m_a,contrib_12m_calc_a,contrib_3m_ann_calc_a,pct_12m_calc_a,pct_3m_ann_calc_a
+Fresh milk,0.00166,0.00379,-0.01677,,,,,
+Eggs,0.00091,-0.01877,0.00391,,,,,
+Beef and veal,0.00349,0.01225,-0.03649,,,,,
+Pork,0.00260,-0.00192,-0.02078,,,,,
+Other meats,0.00258,-0.00408,-0.00055,,,,,
+Spirits,0.00287,-0.00337,0.00108,,,,,
+Fats and oils,0.00165,-0.00128,0.00679,,,,,
+Beer,0.00548,0.01182,0.00122,,,,,
+Wine,0.00379,-0.00249,0.00070,,,,,
+Poultry,0.00416,0.00476,0.01115,,,,,
+Cereals,0.00416,0.01322,0.01374,,,,,
+Fruit (fresh),0.00330,0.01628,0.03384,,,,,
+"Mineral waters, soft drinks, and vegetable juices",0.00616,0.02063,0.05562,,,,,
+Food supplied to military,,,,0.00014,0.00052,0.00053,3.76587,3.75806
+Food supplied to civilians,,,,0.00181,0.00682,0.00678,3.76595,3.76100
+"Audio-video, photographic, and information processing equipment services (parts of 77 and 93)",,,,0.00915,0.06511,0.00436,7.11512,0.47379
+Tobacco (127),,,,0.00588,0.03784,0.04317,6.43447,7.71287

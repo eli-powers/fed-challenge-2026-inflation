@@ -1,0 +1,25 @@
+side,period,status,rule,cls,horizon,method,value,n_units,share_of_core_weight_pct,weight_basis,vintage
+"PCE (BEA leaves, engine)",2026-09,BEA published,primary,sticky,3m_ann,leaf,61.289,94,51.76,start-of-window nominal shares of 2026-06,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-09,BEA published,primary,flexible,3m_ann,leaf,48.65,17,9.07,start-of-window nominal shares of 2026-06,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-09,BEA published,alt_majority,sticky,3m_ann,leaf,60.709,95,52.26,start-of-window nominal shares of 2026-06,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-09,BEA published,alt_majority,flexible,3m_ann,leaf,53.471,19,10.01,start-of-window nominal shares of 2026-06,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-09,BEA published,ref,core_all,3m_ann,leaf,44.814,149,100.0,start-of-window nominal shares of 2026-06,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-09,BEA published,ref,covered_core,3m_ann,leaf,59.404,111,60.84,start-of-window nominal shares of 2026-06,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-09,BEA published,primary,sticky,12m,leaf,60.277,94,52.12,start-of-window nominal shares of 2025-09,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-09,BEA published,primary,flexible,12m,leaf,35.221,17,9.14,start-of-window nominal shares of 2025-09,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-09,BEA published,alt_majority,sticky,12m,leaf,59.705,95,52.61,start-of-window nominal shares of 2025-09,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-09,BEA published,alt_majority,flexible,12m,leaf,38.388,19,10.06,start-of-window nominal shares of 2025-09,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-09,BEA published,ref,core_all,12m,leaf,60.626,149,100.0,start-of-window nominal shares of 2025-09,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-09,BEA published,ref,covered_core,12m,leaf,56.537,111,61.26,start-of-window nominal shares of 2025-09,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),primary,sticky,3m_ann,leaf,66.687,94,51.8,start-of-window nominal shares of 2026-07,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),primary,flexible,3m_ann,leaf,37.008,17,9.02,start-of-window nominal shares of 2026-07,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),alt_majority,sticky,3m_ann,leaf,66.997,95,52.29,start-of-window nominal shares of 2026-07,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),alt_majority,flexible,3m_ann,leaf,42.919,19,9.96,start-of-window nominal shares of 2026-07,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),ref,core_all,3m_ann,leaf,45.467,149,100.0,start-of-window nominal shares of 2026-07,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),ref,covered_core,3m_ann,leaf,62.285,111,60.83,start-of-window nominal shares of 2026-07,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),primary,sticky,12m,leaf,62.749,94,52.11,start-of-window nominal shares of 2025-10,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),primary,flexible,12m,leaf,35.726,17,9.07,start-of-window nominal shares of 2025-10,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),alt_majority,sticky,12m,leaf,63.107,95,52.62,start-of-window nominal shares of 2025-10,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),alt_majority,flexible,12m,leaf,41.705,19,10.0,start-of-window nominal shares of 2025-10,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),ref,core_all,12m,leaf,54.038,149,100.0,start-of-window nominal shares of 2025-10,BEA U20404/U20405 vintage 2026-11-10
+"PCE (BEA leaves, engine)",2026-10,est. (UMD October build),ref,covered_core,12m,leaf,58.744,111,61.18,start-of-window nominal shares of 2025-10,BEA U20404/U20405 vintage 2026-11-10

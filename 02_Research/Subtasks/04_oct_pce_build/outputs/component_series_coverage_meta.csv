@@ -1,0 +1,8 @@
+field,value
+file,component_series_coverage.csv
+rows,284
+source,"BLS Public Data API v2, api.bls.gov/publicAPI/v2/timeseries/data/"
+retrieved,2026-11-13
+raw_files,bls_api_components_2015_2026_batch1_2026-11-13.json;bls_api_components_2015_2026_batch2_2026-11-13.json;bls_api_components_2015_2026_batch3_2026-11-13.json;bls_api_components_2015_2026_batch4_2026-11-13.json;bls_api_components_2015_2026_batch5_2026-11-13.json;bls_api_components_2015_2026_batch6_2026-11-13.json
+script,code/C2_build_history_coverage.py
+description,One row per series; missing count is months from 2017-01 through each series' last valid month with no value.

@@ -1,0 +1,488 @@
+cell,kind,live,build
+A2,text,"Membership from BEA's official composition tables (market and other-than-market PCE categories, linked from BEA FAQ 83; 2009 vintage), mapped to current BEA lines by series code. Portfolio management and investment advice, mutual fund sales charges, trust services, financial services furnished without payment (lines 254-257), most insurance, gambling, net foreign travel and NPISH consumption are NON-market. Where BEA splits a leaf, its published market-only sub-lines are used (used autos line 14, used light trucks line 18, financial fees lines 259/261/264).",Notes as of Aug 2026 data (Oct 2 workbook)
+M2,added,,Current notes
+A3,text,"Checks (August 2026, post-revision): leaf spending matches every BEA market-based subcategory within $2 mn except line 218 (cable/streaming/AV services), missing from the Dallas component set (leaf total -0.92% vs BEA line 377). Summed contributions minus BEA published: headline +0.01 (12m), +0.07 (3m ann.); core -0.01, +0.08. A category-level version built only from BEA's published market-based subcategories reconciles within 0.013 pp (Market-based PCE/processed/category_components.csv). Rebuilt Sept 28 and rerun Oct 1 by Sonnet 5.5 subagents.","Membership from BEA's official composition tables (market and other-than-market PCE categories, linked from BEA FAQ 83; 2009 vintage), mapped to current BEA lines by series code. Portfolio management and investment advice, mutual fund sales charges, trust services, financial services furnished without payment (lines 254-257), most insurance, gambling, net foreign travel and NPISH consumption are NON-market. Where BEA splits a leaf, its published market-only sub-lines are used (used autos line 14, used light trucks line 18, financial fees lines 259/261/264)."
+A4,text,"Market-based PCE headline: 3.50% 12m, 1.19% 3m ann. (Aug 2026)","Checks (August 2026, post-revision): leaf spending matches every BEA market-based subcategory within $2 mn except line 218 (cable/streaming/AV services), missing from the Dallas component set (leaf total -0.92% vs BEA line 377). Summed contributions minus BEA published: headline +0.01 (12m), +0.07 (3m ann.); core -0.01, +0.08. A category-level version built only from BEA's published market-based subcategories reconciles within 0.013 pp (Market-based PCE/processed/category_components.csv). Rebuilt Sept 28 and rerun Oct 1 by Sonnet 5.5 subagents."
+A5,text,Rank,"Market-based PCE headline: 3.73% 12m, 3.69% 3m ann. (Sep 2026)"
+B5,removed,Component,
+C5,removed,Flag,
+D5,removed,Weight now (% of index),
+E5,removed,Weight at start of 12m (%),
+F5,removed,12m %,
+G5,removed,12m contribution (pp),
+H5,removed,3m ann. %,
+I5,removed,3m ann. contribution (pp),
+J5,removed,3-mo direction,
+K5,removed,Excess vs 2018-19 (pp),
+L5,removed,Source ID,
+A6,text,Up #1,Rank
+B6,text,Gasoline and other motor fuel,Component
+C6,text,Energy,Flag
+D6,text,2.402918,Weight now (% of index)
+E6,text,2.028564,Weight at start of 12m (%)
+F6,text,27.92129557,12m %
+G6,text,0.56640131,12m contribution (pp)
+H6,text,-30.50569667,3m ann. %
+I6,text,-0.9081077750987092,3m ann. contribution (pp)
+J6,text,Easing,3-mo direction
+K6,text,0.54576971,Excess vs 2018-19 (pp)
+L6,text,U20404 line 115 / U20405 line 115 (DGASRG),Source ID
+A7,text,Up #2,Up #1
+B7,text,Owner-occupied stationary homes,Gasoline and other motor fuel
+C7,added,,Energy
+D7,number,13.367775,2.600109
+E7,number,13.573694,2.109388
+F7,number,3.06458014,34.96053476
+G7,number,0.41597673,0.73745335
+H7,number,2.80429427,48.3814986
+I7,number,0.3738711387863823,1.004384387722949
+J7,text,Steady,Accelerating
+K7,number,-0.03373024,0.77358523
+L7,text,U20404 line 162 / U20405 line 162 (DOSTRG),U20404 line 115 / U20405 line 115 (DGASRG)
+A8,text,Up #3,Up #2
+B8,text,Nonprofit hospitals' services to households,Owner-occupied stationary homes
+D8,number,6.258428,13.338183
+E8,number,6.127086,13.5536
+F8,number,3.51361456,3.26093879
+G8,number,0.21528218,0.44197459
+H8,number,5.19756888,3.21558302
+I8,number,0.3176327527996407,0.4319367391218772
+J8,text,Accelerating,Steady
+K8,number,0.08030027,-0.00746489
+L8,text,U20404 line 184 / U20405 line 184 (DNPHRG),U20404 line 162 / U20405 line 162 (DOSTRG)
+A9,text,Up #4,Up #3
+B9,text,Air transportation (64),Computer software and accessories
+C9,text,Energy spillover,AI
+D9,number,1.175357,1.304189
+E9,number,1.064092,1.248904
+F9,number,19.44950713,18.48306333
+G9,number,0.20696063,0.23083573
+H9,number,13.17647912,0.3949823
+I9,number,0.1460282753160261,0.005246151357963
+K9,number,0.19739589,0.31033125
+L9,text,U20404 line 207 / U20405 line 207 (DAITRG),U20404 line 50 / U20405 line 50 (DCPSRG)
+A10,text,Up #5,Up #4
+B10,text,Computer software and accessories,Air transportation (64)
+C10,text,AI,Energy spillover
+D10,number,1.313652,1.237023
+E10,number,1.266438,1.076479
+F10,number,15.60927587,20.51085878
+G10,number,0.19768173,0.22079512
+H10,number,2.10406856,29.97548025
+I10,number,0.0273060553665731,0.3171016116738984
+J10,text,Easing,Accelerating
+K10,number,0.27483142,0.22088158
+L10,text,U20404 line 50 / U20405 line 50 (DCPSRG),U20404 line 207 / U20405 line 207 (DAITRG)
+A11,text,Down #1,Up #5
+B11,text,Prescription drugs,Other purchased meals
+D11,number,3.206693,5.938523
+E11,number,3.350709,5.913247
+F11,number,-2.94653901,3.4666593
+G11,number,-0.09872996,0.20499214
+H11,number,-3.46133837,3.03019192
+I11,number,-0.1135636078311951,0.1773466462633534
+K11,number,-0.11691151,0.03662262
+L11,text,U20404 line 123 / U20405 line 123 (DRXDRG),U20404 line 241 / U20405 line 241 (DOPMRG)
+A12,text,Down #2,Down #1
+B12,text,Telephone and related communication equipment,Prescription drugs
+C12,removed,AI,
+D12,number,0.203905,3.221477
+E12,number,0.202124,3.363611
+F12,number,-14.06447269,-4.47971073
+G12,number,-0.02842764,-0.15068006
+H12,number,-14.51743414,-7.92235669
+I12,number,-0.0312609018021372,-0.2656459636889515
+J12,text,Steady,Easing
+K12,number,-0.00650048,-0.1668413
+L12,text,U20404 line 71 / U20405 line 71 (DTCERG),U20404 line 123 / U20405 line 123 (DRXDRG)
+A13,text,Down #3,Down #2
+B13,text,Eggs,Telephone and related communication equipment
+C13,added,,AI
+D13,number,0.09354,0.202836
+E13,number,0.097612,0.199612
+F13,number,-23.01311573,-12.66870818
+G13,number,-0.02246365,-0.02528827
+H13,number,29.87541794,-7.82688375
+I13,number,0.0255622058881775,-0.016611164149164
+K13,number,-0.02207977,-0.00363531
+L13,text,U20404 line 88 / U20405 line 88 (DGGSRG),U20404 line 71 / U20405 line 71 (DTCERG)
+A14,text,Down #4,Down #3
+B14,text,Net transactions in used trucks,Furniture
+D14,number,0.676103,0.900951
+E14,number,0.641294,0.902215
+F14,number,-2.31770833,-2.43064121
+G14,number,-0.01486331,-0.02192961
+H14,number,2.14898346,-6.90320299
+I14,number,0.0141504999521168,-0.0658532405881178
+J14,text,Accelerating,Easing
+K14,number,-0.02032057,-0.0326293
+L14,text,U20404 line 18 / U20405 line 18 (DUTNRG),U20404 line 25 / U20405 line 25 (DFNRRG)
+A15,text,Down #5,Down #4
+B15,text,Nonprescription drugs,Eggs
+D15,number,0.7029070000000001,0.092873
+E15,number,0.707716,0.097061
+F15,number,-2.03693401,-20.58735813
+G15,number,-0.01441571,-0.01998226
+H15,number,-4.71092352,4.4447442
+I15,number,-0.033764681637505,0.0041581339609952
+J15,text,Easing,Accelerating
+K15,number,-0.01377569,-0.01966963
+L15,text,U20404 line 124 / U20405 line 124 (DNRDRG),U20404 line 88 / U20405 line 88 (DGGSRG)
+A16,added,,Down #5
+B16,added,,Household linens
+D16,added,,0.393444
+E16,added,,0.387663
+F16,added,,-3.53100852
+G16,added,,-0.01368842
+H16,added,,-12.78787887
+I16,added,,-0.053994178123887
+J16,added,,Easing
+K16,added,,-0.00712634
+L16,added,,U20404 line 134 / U20405 line 134 (DLINRG)
+A17,removed,Flagged AI / Energy / Asset-price items not in the top 5 (Market-based PCE headline),
+A18,text,Rank,Flagged AI / Energy / Asset-price items not in the top 5 (Market-based PCE headline)
+B18,removed,Component,
+C18,removed,Flag,
+D18,removed,Weight now (% of index),
+E18,removed,Weight at start of 12m (%),
+F18,removed,12m %,
+G18,removed,12m contribution (pp),
+H18,removed,3m ann. %,
+I18,removed,3m ann. contribution (pp),
+J18,removed,3-mo direction,
+K18,removed,Excess vs 2018-19 (pp),
+L18,removed,Source ID,
+A19,added,,Rank
+B19,text,Fuel oil,Component
+C19,text,Energy,Flag
+D19,text,0.133675,Weight now (% of index)
+E19,text,0.129967,Weight at start of 12m (%)
+F19,text,52.03828646,12m %
+G19,text,0.06763251,12m contribution (pp)
+H19,text,-6.28170808,3m ann. %
+I19,text,-0.0093110526831678,3m ann. contribution (pp)
+J19,text,Easing,3-mo direction
+K19,text,0.05720642,Excess vs 2018-19 (pp)
+L19,text,U20404 line 118 / U20405 line 118 (DOILRG),Source ID
+B20,text,Electricity (27),Fuel oil
+D20,number,1.495352,0.142904
+E20,number,1.431903,0.133202
+F20,number,3.78852663,74.17522894
+G20,number,0.05424804,0.09880272
+H20,number,-4.40548702,143.53887474
+I20,number,-0.0673352781868378,0.1329879016963769
+J20,text,Easing,Accelerating
+K20,number,0.04972623,0.09279011
+L20,text,U20404 line 170 / U20405 line 170 (DELCRG),U20404 line 118 / U20405 line 118 (DOILRG)
+B21,text,Personal computers/tablets and peripheral equipment,Electricity (27)
+C21,text,AI,Energy
+D21,number,0.602841,1.55997
+E21,number,0.583473,1.483144
+F21,number,8.43059229,4.36681852
+G21,number,0.04919019,0.06476619
+H21,number,29.18881357,0.66580437
+I21,number,0.1587849566695343,0.0100069899325873
+J21,text,Accelerating,Easing
+K21,number,0.07383831,0.0608962
+L21,text,U20404 line 49 / U20405 line 49 (DCPPRG),U20404 line 170 / U20405 line 170 (DELCRG)
+B22,text,Natural gas (28),Personal computers/tablets and peripheral equipment
+C22,text,Energy,AI
+D22,number,0.4007529999999999,0.598919
+E22,number,0.424934,0.575333
+F22,number,4.38576365,9.69893593
+G22,number,0.01863658,0.05580121
+H22,number,-0.01292862,40.52625832
+I22,number,-5.4730615640706e-05,0.2165760816323433
+J22,text,Easing,Accelerating
+K22,number,0.02027458,0.0809543
+L22,text,U20404 line 171 / U20405 line 171 (DGHERG),U20404 line 49 / U20405 line 49 (DCPPRG)
+B23,text,Indirect commissions,Natural gas (28)
+C23,text,Asset-price,Energy
+D23,number,0.085677,0.40163
+E23,number,0.0810579999999999,0.418104
+F23,number,16.16843378,4.97484324
+G23,number,0.01310581,0.02080001
+H23,number,-0.05779052,-3.12582071
+I23,number,-5.615155603606081e-05,-0.0133821384332152
+K23,number,0.01007022,0.02268482
+L23,text,U20404 line 264 / U20405 line 264 (DICTRG),U20404 line 171 / U20405 line 171 (DGHERG)
+B24,text,Financial service charges and fees,Motor vehicle rental
+C24,text,Asset-price,Energy spillover
+D24,number,0.769386,0.177936
+E24,number,0.813032,0.1584829999999999
+F24,number,-1.4363623,9.14611321
+G24,number,-0.01167808,0.01449506
+H24,number,-8.00640978,19.5212449
+I24,number,-0.0659402759205889,0.0323290766502357
+J24,text,Easing,Accelerating
+K24,number,-0.04765988,0.01655292
+L24,text,U20404 line 259 / U20405 line 259 (DFEERG),U20404 line 197 / U20405 line 197 (DMVRRG)
+B25,text,Other road transportation service,Indirect commissions
+C25,text,Energy spillover,Asset-price
+D25,number,0.228174,0.089751
+E25,number,0.226875,0.081501
+F25,number,-3.69840727,11.47151499
+G25,number,-0.00839076,0.00934938
+H25,number,-14.86441844,-32.70483641
+I25,number,-0.0351720380285638,-0.039423769389716
+K25,number,-0.00803851,0.00633353
+L25,text,U20404 line 206 / U20405 line 206 (DORTRG),U20404 line 264 / U20405 line 264 (DICTRG)
+B26,text,Direct commissions,"Moving, storage, and freight services"
+C26,text,Asset-price,Energy spillover
+D26,number,0.08079,0.127344
+E26,number,0.069306,0.128794
+F26,number,9.15254237,-7.0788982
+G26,number,0.0063433,-0.00911719
+H26,number,9.59494293,-19.3441971
+I26,number,0.0076239166810069,-0.0270434465049739
+J26,text,Steady,Easing
+K26,number,0.0107026,-0.01562342
+L26,text,U20404 line 261 / U20405 line 261 (DDCTRG),U20404 line 329 / U20405 line 329 (DMSERG)
+B27,added,,Financial service charges and fees
+C27,added,,Asset-price
+D27,added,,0.785113
+E27,added,,0.8142790000000001
+F27,added,,1.00466948
+G27,added,,0.00818081
+H27,added,,2.65596544
+I27,added,,0.0211167161828293
+J27,added,,Accelerating
+K27,added,,-0.02946926
+L27,added,,U20404 line 259 / U20405 line 259 (DFEERG)
+A28,removed,"Market-based PCE core: 3.03% 12m, 2.41% 3m ann. (Aug 2026)",
+A29,text,Rank,"Market-based PCE core: 3.12% 12m, 2.94% 3m ann. (Sep 2026)"
+B29,removed,Component,
+C29,removed,Flag,
+D29,removed,Weight now (% of index),
+E29,removed,Weight at start of 12m (%),
+F29,removed,12m %,
+G29,removed,12m contribution (pp),
+H29,removed,3m ann. %,
+I29,removed,3m ann. contribution (pp),
+J29,removed,3-mo direction,
+K29,removed,Excess vs 2018-19 (pp),
+L29,removed,Source ID,
+A30,text,Up #1,Rank
+B30,text,Owner-occupied stationary homes,Component
+C30,added,,Flag
+D30,text,15.3241172409618,Weight now (% of index)
+E30,text,15.53544915416362,Weight at start of 12m (%)
+F30,text,3.06458014,12m %
+G30,text,0.4760962894382963,12m contribution (pp)
+H30,text,2.80429427,3m ann. %
+I30,text,0.4317978254821669,3m ann. contribution (pp)
+J30,text,Steady,3-mo direction
+K30,text,-0.0386665788282568,Excess vs 2018-19 (pp)
+L30,text,U20404 line 162 / U20405 line 162 (DOSTRG),Source ID
+A31,text,Up #2,Up #1
+B31,text,Nonprofit hospitals' services to households,Owner-occupied stationary homes
+D31,number,7.174334129360953,15.32874588962124
+E31,number,7.012610790856769,15.52653934360643
+F31,number,3.51361456,3.26093879
+G31,number,0.2463961137836745,0.5063109442002734
+H31,number,5.19756888,3.21558302
+I31,number,0.3668460004856494,0.4938424428238154
+J31,text,Accelerating,Steady
+K31,number,0.0920520252135911,-0.008578939575196
+L31,text,U20404 line 184 / U20405 line 184 (DNPHRG),U20404 line 162 / U20405 line 162 (DOSTRG)
+A32,text,Up #3,Up #2
+B32,text,Air transportation (64),Computer software and accessories
+C32,text,Energy spillover,AI
+D32,number,1.347367715867834,1.498823473410076
+E32,number,1.217881231251587,1.430701591635244
+F32,number,19.44950713,18.48306333
+G32,number,0.2368718969072092,0.2644374812452602
+H32,number,13.17647912,0.3949823
+I32,number,0.1686535418193878,0.0059980362108278
+K32,number,0.226284376792633,0.3566444387741856
+L32,text,U20404 line 207 / U20405 line 207 (DAITRG),U20404 line 50 / U20405 line 50 (DCPSRG)
+A33,text,Up #4,Up #3
+B33,text,Computer software and accessories,Air transportation (64)
+C33,text,AI,Energy spillover
+D33,number,1.505901861889803,1.421633758257548
+E33,number,1.449471540753804,1.233177424895681
+F33,number,15.60927587,20.51085878
+G33,number,0.2262520114534008,0.2529352801271937
+H33,number,2.10406856,29.97548025
+I33,number,0.0315367893014035,0.3625490039369408
+J33,text,Easing,Accelerating
+K33,number,0.3150523195807092,0.2538455595325498
+L33,text,U20404 line 50 / U20405 line 50 (DCPSRG),U20404 line 207 / U20405 line 207 (DAITRG)
+A34,text,Up #5,Up #4
+D34,number,6.742601268894489,6.824775910382333
+E34,number,6.773104937778116,6.774012970278205
+F34,number,3.33934831,3.4666593
+G34,number,0.22617756527422,0.2348319506173556
+H34,number,2.96263151,3.03019192
+I34,number,0.1981355879720568,0.2027641853187978
+K34,number,0.0329972630375362,0.0420881029863516
+A35,text,Down #1,Up #5
+B35,text,Prescription drugs,Nonprofit hospitals' services to households
+D35,number,3.675984933002802,7.151334168132108
+E35,number,3.834974421841132,7.02207605923931
+F35,number,-2.94653901,3.33667159
+G35,number,-0.1129990173630709,0.2343036168968296
+H35,number,-3.46133837,2.09133883
+I35,number,-0.1311588775603175,0.1502998841217158
+J35,text,Steady,Easing
+K35,number,-0.1340212304593145,0.079103135589436
+L35,text,U20404 line 123 / U20405 line 123 (DRXDRG),U20404 line 184 / U20405 line 184 (DNPHRG)
+A36,text,Down #2,Down #1
+B36,text,Telephone and related communication equipment,Prescription drugs
+C36,removed,AI,
+D36,number,0.2337460142782412,3.702243575624907
+E36,number,0.2313362246737084,3.853237407632463
+F36,number,-14.06447269,-4.47971073
+G36,number,-0.0325362201413107,-0.1726138896020853
+H36,number,-14.51743414,-7.92235669
+I36,number,-0.0361043900435623,-0.3037186693151886
+J36,text,Steady,Easing
+K36,number,-0.0074518222807014,-0.1917403350726352
+L36,text,U20404 line 71 / U20405 line 71 (DTCERG),U20404 line 123 / U20405 line 123 (DRXDRG)
+A37,text,Down #3,Down #2
+B37,text,Net transactions in used trucks,Telephone and related communication equipment
+C37,added,,AI
+D37,number,0.7750490742824441,0.2331068258148214
+E37,number,0.7339778198823552,0.2286686615700601
+F37,number,-2.31770833,-12.66870818
+G37,number,-0.0170114650717657,-0.0289693654334227
+H37,number,2.14898346,-7.82688375
+I37,number,0.0163429440652831,-0.0189918965870969
+K37,number,-0.0232944465295048,-0.0041778226091665
+L37,text,U20404 line 18 / U20405 line 18 (DUTNRG),U20404 line 71 / U20405 line 71 (DTCERG)
+A38,text,Down #4,Down #3
+B38,text,Nonprescription drugs,Furniture
+D38,number,0.805775776259904,1.035407066914597
+E38,number,0.8099995427617612,1.033546562824038
+F38,number,-2.03693401,-2.43064121
+G38,number,-0.0164991561673588,-0.0251218086805395
+H38,number,-4.71092352,-6.90320299
+I38,number,-0.03899609944886,-0.0752914078714759
+K38,number,-0.0157917312896441,-0.0374988154831214
+L38,text,U20404 line 124 / U20405 line 124 (DNRDRG),U20404 line 25 / U20405 line 25 (DFNRRG)
+A39,text,Down #5,Down #4
+B39,text,Financial service charges and fees,Household linens
+C39,removed,Asset-price,
+D39,number,0.8819838206099847,0.4521607701585843
+E39,number,0.930536469785451,0.4440934380209317
+F39,number,-1.4363623,-3.53100852
+G39,number,-0.0133658750397491,-0.01568097713328
+H39,number,-8.00640978,-12.78787887
+I39,number,-0.0761569022060107,-0.0617326900165368
+K39,number,-0.0546348004309499,-0.0081898592997111
+L39,text,U20404 line 259 / U20405 line 259 (DFEERG),U20404 line 134 / U20405 line 134 (DLINRG)
+A40,added,,Down #5
+B40,added,,Net transactions in used trucks
+D40,added,,0.7571294440585623
+E40,added,,0.7655254281448722
+F40,added,,-1.45692599
+G40,added,,-0.0111531389227014
+H40,added,,5.88514297
+I40,added,,0.0446702825075051
+J40,added,,Accelerating
+K40,added,,-0.0162386274840711
+L40,added,,U20404 line 18 / U20405 line 18 (DUTNRG)
+A41,removed,Flagged AI / Energy / Asset-price items not in the top 5 (Market-based PCE core),
+A42,text,Rank,Flagged AI / Energy / Asset-price items not in the top 5 (Market-based PCE core)
+B42,removed,Component,
+C42,removed,Flag,
+D42,removed,Weight now (% of index),
+E42,removed,Weight at start of 12m (%),
+F42,removed,12m %,
+G42,removed,12m contribution (pp),
+H42,removed,3m ann. %,
+I42,removed,3m ann. contribution (pp),
+J42,removed,3-mo direction,
+K42,removed,Excess vs 2018-19 (pp),
+L42,removed,Source ID,
+A43,added,,Rank
+B43,text,Personal computers/tablets and peripheral equipment,Component
+C43,text,AI,Flag
+D43,text,0.6910653539320234,Weight now (% of index)
+E43,text,0.6678001673182931,Weight at start of 12m (%)
+F43,text,8.43059229,12m %
+G43,text,0.0562995094185431,12m contribution (pp)
+H43,text,29.18881357,3m ann. %
+I43,text,0.1833867124157975,3m ann. contribution (pp)
+J43,text,Accelerating,3-mo direction
+K43,text,0.0846444381686035,Excess vs 2018-19 (pp)
+L43,text,U20404 line 49 / U20405 line 49 (DCPPRG),Source ID
+B44,text,Indirect commissions,Personal computers/tablets and peripheral equipment
+C44,text,Asset-price,AI
+D44,number,0.09821562622455,0.6883004348842763
+E44,number,0.0927730091409306,0.6590817539380768
+F44,number,16.16843378,9.69893593
+G44,number,0.0149999425486647,0.0639239170407743
+H44,number,-0.05779052,40.52625832
+I44,number,-6.485154182405221e-05,0.2476160315234211
+J44,text,Easing,Accelerating
+K44,number,0.0115439591772635,0.093035794656486
+L44,text,U20404 line 264 / U20405 line 264 (DICTRG),U20404 line 49 / U20405 line 49 (DCPPRG)
+B45,text,Other road transportation service,Motor vehicle rental
+D45,number,0.2615667250039156,0.2044908012294961
+E45,number,0.2596643939999584,0.1815526896760106
+F45,number,-3.69840727,9.14611321
+G45,number,-0.0096034468252959,0.0166050145335679
+H45,number,-14.86441844,19.5212449
+I45,number,-0.0406215082228837,0.0369625196033298
+J45,text,Easing,Accelerating
+K45,number,-0.0092149460242101,0.0190232446789765
+L45,text,U20404 line 206 / U20405 line 206 (DORTRG),U20404 line 197 / U20405 line 197 (DMVRRG)
+B46,text,Direct commissions,Indirect commissions
+D46,number,0.0926134253379716,0.1031452539179733
+E46,number,0.0793225365975145,0.0933647505491727
+F46,number,9.15254237,11.47151499
+G46,number,0.0072600287710462,0.0107103513546244
+H46,number,9.59494293,-32.70483641
+I46,number,0.0088051478250021,-0.0450740324157668
+J46,text,Steady,Easing
+K46,number,0.0122689399885764,0.0072787234689961
+L46,text,U20404 line 261 / U20405 line 261 (DDCTRG),U20404 line 264 / U20405 line 264 (DICTRG)
+D47,number,0.1454978807299341,0.1463485556142037
+E47,number,0.1444025884834678,0.1475419894508061
+F47,number,-4.58587823,-7.0788982
+G47,number,-0.0066221268688198,-0.0104443472354773
+H47,number,-12.28471919,-19.3441971
+I47,number,-0.0192952388111428,-0.0309193464569429
+K47,number,-0.0142233763668395,-0.0179550341582066
+B48,text,Motor vehicle rental,Financial service charges and fees
+C48,text,Energy spillover,Asset-price
+D48,number,0.2013433520601065,0.902281642982271
+E48,number,0.1819407605800436,0.9328100969611396
+F48,number,3.48925201,1.00466948
+G48,number,0.0063483716455484,0.0093716583505269
+H48,number,18.23144027,2.65596544
+I48,number,0.0333165870334464,0.0241431898692997
+K48,number,0.0073407317490275,-0.0338671745830758
+L48,text,U20404 line 197 / U20405 line 197 (DMVRRG),U20404 line 259 / U20405 line 259 (DFEERG)
+B49,text,Other video equipment,Direct commissions
+C49,text,AI,Asset-price
+D49,number,0.07059323363953,0.0901795515335701
+E49,number,0.068589169382389,0.0862336040335643
+F49,number,4.60633819,8.21757908
+G49,number,0.0031594491034647,0.0070863146049922
+H49,number,13.22777208,9.33209266
+I49,number,0.0089377850158341,0.0094715617295105
+K49,number,0.0043138281436119,0.0111033674728601
+L49,text,U20404 line 42 / U20405 line 42 (DOVARG),U20404 line 261 / U20405 line 261 (DDCTRG)
+B50,text,Water transportation (65),Other video equipment
+C50,text,Energy spillover,AI
+D50,number,0.0480033071670697,0.070796504519269
+E50,number,0.0467424522356288,0.0673581179070294
+F50,number,-3.69817733,9.58637179
+G50,number,-0.0017286187720641,0.0064571996133144
+H50,number,-14.8635515,0.51655725
+I50,number,-0.0076532243646674,0.0003651158406714
+K50,number,-0.0016910433196975,0.0078519393816556
+L50,text,U20404 line 208 / U20405 line 208 (DWATRG),U20404 line 42 / U20405 line 42 (DOVARG)
+B51,added,,Other road transportation service
+C51,added,,Energy spillover
+D51,added,,0.2584463730470238
+E51,added,,0.2593320188043235
+F51,added,,-0.97986704
+G51,added,,-0.0025411089764301
+H51,added,,-3.70456523
+I51,added,,-0.0097493221747389
+J51,added,,Easing
+K51,added,,-0.0020790479933765
+L51,added,,U20404 line 206 / U20405 line 206 (DORTRG)

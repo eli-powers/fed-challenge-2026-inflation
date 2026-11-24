@@ -1,0 +1,7 @@
+window,measure,mae_assumed_contrib_pp,bias,n,months,chosen,note
+3,core,0.02497,0.00022,10,Dec 2025 - Sep 2026,False,chosen on core; selection and test use the same months (disclosed)
+3,headline,0.02209,0.00014,10,Dec 2025 - Sep 2026,False,chosen on core; selection and test use the same months (disclosed)
+6,core,0.02132,-0.00005,10,Dec 2025 - Sep 2026,False,chosen on core; selection and test use the same months (disclosed)
+6,headline,0.01898,-0.00003,10,Dec 2025 - Sep 2026,False,chosen on core; selection and test use the same months (disclosed)
+12,core,0.01901,-0.00085,10,Dec 2025 - Sep 2026,True,chosen on core; selection and test use the same months (disclosed)
+12,headline,0.01695,-0.00075,10,Dec 2025 - Sep 2026,True,chosen on core; selection and test use the same months (disclosed)

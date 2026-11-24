@@ -1,0 +1,5 @@
+file,n_old_2026-09-27,n_new_2026-11-11,bytes_identical,added,dropped,changed_fields_rows,changed_by_field,added_first50,dropped_first50
+cu.item,400,400,True,0,0,0,{},,
+cu.series,8104,8104,False,0,0,3369,"{'end_period': 3369, 'end_year': 3}",,
+pc.series,4510,4510,False,0,0,3448,"{'end_period': 3447, 'end_year': 2}",,
+wp.series,5312,5312,False,0,0,4187,"{'end_period': 4186, 'end_year': 4, 'series_title': 1}",,

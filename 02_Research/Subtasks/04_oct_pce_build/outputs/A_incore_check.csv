@@ -1,0 +1,18 @@
+bea_line,name,in_core_bea_hierarchy,in_core_components_csv,share_of_headline
+86,Fresh milk,N,Y,0.0014501545020260298
+88,Eggs,N,Y,0.0007948681633187517
+80,Beef and veal,N,Y,0.0030242580206103656
+81,Pork,N,Y,0.0022478730918843903
+82,Other meats,N,Y,0.0022482739331165227
+100,Spirits,N,Y,0.0025411552600613377
+89,Fats and oils,N,Y,0.0014675688266664528
+102,Beer,N,Y,0.004873694927755049
+101,Wine,N,Y,0.0033597621319052698
+248,Food supplied military,Y,N,0.00012301372034999674
+247,Food supplied civilians,Y,N,0.0016006035778197622
+218,"Audio-video, photographic, and information processing equipment services",Y,missing,0.007917638706654588
+141,Tobacco,Y,N,0.004906920212107365
+83,Poultry,N,Y,0.0036029836839803356
+77,Cereals,N,Y,0.0037076032455669186
+91,Fruit (fresh),N,Y,0.0028743433997928097
+98,"Mineral waters, soft drinks, and vegetable juices",N,Y,0.005471260129035246

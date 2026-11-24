@@ -1,0 +1,31 @@
+metric,before,after,change,source
+PCE headline: mapped leaves (count),176.0000,177.0000,1.0000,PCE/processed/components.csv
+RETRIEVAL-stage PCE core: leaves (count),158.0000,149.0000,-9.0000,PCE/processed/components.csv
+"Core weight, % of total PCE (Sep 2026; BEA line 374/1 = 88.88)",90.8911,88.5795,-2.3116,"components.csv weight_latest, PCE headline rows in_core=Y"
+"RETRIEVAL-stage PCE core: sum of component contributions, 1m (pp)",0.3133,0.3257,0.0124,components.csv PCE core rows
+"RETRIEVAL-stage PCE core: sum of component contributions, 3m ann. (pp)",3.0898,3.1707,0.0808,components.csv PCE core rows
+"RETRIEVAL-stage PCE core: sum of component contributions, 12m (pp)",3.0437,3.1839,0.1402,components.csv PCE core rows
+"RETRIEVAL-stage PCE core: published less sum of contributions, 1m (pp)",0.0032,-0.0092,-0.0124,PCE/processed/reconciliation.csv
+"RETRIEVAL-stage PCE core: published less sum of contributions, 3m_ann (pp)",-0.1873,-0.2681,-0.0808,PCE/processed/reconciliation.csv
+"RETRIEVAL-stage PCE core: published less sum of contributions, 12m (pp)",0.0775,-0.0627,-0.1402,PCE/processed/reconciliation.csv
+"RETRIEVAL-stage PCE headline: published less sum of contributions, 1m (pp)",-0.0046,-0.0073,-0.0027,PCE/processed/reconciliation.csv
+"RETRIEVAL-stage PCE headline: published less sum of contributions, 3m_ann (pp)",-0.4198,-0.4237,-0.0039,PCE/processed/reconciliation.csv
+"RETRIEVAL-stage PCE headline: published less sum of contributions, 12m (pp)",-0.0293,-0.0872,-0.0578,PCE/processed/reconciliation.csv
+DOWNSTREAM (analysis/workbook) PCE core: leaves (count),148.0000,149.0000,1.0000,Cross-index analysis/processed/index_coverage.csv
+"DOWNSTREAM PCE core: sum of contributions, 12m (pp)",3.1476,3.1839,0.0363,index_coverage.csv
+"DOWNSTREAM PCE core: published less sum, 12m (pp)",-0.0264,-0.0627,-0.0363,index_coverage.csv; published from reconciliation.csv
+"DOWNSTREAM PCE core: sum of contributions, 3m ann. (pp)",3.0564,3.0324,-0.0240,index_coverage.csv
+"DOWNSTREAM PCE core: published less sum, 3m ann. (pp)",-0.1538,-0.1299,0.0240,index_coverage.csv; published from reconciliation.csv
+Breadth PCE core: % of basket weight 12m > 3%,60.2621,60.6258,0.3637,Cross-index analysis/processed/breadth.csv
+Breadth PCE core: % of basket weight 3m ann. > 3%,45.2306,44.8167,-0.4139,Cross-index analysis/processed/breadth.csv
+Breadth PCE core: % of basket weight 12m > 2018-19 avg,61.9067,62.2553,0.3486,Cross-index analysis/processed/breadth.csv
+Breadth PCE headline: % of basket weight 12m > 3%,59.4735,59.8038,0.3304,Cross-index analysis/processed/breadth.csv
+Breadth PCE headline: % of basket weight 3m ann. > 3%,43.9048,43.5468,-0.3579,Cross-index analysis/processed/breadth.csv
+Breadth PCE headline: % of basket weight 12m > 2018-19 avg,64.4125,64.7026,0.2901,Cross-index analysis/processed/breadth.csv
+Breadth CPI core: % of basket weight 12m > 3%,58.4745,58.4745,0.0000,Cross-index analysis/processed/breadth.csv
+Breadth CPI core: % of basket weight 3m ann. > 3%,58.3066,58.3066,0.0000,Cross-index analysis/processed/breadth.csv
+Breadth CPI core: % of basket weight 12m > 2018-19 avg,37.3146,37.3146,0.0000,Cross-index analysis/processed/breadth.csv
+Market-based core: sum of contributions 12m (pp),3.1067,3.1498,0.0431,Market-based PCE/processed/components.csv
+Market-based core: sum of contributions 3m (pp),3.0091,2.9814,-0.0277,Market-based PCE/processed/components.csv
+Market-based headline: sum of contributions 12m (pp),3.7712,3.8026,0.0314,Market-based PCE/processed/components.csv
+Market-based headline: sum of contributions 3m (pp),3.7737,3.7421,-0.0316,Market-based PCE/processed/components.csv

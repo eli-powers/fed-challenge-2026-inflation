@@ -1,0 +1,3 @@
+- Pulled https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL on 2026-11-07.
+- 2026-09: 336.298; 2026-08: 334.131; 2025-09: 324.245.
+- 2025-10 is blank in the file.

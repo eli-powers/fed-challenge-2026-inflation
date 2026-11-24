@@ -1,0 +1,19 @@
+item,value,note
+"UMD Oct 2026 SA m/m used, leaf 184 (%)",0.3047,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+"UMD seasonal adjustment applied, adj_b (pp)",-0.3723,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+implied NSA PPI 622 Oct 2026 m/m input (%) = pi - adj_b,0.677,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+"published PPI 622 Oct 2026 prelim NSA m/m (%), B_q7_hospital_octobers.csv",0.677,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+SA m/m needed for 12m >= 3% (%),0.5639,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+NSA m/m needed at UMD adj_b (%),0.9362,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+upward NSA revision needed at UMD adj_b (pp),0.2592,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+max seasonal gap that still flips at current NSA (pp) = NSA - needed SA,0.1131,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+historical October seasonal gap 2017-2025: min (pp),0.2407,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+historical October seasonal gap 2017-2025: mean (pp),0.3723,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+historical October seasonal gap 2017-2025: max (pp),0.5178,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+Octobers 2017-2025 whose gap would flip the result at current NSA (count),0.0,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+NSA m/m needed at the smallest historical gap (%),0.8046,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+PCU622622 first-print revisions Dec 2024-Sep 2026: n,22.0,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+  mean abs revision (pp),0.0918,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+  max upward revision (pp),0.4402,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+  min (largest downward) revision (pp),-0.4013,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI
+  count of upward revisions >= needed at UMD adj_b,1.0,Oct 2026 = UMD est.; revisions = ALFRED current (2026-11-11) minus first print; seasonal gap from BEA SA leaf 184 vs NSA PPI

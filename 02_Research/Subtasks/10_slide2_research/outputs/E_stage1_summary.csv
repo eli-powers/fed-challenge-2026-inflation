@@ -1,0 +1,21 @@
+window,type,weight_share,contribution_pp,layer,n
+Aug-Oct 3m (not annualized),energy,0.0907,1.6452,1 groups (SA),
+Aug-Oct 3m (not annualized),foods,0.0204,0.15419999999999998,1 groups (SA),
+Aug-Oct 3m (not annualized),goods ex food & energy,0.4508,1.0777,1 groups (SA),
+Aug-Oct 3m (not annualized),other,0.0,0.0,1 groups (SA),
+Aug-Oct 3m (not annualized),passenger transport,0.0126,0.0777,1 groups (SA),
+Aug-Oct 3m (not annualized),services less trade/TTW,0.2684,0.1902,1 groups (SA),
+Aug-Oct 3m (not annualized),trade services,0.1056,0.8424,1 groups (SA),
+Aug-Oct 3m (not annualized),transport & warehousing of goods,0.0514,0.3825,1 groups (SA),
+Oct m/m,energy,0.1057,-0.2446,1 groups (SA),
+Oct m/m,foods,0.0224,-0.11889999999999999,1 groups (SA),
+Oct m/m,goods ex food & energy,0.4395,0.5289,1 groups (SA),
+Oct m/m,other,0.0,0.0,1 groups (SA),
+Oct m/m,passenger transport,0.013,-0.016300000000000002,1 groups (SA),
+Oct m/m,services less trade/TTW,0.2597,0.068,1 groups (SA),
+Oct m/m,trade services,0.1077,0.2145,1 groups (SA),
+Oct m/m,transport & warehousing of goods,0.0519,0.1285,1 groups (SA),
+Aug-Oct 3m (not annualized),energy-intensive manufacturing,26.465,0.6668,"2 core-goods commodities (NSA, top 40)",36.0
+Aug-Oct 3m (not annualized),other,2.702,0.0237,"2 core-goods commodities (NSA, top 40)",4.0
+Oct m/m,energy-intensive manufacturing,26.465,0.4308,"2 core-goods commodities (NSA, top 40)",36.0
+Oct m/m,other,2.702,0.0128,"2 core-goods commodities (NSA, top 40)",4.0

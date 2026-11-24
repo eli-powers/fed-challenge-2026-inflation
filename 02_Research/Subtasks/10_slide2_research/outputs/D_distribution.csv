@@ -1,0 +1,11 @@
+horizon,stat,sep_2026,oct_2026_est,avg_2018_19,vintage
+12m,weighted p10 of core leaf rates (%),-0.113,0.306,-0.931,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); Oct 2026 = UMD estimate (04_oct_pce_build)
+12m,weighted p25 of core leaf rates (%),1.26,1.516,0.879,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); Oct 2026 = UMD estimate (04_oct_pce_build)
+12m,weighted p50 of core leaf rates (%),3.261,3.264,2.331,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); Oct 2026 = UMD estimate (04_oct_pce_build)
+12m,weighted p75 of core leaf rates (%),3.715,3.782,3.31,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); Oct 2026 = UMD estimate (04_oct_pce_build)
+12m,weighted p90 of core leaf rates (%),6.434,6.508,3.87,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); Oct 2026 = UMD estimate (04_oct_pce_build)
+3m_ann,weighted p10 of core leaf rates (%),-0.955,-0.801,-2.657,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); Oct 2026 = UMD estimate (04_oct_pce_build)
+3m_ann,weighted p25 of core leaf rates (%),1.234,1.166,0.646,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); Oct 2026 = UMD estimate (04_oct_pce_build)
+3m_ann,weighted p50 of core leaf rates (%),2.738,2.921,2.349,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); Oct 2026 = UMD estimate (04_oct_pce_build)
+3m_ann,weighted p75 of core leaf rates (%),3.218,4.087,3.408,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); Oct 2026 = UMD estimate (04_oct_pce_build)
+3m_ann,weighted p90 of core leaf rates (%),8.768,8.303,5.502,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); Oct 2026 = UMD estimate (04_oct_pce_build)

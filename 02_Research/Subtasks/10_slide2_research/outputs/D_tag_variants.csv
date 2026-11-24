@@ -1,0 +1,43 @@
+month,status,horizon,variant,n_leaves,weight_share_of_core_pct,breadth_within_gt3_pct,wmean_rate_pct
+2026-02,BEA published,12m,energy final,42,18.113,71.324,3.145
+2026-02,BEA published,12m,energy ex 241 restaurants,41,12.466,58.334,2.82
+2026-02,BEA published,12m,energy ex 187 nursing homes,41,16.673,68.849,3.152
+2026-02,BEA published,12m,energy ex 241 and 187,40,11.026,52.895,2.788
+2026-02,BEA published,12m,energy strict 5%,16,3.562,59.515,3.302
+2026-02,BEA published,12m,untagged,73,68.817,50.64,3.005
+2026-02,BEA published,12m,untagged ex hospitals 184-186,70,60.143,57.944,3.012
+2026-02,BEA published,3m_ann,energy final,42,18.015,73.712,5.962
+2026-02,BEA published,3m_ann,energy ex 241 restaurants,41,12.337,61.616,6.495
+2026-02,BEA published,3m_ann,energy ex 187 nursing homes,41,16.571,80.136,6.271
+2026-02,BEA published,3m_ann,energy ex 241 and 187,40,10.893,69.784,7.036
+2026-02,BEA published,3m_ann,energy strict 5%,16,3.492,66.238,8.15
+2026-02,BEA published,3m_ann,untagged,73,68.938,51.494,3.229
+2026-02,BEA published,3m_ann,untagged ex hospitals 184-186,70,60.14,59.027,3.78
+2026-09,BEA published,12m,energy final,42,18.063,66.962,3.916
+2026-09,BEA published,12m,energy ex 241 restaurants,41,12.359,51.715,4.124
+2026-09,BEA published,12m,energy ex 187 nursing homes,41,16.615,64.083,3.934
+2026-09,BEA published,12m,energy ex 241 and 187,40,10.911,45.307,4.178
+2026-09,BEA published,12m,energy strict 5%,16,3.53,59.223,7.249
+2026-09,BEA published,12m,untagged,73,68.909,63.201,2.908
+2026-09,BEA published,12m,untagged ex hospitals 184-186,70,60.188,57.869,2.846
+2026-09,BEA published,3m_ann,energy final,42,18.052,61.899,4.624
+2026-09,BEA published,3m_ann,energy ex 241 restaurants,41,12.427,44.653,5.346
+2026-09,BEA published,3m_ann,energy ex 187 nursing homes,41,16.598,67.321,4.803
+2026-09,BEA published,3m_ann,energy ex 241 and 187,40,10.973,50.569,5.711
+2026-09,BEA published,3m_ann,energy strict 5%,16,3.57,58.134,10.855
+2026-09,BEA published,3m_ann,untagged,73,68.739,43.009,2.918
+2026-09,BEA published,3m_ann,untagged ex hospitals 184-186,70,59.866,49.383,3.041
+2026-10,UMD est.,12m,energy final,42,18.087,73.299,4.3
+2026-10,UMD est.,12m,energy ex 241 restaurants,41,12.415,61.099,4.537
+2026-10,UMD est.,12m,energy ex 187 nursing homes,41,16.644,70.983,4.401
+2026-10,UMD est.,12m,energy ex 241 and 187,40,10.971,55.979,4.721
+2026-10,UMD est.,12m,energy strict 5%,16,3.551,59.466,7.697
+2026-10,UMD est.,12m,untagged,73,68.881,50.45,2.905
+2026-10,UMD est.,12m,untagged ex hospitals 184-186,70,60.101,57.82,2.93
+2026-10,UMD est.,3m_ann,energy final,42,18.048,69.015,6.539
+2026-10,UMD est.,3m_ann,energy ex 241 restaurants,41,12.393,54.875,7.659
+2026-10,UMD est.,3m_ann,energy ex 187 nursing homes,41,16.588,75.086,7.012
+2026-10,UMD est.,3m_ann,energy ex 241 and 187,40,10.933,62.2,8.526
+2026-10,UMD est.,3m_ann,energy strict 5%,16,3.586,75.074,12.409
+2026-10,UMD est.,3m_ann,untagged,73,68.84,40.308,3.323
+2026-10,UMD est.,3m_ann,untagged ex hospitals 184-186,70,59.935,46.297,3.383

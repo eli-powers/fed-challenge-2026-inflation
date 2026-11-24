@@ -1,0 +1,98 @@
+group,series_key,old_latest,new_latest,meta_latest_obs,meta_latest_release,release_dates_csv,retrieval_date
+bls,cpi_u_all_items_nsa,2026-08,2026-10,2026-10-01,2026-11-10,2026-11-10,2026-11-10
+bls,cpi_u_all_items_sa,2026-08,2026-10,2026-10-01,2026-11-10,2026-11-10,2026-11-10
+bls,cpi_u_core_nsa,2026-08,2026-10,2026-10-01,2026-11-10,2026-11-10,2026-11-10
+bls,cpi_u_core_sa,2026-08,2026-10,2026-10-01,2026-11-10,2026-11-10,2026-11-10
+bls,eci_civilian_benefits,2026-04,2026-07,2026-07-01,2026-10-30,2026-10-30,2026-11-10
+bls,eci_civilian_total_compensation,2026-04,2026-07,2026-07-01,2026-10-30,2026-10-30,2026-11-10
+bls,eci_civilian_wages_and_salaries,2026-04,2026-07,2026-07-01,2026-10-30,2026-10-30,2026-11-10
+bls,eci_private_benefits,2026-04,2026-07,2026-07-01,2026-10-30,2026-10-30,2026-11-10
+bls,eci_private_total_compensation,2026-04,2026-07,2026-07-01,2026-10-30,2026-10-30,2026-11-10
+bls,eci_private_wages_and_salaries,2026-04,2026-07,2026-07-01,2026-10-30,2026-10-30,2026-11-10
+bls,ppi_final_demand_nsa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,ppi_final_demand_sa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,ppi_final_demand_trade_services_nsa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,ppi_final_demand_trade_services_sa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,ppi_intermediate_61_nsa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,ppi_intermediate_61_sa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,ppi_intermediate_62_nsa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,ppi_intermediate_62_sa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,ppi_intermediate_63_nsa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,ppi_intermediate_63_sa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,ppi_personal_consumption_trade_nsa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,ppi_personal_consumption_trade_sa,2026-08,2026-09,2026-09-01,2026-10-15,2026-10-15,2026-11-10
+bls,productivity_hourly_compensation,2026-04,2026-07,2026-07-01,2026-11-05,2026-11-05,2026-11-10
+bls,productivity_labor_productivity,2026-04,2026-07,2026-07-01,2026-11-05,2026-11-05,2026-11-10
+bls,productivity_unit_labor_costs,2026-04,2026-07,2026-07-01,2026-11-05,2026-11-05,2026-11-10
+bea,pce_core_price,2026-08,2026-09,2026-09,"2026-10-29 (Personal Income and Outlays, September 2026)",2026-10-29,2026-11-10
+bea,pce_goods_ex_food_energy_price,2026-08,2026-09,2026-09,"2026-10-29 (Personal Income and Outlays, September 2026)",2026-10-29,2026-11-10
+bea,pce_market_based_core_price,2026-08,2026-09,2026-09,"2026-10-29 (Personal Income and Outlays, September 2026)",2026-10-29,2026-11-10
+bea,pce_market_based_price,2026-08,2026-09,2026-09,"2026-10-29 (Personal Income and Outlays, September 2026)",2026-10-29,2026-11-10
+bea,pce_price,2026-08,2026-09,2026-09,"2026-10-29 (Personal Income and Outlays, September 2026)",2026-10-29,2026-11-10
+bea,pce_services_ex_energy_housing_price,2026-08,2026-09,2026-09,"2026-10-29 (Personal Income and Outlays, September 2026)",2026-10-29,2026-11-10
+fed_expectations,cleveland_trimmed_mean_cpi_12m,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,cleveland_trimmed_mean_cpi_trim_ann_monthly_chg,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,cleveland_trimmed_mean_cpi_trim_monthly_chg,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,dallas_trimmed_mean_pce_12m,2026-08,2026-09,2026-09-01,2026-10-29,2026-10-29,2026-11-10
+fed_expectations,dallas_trimmed_mean_pce_1m_ann,2026-08,2026-09,2026-09-01,2026-10-29,2026-10-29,2026-11-10
+fed_expectations,dallas_trimmed_mean_pce_6m_ann,2026-08,2026-09,2026-09-01,2026-10-29,2026-10-29,2026-11-10
+fed_expectations,fred_t10yie,2026-09,2026-11,2026-11-10,,,2026-11-10
+fed_expectations,fred_t5yie,2026-09,2026-11,2026-11-10,,,2026-11-10
+fed_expectations,fred_t5yifr,2026-09,2026-11,2026-11-10,,,2026-11-10
+fed_expectations,nyfed_sce_1y_inflation_expectation,2026-08,2026-10,2026-10-01,,,2026-11-10
+fed_expectations,nyfed_sce_3y_inflation_expectation,2026-08,2026-10,2026-10-01,,,2026-11-10
+fed_expectations,nyfed_sce_5y_inflation_expectation,2026-08,2026-10,2026-10-01,,,2026-11-10
+fed_expectations,spf_corecpi_corecpi1,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corecpi_corecpi2,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corecpi_corecpi3,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corecpi_corecpi4,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corecpi_corecpi5,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corecpi_corecpi6,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corecpi_corecpia,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corecpi_corecpib,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corecpi_corecpic,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corepce_corepce1,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corepce_corepce2,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corepce_corepce3,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corepce_corepce4,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corepce_corepce5,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corepce_corepce6,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corepce_corepcea,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corepce_corepceb,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_corepce_corepcec,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_cpi10_cpi10,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_cpi5yr_cpi5yr,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_cpi_cpi1,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_cpi_cpi2,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_cpi_cpi3,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_cpi_cpi4,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_cpi_cpi5,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_cpi_cpi6,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_cpi_cpia,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_cpi_cpib,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_cpi_cpic,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_pce10_pce10,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_pce5yr_pce5yr,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_pce_pce1,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_pce_pce2,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_pce_pce3,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_pce_pce4,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_pce_pce5,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_pce_pce6,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_pce_pcea,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_pce_pceb,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,spf_pce_pcec,2026-07,2026-07,2026-07-01,2026-08-14,2026-08-14,2026-11-10
+fed_expectations,sticky_price_cpi_core_12m,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,sticky_price_cpi_core_3m_ann,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,sticky_price_cpi_core_mom,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,sticky_price_cpi_core_other:1-month annualized,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,sticky_price_cpi_headline_12m,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,sticky_price_cpi_headline_3m_ann,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,sticky_price_cpi_headline_mom,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,sticky_price_cpi_headline_other:1-month annualized,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,sticky_price_cpi_less_shelter_12m,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,sticky_price_cpi_less_shelter_3m_ann,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,sticky_price_cpi_less_shelter_mom,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,sticky_price_cpi_less_shelter_other:1-month annualized,2026-08,2026-10,2026-10-01,,2026-11-10,2026-11-10
+fed_expectations,umich_1y_expected_price_change_median,2026-09,2026-10,2026-10-01,,,2026-11-10
+fed_expectations,umich_5to10y_expected_price_change_median,2026-09,2026-10,2026-10-01,,,2026-11-10

@@ -1,0 +1,54 @@
+bea_line,t244_source,handbook_phrase,handbook_pdf_pages,classification,note,share_of_headline_sep2026
+15,CPI Used cars and trucks,Dealers' margins: PPI for used vehicle sales at new car dealers,105,conflict,Handbook prices used-vehicle dealer margins with a PPI; T244 uses CPI Used cars and trucks,0.0016108472981964
+19,CPI Used cars and trucks,Dealers' margins: PPI for used vehicle sales at new car dealers,105,conflict,Handbook prices used-vehicle dealer margins with a PPI; T244 uses CPI Used cars and trucks,0.0027431347031414
+50,"BEA Composite index of CPI/PPIs (Fixed-weighted CPI for Computer software and accessories, and PPIs for Game software publishing and for Hosting, ASP, and other IT infrastructure provisioning services",CPI for computer software and accessories,106,conflict,Handbook lists CPI only; T244 adds PPIs for game software publishing and hosting/ASP (composite),0.011162047639535
+299,"BEA Composite index of PPIs (Fixed-weighted PPIs for Civil negligence legal services, for Other legal services, for Wills, estate planning, and probate, for Real estate legal services, and for Labor and employment legal services.",CPI for legal services,126,conflict,Handbook: CPI for legal services (legal services and professional association dues); T244: fixed-weighted composite of five PPIs,0.0075126999863713
+305,"BEA Composite index of PPIs (Fixed-weighted PPIs for Civil negligence legal services, for Other legal services, for Wills, estate planning, and probate, for Real estate legal services, and for Labor and employment legal services.",CPI for legal services,126,conflict,Handbook: CPI for legal services (legal services and professional association dues); T244: fixed-weighted composite of five PPIs,0.0006980427368014
+268,"Implicit: Quantity extrapolation based on CES employment and hours data. Current-dollar extrapolation based on quarterly QSS data and judgmental trend. ""Out months informed by market indicators and judgmental trend.",Fixed-weighted average of PPI for Portfolio management and PPI for investment advice,123,conflict,"Handbook names two PPIs; T244 says implicit (quantity extrapolation, QSS) and out months from market indicators and judgmental trend",0.0169374571879295
+302,PPI Employment placement services,PPI for employment placement agencies,126,wording,Handbook: employment placement agencies-primary services; T244: Employment placement services,7.49127724940965e-05
+211,"CPI Club membership for shopping clubs, fraternal, or other organizations, or participant sports fees",CPI for club dues and fees for participant sports and group exercises,117,wording,Older CPI item name; T244 uses current BLS item SERF01,0.0039182230440952
+219,"CPI Cable, satellite, and live streaming television service",CPI for cable and satellite television service,119,wording,Older CPI item name (now includes live streaming),0.0030489765632585
+220,CPI Photo processing,Photo processing: CPI for film processing,119,wording,Older CPI item name,5.905727486752197e-05
+224,CPI Subscription and rental of video and video games,Video streaming and rental: CPI for rental of video discs and other media,119,conflict,Different CPI item: T244 uses Subscription and rental of video and video games,0.0031851289684395
+216,CPI Admission to sporting events & judgmental trend,Spectator sports: CPI for admission to sporting events,117,wording,"T244 adds ""& judgmental trend""",0.0022495655326422
+301,CPI Tax preparation and other accounting fees & judgmental trend,CPI for tax return preparation and other accounting fees,126,wording,"T244 adds ""& judgmental trend""",0.002443349999421
+296,CPI Day care and preschool,Nursery: CPI for child care and nursery school,125,wording,Older CPI item name (now Day care and preschool),0.0010048644310415
+316,CPI Day care and preschool,Child care: CPI for child care and nursery school,128,wording,Older CPI item name,0.0031612566461703
+240,CPI Full service meals and snacks,Meals at schools: CPI for food at employee sites and schools,120,conflict,Handbook prices all meals at schools with food at employee sites and schools; T244 line 240 (higher education lunches) uses Full service meals and snacks,0.0010738536608829
+247,CPI Full service meals and snacks,CPI for food at employee sites and schools,120;121,conflict,Handbook (food furnished to employees incl. military) uses food at employee sites and schools; T244 uses Full service meals and snacks,0.0016006035778197
+248,CPI Full service meals and snacks,CPI for food at employee sites and schools,120;121,conflict,Handbook (food furnished to employees incl. military) uses food at employee sites and schools; T244 uses Full service meals and snacks,0.0001230137203499
+163,"Implicit. Quantity extrapolation based on annual real-dollar net stock of farm housing from BEA capital stock estimates. Current-dollar extrapolation based on gross rental value of farm dwellings from USDA. ""Out months"" based on CPI owners equivalent rent of primary residence.",For current quarterly based on CPI for owners' equivalent rent of primary residence,112,consistent,,0.001368650118159
+255,"Implicit: Quantity extrapolation based on BLS banking output index. Current-dollar extrapolation based on quarterly FDIC interest paid and interest received data. ""Out months"" based on judgmental trend.","Commercial banks: for annual, quantity extrapolation, using BLS banking output indexes; for quarterly, judgmental trend",122,consistent,,0.0125051775325817
+256,"BEA annual composite index. For other depository institutions, the annual price index is based on the PCE deflator for financial services furnished without payment by commercial banks. For regulated investment companies, the annual price index is based on a fixed-weighted input cost index of BLS CES and PPIs. ""Out months"" based on judgmental trend.",PCE deflator for services furnished without payment by commercial banks,122,consistent,,0.0119388779474078
+174,PPI Offices of physicians,PPI for offices of physicians,114,consistent,,0.039737618237029
+177,PPI Home health care services,Home health care: PPI for home health care services,114,consistent,,0.010501416751066
+178,BEA Composite index of fixed-weighted PPIs for Medical laboratories and for Diagnostic imaging centers,Medical laboratories: PPI for medical laboratories and PPI for diagnostic imaging centers,114,consistent,weights not stated in either,0.0025323367529544
+184,PPI Hospitals,PPI for hospitals,114,consistent,,0.0532574585418821
+185,PPI Hospitals,PPI for hospitals,114,consistent,,0.0090718387656227
+186,PPI Hospitals,PPI for hospitals,114,consistent,,0.016158489060152
+188,PPI Nursing care facilities,PPI for nursing care facilities,115,consistent,,0.0035310549517698
+189,PPI Nursing care facilities,PPI for nursing care facilities,115,consistent,,0.0094268950214628
+207,PPI Domestic scheduled passenger air transportation,PPI for domestic scheduled passenger air transportation,117,consistent,,0.0105871967747423
+262,"PPI Brokerage services, equities and ETFs","PPI for brokerage services, equities and ETFs",122,consistent,securities commissions block,0.000468138021216
+263,"PPI Brokerage services, all other securities","PPI for brokerage services, equities and ETFs",122,consistent,securities commissions block,0.0002034491942645
+265,"PPI Dealer transactions, equities securities","PPI for brokerage services, equities and ETFs",122,consistent,securities commissions block,0.0002916342653337
+266,"PPI Dealer transactions, debt securities and all other trading","PPI for brokerage services, equities and ETFs",122,consistent,securities commissions block,0.0004765111491761
+267,PPI Other securities related services including margin lending and mutual fund sales,"PPI for brokerage services, equities and ETFs",122,consistent,securities commissions block,0.0004745514809302
+269,PPI Commercial bank trust services,PPI for Commercial bank trust services,123,consistent,,0.001284785224814
+271,"BEA input cost index. Fixed-weighted index of BLS CES data, PPIs, and CPIs.",BEA composite index of input costs,123;126;128,consistent,"life insurance; also labor org dues, NPISH",0.0058527273682813
+272,,PPI for homeowners' insurance,123,consistent,,
+276,,PPI for direct health and medical insurance carriers,123,consistent,,0.0117905666915188
+277,,Income loss: CPI for all items,124,consistent,,0.0002273215165338
+279,,PPI for private passenger auto insurance,124,consistent,,0.0050582600461947
+285,Fixed weighted average of CPI Wireless telephone services and CPI Smartphones,Fixed-weighted average of CPI for wireless telephone services and CPI for smartphones,124,consistent,weights not stated in either,0.0079752707682523
+283,CPI Land-line telephone services,CPI for land line telephone services,124,consistent,BLS item now appears as Residential telephone services (SEED04) - unverified rename,0.0003031695852362
+284,CPI Land-line telephone services,CPI for land line telephone services,124,consistent,BLS item now appears as Residential telephone services (SEED04) - unverified rename,0.0002000643127487
+328,"CPIs for Domestic services, for Food at home, and for Laundry and dry cleaning services","Domestic services: CPI for domestic services, CPI for food at home, and CPI for laundry and dry cleaning services",128,consistent,,0.001736711445086
+103,"BEA Composite of USDA prices received by farmers (Fixed-weighted average of USDA prices for Fruits and nuts, Commercial vegetables, Potatoes and dry beans, Meat animals, Dairy products, and Poultry and eggs)",BEA composite index of USDA prices received by farmers,108,consistent,,4.4181611363938006e-05
+111,PPI Apparel,Standard clothing issued military: PPI for apparel,109,consistent,,2.329332937836651e-05
+227,CPI All Items,CPI for all items,119;124,consistent,gambling,0.0073471970954153
+228,CPI All Items,CPI for all items,119;124,consistent,gambling,0.0023884347506188
+229,CPI All Items,CPI for all items,119;124,consistent,gambling,0.0003041494193592
+251,"CPI Housing at school, excluding board","Housing at schools: CPI for housing at school, excluding board",121,consistent,BLS item is Lodging while at school (SEHB01),0.0021998166819431
+54,CPI New motorcycles,CPI for new motorcycles,107,consistent,but BLS US-average series ended 2000M05 (see A_stale_series.csv),0.0009895433883911
+342,,Calculated as line 112 minus line 113,130,consistent,NPISH = gross output less receipts,

@@ -1,0 +1,9 @@
+quarter,brent_usd_daily_mean,brent_usd_mean_of_monthly,days_observed,complete,first_date,last_date,source
+2025Q1,75.875,75.814,63,True,2025-01-02,2025-03-31,"EIA RBRTE daily spot FOB, $/bbl NSA, release 2026-11-12; quarterly = simple mean of trading-day observations"
+2025Q2,68.067,68.011,61,True,2025-04-01,2025-06-30,"EIA RBRTE daily spot FOB, $/bbl NSA, release 2026-11-12; quarterly = simple mean of trading-day observations"
+2025Q3,69.031,68.966,65,True,2025-07-01,2025-09-30,"EIA RBRTE daily spot FOB, $/bbl NSA, release 2026-11-12; quarterly = simple mean of trading-day observations"
+2025Q4,63.654,63.628,64,True,2025-10-01,2025-12-31,"EIA RBRTE daily spot FOB, $/bbl NSA, release 2026-11-12; quarterly = simple mean of trading-day observations"
+2026Q1,80.72,80.208,63,True,2026-01-02,2026-03-31,"EIA RBRTE daily spot FOB, $/bbl NSA, release 2026-11-12; quarterly = simple mean of trading-day observations"
+2026Q2,102.626,103.275,61,True,2026-04-01,2026-06-30,"EIA RBRTE daily spot FOB, $/bbl NSA, release 2026-11-12; quarterly = simple mean of trading-day observations"
+2026Q3,96.3,96.331,65,True,2026-07-01,2026-09-30,"EIA RBRTE daily spot FOB, $/bbl NSA, release 2026-11-12; quarterly = simple mean of trading-day observations"
+2026Q4,116.726,110.425,30,False,2026-10-01,2026-11-11,"EIA RBRTE daily spot FOB, $/bbl NSA, release 2026-11-12; quarterly = simple mean of trading-day observations"

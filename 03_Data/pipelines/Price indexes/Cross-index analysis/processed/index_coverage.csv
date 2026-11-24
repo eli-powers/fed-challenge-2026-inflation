@@ -1,0 +1,12 @@
+index,source_name,n_components,weight_covered_pct,sum_contrib_12m,sum_contrib_3m_ann
+CPI headline,CPI-U headline,171,95.30547106167776,3.431352416699167,4.41800339941542
+CPI core,CPI-U core,107,99.4874320746335,2.4401540121206122,3.3751474144527704
+PCE headline,PCE headline,177,99.697979,3.73605008,3.676144861616603
+PCE core,PCE core,149,100.0,3.183872612692685,3.0323972046180097
+PCE supercore (services ex energy & housing),PCE services ex energy & housing,78,100.0,3.6679474784928794,3.528399999139209
+Market-based PCE headline,Market-based headline,159,100.00000499999999,3.80261642,3.7421495231483086
+Market-based PCE core,Market-based core,132,100.00000000000001,3.1498413839963018,2.981386161197164
+PPI final demand,PPI Final Demand,33,100.0,6.349925514302973,8.229359219703113
+PPI intermediate: processed goods,PPI Intermediate Demand ID61,13,100.0,14.289205632651294,17.264672963570224
+PPI intermediate: unprocessed goods,PPI Intermediate Demand ID62,5,100.0,21.234438240061,41.6061279834859
+PPI intermediate: services,PPI Intermediate Demand ID63,8,100.0,6.341941461725272,7.546284807604687

@@ -1,0 +1,194 @@
+cell,kind,live,build
+A2,text,"Published (BEA NIPA Table 2.8.4 line 28, PCE services excluding energy and housing): 3.46% 12m, 2.33% 3m annualized, August 2026 (post-revision). Components = PCE services leaves (BEA U20404 line >= 150) excluding housing (lines 153-164) and electricity & gas (169-171); 77 components. Summed contributions: 3.48% 12m.",Notes as of Aug 2026 data (Oct 2 workbook)
+M2,added,,Current notes
+A3,text,"KEY FINDING (revised): financial fees now add +0.34 pp of the 3.48% (5.1% weight, +6.6% y/y; was +0.72 pp before BEA's method change). Excluding them supercore is ~3.31%; also excluding imputed bank services ~3.36%; also excluding air transportation ~3.02% (weighted component averages; calculated). Hospitals (+5.2% annualized over 3 months) are the item accelerating.","Published (BEA NIPA Table 2.8.4 line 28, PCE services excluding energy and housing): 3.46% 12m, 2.33% 3m annualized, August 2026 (post-revision). Components = PCE services leaves (BEA U20404 line >= 150) excluding housing (lines 153-164) and electricity & gas (169-171); 77 components. Summed contributions: 3.48% 12m."
+A4,text,"PCE supercore (services ex energy & housing): 3.46% 12m, 2.33% 3m ann. (Aug 2026)","KEY FINDING (revised): financial fees now add +0.34 pp of the 3.48% (5.1% weight, +6.6% y/y; was +0.72 pp before BEA's method change). Excluding them supercore is ~3.31%; also excluding imputed bank services ~3.36%; also excluding air transportation ~3.02% (weighted component averages; calculated). Hospitals (+5.2% annualized over 3 months) are the item accelerating."
+A5,text,Rank,"PCE supercore (services ex energy & housing): 3.60% 12m, 3.37% 3m ann. (Sep 2026)"
+B5,removed,Component,
+C5,removed,Flag,
+D5,removed,Weight now (% of index),
+E5,removed,Weight at start of 12m (%),
+F5,removed,12m %,
+G5,removed,12m contribution (pp),
+H5,removed,3m ann. %,
+I5,removed,3m ann. contribution (pp),
+J5,removed,3-mo direction,
+K5,removed,Excess vs 2018-19 (pp),
+L5,removed,Source ID,
+A6,text,Up #1,Rank
+B6,text,Nonprofit hospitals' services to households,Component
+C6,added,,Flag
+D6,text,10.59667453452381,Weight now (% of index)
+E6,text,10.4195079541439,Weight at start of 12m (%)
+F6,text,3.51361456,12m %
+G6,text,0.3661013485571583,12m contribution (pp)
+H6,text,5.19756888,3m ann. %
+I6,text,0.5415739249436439,3m ann. contribution (pp)
+J6,text,Accelerating,3-mo direction
+K6,text,0.1359631895927729,Excess vs 2018-19 (pp)
+L6,text,U20404 line 184 / U20405 line 184 (DNPHRG),Source ID
+A7,text,Up #2,Up #1
+D7,number,1.990095692673202,2.092415877853761
+E7,number,1.809557300892639,1.82866984135631
+F7,number,19.44950713,20.51085878
+G7,number,0.3519499762585493,0.3750758887130426
+H7,number,13.17647912,29.97548025
+I7,number,0.2489828765394965,0.536317516383963
+J7,text,Easing,Accelerating
+K7,number,0.3342276635181246,0.3736197710580495
+A8,text,Up #3,Up #2
+B8,text,Other purchased meals,"Financial service charges, fees, and commissions (108)"
+C8,added,,Asset-price
+D8,number,9.958996429636564,5.307714704454955
+E8,number,10.063643980059,5.099092984896932
+F8,number,3.33934831,6.84048301
+G8,number,0.3360601251725171,0.3488025892959764
+H8,number,2.96263151,5.15601474
+I8,number,0.2925071726847609,0.273415520982387
+J8,text,Steady,Easing
+K8,number,0.0487378107755854,0.1458306445945074
+L8,text,U20404 line 241 / U20405 line 241 (DOPMRG),U20404 line 258 / U20405 line 258 (DOFIRG)
+A9,text,Up #4,Up #3
+B9,text,"Financial service charges, fees, and commissions (108)",Other purchased meals
+C9,removed,Asset-price,
+D9,number,5.286522917296404,10.04496978653611
+E9,number,5.060767298895255,10.04513487752642
+F9,number,6.63251157,3.4666593
+G9,number,0.3356559766300042,0.3482306024293131
+H9,number,3.56801876,3.03019192
+I9,number,0.188465528271948,0.2999484352653658
+J9,text,Easing,Steady
+K9,number,0.1342539376816456,0.0619469017623522
+L9,text,U20404 line 258 / U20405 line 258 (DOFIRG),U20404 line 241 / U20405 line 241 (DOPMRG)
+A10,text,Up #5,Up #4
+B10,text,Paramedical services (46),Nonprofit hospitals' services to households
+D10,number,6.364487872463903,10.52561157984751
+E10,number,6.27641275548333,10.41298519983429
+F10,number,3.7540711,3.33667159
+G10,number,0.2356209973703133,0.3474471188337755
+H10,number,3.07317836,2.09133883
+I10,number,0.1946825133622746,0.2223381563585776
+J10,text,Steady,Easing
+K10,number,0.1741348417006872,0.1164270694652615
+L10,text,U20404 line 176 / U20405 line 176 (DPMSRG),U20404 line 184 / U20405 line 184 (DNPHRG)
+A11,text,Down #1,Up #5
+B11,text,Other road transportation service,Paramedical services (46)
+C11,removed,Energy spillover,
+D11,number,0.3863397305667348,6.304630153951626
+E11,number,0.3858158089878153,6.306179971845117
+F11,number,-3.69840727,3.34675607
+G11,number,-0.0142690399284146,0.2110524609928507
+H11,number,-14.86441844,2.04931333
+I11,number,-0.0599693289647544,0.1313412284184237
+K11,number,-0.0136106753033172,0.1468174052440837
+L11,text,U20404 line 206 / U20405 line 206 (DORTRG),U20404 line 176 / U20405 line 176 (DPMSRG)
+A12,text,Down #2,Down #1
+B12,text,Membership clubs and participant sports centers,"Moving, storage, and freight services"
+C12,added,,Energy spillover
+D12,number,0.7706493953045289,0.2154019137367798
+E12,number,0.8001872078930047,0.2187896952668245
+F12,number,-1.33778998,-7.0788982
+G12,number,-0.0107048242884343,-0.0154878998000287
+H12,number,0.36218373,-19.3441971
+I12,number,0.0028367244758726,-0.0457392281439411
+J12,text,Accelerating,Easing
+K12,number,-0.0315359567586196,-0.0264269688392578
+L12,text,U20404 line 211 / U20405 line 211 (DMDFRG),U20404 line 329 / U20405 line 329 (DMSERG)
+A13,text,Down #3,Down #2
+B13,text,"Moving, storage, and freight services",Membership clubs and participant sports centers
+C13,removed,Energy spillover,
+D13,number,0.2149040349695261,0.7743828151847668
+E13,number,0.214557634979951,0.8018337347388493
+F13,number,-4.58587823,-1.08095694
+G13,number,-0.0098393518733484,-0.0086674774029207
+H13,number,-12.28471919,3.52781362
+I13,number,-0.0284854305933616,0.0274497212256002
+J13,text,Easing,Accelerating
+K13,number,-0.0210082851845631,-0.0296998621392327
+L13,text,U20404 line 329 / U20405 line 329 (DMSERG),U20404 line 211 / U20405 line 211 (DMDFRG)
+A14,text,Down #4,Down #3
+B14,text,Motor vehicle leasing,Other road transportation service
+C14,added,,Energy spillover
+D14,number,0.5209315121281692,0.3803927161349471
+E14,number,0.5289884357794045,0.3845615105137955
+F14,number,-0.9621314,-0.97986704
+G14,number,-0.0050895638430024,-0.0037681914900508
+H14,number,-0.01500212,-3.70456523
+I14,number,-7.921367982977276e-05,-0.0144220995003325
+J14,text,Steady,Easing
+K14,number,-0.0119854513190708,-0.0030600340946998
+L14,text,U20404 line 194 / U20405 line 194 (DMVLRG),U20404 line 206 / U20405 line 206 (DORTRG)
+A15,text,Down #5,Down #4
+B15,text,Spectator sports,Water transportation (65)
+C15,added,,Energy spillover
+D15,number,0.4346161205865434,0.070708367521133
+E15,number,0.4156744286715259,0.0684603659183265
+F15,number,-0.831346,-0.9798053
+G15,number,-0.0034556927357835,-0.0006707782936671
+H15,number,1.20978153,-3.70433501
+I15,number,0.0051876003877132,-0.0026964740056452
+J15,text,Accelerating,Easing
+K15,number,-0.012223477951711,-0.0005687725718748
+L15,text,U20404 line 216 / U20405 line 216 (DSPERG),U20404 line 208 / U20405 line 208 (DWATRG)
+A16,added,,Down #5
+B16,added,,Motor vehicle leasing
+D16,added,,0.5181472490636582
+E16,added,,0.5354914911109759
+F16,added,,-0.11282971
+G16,added,,-0.0006041934964951
+H16,added,,1.91672604
+I16,added,,0.0101085999454418
+J16,added,,Accelerating
+K16,added,,-0.0075207584046396
+L16,added,,U20404 line 194 / U20405 line 194 (DMVLRG)
+A17,removed,Flagged AI / Energy / Asset-price items not in the top 5 (PCE supercore (services ex energy & housing)),
+A18,text,Rank,Flagged AI / Energy / Asset-price items not in the top 5 (PCE supercore (services ex energy & housing))
+B18,removed,Component,
+C18,removed,Flag,
+D18,removed,Weight now (% of index),
+E18,removed,Weight at start of 12m (%),
+F18,removed,12m %,
+G18,removed,12m contribution (pp),
+H18,removed,3m ann. %,
+I18,removed,3m ann. contribution (pp),
+J18,removed,3-mo direction,
+K18,removed,Excess vs 2018-19 (pp),
+L18,removed,Source ID,
+A19,added,,Rank
+B19,text,Motor vehicle rental,Component
+C19,text,Energy spillover,Flag
+D19,text,0.2973888149664842,Weight now (% of index)
+E19,text,0.2703320689052453,Weight at start of 12m (%)
+F19,text,3.48925201,12m %
+G19,text,0.0094325671479508,12m contribution (pp)
+H19,text,18.23144027,3m ann. %
+I19,text,0.0491852746419725,3m ann. contribution (pp)
+J19,text,Accelerating,3-mo direction
+K19,text,0.0108424315652519,Excess vs 2018-19 (pp)
+L19,text,U20404 line 197 / U20405 line 197 (DMVRRG),Source ID
+B20,text,Water transportation (65),Motor vehicle rental
+D20,number,0.0709019287663355,0.3009764897296674
+E20,number,0.069451288215488,0.2692245766826074
+F20,number,-3.69817733,9.14611321
+G20,number,-0.0025684317961781,0.0246235845725345
+H20,number,-14.8635515,19.5212449
+I20,number,-0.0112983079682478,0.0546787721598617
+J20,text,Easing,Accelerating
+K20,number,-0.0024977077636899,0.0279990560569091
+L20,text,U20404 line 208 / U20405 line 208 (DWATRG),U20404 line 197 / U20405 line 197 (DMVRRG)
+D21,number,0.0138365013077798,0.0133187156196695
+E21,number,0.0153071289750167,0.0153413861833481
+F21,number,-3.69836895,-0.97985675
+G21,number,-0.0005661141051484,-0.0001503236080611
+H21,number,-14.86427394,-3.70452686
+I21,number,-0.0025251478867681,-0.0005161826128597
+K21,number,-0.0004874699420962,-0.0001071570690445
+D22,number,0.0112029558708207,0.011030086344172
+E22,number,0.0116102530473889,0.0116443083655494
+F22,number,-3.69779417,-0.97970241
+G22,number,-0.0004293232603085,-0.0001140795696851
+H22,number,-14.86210682,-3.70395136
+I22,number,-0.0017589610241866,-0.0004179539720135
+K22,number,-0.0003946131629385,-8.871613490418156e-05
+A25,text,Measure,Measure (Notes as of Aug 2026 data (Oct 2 workbook); values are Aug 2026)
+D25,added,,Current notes

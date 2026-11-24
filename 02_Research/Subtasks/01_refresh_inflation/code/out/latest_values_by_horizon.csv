@@ -1,0 +1,137 @@
+group,series_key,value_type,horizon,date,value,sa,series_id
+bls,cpi_u_all_items_nsa,index_level,level,2026-10-01,337.511,NSA,CUUR0000SA0
+bls,cpi_u_all_items_nsa,published_rate,12m,2026-09-01,3.7,NSA,CUUR0000SA0
+bls,cpi_u_all_items_sa,index_level,level,2026-10-01,337.476,SA,CUSR0000SA0
+bls,cpi_u_all_items_sa,published_rate,MoM,2026-10-01,0.4,SA,CUSR0000SA0
+bls,cpi_u_core_nsa,index_level,level,2026-10-01,339.921,NSA,CUUR0000SA0L1E
+bls,cpi_u_core_nsa,published_rate,12m,2026-09-01,2.6,NSA,CUUR0000SA0L1E
+bls,cpi_u_core_sa,index_level,level,2026-10-01,339.9,SA,CUSR0000SA0L1E
+bls,cpi_u_core_sa,published_rate,MoM,2026-10-01,0.3,SA,CUSR0000SA0L1E
+bls,eci_civilian_benefits,index_level,level,2026-07-01,179.644,NSA,CIU1030000000000I
+bls,eci_civilian_benefits,published_rate,12m,2026-07-01,3.9,NSA,CIU1030000000000A
+bls,eci_civilian_benefits,published_rate,3m,2026-07-01,0.9,SA,CIS1030000000000Q
+bls,eci_civilian_total_compensation,index_level,level,2026-07-01,178.738,NSA,CIU1010000000000I
+bls,eci_civilian_total_compensation,published_rate,12m,2026-07-01,3.4,NSA,CIU1010000000000A
+bls,eci_civilian_total_compensation,published_rate,3m,2026-07-01,0.8,SA,CIS1010000000000Q
+bls,eci_civilian_wages_and_salaries,index_level,level,2026-07-01,178.358,NSA,CIU1020000000000I
+bls,eci_civilian_wages_and_salaries,published_rate,12m,2026-07-01,3.1,NSA,CIU1020000000000A
+bls,eci_civilian_wages_and_salaries,published_rate,3m,2026-07-01,0.7,SA,CIS1020000000000Q
+bls,eci_private_benefits,index_level,level,2026-07-01,172.113,NSA,CIU2030000000000I
+bls,eci_private_benefits,published_rate,12m,2026-07-01,3.9,NSA,CIU2030000000000A
+bls,eci_private_benefits,published_rate,3m,2026-07-01,0.9,SA,CIS2030000000000Q
+bls,eci_private_total_compensation,index_level,level,2026-07-01,178.086,NSA,CIU2010000000000I
+bls,eci_private_total_compensation,published_rate,12m,2026-07-01,3.4,NSA,CIU2010000000000A
+bls,eci_private_total_compensation,published_rate,3m,2026-07-01,0.8,SA,CIS2010000000000Q
+bls,eci_private_wages_and_salaries,index_level,level,2026-07-01,180.575,NSA,CIU2020000000000I
+bls,eci_private_wages_and_salaries,published_rate,12m,2026-07-01,3.1,NSA,CIU2020000000000A
+bls,eci_private_wages_and_salaries,published_rate,3m,2026-07-01,0.8,SA,CIS2020000000000Q
+bls,ppi_final_demand_nsa,index_level,level,2026-09-01,159.613,NSA,WPUFD4
+bls,ppi_final_demand_nsa,published_rate,12m,2026-09-01,6.3,NSA,WPUFD4
+bls,ppi_final_demand_sa,index_level,level,2026-09-01,159.78,SA,WPSFD4
+bls,ppi_final_demand_sa,published_rate,MoM,2026-09-01,1.3,SA,WPSFD4
+bls,ppi_final_demand_trade_services_nsa,index_level,level,2026-09-01,168.29,NSA,WPUFD423
+bls,ppi_final_demand_trade_services_nsa,published_rate,12m,2026-09-01,4.7,NSA,WPUFD423
+bls,ppi_final_demand_trade_services_sa,index_level,level,2026-09-01,168.163,SA,WPSFD423
+bls,ppi_final_demand_trade_services_sa,published_rate,MoM,2026-09-01,1.4,SA,WPSFD423
+bls,ppi_intermediate_61_nsa,index_level,level,2026-09-01,300.589,NSA,WPUID61
+bls,ppi_intermediate_61_nsa,published_rate,12m,2026-09-01,14.1,NSA,WPUID61
+bls,ppi_intermediate_61_sa,index_level,level,2026-09-01,299.443,SA,WPSID61
+bls,ppi_intermediate_61_sa,published_rate,MoM,2026-09-01,2.5,SA,WPSID61
+bls,ppi_intermediate_62_nsa,index_level,level,2026-09-01,295.982,NSA,WPUID62
+bls,ppi_intermediate_62_nsa,published_rate,12m,2026-09-01,21.5,NSA,WPUID62
+bls,ppi_intermediate_62_sa,index_level,level,2026-09-01,299.868,SA,WPSID62
+bls,ppi_intermediate_62_sa,published_rate,MoM,2026-09-01,8.4,SA,WPSID62
+bls,ppi_intermediate_63_nsa,index_level,level,2026-09-01,164.929,NSA,WPUID63
+bls,ppi_intermediate_63_nsa,published_rate,12m,2026-09-01,6.3,NSA,WPUID63
+bls,ppi_intermediate_63_sa,index_level,level,2026-09-01,164.9,SA,WPSID63
+bls,ppi_intermediate_63_sa,published_rate,MoM,2026-09-01,0.9,SA,WPSID63
+bls,ppi_personal_consumption_trade_nsa,index_level,level,2026-09-01,164.424,NSA,WPUFD42311
+bls,ppi_personal_consumption_trade_nsa,published_rate,12m,2026-09-01,4.5,NSA,WPUFD42311
+bls,ppi_personal_consumption_trade_sa,index_level,level,2026-09-01,164.276,SA,WPSFD42311
+bls,ppi_personal_consumption_trade_sa,published_rate,MoM,2026-09-01,0.9,SA,WPSFD42311
+bls,productivity_hourly_compensation,index_level,level,2026-07-01,151.663,SA,PRS85006103
+bls,productivity_hourly_compensation,published_rate,12m,2026-07-01,4.5,SA,PRS85006101
+bls,productivity_hourly_compensation,published_rate,3m_ann,2026-07-01,2.9,SA,PRS85006102
+bls,productivity_labor_productivity,index_level,level,2026-07-01,121.922,SA,PRS85006093
+bls,productivity_labor_productivity,published_rate,12m,2026-07-01,2.1,SA,PRS85006091
+bls,productivity_labor_productivity,published_rate,3m_ann,2026-07-01,3.6,SA,PRS85006092
+bls,productivity_unit_labor_costs,index_level,level,2026-07-01,124.393,SA,PRS85006113
+bls,productivity_unit_labor_costs,published_rate,12m,2026-07-01,2.4,SA,PRS85006111
+bls,productivity_unit_labor_costs,published_rate,3m_ann,2026-07-01,-0.7,SA,PRS85006112
+bea,pce_core_price,index_level,level,2026-09-01,130.902,SA,BEA T20804 line 25 (DPCCRG)
+bea,pce_core_price,published_rate,MoM,2026-09-01,0.3,SA,BEA T20807 line 25 (DPCCRGM)
+bea,pce_goods_ex_food_energy_price,index_level,level,2026-09-01,112.31,SA,BEA U20404 line 375 (IA000062)
+bea,pce_market_based_core_price,index_level,level,2026-09-01,128.206,SA,BEA T20804 line 31 (DPCXRG)
+bea,pce_market_based_core_price,published_rate,MoM,2026-09-01,0.3,SA,BEA T20807 line 31 (DPCXRGM)
+bea,pce_market_based_price,index_level,level,2026-09-01,130.103,SA,BEA T20804 line 30 (DPCMRG)
+bea,pce_market_based_price,published_rate,MoM,2026-09-01,0.5,SA,BEA T20807 line 30 (DPCMRGM)
+bea,pce_price,index_level,level,2026-09-01,132.257,SA,BEA T20804 line 1 (DPCERG)
+bea,pce_price,published_rate,MoM,2026-09-01,0.5,SA,BEA T20807 line 1 (DPCERGM)
+bea,pce_services_ex_energy_housing_price,index_level,level,2026-09-01,135.274,SA,BEA T20804 line 28 (IA001260)
+bea,pce_services_ex_energy_housing_price,published_rate,MoM,2026-09-01,0.4,SA,BEA T20807 line 28 (PP001260)
+fed_expectations,cleveland_trimmed_mean_cpi_12m,published_rate,12m,2026-10-01,2.8912,SA,mediancpi_chartdata.csv: trimmedmeancpi
+fed_expectations,cleveland_trimmed_mean_cpi_trim_ann_monthly_chg,published_rate,other:1-month annualized,2026-10-01,4.5,SA,trim_revised
+fed_expectations,cleveland_trimmed_mean_cpi_trim_monthly_chg,published_rate,MoM,2026-10-01,0.0036899743551173,SA,trim_revised
+fed_expectations,dallas_trimmed_mean_pce_12m,published_rate,12m,2026-09-01,2.26,SA,Dallas Fed trimmed mean PCE (FRED PCETRIM12M159SFR
+fed_expectations,dallas_trimmed_mean_pce_1m_ann,published_rate,other:1-month annualized,2026-09-01,2.84,SA,Dallas Fed trimmed mean PCE (FRED PCETRIM1M158SFRB
+fed_expectations,dallas_trimmed_mean_pce_6m_ann,published_rate,6m_ann,2026-09-01,2.42,SA,Dallas Fed trimmed mean PCE (FRED PCETRIM6M680SFRB
+fed_expectations,fred_t10yie,breakeven,other:10-Year Breakeven Inflation Rate,2026-11-10,2.2,not applicable,T10YIE
+fed_expectations,fred_t5yie,breakeven,other:5-Year Breakeven Inflation Rate,2026-11-10,2.25,not applicable,T5YIE
+fed_expectations,fred_t5yifr,breakeven,"other:5-Year, 5-Year Forward Inflation Expectation Rate",2026-11-10,2.15,not applicable,T5YIFR
+fed_expectations,nyfed_sce_1y_inflation_expectation,expectation,1-year-ahead,2026-10-01,3.914411306381226,not applicable,Median one-year ahead expected inflation rate
+fed_expectations,nyfed_sce_3y_inflation_expectation,expectation,3-year-ahead,2026-10-01,3.288007020950317,not applicable,Median three-year ahead expected inflation rate
+fed_expectations,nyfed_sce_5y_inflation_expectation,expectation,5-year-ahead,2026-10-01,3.0,not applicable,Median five-year ahead expected inflation rate
+fed_expectations,spf_corecpi_corecpi1,forecast,CORECPI1: real-time historical value for the quarter before ,2026-07-01,2.9,not applicable,CORECPI
+fed_expectations,spf_corecpi_corecpi2,forecast,"CORECPI2: forecast, annualized Q/Q % change, current (survey",2026-07-01,2.6722,not applicable,CORECPI
+fed_expectations,spf_corecpi_corecpi3,forecast,"CORECPI3: forecast, annualized Q/Q % change, 1 quarter(s) af",2026-07-01,2.7858,not applicable,CORECPI
+fed_expectations,spf_corecpi_corecpi4,forecast,"CORECPI4: forecast, annualized Q/Q % change, 2 quarter(s) af",2026-07-01,2.7564,not applicable,CORECPI
+fed_expectations,spf_corecpi_corecpi5,forecast,"CORECPI5: forecast, annualized Q/Q % change, 3 quarter(s) af",2026-07-01,2.5416,not applicable,CORECPI
+fed_expectations,spf_corecpi_corecpi6,forecast,"CORECPI6: forecast, annualized Q/Q % change, 4 quarter(s) af",2026-07-01,2.4733,not applicable,CORECPI
+fed_expectations,spf_corecpi_corecpia,forecast,"CORECPIAA: forecast, Q4/Q4 % change for survey year",2026-07-01,2.7815,not applicable,CORECPI
+fed_expectations,spf_corecpi_corecpib,forecast,"CORECPIBB: forecast, Q4/Q4 % change for year after survey ye",2026-07-01,2.5614,not applicable,CORECPI
+fed_expectations,spf_corecpi_corecpic,forecast,"CORECPICC: forecast, Q4/Q4 % change for two years after surv",2026-07-01,2.4,not applicable,CORECPI
+fed_expectations,spf_corepce_corepce1,forecast,COREPCE1: real-time historical value for the quarter before ,2026-07-01,3.4,not applicable,COREPCE
+fed_expectations,spf_corepce_corepce2,forecast,"COREPCE2: forecast, annualized Q/Q % change, current (survey",2026-07-01,2.7,not applicable,COREPCE
+fed_expectations,spf_corepce_corepce3,forecast,"COREPCE3: forecast, annualized Q/Q % change, 1 quarter(s) af",2026-07-01,2.6158,not applicable,COREPCE
+fed_expectations,spf_corepce_corepce4,forecast,"COREPCE4: forecast, annualized Q/Q % change, 2 quarter(s) af",2026-07-01,2.5766,not applicable,COREPCE
+fed_expectations,spf_corepce_corepce5,forecast,"COREPCE5: forecast, annualized Q/Q % change, 3 quarter(s) af",2026-07-01,2.4313,not applicable,COREPCE
+fed_expectations,spf_corepce_corepce6,forecast,"COREPCE6: forecast, annualized Q/Q % change, 4 quarter(s) af",2026-07-01,2.3261,not applicable,COREPCE
+fed_expectations,spf_corepce_corepcea,forecast,"COREPCEAA: forecast, Q4/Q4 % change for survey year",2026-07-01,3.2876,not applicable,COREPCE
+fed_expectations,spf_corepce_corepceb,forecast,"COREPCEBB: forecast, Q4/Q4 % change for year after survey ye",2026-07-01,2.4004,not applicable,COREPCE
+fed_expectations,spf_corepce_corepcec,forecast,"COREPCECC: forecast, Q4/Q4 % change for two years after surv",2026-07-01,2.1586,not applicable,COREPCE
+fed_expectations,spf_cpi10_cpi10,forecast,annual-average headline CPI inflation over the next 10 years,2026-07-01,2.3,not applicable,CPI10
+fed_expectations,spf_cpi5yr_cpi5yr,forecast,annual-average headline CPI inflation over the next 5 years ,2026-07-01,2.6,not applicable,CPI5YR
+fed_expectations,spf_cpi_cpi1,forecast,CPI1: real-time historical value for the quarter before the ,2026-07-01,6.1,not applicable,CPI
+fed_expectations,spf_cpi_cpi2,forecast,"CPI2: forecast, annualized Q/Q % change, current (survey) qu",2026-07-01,2.2758,not applicable,CPI
+fed_expectations,spf_cpi_cpi3,forecast,"CPI3: forecast, annualized Q/Q % change, 1 quarter(s) after ",2026-07-01,2.5227,not applicable,CPI
+fed_expectations,spf_cpi_cpi4,forecast,"CPI4: forecast, annualized Q/Q % change, 2 quarter(s) after ",2026-07-01,2.5034,not applicable,CPI
+fed_expectations,spf_cpi_cpi5,forecast,"CPI5: forecast, annualized Q/Q % change, 3 quarter(s) after ",2026-07-01,2.3208,not applicable,CPI
+fed_expectations,spf_cpi_cpi6,forecast,"CPI6: forecast, annualized Q/Q % change, 4 quarter(s) after ",2026-07-01,2.3744,not applicable,CPI
+fed_expectations,spf_cpi_cpia,forecast,"CPIAA: forecast, Q4/Q4 % change for survey year",2026-07-01,3.561,not applicable,CPI
+fed_expectations,spf_cpi_cpib,forecast,"CPIBB: forecast, Q4/Q4 % change for year after survey year",2026-07-01,2.3298,not applicable,CPI
+fed_expectations,spf_cpi_cpic,forecast,"CPICC: forecast, Q4/Q4 % change for two years after survey y",2026-07-01,2.3023,not applicable,CPI
+fed_expectations,spf_pce10_pce10,forecast,annual-average headline PCE inflation over the next 10 years,2026-07-01,2.2,not applicable,PCE10
+fed_expectations,spf_pce5yr_pce5yr,forecast,annual-average headline PCE inflation over the next 5 years ,2026-07-01,2.5,not applicable,PCE5YR
+fed_expectations,spf_pce_pce1,forecast,PCE1: real-time historical value for the quarter before the ,2026-07-01,5.1,not applicable,PCE
+fed_expectations,spf_pce_pce2,forecast,"PCE2: forecast, annualized Q/Q % change, current (survey) qu",2026-07-01,2.35,not applicable,PCE
+fed_expectations,spf_pce_pce3,forecast,"PCE3: forecast, annualized Q/Q % change, 1 quarter(s) after ",2026-07-01,2.55,not applicable,PCE
+fed_expectations,spf_pce_pce4,forecast,"PCE4: forecast, annualized Q/Q % change, 2 quarter(s) after ",2026-07-01,2.5,not applicable,PCE
+fed_expectations,spf_pce_pce5,forecast,"PCE5: forecast, annualized Q/Q % change, 3 quarter(s) after ",2026-07-01,2.3031,not applicable,PCE
+fed_expectations,spf_pce_pce6,forecast,"PCE6: forecast, annualized Q/Q % change, 4 quarter(s) after ",2026-07-01,2.2993,not applicable,PCE
+fed_expectations,spf_pce_pcea,forecast,"PCEAA: forecast, Q4/Q4 % change for survey year",2026-07-01,3.6067,not applicable,PCE
+fed_expectations,spf_pce_pceb,forecast,"PCEBB: forecast, Q4/Q4 % change for year after survey year",2026-07-01,2.3,not applicable,PCE
+fed_expectations,spf_pce_pcec,forecast,"PCECC: forecast, Q4/Q4 % change for two years after survey y",2026-07-01,2.1239,not applicable,PCE
+fed_expectations,sticky_price_cpi_core_12m,published_rate,12m,2026-10-01,3.0594676807845778,not applicable,12mo.3
+fed_expectations,sticky_price_cpi_core_3m_ann,published_rate,3m_ann,2026-10-01,3.7553266733097113,not applicable,3-mo a.r..3
+fed_expectations,sticky_price_cpi_core_mom,published_rate,MoM,2026-10-01,0.0038110183440204,SA,"Atlanta Fed sticky-price CPI workbook, column 'Cor"
+fed_expectations,sticky_price_cpi_core_other:1-month annualized,published_rate,other:1-month annualized,2026-10-01,4.670307715235311,not applicable,1-mo annualized percent change.3
+fed_expectations,sticky_price_cpi_headline_12m,published_rate,12m,2026-10-01,3.09439457905365,not applicable,12mo.2
+fed_expectations,sticky_price_cpi_headline_3m_ann,published_rate,3m_ann,2026-10-01,3.743000455600875,not applicable,3-mo a.r..2
+fed_expectations,sticky_price_cpi_headline_mom,published_rate,MoM,2026-10-01,0.0038707457533092,SA,"Atlanta Fed sticky-price CPI workbook, column 'Sti"
+fed_expectations,sticky_price_cpi_headline_other:1-month annualized,published_rate,other:1-month annualized,2026-10-01,4.745067595183761,not applicable,1-mo annualized percent change.2
+fed_expectations,sticky_price_cpi_less_shelter_12m,published_rate,12m,2026-10-01,2.8976794931194316,not applicable,12mo.4
+fed_expectations,sticky_price_cpi_less_shelter_3m_ann,published_rate,3m_ann,2026-10-01,4.187974385959481,not applicable,3-mo a.r..4
+fed_expectations,sticky_price_cpi_less_shelter_mom,published_rate,MoM,2026-10-01,0.0047111445258539,SA,"Atlanta Fed sticky-price CPI workbook, column 'Sti"
+fed_expectations,sticky_price_cpi_less_shelter_other:1-month annualized,published_rate,other:1-month annualized,2026-10-01,5.80218461889328,not applicable,1-mo annualized percent change.4
+fed_expectations,umich_1y_expected_price_change_median,expectation,next 12 months,2026-10-01,4.7,NSA,SCA tbmpx1px5.csv PX_MD
+fed_expectations,umich_5to10y_expected_price_change_median,expectation,next 5 to 10 years,2026-10-01,3.5,NSA,SCA tbmpx1px5.csv PX5_MD

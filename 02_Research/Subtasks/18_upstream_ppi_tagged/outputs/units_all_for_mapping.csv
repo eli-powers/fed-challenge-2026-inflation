@@ -1,0 +1,696 @@
+code,series,name,group4_code,group4_title,ri_stage4,ri_stage1
+011101,WPU011101,Citrus fruits,0111,"PPI Commodity data for Farm products-Fresh fruits and melons, not seasonally adjusted",0.032,0
+011102,WPU011102,Other fruits and berries,0111,"PPI Commodity data for Farm products-Fresh fruits and melons, not seasonally adjusted",0.182,0
+011103,WPU011103,Melons,0111,"PPI Commodity data for Farm products-Fresh fruits and melons, not seasonally adjusted",0.002,0
+011301,WPU011301,Dry vegetables,0113,"PPI Commodity data for Farm products-Fresh and dry vegetables, not seasonally adjusted",0.001,0.003
+011302,WPU011302,"Fresh vegetables, except potatoes",0113,"PPI Commodity data for Farm products-Fresh and dry vegetables, not seasonally adjusted",0.036,0
+011303,WPU011303,Sweet potatoes,0113,"PPI Commodity data for Farm products-Fresh and dry vegetables, not seasonally adjusted",0.001,0
+011306,WPU011306,Potatoes,0113,"PPI Commodity data for Farm products-Fresh and dry vegetables, not seasonally adjusted",0.007,0
+011901,WPU011901,Tree nuts,0119,"PPI Commodity data for Farm products-Tree nuts, not seasonally adjusted",0.068,0
+012101,WPU012101,Wheat,0121,"PPI Commodity data for Farm products-Wheat, not seasonally adjusted",0.04,0.135
+012201,WPU012201,Barley,0122,"PPI Commodity data for Farm products-Other grains, not seasonally adjusted",0.003,0.01
+012202,WPU012202,Corn,0122,"PPI Commodity data for Farm products-Other grains, not seasonally adjusted",0.262,0.87
+012203,WPU012203,Oats,0122,"PPI Commodity data for Farm products-Other grains, not seasonally adjusted",0.0,0.001
+012204,WPU012204,Rye,0122,"PPI Commodity data for Farm products-Other grains, not seasonally adjusted",0.0,0.001
+012205,WPU012205,Sorghum,0122,"PPI Commodity data for Farm products-Other grains, not seasonally adjusted",0.006,0.021
+012301,WPU012301,Rough rice,0123,"PPI Commodity data for Farm products-Rough rice, not seasonally adjusted",0.012,0.039
+013201,WPU013201,Slaughter barrows and gilts,0132,"PPI Commodity data for Farm products-Slaughter hogs, not seasonally adjusted",0.088,0.031
+013202,WPU013202,Slaughter sows,0132,"PPI Commodity data for Farm products-Slaughter hogs, not seasonally adjusted",0.003,0.001
+013301,WPU013301,Slaughter lambs,0133,"PPI Commodity data for Farm products-Slaughter lambs, not seasonally adjusted",0.005,0.002
+014102,WPU014102,Broilers and other meat type chickens,0141,"PPI Commodity data for Farm products-Slaughter chickens, not seasonally adjusted",0.032,0
+014201,WPU014201,Slaughter turkeys,0142,"PPI Commodity data for Farm products-Slaughter turkeys, not seasonally adjusted",0.007,0
+014301,WPU014301,Slaughter ducks,0143,"PPI Commodity data for Farm products-Slaughter ducks, not seasonally adjusted",0.001,0
+015101,WPU015101,Raw cotton,0151,"PPI Commodity data for Farm products-Raw cotton, not seasonally adjusted",0.049,0.006
+016101,WPU016101,Raw milk,0161,"PPI Commodity data for Farm products-Raw milk, not seasonally adjusted",0.023,0
+017108,WPU017108,Breaker stock and checks and undergrades,0171,"PPI Commodity data for Farm products-Chicken eggs, not seasonally adjusted",0.004,0
+018101,WPU018101,Hay and hayseeds,0181,"PPI Commodity data for Farm products-Hay and hayseeds, not seasonally adjusted",0.064,0.007
+018301,WPU018301,Oilseeds,0183,"PPI Commodity data for Farm products-Oilseeds, not seasonally adjusted",0.028,0.038
+021102,WPU021102,"Bread (white, wheat, rye, etc.), including frozen",0211,"PPI Commodity data for Processed foods and feeds-Bakery products, not seasonally adjusted",0.004,0
+021105,WPU021105,"Rolls (bread-type), muffins, bagels, and croissants",0211,"PPI Commodity data for Processed foods and feeds-Bakery products, not seasonally adjusted",0.004,0
+021107,WPU021107,"Other sweet goods, excluding frozen",0211,"PPI Commodity data for Processed foods and feeds-Bakery products, not seasonally adjusted",0.002,0
+021108,WPU021108,"Soft cakes, excluding frozen",0211,"PPI Commodity data for Processed foods and feeds-Bakery products, not seasonally adjusted",0.001,0
+021109,WPU021109,"Pies (fruit, cream, and custard), excluding frozen",0211,"PPI Commodity data for Processed foods and feeds-Bakery products, not seasonally adjusted",0.0,0
+021121,WPU021121,"Cookies, crackers, and related products",0211,"PPI Commodity data for Processed foods and feeds-Bakery products, not seasonally adjusted",0.003,0
+021130,WPU021130,"Retail bakery products, excluding retail trade",0211,"PPI Commodity data for Processed foods and feeds-Bakery products, not seasonally adjusted",0.001,0
+021203,WPU021203,Wheat flour,0212,"PPI Commodity data for Processed foods and feeds-Flour and flour base mixes and doughs, not seasonally adjusted",0.101,0.04
+021204,WPU021204,Flour base mixes and doughs,0212,"PPI Commodity data for Processed foods and feeds-Flour and flour base mixes and doughs, not seasonally adjusted",0.051,0.013
+021301,WPU021301,Head rice,0213,"PPI Commodity data for Processed foods and feeds-Milled rice and byproducts, not seasonally adjusted",0.011,0.004
+021302,WPU021302,"Milled rice (incl second heads, screenings, brewers, bran, sharps, rice flour, and byproducts)",0213,"PPI Commodity data for Processed foods and feeds-Milled rice and byproducts, not seasonally adjusted",0.008,0.003
+021402,WPU021402,"Dry macaroni, spaghetti, and egg noodle products, made from purchased flour",0214,"PPI Commodity data for Processed foods and feeds-Cereal and pasta products, not seasonally adjusted",0.001,0
+021409,WPU021409,"Cereal and mill products, other than flour",0214,"PPI Commodity data for Processed foods and feeds-Cereal and pasta products, not seasonally adjusted",0.117,0.063
+022101,WPU022101,"Beef and veal products, fresh or frozen",0221,"PPI Commodity data for Processed foods and feeds-Meats, not seasonally adjusted",0.464,0
+022103,WPU022103,"Lamb/mutton, fresh or frozen, not canned or made into sausage, made in slaughtering plants",0221,"PPI Commodity data for Processed foods and feeds-Meats, not seasonally adjusted",0.004,0
+022104,WPU022104,"Pork products, fresh, frozen, or processed, except sausage",0221,"PPI Commodity data for Processed foods and feeds-Meats, not seasonally adjusted",0.252,0
+022105,WPU022105,"Other meats, fresh, frozen, or canned",0221,"PPI Commodity data for Processed foods and feeds-Meats, not seasonally adjusted",0.346,0
+022203,WPU022203,"Young chickens, including bulk, chilled, frozen, whole, and in parts",0222,"PPI Commodity data for Processed foods and feeds-Processed poultry, not seasonally adjusted",0.23,0
+022206,WPU022206,"Turkeys, including frozen, whole, and in parts",0222,"PPI Commodity data for Processed foods and feeds-Processed poultry, not seasonally adjusted",0.084,0
+022208,WPU022208,"Canned, cooked, smoked or prepared poultry",0222,"PPI Commodity data for Processed foods and feeds-Processed poultry, not seasonally adjusted",0.122,0
+022209,WPU022209,Chicken hens and other poultry/small game,0222,"PPI Commodity data for Processed foods and feeds-Processed poultry, not seasonally adjusted",0.026,0
+022301,WPU022301,Unprocessed finfish,0223,"PPI Commodity data for Processed foods and feeds-Unprocessed and prepared seafood, not seasonally adjusted",0.021,0.005
+022304,WPU022304,"Canned seafood (including soups, stews, and chowders)",0223,"PPI Commodity data for Processed foods and feeds-Unprocessed and prepared seafood, not seasonally adjusted",0.022,0.003
+022305,WPU022305,Unprocessed shellfish,0223,"PPI Commodity data for Processed foods and feeds-Unprocessed and prepared seafood, not seasonally adjusted",0.034,0.008
+022306,WPU022306,Prepared fresh and frozen seafood,0223,"PPI Commodity data for Processed foods and feeds-Unprocessed and prepared seafood, not seasonally adjusted",0.189,0.031
+023103,WPU023103,Packaged fluid milk and related products,0231,"PPI Commodity data for Processed foods and feeds-Fluid milk products, not seasonally adjusted",0.065,0
+023104,WPU023104,Cottage cheese,0231,"PPI Commodity data for Processed foods and feeds-Fluid milk products, not seasonally adjusted",0.003,0
+023105,WPU023105,Other milk products,0231,"PPI Commodity data for Processed foods and feeds-Fluid milk products, not seasonally adjusted",0.039,0
+023106,WPU023106,Bulk fluid milk and cream,0231,"PPI Commodity data for Processed foods and feeds-Fluid milk products, not seasonally adjusted",0.061,0
+023201,WPU023201,Butter,0232,"PPI Commodity data for Processed foods and feeds-Butter, not seasonally adjusted",0.011,0
+023302,WPU023302,"Natural cheese, except cottage cheese",0233,"PPI Commodity data for Processed foods and feeds-Natural, processed, and imitation cheese, not seasonally adjusted",0.288,0
+023303,WPU023303,Processed cheese and related products,0233,"PPI Commodity data for Processed foods and feeds-Natural, processed, and imitation cheese, not seasonally adjusted",0.061,0
+023304,WPU023304,Cheese substitutes and imitations,0233,"PPI Commodity data for Processed foods and feeds-Natural, processed, and imitation cheese, not seasonally adjusted",0.004,0
+023307,WPU023307,Raw liquid whey,0233,"PPI Commodity data for Processed foods and feeds-Natural, processed, and imitation cheese, not seasonally adjusted",0.005,0
+023402,WPU023402,Ice cream and frozen desserts,0234,"PPI Commodity data for Processed foods and feeds-Ice cream and frozen desserts, not seasonally adjusted",0.118,0
+023502,WPU023502,"Dry milk products, including feed grade",0235,"PPI Commodity data for Processed foods and feeds-Dry, condensed, and evaporated milk products, not seasonally adjusted",0.035,0.014
+023503,WPU023503,Liquid milk products,0235,"PPI Commodity data for Processed foods and feeds-Dry, condensed, and evaporated milk products, not seasonally adjusted",0.01,0.004
+023505,WPU023505,Ice cream mixes and related products,0235,"PPI Commodity data for Processed foods and feeds-Dry, condensed, and evaporated milk products, not seasonally adjusted",0.004,0.002
+024101,WPU024101,"Canned fruits, excluding baby foods",0241,"PPI Commodity data for Processed foods and feeds-Canned fruits and juices, not seasonally adjusted",0.011,0
+024102,WPU024102,"Canned and fresh fruit juices, nectars, and concentrates",0241,"PPI Commodity data for Processed foods and feeds-Canned fruits and juices, not seasonally adjusted",0.019,0
+024202,WPU024202,Frozen fruits,0242,"PPI Commodity data for Processed foods and feeds-Frozen fruits, juices and ades, not seasonally adjusted",0.0,0
+024203,WPU024203,"Frozen juices, ades, drinks, and cocktails, including orange juice",0242,"PPI Commodity data for Processed foods and feeds-Frozen fruits, juices and ades, not seasonally adjusted",0.001,0
+024401,WPU024401,Canned vegetables and juices,0244,"PPI Commodity data for Processed foods and feeds-Canned vegetables and juices, not seasonally adjusted",0.039,0
+024502,WPU024502,"Frozen potato products (French-fried, patties, puffs, etc.)",0245,"PPI Commodity data for Processed foods and feeds-Frozen vegetables, not seasonally adjusted",0.003,0
+024505,WPU024505,"Frozen vegetables, other than potato products",0245,"PPI Commodity data for Processed foods and feeds-Frozen vegetables, not seasonally adjusted",0.003,0
+024801,WPU024801,Dried and dehydrated food,0248,"PPI Commodity data for Processed foods and feeds-Dried and dehydrated food, not seasonally adjusted",0.016,0
+025201,WPU025201,Raw cane sugar and sugarcane mill products and byproducts,0252,"PPI Commodity data for Processed foods and feeds-Raw cane sugar and sugar cane mill products and byproducts, not seasonally adjusted",0.036,0.007
+025307,WPU025307,Refined sugar products and byproducts,0253,"PPI Commodity data for Processed foods and feeds-Refined sugar products and byproducts, not seasonally adjusted",0.086,0.017
+025401,WPU025401,Confectionery materials,0254,"PPI Commodity data for Processed foods and feeds-Confectionery materials, not seasonally adjusted",0.171,0.141
+025502,WPU025502,"Chewing gum, bubble gum, and chewing gum base",0255,"PPI Commodity data for Processed foods and feeds-Confectionery end products, not seasonally adjusted",0.004,0.001
+025503,WPU025503,Candy and nuts,0255,"PPI Commodity data for Processed foods and feeds-Confectionery end products, not seasonally adjusted",0.116,0.013
+026101,WPU026101,Malt beverages,0261,"PPI Commodity data for Processed foods and feeds-Alcoholic beverages, not seasonally adjusted",0.164,0
+026102,WPU026102,"Distilled and bottled liquor, excluding brandy",0261,"PPI Commodity data for Processed foods and feeds-Alcoholic beverages, not seasonally adjusted",0.118,0.09
+026104,WPU026104,"Wines, brandy, and brandy spirits",0261,"PPI Commodity data for Processed foods and feeds-Alcoholic beverages, not seasonally adjusted",0.092,0
+026206,WPU026206,"Soft drinks, non-carbonated and bottled water",0262,"PPI Commodity data for Processed foods and feeds-Soft drinks, not seasonally adjusted",0.005,0
+026210,WPU026210,"Soft drinks, carbonated, bottle/can, all types",0262,"PPI Commodity data for Processed foods and feeds-Soft drinks, not seasonally adjusted",0.008,0
+026211,WPU026211,"Soft drinks, energy and sport",0262,"PPI Commodity data for Processed foods and feeds-Soft drinks, not seasonally adjusted",0.004,0
+026301,WPU026301,"Coffee (whole bean, ground, & instant)",0263,"PPI Commodity data for Processed foods and feeds-Packaged beverage materials, not seasonally adjusted",0.018,0
+026303,WPU026303,"Tea in consumer packages, exc. canned ice tea",0263,"PPI Commodity data for Processed foods and feeds-Packaged beverage materials, not seasonally adjusted",0.001,0
+026401,WPU026401,Other beverage materials,0264,"PPI Commodity data for Processed foods and feeds-Other beverage materials, not seasonally adjusted",0.225,0.012
+027101,WPU027101,"Lard, made in slaughtering plants",0271,"PPI Commodity data for Processed foods and feeds-Animal fats and oils, made in slaughtering plants, not seasonally adjusted",0.002,0
+027801,WPU027801,"Shortening, cooking oil, and margarine",0278,"PPI Commodity data for Processed foods and feeds-Shortening, cooking oil, and margarine, not seasonally adjusted",0.129,0.043
+027A01,WPU027A01,Other oilseed processing,027A,"PPI Commodity data for Processed foods and feeds-Other oilseed processing, not seasonally adjusted",0.131,0.16
+027B01,WPU027B01,"Corn oil, made by wet milling",027B,"PPI Commodity data for Processed foods and feeds-Corn oil, crude and refined, not seasonally adjusted",0.038,0.036
+028101,WPU028101,"Canned jams, jellies, and preserves",0281,"PPI Commodity data for Processed foods and feeds-Canned jams, jellies, and preserves, not seasonally adjusted",0.005,0
+028201,WPU028201,Pickles and other pickled products,0282,"PPI Commodity data for Processed foods and feeds-Pickles and other pickled products, including horseradish, not seasonally adjusted",0.005,0
+028301,WPU028301,"Processed eggs (dried, frozen, or liquid)",0283,"PPI Commodity data for Processed foods and feeds-Processed eggs, liquid, dried, or frozen, not seasonally adjusted",0.014,0.017
+028401,WPU028401,Specialty canning,0284,"PPI Commodity data for Processed foods and feeds-Specialty canning, not seasonally adjusted",0.022,0
+028501,WPU028501,Frozen specialty food,0285,"PPI Commodity data for Processed foods and feeds-Frozen specialty food, not seasonally adjusted",0.006,0
+028601,WPU028601,"Prepared sauces, excluding tomato-based sauces and sauces comprised of 20 percent or more meat",0286,"PPI Commodity data for Processed foods and feeds-Prepared sauces, except tomato, not seasonally adjusted",0.047,0.005
+028901,WPU028901,Other miscellaneous processed foods,0289,"PPI Commodity data for Processed foods and feeds-Other miscellaneous processed foods, not seasonally adjusted",0.75,0.054
+029201,WPU029201,"Soybean cake, meal, and byproducts",0292,"PPI Commodity data for Processed foods and feeds-Soybean cake, meal, and other byproducts, not seasonally adjusted",0.181,0.22
+029301,WPU029301,Formula feeds,0293,"PPI Commodity data for Processed foods and feeds-Formula feeds, not seasonally adjusted",0.009,0.001
+029402,WPU029402,Pet food,0294,"PPI Commodity data for Processed foods and feeds-Miscellaneous feedstuffs, not seasonally adjusted",0.008,0.001
+029403,WPU029403,Miscellaneous feedstuffs other than pet food,0294,"PPI Commodity data for Processed foods and feeds-Miscellaneous feedstuffs, not seasonally adjusted",0.223,0.009
+031504,WPU031504,Noncellulosic and cellulosic organic fibers,0315,"PPI Commodity data for Textile products and apparel-Unprocessed filament yarns, not seasonally adjusted",0.042,0.036
+032601,WPU032601,Spun cotton yarns,0326,"PPI Commodity data for Textile products and apparel-Yarns, not seasonally adjusted",0.013,0.019
+032603,WPU032603,Spun synthetic yarns,0326,"PPI Commodity data for Textile products and apparel-Yarns, not seasonally adjusted",0.004,0.006
+032604,WPU032604,Textured and twisted yarns,0326,"PPI Commodity data for Textile products and apparel-Yarns, not seasonally adjusted",0.019,0.031
+032607,WPU032607,Other spun noncellulosic and natural fiber (excluding cotton and wool) yarns,0326,"PPI Commodity data for Textile products and apparel-Yarns, not seasonally adjusted",0.003,0.005
+032608,WPU032608,"Spun wool yarns, including new, reused, and reprocessed",0326,"PPI Commodity data for Textile products and apparel-Yarns, not seasonally adjusted",0.001,0.002
+032705,WPU032705,Thread,0327,"PPI Commodity data for Textile products and apparel-Thread, not seasonally adjusted",0.001,0.002
+033701,WPU033701,Greige cotton broadwoven fabrics,0337,"PPI Commodity data for Textile products and apparel-Greige broadwoven fabrics, not seasonally adjusted",0.009,0.015
+033703,WPU033703,"Greige manmade, silk, and other natural fiber (exc cotton/wool) broadwoven fabrics",0337,"PPI Commodity data for Textile products and apparel-Greige broadwoven fabrics, not seasonally adjusted",0.015,0.024
+033803,WPU033803,"Weft (circular) knit fabrics, greige goods (excluding hosiery)",0338,"PPI Commodity data for Textile products and apparel-Greige knit fabrics, not seasonally adjusted",0.002,0.003
+033804,WPU033804,"Warp knit fabrics, greige goods (excluding hosiery)",0338,"PPI Commodity data for Textile products and apparel-Greige knit fabrics, not seasonally adjusted",0.002,0.004
+033901,WPU033901,Tire cord and tire fabrics,0339,"PPI Commodity data for Textile products and apparel-Tire cord and tire fabric, not seasonally adjusted",0.015,0.006
+034201,WPU034201,Finished cotton broadwoven fabrics,0342,"PPI Commodity data for Textile products and apparel-Finished broadwoven fabrics, not seasonally adjusted",0.008,0.01
+034202,WPU034202,Finished wool broadwoven fabrics and felts,0342,"PPI Commodity data for Textile products and apparel-Finished broadwoven fabrics, not seasonally adjusted",0.001,0.001
+034203,WPU034203,"Finished manmade, silk, and other natural fiber (exc. cotton and wool) broadwoven fabrics",0342,"PPI Commodity data for Textile products and apparel-Finished broadwoven fabrics, not seasonally adjusted",0.016,0.023
+034503,WPU034503,Nonwoven fabrics and felts,0345,"PPI Commodity data for Textile products and apparel-Nonwoven fabrics and felts, not seasonally adjusted",0.046,0.077
+034601,WPU034601,"Coated fabrics, not rubberized",0346,"PPI Commodity data for Textile products and apparel-Coated fabrics, not rubberized, not seasonally adjusted",0.021,0.008
+034701,WPU034701,Screen printed textile and apparel materials and embroideries,0347,"PPI Commodity data for Textile products and apparel-Screen printed textile materials, embroideries, and lace goods, not seasonally adjusted",0.084,0.166
+034702,WPU034702,"Lace & net goods, all leavers & Nottingham lace machine products, incl. bobbinets/barmen laces",0347,"PPI Commodity data for Textile products and apparel-Screen printed textile materials, embroideries, and lace goods, not seasonally adjusted",0.0,0.0
+034801,WPU034801,"Weft (circular) knit fabrics, knit and finished in the same establishment (excluding hosiery)",0348,"PPI Commodity data for Textile products and apparel-Knit fabrics, finished in knitting mills, not seasonally adjusted",0.003,0.006
+034802,WPU034802,"Warp knit goods, knit and finished in the same establishment",0348,"PPI Commodity data for Textile products and apparel-Knit fabrics, finished in knitting mills, not seasonally adjusted",0.003,0.005
+038104,WPU038104,Miscellaneous apparel and accessories,0381,"PPI Commodity data for Textile products and apparel-Apparel, not seasonally adjusted",0.0,0
+038203,WPU038203,Textile house furnishings,0382,"PPI Commodity data for Textile products and apparel-Textile house furnishings, not seasonally adjusted",0.03,0.004
+038303,WPU038303,Industrial and other fabricated products,0383,"PPI Commodity data for Textile products and apparel-Industrial and other fabricated products, not seasonally adjusted",0.113,0.065
+039401,WPU039401,Miscellaneous textile products/services,0394,"PPI Commodity data for Textile products and apparel-Miscellaneous textile products/services, not seasonally adjusted",0.023,0.096
+051301,WPU051301,Coal,0513,"PPI Commodity data for Fuels and related products and power-Coal, not seasonally adjusted",0.041,0.014
+053101,WPU053101,Natural gas,0531,"PPI Commodity data for Fuels and related products and power-Natural gas, not seasonally adjusted",0,0.174
+053201,WPU053201,Natural gas liquids,0532,"PPI Commodity data for Fuels and related products and power-Natural gas liquids, not seasonally adjusted",0,0.03
+054221,WPU054221,Commercial electric power,0542,"PPI Commodity data for Fuels and related products and power-Commercial electric power, not seasonally adjusted",2.873,0.771
+054321,WPU054321,Industrial electric power,0543,"PPI Commodity data for Fuels and related products and power-Industrial electric power, not seasonally adjusted",1.513,0.406
+054621,WPU054621,Transportation electric power,0546,"PPI Commodity data for Fuels and related products and power-Transportation electric power, not seasonally adjusted",0.015,0.004
+055221,WPU055221,Commercial natural gas,0552,"PPI Commodity data for Fuels and related products and power-Commercial natural gas, not seasonally adjusted",0.066,0.143
+055321,WPU055321,Industrial natural gas,0553,"PPI Commodity data for Fuels and related products and power-Industrial natural gas, not seasonally adjusted",0.048,0.103
+055421,WPU055421,Natural gas to electric power,0554,"PPI Commodity data for Fuels and related products and power-Natural gas to electric power, not seasonally adjusted",0.33,0.712
+056101,WPU056101,Crude petroleum (domestic production),0561,"PPI Commodity data for Fuels and related products and power-Crude petroleum (domestic production), not seasonally adjusted",0,0.339
+057103,WPU057103,Unleaded premium gasoline,0571,"PPI Commodity data for Fuels and related products and power-Gasoline, not seasonally adjusted",0.113,0.228
+057104,WPU057104,Unleaded regular gasoline,0571,"PPI Commodity data for Fuels and related products and power-Gasoline, not seasonally adjusted",0.389,0.79
+057105,WPU057105,Unleaded mid-premium gasoline,0571,"PPI Commodity data for Fuels and related products and power-Gasoline, not seasonally adjusted",0.008,0.016
+057108,WPU057108,Aviation gasoline,0571,"PPI Commodity data for Fuels and related products and power-Gasoline, not seasonally adjusted",0.015,0.053
+057202,WPU057202,Kerosene,0572,"PPI Commodity data for Fuels and related products and power-Kerosene and jet fuels, not seasonally adjusted",0.003,0.078
+057203,WPU057203,Jet fuel,0572,"PPI Commodity data for Fuels and related products and power-Kerosene and jet fuels, not seasonally adjusted",0.015,0.342
+057302,WPU057302,Home heating oil and distillates,0573,"PPI Commodity data for Fuels and related products and power-Light fuel oils, not seasonally adjusted",0.012,0.055
+057303,WPU057303,No. 2 diesel fuel,0573,"PPI Commodity data for Fuels and related products and power-Light fuel oils, not seasonally adjusted",0.383,1.687
+057407,WPU057407,"Residual fuels (heavy fuel oils, incl. #5, #6, & other residual fuels)",0574,"PPI Commodity data for Fuels and related products and power-Residual fuels (heavy fuel oils, incl. #5, #6, & other residual fuels), not seasonally adjusted",0.048,0.201
+057603,WPU057603,Lubricating grease,0576,"PPI Commodity data for Fuels and related products and power-Finished lubricants, not seasonally adjusted",0.013,0.043
+057604,WPU057604,Lubricating and similar oils,0576,"PPI Commodity data for Fuels and related products and power-Finished lubricants, not seasonally adjusted",0.111,0.311
+057801,WPU057801,Lubricating oil base stocks,0578,"PPI Commodity data for Fuels and related products and power-Lubricating oil base stocks, not seasonally adjusted",0.037,0.164
+058102,WPU058102,Asphalt,0581,"PPI Commodity data for Fuels and related products and power-Asphalt and other petroleum and coal products, n.e.c., not seasonally adjusted",0,0.056
+058103,WPU058103,"Other petroleum and coal products, including coke oven products, n.e.c.",0581,"PPI Commodity data for Fuels and related products and power-Asphalt and other petroleum and coal products, n.e.c., not seasonally adjusted",0.196,0.66
+061302,WPU061302,"Inorganic chemicals, other than alkalies and chlorine",0613,"PPI Commodity data for Chemicals and allied products-Basic inorganic chemicals, not seasonally adjusted",0.108,0.43
+061303,WPU061303,"Alkalies and chlorine, including natural sodium carbonate and sulfate",0613,"PPI Commodity data for Chemicals and allied products-Basic inorganic chemicals, not seasonally adjusted",0.025,0.304
+061401,WPU061401,Primary basic organic chemicals,0614,"PPI Commodity data for Chemicals and allied products-Basic organic chemicals, not seasonally adjusted",0.017,2.2
+061402,WPU061402,Cyclic intermediate chemicals and dyes,0614,"PPI Commodity data for Chemicals and allied products-Basic organic chemicals, not seasonally adjusted",0.014,0.204
+061403,WPU061403,Other basic organics,0614,"PPI Commodity data for Chemicals and allied products-Basic organic chemicals, not seasonally adjusted",0.229,4.032
+062101,WPU062101,Architectural coatings,0621,"PPI Commodity data for Chemicals and allied products-Prepared paint, not seasonally adjusted",0.274,0.383
+062102,WPU062102,OEM finishes excluding marine coatings,0621,"PPI Commodity data for Chemicals and allied products-Prepared paint, not seasonally adjusted",0.121,0.167
+062103,WPU062103,"Special purpose coatings, incl. marine, industrial & construction coatings",0621,"PPI Commodity data for Chemicals and allied products-Prepared paint, not seasonally adjusted",0.103,0.144
+062202,WPU062202,Paint colors,0622,"PPI Commodity data for Chemicals and allied products-Paint materials, not seasonally adjusted",0.019,0.034
+062204,WPU062204,Kaolin and ball clay,0622,"PPI Commodity data for Chemicals and allied products-Paint materials, not seasonally adjusted",0.007,0.022
+062301,WPU062301,Allied and miscellaneous paint products,0623,"PPI Commodity data for Chemicals and allied products-Allied and miscellaneous paint products, not seasonally adjusted",0.038,0.054
+063102,WPU063102,"Medicinal and botanical chemicals, drugs, and other products",0631,"PPI Commodity data for Chemicals and allied products-Medicinal and botanical chemicals, drugs, and other products, not seasonally adjusted",0.307,0.119
+063403,WPU063403,Pharmaceuticals for veterinary use,0634,"PPI Commodity data for Chemicals and allied products-Veterinary pharmaceutical preparations, not seasonally adjusted",0.004,0
+063717,WPU063717,"Biological products, excluding diagnostic, for veterinary, industrial, and all other misc. uses",0637,"PPI Commodity data for Chemicals and allied products-Biological products, including diagnostics, not seasonally adjusted",0.244,0
+063718,WPU063718,Diagnostics,0637,"PPI Commodity data for Chemicals and allied products-Biological products, including diagnostics, not seasonally adjusted",0.223,0
+063719,WPU063719,"Biological products, excluding diagnostic, for human use",0637,"PPI Commodity data for Chemicals and allied products-Biological products, including diagnostics, not seasonally adjusted",0.48,0
+063801,WPU063801,"Pharmaceuticals affecting neoplasms, the endocrine system, & metabolic diseases",0638,"PPI Commodity data for Chemicals and allied products-Pharmaceutical preparations, not seasonally adjusted",0.021,0
+063802,WPU063802,Pharmaceuticals acting on the central nervous system and the sense organs,0638,"PPI Commodity data for Chemicals and allied products-Pharmaceutical preparations, not seasonally adjusted",0.036,0
+063803,WPU063803,Pharmaceuticals acting on the cardiovascular system,0638,"PPI Commodity data for Chemicals and allied products-Pharmaceutical preparations, not seasonally adjusted",0.011,0
+063804,WPU063804,Pharmaceuticals acting on the respiratory system,0638,"PPI Commodity data for Chemicals and allied products-Pharmaceutical preparations, not seasonally adjusted",0.009,0
+063805,WPU063805,Pharmaceuticals acting on the digestive or the genito-urinary systems,0638,"PPI Commodity data for Chemicals and allied products-Pharmaceutical preparations, not seasonally adjusted",0.002,0
+063806,WPU063806,Pharmaceuticals acting on the skin,0638,"PPI Commodity data for Chemicals and allied products-Pharmaceutical preparations, not seasonally adjusted",0.005,0
+063807,WPU063807,"Vitamin, nutrient, and hematinic preparations",0638,"PPI Commodity data for Chemicals and allied products-Pharmaceutical preparations, not seasonally adjusted",0.014,0
+063808,WPU063808,Pharmaceuticals affecting parasitic and infective diseases,0638,"PPI Commodity data for Chemicals and allied products-Pharmaceutical preparations, not seasonally adjusted",0.01,0
+064101,WPU064101,"Fats and oils, inedible",0641,"PPI Commodity data for Chemicals and allied products-Fats and oils, inedible, not seasonally adjusted",0.218,0.231
+065105,WPU065105,Mixed fertilizers,0651,"PPI Commodity data for Chemicals and allied products-Mixed fertilizers, not seasonally adjusted",0.037,0.095
+065201,WPU065201,Nitrogenates,0652,"PPI Commodity data for Chemicals and allied products-Fertilizer materials, not seasonally adjusted",0.047,0.121
+065202,WPU065202,Phosphates,0652,"PPI Commodity data for Chemicals and allied products-Fertilizer materials, not seasonally adjusted",0.052,0.319
+065301,WPU065301,Other agricultural chemicals,0653,"PPI Commodity data for Chemicals and allied products-Other agricultural chemicals, not seasonally adjusted",0.038,0.024
+066212,WPU066212,Thermoplastic resins and plastics materials,0662,"PPI Commodity data for Chemicals and allied products-Thermoplastic resins and plastics materials, not seasonally adjusted",0,0.292
+066306,WPU066306,Thermosetting resins and plastics materials,0663,"PPI Commodity data for Chemicals and allied products-Thermosetting resins and plastics materials, not seasonally adjusted",0,0.044
+067104,WPU067104,Soaps and other detergents,0671,"PPI Commodity data for Chemicals and allied products-Soaps and detergents, not seasonally adjusted",0.025,0.27
+067201,WPU067201,Polish and other sanitation goods,0672,"PPI Commodity data for Chemicals and allied products-Polish and other sanitation goods, not seasonally adjusted",0.008,0.095
+067502,WPU067502,Shaving preparations,0675,"PPI Commodity data for Chemicals and allied products-Cosmetics and other toilet preparations, not seasonally adjusted",0.001,0
+067503,WPU067503,"Perfumes, toilet waters, and colognes",0675,"PPI Commodity data for Chemicals and allied products-Cosmetics and other toilet preparations, not seasonally adjusted",0.002,0
+067504,WPU067504,Hair preparations (including shampoos),0675,"PPI Commodity data for Chemicals and allied products-Cosmetics and other toilet preparations, not seasonally adjusted",0.004,0
+067505,WPU067505,"Toothpastes, denture cleaners, and mouthwashes",0675,"PPI Commodity data for Chemicals and allied products-Cosmetics and other toilet preparations, not seasonally adjusted",0.008,0.011
+067514,WPU067514,"Creams, lotions, and oils, excluding shaving, hair, and deodorant",0675,"PPI Commodity data for Chemicals and allied products-Cosmetics and other toilet preparations, not seasonally adjusted",0.006,0
+067515,WPU067515,Other cosmetics and toilet preparations,0675,"PPI Commodity data for Chemicals and allied products-Cosmetics and other toilet preparations, not seasonally adjusted",0.011,0
+067902,WPU067902,Explosives and blasting accessories,0679,"PPI Commodity data for Chemicals and allied products-Misc. chemical prod. and preparations, not seasonally adjusted",0.011,0.045
+067903,WPU067903,Industrial gases,0679,"PPI Commodity data for Chemicals and allied products-Misc. chemical prod. and preparations, not seasonally adjusted",0.118,0.476
+067904,WPU067904,Adhesives and sealants,0679,"PPI Commodity data for Chemicals and allied products-Misc. chemical prod. and preparations, not seasonally adjusted",0.162,0.018
+067905,WPU067905,Surface active agents,0679,"PPI Commodity data for Chemicals and allied products-Misc. chemical prod. and preparations, not seasonally adjusted",0.025,0.273
+067906,WPU067906,"Gum and wood chemicals, including wood distillation products",0679,"PPI Commodity data for Chemicals and allied products-Misc. chemical prod. and preparations, not seasonally adjusted",0.003,0.059
+067909,WPU067909,Other miscellaneous chemical products,0679,"PPI Commodity data for Chemicals and allied products-Misc. chemical prod. and preparations, not seasonally adjusted",0.105,0.15
+071102,WPU071102,Synthetic rubber,0711,"PPI Commodity data for Rubber and plastic products-Synthetic rubber, inc. styrene-butadiene rubber (SBR) and ethylene propylene, not seasonally adjusted",0.009,0.033
+071201,WPU071201,Tires,0712,"PPI Commodity data for Rubber and plastic products-Tires, tubes, tread, & repair materials, not seasonally adjusted",0.213,0.079
+071203,WPU071203,"Tread rubber, tire sundries, and repair materials",0712,"PPI Commodity data for Rubber and plastic products-Tires, tubes, tread, & repair materials, not seasonally adjusted",0.012,0.004
+071303,WPU071303,Rubber and plastic belts and belting,0713,"PPI Commodity data for Rubber and plastic products-Miscellaneous rubber products, not seasonally adjusted",0.032,0.019
+071304,WPU071304,Rubber and plastics hose,0713,"PPI Commodity data for Rubber and plastic products-Miscellaneous rubber products, not seasonally adjusted",0.035,0.021
+071306,WPU071306,"Miscellaneous rubber products, n.e.c.",0713,"PPI Commodity data for Rubber and plastic products-Miscellaneous rubber products, not seasonally adjusted",0.225,0.017
+072106,WPU072106,Plastics construction products,0721,"PPI Commodity data for Rubber and plastic products-Plastic construction products, not seasonally adjusted",0.744,0.773
+072205,WPU072205,"Unsupported plastics film, sheet, and other shapes",0722,"PPI Commodity data for Rubber and plastic products-Unsupported plastic film, sheet and other shapes, not seasonally adjusted",0.21,0.189
+072304,WPU072304,"Laminated plastics plates, sheet (except packaging), and shapes",0723,"PPI Commodity data for Rubber and plastic products-Laminated plastic sheets, rods, and tubes, not seasonally adjusted",0.04,0.004
+072601,WPU072601,Parts for transportation equipment,0726,"PPI Commodity data for Rubber and plastic products-Parts for manufacturing from plastics, not seasonally adjusted",0.322,0.263
+072602,WPU072602,Other parts and components for manufacturing,0726,"PPI Commodity data for Rubber and plastic products-Parts for manufacturing from plastics, not seasonally adjusted",0.108,0.079
+072603,WPU072603,Foam components for furniture,0726,"PPI Commodity data for Rubber and plastic products-Parts for manufacturing from plastics, not seasonally adjusted",0.098,0.038
+072901,WPU072901,Other plastics products,0729,"PPI Commodity data for Rubber and plastic products-Other plastic products, not seasonally adjusted",0.165,0.287
+072A01,WPU072A01,Plastics packaging products,072A,"PPI Commodity data for Rubber and plastic products-Plastic packaging products, not seasonally adjusted",0.678,0.341
+072B01,WPU072B01,"All other consumer, institutional, and commercial products",072B,"PPI Commodity data for Rubber and plastic products-Consumer, institutional, and commercial products, n.e.c., not seasonally adjusted",0.055,0.042
+072C01,WPU072C01,Recyclable plastics,072C,"PPI Commodity data for Rubber and plastic products-Recyclable plastics, not seasonally adjusted",0,0.215
+081106,WPU081106,"Softwood lumber, not edge worked",0811,"PPI Commodity data for Lumber and wood products-Softwood lumber, not seasonally adjusted",0.126,0.14
+081108,WPU081108,"Softwood lumber, made from purchased lumber, cut stock, and dimension",0811,"PPI Commodity data for Lumber and wood products-Softwood lumber, not seasonally adjusted",0.043,0.009
+081204,WPU081204,Hardwood flooring,0812,"PPI Commodity data for Lumber and wood products-Hardwood lumber, not seasonally adjusted",0.032,0.007
+081205,WPU081205,"Hardwood lumber, not edge worked",0812,"PPI Commodity data for Lumber and wood products-Hardwood lumber, not seasonally adjusted",0.062,0.068
+081207,WPU081207,"Hardwood lumber, made from purchased lumber, cut stock, and dimension",0812,"PPI Commodity data for Lumber and wood products-Hardwood lumber, not seasonally adjusted",0.048,0.009
+082101,WPU082101,General millwork,0821,"PPI Commodity data for Lumber and wood products-General millwork, not seasonally adjusted",0.777,0.072
+082201,WPU082201,Prefabricated structural members,0822,"PPI Commodity data for Lumber and wood products-Prefabricated structural members, not seasonally adjusted",0.236,0.116
+083103,WPU083103,Softwood veneer and plywood,0831,"PPI Commodity data for Lumber and wood products-Softwood veneer and plywood, not seasonally adjusted",0.09,0.045
+083501,WPU083501,Hardwood veneer and plywood,0835,"PPI Commodity data for Lumber and wood products-Hardwood veneer and plywood, not seasonally adjusted",0.079,0.039
+084101,WPU084101,Wood pallets and pallet containers,0841,"PPI Commodity data for Lumber and wood products-Wood pallets and pallet containers, wood and metal combination, not seasonally adjusted",0.056,0.18
+084201,WPU084201,Wood boxes,0842,"PPI Commodity data for Lumber and wood products-Wood boxes, not seasonally adjusted",0.009,0.031
+084903,WPU084903,"Wood ties, siding, shingles, and shakes, and contract sawing of logs owned by others",0849,"PPI Commodity data for Lumber and wood products-Miscellaneous wood products, not seasonally adjusted",0.005,0.007
+084904,WPU084904,"Sawn wood fence stock, wood lath, and contract resawing and planing",0849,"PPI Commodity data for Lumber and wood products-Miscellaneous wood products, not seasonally adjusted",0.01,0.003
+084909,WPU084909,All other miscellaneous wood products,0849,"PPI Commodity data for Lumber and wood products-Miscellaneous wood products, not seasonally adjusted",0.045,0.141
+085105,WPU085105,"Logs, bolts, timber, pulpwood and wood chips",0851,"PPI Commodity data for Lumber and wood products-Logs, bolts, timber, pulpwood and wood chips, not seasonally adjusted",0.022,0.273
+086101,WPU086101,Prefabricated wood buildings and components,0861,"PPI Commodity data for Lumber and wood products-Prefabricated wood buildings & components, not seasonally adjusted",0.041,0.132
+087101,WPU087101,Treated wood,0871,"PPI Commodity data for Lumber and wood products-Treated wood and contract wood preserving, not seasonally adjusted",0.067,0.074
+087102,WPU087102,Contract wood preservation,0871,"PPI Commodity data for Lumber and wood products-Treated wood and contract wood preserving, not seasonally adjusted",0.003,0.003
+091105,WPU091105,Wood pulp,0911,"PPI Commodity data for Pulp, paper, and allied products-Wood pulp, not seasonally adjusted",0,0.029
+091201,WPU091201,News and other low grade recyclable paper,0912,"PPI Commodity data for Pulp, paper, and allied products-Recyclable paper, not seasonally adjusted",0,0.03
+091203,WPU091203,Corrugated recyclable paper,0912,"PPI Commodity data for Pulp, paper, and allied products-Recyclable paper, not seasonally adjusted",0,0.307
+091207,WPU091207,High grade recyclable paper (including pulp substitutes and deinking),0912,"PPI Commodity data for Pulp, paper, and allied products-Recyclable paper, not seasonally adjusted",0,0.078
+091301,WPU091301,Writing and printing papers,0913,"PPI Commodity data for Pulp, paper, and allied products-Paper, not seasonally adjusted",0.039,0.072
+091302,WPU091302,Newsprint,0913,"PPI Commodity data for Pulp, paper, and allied products-Paper, not seasonally adjusted",0.0,0.003
+091303,WPU091303,Packaging and industrial converting paper,0913,"PPI Commodity data for Pulp, paper, and allied products-Paper, not seasonally adjusted",0.1,0.045
+091305,WPU091305,All other coated and processed papers,0913,"PPI Commodity data for Pulp, paper, and allied products-Paper, not seasonally adjusted",0.02,0.016
+091405,WPU091405,"Corrugated paperboard in sheets and rolls, lined and unlined",0914,"PPI Commodity data for Pulp, paper, and allied products-Paperboard, not seasonally adjusted",0.123,0.091
+091411,WPU091411,"Paperboard, excluding corrugated paperboard in sheets and rolls",0914,"PPI Commodity data for Pulp, paper, and allied products-Paperboard, not seasonally adjusted",0,0.026
+091501,WPU091501,"Sanitary paper products, including stock",0915,"PPI Commodity data for Pulp, paper, and allied products-Converted paper and paperboard products, not seasonally adjusted",0.074,0.046
+091502,WPU091502,"Paper, plastic, and foil bags",0915,"PPI Commodity data for Pulp, paper, and allied products-Converted paper and paperboard products, not seasonally adjusted",0.101,0.039
+091503,WPU091503,Paper boxes and containers,0915,"PPI Commodity data for Pulp, paper, and allied products-Converted paper and paperboard products, not seasonally adjusted",0.84,0.619
+091504,WPU091504,"Other corrugated and solid fiber products, including containers, pallets, pads, etc.",0915,"PPI Commodity data for Pulp, paper, and allied products-Converted paper and paperboard products, not seasonally adjusted",0.109,0.08
+091506,WPU091506,Office supplies and accessories,0915,"PPI Commodity data for Pulp, paper, and allied products-Converted paper and paperboard products, not seasonally adjusted",0.003,0.152
+091507,WPU091507,"Fiber cans, tubes, and similar fiber products",0915,"PPI Commodity data for Pulp, paper, and allied products-Converted paper and paperboard products, not seasonally adjusted",0.042,0.032
+091508,WPU091508,"Molded pulp goods, including egg cartons, florists pots, food trays, etc.",0915,"PPI Commodity data for Pulp, paper, and allied products-Converted paper and paperboard products, not seasonally adjusted",0.017,0.005
+091509,WPU091509,Miscellaneous converted paper and paperboard products,0915,"PPI Commodity data for Pulp, paper, and allied products-Converted paper and paperboard products, not seasonally adjusted",0.097,0.05
+091601,WPU091601,Pressure-sensitive products,0916,"PPI Commodity data for Pulp, paper, and allied products-Pressure-sensitive products, not seasonally adjusted",0.068,0.054
+092201,WPU092201,Particleboard and fiberboard,0922,"PPI Commodity data for Pulp, paper, and allied products-Hardboard, particleboard & fiberboard prods., not seasonally adjusted",0.147,0.073
+092202,WPU092202,Hardboard products,0922,"PPI Commodity data for Pulp, paper, and allied products-Hardboard, particleboard & fiberboard prods., not seasonally adjusted",0.008,0.004
+094401,WPU094401,Books printing,0944,"PPI Commodity data for Pulp, paper, and allied products-Books printing, not seasonally adjusted",0.062,0.147
+094501,WPU094501,Manifold business forms printing,0945,"PPI Commodity data for Pulp, paper, and allied products-Manifold business forms printing, not seasonally adjusted",0.011,0.027
+094701,WPU094701,Magazine and periodical printing,0947,"PPI Commodity data for Pulp, paper, and allied products-Commercial printing, not seasonally adjusted",0.046,0.111
+094702,WPU094702,Label and wrapper printing for packaging,0947,"PPI Commodity data for Pulp, paper, and allied products-Commercial printing, not seasonally adjusted",0.148,0.353
+094703,WPU094703,Catalog and directory printing,0947,"PPI Commodity data for Pulp, paper, and allied products-Commercial printing, not seasonally adjusted",0.029,0.069
+094704,WPU094704,Financial and legal printing (lithographic),0947,"PPI Commodity data for Pulp, paper, and allied products-Commercial printing, not seasonally adjusted",0.061,0.147
+094705,WPU094705,Advertising printing,0947,"PPI Commodity data for Pulp, paper, and allied products-Commercial printing, not seasonally adjusted",0.12,0.288
+094706,WPU094706,Other general job printing,0947,"PPI Commodity data for Pulp, paper, and allied products-Commercial printing, not seasonally adjusted",0.119,0.285
+094711,WPU094711,"Other commercial printing, incl. screen, engraving, digital, & general job exc. labels/wrappers",0947,"PPI Commodity data for Pulp, paper, and allied products-Commercial printing, not seasonally adjusted",0.309,0.739
+094A01,WPU094A01,"Checkbooks, blankbooks, looseleaf binders, and devices",094A,,0.013,0.031
+101105,WPU101105,Iron ores,1011,"PPI Commodity data for Metals and metal products-Iron ores, not seasonally adjusted",0.002,0
+101211,WPU101211,Carbon steel scrap,1012,"PPI Commodity data for Metals and metal products-Iron and steel scrap, not seasonally adjusted",0,2.949
+101212,WPU101212,Stainless and other alloy steel scrap,1012,"PPI Commodity data for Metals and metal products-Iron and steel scrap, not seasonally adjusted",0,0.194
+101213,WPU101213,Cast iron scrap,1012,"PPI Commodity data for Metals and metal products-Iron and steel scrap, not seasonally adjusted",0,0.102
+101215,WPU101215,Other ferrous scrap,1012,"PPI Commodity data for Metals and metal products-Iron and steel scrap, not seasonally adjusted",0,0.05
+101502,WPU101502,"Pressure and soil pipe and fittings, cast iron",1015,"PPI Commodity data for Metals and metal products-Foundry and forge shop products, not seasonally adjusted",0.009,0.026
+101504,WPU101504,Other gray and ductile iron castings,1015,"PPI Commodity data for Metals and metal products-Foundry and forge shop products, not seasonally adjusted",0.042,0.116
+101506,WPU101506,Steel investment castings,1015,"PPI Commodity data for Metals and metal products-Foundry and forge shop products, not seasonally adjusted",0.025,0.071
+101507,WPU101507,"Carbon steel castings, except investment",1015,"PPI Commodity data for Metals and metal products-Foundry and forge shop products, not seasonally adjusted",0.005,0.015
+101508,WPU101508,"High alloy steel castings, excluding investment",1015,"PPI Commodity data for Metals and metal products-Foundry and forge shop products, not seasonally adjusted",0.009,0.026
+101509,WPU101509,"Other alloy steel castings, except investment",1015,"PPI Commodity data for Metals and metal products-Foundry and forge shop products, not seasonally adjusted",0.006,0.017
+101513,WPU101513,Other forge shop products,1015,"PPI Commodity data for Metals and metal products-Foundry and forge shop products, not seasonally adjusted",0.087,0.033
+101702,WPU101702,Semifinished steel mill products,1017,"PPI Commodity data for Metals and metal products-Steel mill products, not seasonally adjusted",0.079,0.109
+101703,WPU101703,"Hot rolled steel sheet and strip, including tin mill products",1017,"PPI Commodity data for Metals and metal products-Steel mill products, not seasonally adjusted",0.296,0.407
+101704,WPU101704,"Hot rolled steel bars, plates, and structural shapes",1017,"PPI Commodity data for Metals and metal products-Steel mill products, not seasonally adjusted",0.13,0.179
+101705,WPU101705,Steel wire,1017,"PPI Commodity data for Metals and metal products-Steel mill products, not seasonally adjusted",0.006,0.092
+101706,WPU101706,Steel pipe and tube,1017,"PPI Commodity data for Metals and metal products-Steel mill products, not seasonally adjusted",0.09,0.271
+101707,WPU101707,Cold rolled steel sheet and strip,1017,"PPI Commodity data for Metals and metal products-Steel mill products, not seasonally adjusted",0.104,0.263
+101708,WPU101708,Cold finished steel bars and bar shapes,1017,"PPI Commodity data for Metals and metal products-Steel mill products, not seasonally adjusted",0.024,0.051
+101712,WPU101712,Electrometallurgical ferroalloy products,1017,"PPI Commodity data for Metals and metal products-Steel mill products, not seasonally adjusted",0.01,0.014
+102102,WPU102102,Copper and nickel ores,1021,"PPI Commodity data for Metals and metal products-Nonferrous metal ores, not seasonally adjusted",0.117,0.006
+102105,WPU102105,Gold ores,1021,"PPI Commodity data for Metals and metal products-Nonferrous metal ores, not seasonally adjusted",0.015,0
+102112,WPU102112,Other metal ores,1021,"PPI Commodity data for Metals and metal products-Nonferrous metal ores, not seasonally adjusted",0.007,0
+102114,WPU102114,Lead and zinc ores,1021,"PPI Commodity data for Metals and metal products-Nonferrous metal ores, not seasonally adjusted",0.038,0.002
+102201,WPU102201,Primary nonferrous metals,1022,"PPI Commodity data for Metals and metal products-Primary nonferrous metals, not seasonally adjusted",0.046,1.118
+102301,WPU102301,Copper base scrap,1023,"PPI Commodity data for Metals and metal products-Nonferrous scrap, not seasonally adjusted",0,1.299
+102302,WPU102302,Aluminum base scrap,1023,"PPI Commodity data for Metals and metal products-Nonferrous scrap, not seasonally adjusted",0,1.561
+102303,WPU102303,"Other nonferrous scrap (including lead, zinc and precious metals)",1023,"PPI Commodity data for Metals and metal products-Nonferrous scrap, not seasonally adjusted",0,1.396
+102403,WPU102403,"Secondary copper, alloyed and unalloyed",1024,"PPI Commodity data for Metals and metal products-Secondary nonferrous metals, not seasonally adjusted",0.009,0.014
+102406,WPU102406,Secondary precious metals,1024,"PPI Commodity data for Metals and metal products-Secondary nonferrous metals, not seasonally adjusted",0.027,0.031
+102408,WPU102408,"All other miscellaneous secondary nonferrous metals, including lead and zinc",1024,"PPI Commodity data for Metals and metal products-Secondary nonferrous metals, not seasonally adjusted",0.011,0.013
+102501,WPU102501,Aluminum mill shapes,1025,"PPI Commodity data for Metals and metal products-Nonferrous mill shapes, not seasonally adjusted",0.307,0.186
+102502,WPU102502,Copper and brass mill shapes,1025,"PPI Commodity data for Metals and metal products-Nonferrous mill shapes, not seasonally adjusted",0.074,0.112
+102504,WPU102504,Nickel and nickel-base alloy mill shapes,1025,"PPI Commodity data for Metals and metal products-Nonferrous mill shapes, not seasonally adjusted",0.007,0.009
+102505,WPU102505,Titanium and titanium-base alloy mill shapes,1025,"PPI Commodity data for Metals and metal products-Nonferrous mill shapes, not seasonally adjusted",0.013,0.015
+102519,WPU102519,Other nonferrous mill shapes,1025,"PPI Commodity data for Metals and metal products-Nonferrous mill shapes, not seasonally adjusted",0.013,0.015
+102603,WPU102603,Nonferrous wire and cable,1026,"PPI Commodity data for Metals and metal products-Nonferrous wire and cable, not seasonally adjusted",0.197,0.136
+102701,WPU102701,Nonferrous forge shop products,1027,"PPI Commodity data for Metals and metal products-Nonferrous forge shop products, not seasonally adjusted",0.032,0.047
+102802,WPU102802,Aluminum castings,1028,"PPI Commodity data for Metals and metal products-Nonferrous foundry shop products, not seasonally adjusted",0.027,0.121
+102807,WPU102807,"Castings, nonferrous (except aluminum)",1028,"PPI Commodity data for Metals and metal products-Nonferrous foundry shop products, not seasonally adjusted",0.015,0.066
+103102,WPU103102,Steel cans and tinware end products,1031,"PPI Commodity data for Metals and metal products-Metal cans and can components, not seasonally adjusted",0.118,0
+103103,WPU103103,Aluminum cans and can components,1031,"PPI Commodity data for Metals and metal products-Metal cans and can components, not seasonally adjusted",0.162,0
+103201,WPU103201,"Barrels, drums, pails and other metal containers",1032,"PPI Commodity data for Metals and metal products-Barrels, drums, pails and other metal containers, not seasonally adjusted",0.063,0
+104101,WPU104101,Builders' hardware,1041,"PPI Commodity data for Metals and metal products-Hardware, n.e.c., not seasonally adjusted",0.102,0.091
+104103,WPU104103,Transportation equipment hardware,1041,"PPI Commodity data for Metals and metal products-Hardware, n.e.c., not seasonally adjusted",0.055,0.048
+104104,WPU104104,Furniture hardware,1041,"PPI Commodity data for Metals and metal products-Hardware, n.e.c., not seasonally adjusted",0.01,0.01
+104105,WPU104105,Other miscellaneous hardware,1041,"PPI Commodity data for Metals and metal products-Hardware, n.e.c., not seasonally adjusted",0.015,0.014
+104201,WPU104201,Hand and edge tools,1042,"PPI Commodity data for Metals and metal products-Hand and edge tools, not seasonally adjusted",0.033,0.03
+105201,WPU105201,"Vitreous plumbing fixtures, china lavatories, & flush tanks, incl. plumbing accessories",1052,"PPI Commodity data for Metals and metal products-Vitreous china plumbing fixtures and china & earthenware bathroom accessories, not seasonally adjusted",0.014,0.007
+105402,WPU105402,"Plumbing fixtures, fittings, and trim",1054,"PPI Commodity data for Metals and metal products-Plumbing fixture fittings and trim, not seasonally adjusted",0.143,0.095
+105601,WPU105601,Enameled iron and metal sanitary ware,1056,"PPI Commodity data for Metals and metal products-Enameled iron & metal sanitary ware, not seasonally adjusted",0.02,0.013
+106101,WPU106101,Steam and hot water equipment,1061,"PPI Commodity data for Metals and metal products-Steam and hot water equipment, not seasonally adjusted",0.022,0.015
+106201,WPU106201,"Furnaces and heaters, including parts",1062,"PPI Commodity data for Metals and metal products-Furnaces and heaters, including parts, not seasonally adjusted",0.063,0.07
+106301,WPU106301,"Other heating equipment, non-electric, including parts",1063,"PPI Commodity data for Metals and metal products-Other heating equipment, non-electric, including parts, not seasonally adjusted",0.047,0.03
+106401,WPU106401,Domestic heating stoves,1064,"PPI Commodity data for Metals and metal products-Domestic heating stoves, not seasonally adjusted",0.008,0.006
+106601,WPU106601,Domestic water heaters,1066,"PPI Commodity data for Metals and metal products-Domestic water heaters, not seasonally adjusted",0.006,0
+107102,WPU107102,Metal doors and frames (except storm),1071,"PPI Commodity data for Metals and metal products-Metal doors, sash, and trim, not seasonally adjusted",0.369,0.257
+107103,WPU107103,Metal windows (except storm sash),1071,"PPI Commodity data for Metals and metal products-Metal doors, sash, and trim, not seasonally adjusted",0.095,0.039
+107104,WPU107104,Metal molding and trim and store fronts,1071,"PPI Commodity data for Metals and metal products-Metal doors, sash, and trim, not seasonally adjusted",0.043,0.043
+107105,WPU107105,"Metal combination screen, storm sash, and storm doors",1071,"PPI Commodity data for Metals and metal products-Metal doors, sash, and trim, not seasonally adjusted",0.019,0.018
+107107,WPU107107,Metal window and door screens (except combination screens) and metal weather strip,1071,"PPI Commodity data for Metals and metal products-Metal doors, sash, and trim, not seasonally adjusted",0.033,0.02
+107201,WPU107201,Metal tanks,1072,"PPI Commodity data for Metals and metal products-Metal tanks, not seasonally adjusted",0.09,0.036
+107301,WPU107301,Sheet metal products,1073,"PPI Commodity data for Metals and metal products-Sheet metal products, not seasonally adjusted",0.658,0.522
+107405,WPU107405,Fabricated structural metal,1074,"PPI Commodity data for Metals and metal products-Structural, architectural, and pre-engineered metal products, not seasonally adjusted",1.189,0.715
+107407,WPU107407,Custom roll form products,1074,"PPI Commodity data for Metals and metal products-Structural, architectural, and pre-engineered metal products, not seasonally adjusted",0.04,0.082
+107408,WPU107408,Ornamental and architectural metal work,1074,"PPI Commodity data for Metals and metal products-Structural, architectural, and pre-engineered metal products, not seasonally adjusted",0.348,0.276
+107411,WPU107411,"Fabricated metal pipe, tube, and fittings",1074,"PPI Commodity data for Metals and metal products-Structural, architectural, and pre-engineered metal products, not seasonally adjusted",0.112,0.08
+107501,WPU107501,Heat exchangers and steam condensers,1075,"PPI Commodity data for Metals and metal products-Heat exchangers and steam condensers, not seasonally adjusted",0.096,0.068
+107601,WPU107601,Fabricated steel plate,1076,"PPI Commodity data for Metals and metal products-Fabricated steel plate, not seasonally adjusted",0.257,0.154
+107901,WPU107901,"Prefabricated metal building systems (excl. farm service bldgs, residential bldgs, and parts)",1079,"PPI Commodity data for Metals and metal products-Prefabricated metal buildings, not seasonally adjusted",0.275,0.005
+107902,WPU107902,"Farm service buildings and other prefabricated and portable buildings, steel and aluminum",1079,"PPI Commodity data for Metals and metal products-Prefabricated metal buildings, not seasonally adjusted",0.047,0.013
+107903,WPU107903,"Panels, parts, and sections for prefabricated buildings, steel and aluminum",1079,"PPI Commodity data for Metals and metal products-Prefabricated metal buildings, not seasonally adjusted",0.03,0.017
+108102,WPU108102,"Externally threaded fasteners, except aircraft types",1081,"PPI Commodity data for Metals and metal products-Bolts, nuts, screws, rivets, and washers, not seasonally adjusted",0.07,0.017
+108103,WPU108103,"Internally threaded fasteners, except aircraft types",1081,"PPI Commodity data for Metals and metal products-Bolts, nuts, screws, rivets, and washers, not seasonally adjusted",0.014,0.004
+108104,WPU108104,"Nonthreaded metal fasteners, except aircraft types",1081,"PPI Commodity data for Metals and metal products-Bolts, nuts, screws, rivets, and washers, not seasonally adjusted",0.013,0.003
+108105,WPU108105,"Aircraft fasteners, except plastics (including aerospace)",1081,"PPI Commodity data for Metals and metal products-Bolts, nuts, screws, rivets, and washers, not seasonally adjusted",0.055,0.013
+108106,WPU108106,"Formed products, except fasteners, made by cold-, warm-, or hot-heading processes",1081,"PPI Commodity data for Metals and metal products-Bolts, nuts, screws, rivets, and washers, not seasonally adjusted",0.014,0.003
+108303,WPU108303,"Commercial, institutional and industrial electric lighting fixtures",1083,"PPI Commodity data for Metals and metal products-Lighting fixtures, not seasonally adjusted",0.152,0.168
+108305,WPU108305,Other lighting equipment,1083,"PPI Commodity data for Metals and metal products-Lighting fixtures, not seasonally adjusted",0.016,0.053
+108801,WPU108801,"Ferrous wire rope, cable, forms and strand",1088,"PPI Commodity data for Metals and metal products-Fabricated ferrous wire products, not seasonally adjusted",0.029,0.048
+108807,WPU108807,"Ferrous wire cloth, other woven wire products",1088,"PPI Commodity data for Metals and metal products-Fabricated ferrous wire products, not seasonally adjusted",0.001,0.011
+108809,WPU108809,Other fabricated ferrous wire products,1088,"PPI Commodity data for Metals and metal products-Fabricated ferrous wire products, not seasonally adjusted",0.017,0.18
+108812,WPU108812,"Steel nails, staples, tacks, spikes and brads",1088,"PPI Commodity data for Metals and metal products-Fabricated ferrous wire products, not seasonally adjusted",0.01,0.001
+108904,WPU108904,Wire springs,1089,"PPI Commodity data for Metals and metal products-Other miscellaneous metal products, not seasonally adjusted",0.039,0.001
+108905,WPU108905,Other metal products,1089,"PPI Commodity data for Metals and metal products-Other miscellaneous metal products, not seasonally adjusted",1.633,0.165
+108907,WPU108907,Metal stampings n.e.c.,1089,"PPI Commodity data for Metals and metal products-Other miscellaneous metal products, not seasonally adjusted",0.145,0.099
+108908,WPU108908,Metal foil and leaf,1089,"PPI Commodity data for Metals and metal products-Other miscellaneous metal products, not seasonally adjusted",0.011,0.004
+108909,WPU108909,Heavy gauge springs,1089,"PPI Commodity data for Metals and metal products-Other miscellaneous metal products, not seasonally adjusted",0.033,0.004
+111401,WPU111401,"Commercial turf and grounds care equipment, including parts and attachments",1114,"PPI Commodity data for Machinery and equipment-Agricultural machinery and equipment, not seasonally adjusted",0.001,0.003
+111409,WPU111409,"Parts for farm machinery, for sale separately",1114,"PPI Commodity data for Machinery and equipment-Agricultural machinery and equipment, not seasonally adjusted",0.007,0.014
+112J01,WPU112J01,"Winches, aerial work platforms, and automotive wrecker hoists, including parts and attachments",112J,"PPI Commodity data for Machinery and equipment-Misc. construction machinery and equipment, not seasonally adjusted",0.032,0.036
+112K01,WPU112K01,"Parts for construction machinery and equipment, sold separately",112K,"PPI Commodity data for Machinery and equipment-Parts for construction machinery and equipment, sold separately, not seasonally adjusted",0.027,0.189
+113301,WPU113301,"Arc welding machines, components, and accessories, excluding electrodes and stud welding equip",1133,"PPI Commodity data for Machinery and equipment-Welding machines and equipment, not seasonally adjusted",0.02,0.033
+113302,WPU113302,"Resistance welders, components, accessories, and electrodes",1133,"PPI Commodity data for Machinery and equipment-Welding machines and equipment, not seasonally adjusted",0.003,0.005
+113303,WPU113303,"Arc welding electrodes, metal",1133,"PPI Commodity data for Machinery and equipment-Welding machines and equipment, not seasonally adjusted",0.012,0.02
+113304,WPU113304,"Gas welding and cutting equipment, parts, attachments, and accessories",1133,"PPI Commodity data for Machinery and equipment-Welding machines and equipment, not seasonally adjusted",0.002,0.003
+113306,WPU113306,"Other welding equipment, components, and accessories (excluding arc, resistance, and gas)",1133,"PPI Commodity data for Machinery and equipment-Welding machines and equipment, not seasonally adjusted",0.002,0.004
+113409,WPU113409,Parts and attachments for industrial process furnaces and ovens,1134,"PPI Commodity data for Machinery and equipment-Industrial process furnaces and ovens, not seasonally adjusted",0.003,0.024
+113501,WPU113501,Small cutting tools,1135,"PPI Commodity data for Machinery and equipment-Cutting tools and accessories, not seasonally adjusted",0.061,0.164
+113502,WPU113502,Precision measuring tools,1135,"PPI Commodity data for Machinery and equipment-Cutting tools and accessories, not seasonally adjusted",0.007,0.006
+113505,WPU113505,Other machine tool attachments and accessories,1135,"PPI Commodity data for Machinery and equipment-Cutting tools and accessories, not seasonally adjusted",0.007,0.021
+113601,WPU113601,"Nonmetallic sized grains, powders, and flour abrasives (incl. graded only)",1136,"PPI Commodity data for Machinery and equipment-Abrasive products, not seasonally adjusted",0.01,0.019
+113603,WPU113603,Nonmetallic abrasive products (including diamond abrasives),1136,"PPI Commodity data for Machinery and equipment-Abrasive products, not seasonally adjusted",0.012,0.022
+113605,WPU113605,"Nonmetallic coated abrasive products and buffing wheels, polishing wheels, and laps",1136,"PPI Commodity data for Machinery and equipment-Abrasive products, not seasonally adjusted",0.022,0.042
+113632,WPU113632,"Metal abrasives including steel and iron grid, shot, and sand, and other metal abrasives",1136,"PPI Commodity data for Machinery and equipment-Abrasive products, not seasonally adjusted",0.005,0.01
+113753,WPU113753,Rebuilt metal-cutting machine tools and parts for metal-cutting machine tools,1137,"PPI Commodity data for Machinery and equipment-Metal cutting machine tools, not seasonally adjusted",0.0,0.001
+113852,WPU113852,Rebuilt metal-forming machine tools and parts for metal-forming machine tools,1138,"PPI Commodity data for Machinery and equipment-Metal forming machine tools, not seasonally adjusted",0.0,0.0
+113901,WPU113901,"Special tools, dies, jigs, and fixtures",1139,"PPI Commodity data for Machinery and equipment-Tools, dies, jigs, fixtures & ind. molds, not seasonally adjusted",0.005,0.053
+113903,WPU113903,Industrial molds and mold boxes,1139,"PPI Commodity data for Machinery and equipment-Tools, dies, jigs, fixtures & ind. molds, not seasonally adjusted",0.002,0.133
+114107,WPU114107,Parts and attachments for air and gas compressors and vacuum pumps,1141,"PPI Commodity data for Machinery and equipment-Pumps, compressors, and equipment, not seasonally adjusted",0.002,0
+114108,WPU114108,Industrial spraying equipment,1141,"PPI Commodity data for Machinery and equipment-Pumps, compressors, and equipment, not seasonally adjusted",0.003,0
+114115,WPU114115,Air and gas compressors and vacuum pumps,1141,"PPI Commodity data for Machinery and equipment-Pumps, compressors, and equipment, not seasonally adjusted",0.015,0
+114201,WPU114201,Elevators and moving stairways,1142,"PPI Commodity data for Machinery and equipment-Elevators, escalators, and other lifts, not seasonally adjusted",0.071,0.082
+114202,WPU114202,Parts and attachments for elevators and moving stairs (sold separately),1142,"PPI Commodity data for Machinery and equipment-Elevators, escalators, and other lifts, not seasonally adjusted",0.012,0.014
+114301,WPU114301,Fluid power pumps and parts,1143,"PPI Commodity data for Machinery and equipment-Fluid power equipment, not seasonally adjusted",0.058,0.006
+114302,WPU114302,Fluid power valves,1143,"PPI Commodity data for Machinery and equipment-Fluid power equipment, not seasonally adjusted",0.062,0.15
+114303,WPU114303,"Fluid power cylinders, actuators, accumulators, cushions, & parts",1143,"PPI Commodity data for Machinery and equipment-Fluid power equipment, not seasonally adjusted",0.114,0.012
+114304,WPU114304,Fluid power hose and tube fittings,1143,"PPI Commodity data for Machinery and equipment-Fluid power equipment, not seasonally adjusted",0.113,0.273
+114305,WPU114305,Parts for fluid power valves,1143,"PPI Commodity data for Machinery and equipment-Fluid power equipment, not seasonally adjusted",0.006,0.016
+114403,WPU114403,"Industrial trucks, trailers, and stackers",1144,"PPI Commodity data for Machinery and equipment-Industrial material handling equipment, not seasonally adjusted",0.076,0.088
+114404,WPU114404,"Hoists, overhead cranes, and monorail systems",1144,"PPI Commodity data for Machinery and equipment-Industrial material handling equipment, not seasonally adjusted",0.019,0.022
+114406,WPU114406,Parts and accessories for conveyors and conveying systems,1144,"PPI Commodity data for Machinery and equipment-Industrial material handling equipment, not seasonally adjusted",0.047,0.054
+114501,WPU114501,"Speed changers, drives, gears",1145,"PPI Commodity data for Machinery and equipment-Mechanical power transmission equipment, not seasonally adjusted",0.019,0.055
+114502,WPU114502,Other power transmission equipment,1145,"PPI Commodity data for Machinery and equipment-Mechanical power transmission equipment, not seasonally adjusted",0.05,0.059
+114613,WPU114613,"Parts, attachments, and accessories for scales and balances",1146,"PPI Commodity data for Machinery and equipment-Scales and balances, not seasonally adjusted",0.002,0.004
+114701,WPU114701,"Fan, blower, air purification equipment",1147,"PPI Commodity data for Machinery and equipment-Air purification equipment and industrial and commercial fans and blowers, not seasonally adjusted",0.047,0.066
+114802,WPU114802,"Unitary air-conditioners, except air source heat pumps",1148,"PPI Commodity data for Machinery and equipment-Air conditioning and refrigeration equip, not seasonally adjusted",0.183,0.248
+114803,WPU114803,Commercial refrigeration equipment,1148,"PPI Commodity data for Machinery and equipment-Air conditioning and refrigeration equip, not seasonally adjusted",0.063,0.086
+114806,WPU114806,All other miscellaneous refrigeration and air-conditioning equipment,1148,"PPI Commodity data for Machinery and equipment-Air conditioning and refrigeration equip, not seasonally adjusted",0.041,0.056
+114807,WPU114807,"Heat transfer equipment, including heat pumps",1148,"PPI Commodity data for Machinery and equipment-Air conditioning and refrigeration equip, not seasonally adjusted",0.103,0.142
+114808,WPU114808,"Refrigerant compressors, except automotive",1148,"PPI Commodity data for Machinery and equipment-Air conditioning and refrigeration equip, not seasonally adjusted",0.058,0.08
+114809,WPU114809,Parts and accessories for air conditioning and heat transfer equipment,1148,"PPI Commodity data for Machinery and equipment-Air conditioning and refrigeration equip, not seasonally adjusted",0.052,0.071
+114815,WPU114815,Refrigeration condensing units,1148,"PPI Commodity data for Machinery and equipment-Air conditioning and refrigeration equip, not seasonally adjusted",0.021,0.028
+114902,WPU114902,"Metal valves, except fluid power",1149,"PPI Commodity data for Machinery and equipment-Miscellaneous general purpose equipment, not seasonally adjusted",0.165,0.403
+114903,WPU114903,"Metal pipe fittings, flanges, and unions",1149,"PPI Commodity data for Machinery and equipment-Miscellaneous general purpose equipment, not seasonally adjusted",0.055,0.133
+114905,WPU114905,Ball and roller bearings,1149,"PPI Commodity data for Machinery and equipment-Miscellaneous general purpose equipment, not seasonally adjusted",0.03,0.085
+114907,WPU114907,Industrial patterns,1149,"PPI Commodity data for Machinery and equipment-Miscellaneous general purpose equipment, not seasonally adjusted",0.008,0.004
+114908,WPU114908,Filters and strainers,1149,"PPI Commodity data for Machinery and equipment-Miscellaneous general purpose equipment, not seasonally adjusted",0.074,0.123
+114911,WPU114911,Other miscellaneous general purpose equipment,1149,"PPI Commodity data for Machinery and equipment-Miscellaneous general purpose equipment, not seasonally adjusted",0.051,0.084
+115201,WPU115201,"Computer storage devices (except parts, attachments and accessories)",1152,"PPI Commodity data for Machinery and equipment-Computer storage devices, not seasonally adjusted",0.012,0.005
+115203,WPU115203,"Parts, attachments and accessories for computer storage devices",1152,"PPI Commodity data for Machinery and equipment-Computer storage devices, not seasonally adjusted",0.0,0.0
+115405,WPU115405,"Parts, attachments, and accessories for computer terminals and peripherals",1154,"PPI Commodity data for Machinery and equipment-Computer peripheral equipment and parts, not seasonally adjusted",0.012,0.108
+115406,WPU115406,Computer terminals (including POS and funds-transfer devices) and other computer peripherals,1154,"PPI Commodity data for Machinery and equipment-Computer peripheral equipment and parts, not seasonally adjusted",0.005,0.047
+116101,WPU116101,Dairy and milk products plant machinery and equipment,1161,"PPI Commodity data for Machinery and equipment-Food products machinery, not seasonally adjusted",0.0,0.002
+116104,WPU116104,Commercial food products machinery (except packaging and cooking equipment),1161,"PPI Commodity data for Machinery and equipment-Food products machinery, not seasonally adjusted",0.001,0.009
+116105,WPU116105,"Industrial food products machinery for processing foods, beverages, & animal & fowl feed",1161,"PPI Commodity data for Machinery and equipment-Food products machinery, not seasonally adjusted",0.001,0.007
+116306,WPU116306,Sawmill and woodworking machinery,1163,"PPI Commodity data for Machinery and equipment-Sawmill and woodworking machinery, not seasonally adjusted",0.0,0.004
+116401,WPU116401,Paper industries machinery,1164,"PPI Commodity data for Machinery and equipment-Paper industries machinery, not seasonally adjusted",0.001,0.007
+116510,WPU116510,Printing machinery and equipment,1165,"PPI Commodity data for Machinery and equipment-Printing trades machinery and equipment, not seasonally adjusted",0.0,0.004
+116603,WPU116603,Plastics-working and rubber-working machinery and equipment,1166,"PPI Commodity data for Machinery and equipment-Other special industry machinery, not seasonally adjusted",0.001,0.011
+116606,WPU116606,All other industrial machinery,1166,"PPI Commodity data for Machinery and equipment-Other special industry machinery, not seasonally adjusted",0.005,0.074
+116705,WPU116705,"Packing, packaging, and bottling machinery and parts",1167,"PPI Commodity data for Machinery and equipment-Packing, packaging, and bottling machinery and parts, not seasonally adjusted",0.032,0
+116801,WPU116801,Service industry machinery and parts,1168,"PPI Commodity data for Machinery and equipment-Service industry machinery and parts, not seasonally adjusted",0.052,0.015
+117101,WPU117101,Current-carrying wiring devices,1171,"PPI Commodity data for Machinery and equipment-Wiring devices, not seasonally adjusted",0.202,0.057
+117102,WPU117102,Noncurrent-carrying wiring devices,1171,"PPI Commodity data for Machinery and equipment-Wiring devices, not seasonally adjusted",0.177,0.055
+117205,WPU117205,"Test equipment for electrical, radio, & communication circuits & motors",1172,"PPI Commodity data for Machinery and equipment-Integrating and measuring instruments, not seasonally adjusted",0.013,0
+117209,WPU117209,Electrical integrating instruments and other instruments to measure electricity,1172,"PPI Commodity data for Machinery and equipment-Integrating and measuring instruments, not seasonally adjusted",0.004,0
+117303,WPU117303,Fractional horsepower motors and generators,1173,"PPI Commodity data for Machinery and equipment-Motors, generators, motor generator sets, not seasonally adjusted",0.007,0.006
+117304,WPU117304,Integral horsepower motors and generators (excluding land transportation types),1173,"PPI Commodity data for Machinery and equipment-Motors, generators, motor generator sets, not seasonally adjusted",0.023,0.019
+117309,WPU117309,Parts and supplies for motors and generators,1173,"PPI Commodity data for Machinery and equipment-Motors, generators, motor generator sets, not seasonally adjusted",0.02,0.015
+117311,WPU117311,Other motors and generators,1173,"PPI Commodity data for Machinery and equipment-Motors, generators, motor generator sets, not seasonally adjusted",0.035,0.028
+117411,WPU117411,Other transformers and parts for transformers,1174,"PPI Commodity data for Machinery and equipment-Transformers and power regulators, not seasonally adjusted",0.001,0
+117507,WPU117507,Industrial controls and related parts and accessories,1175,"PPI Commodity data for Machinery and equipment-Switchgear, switchboard, industrial controls equipment, not seasonally adjusted",0.04,0.047
+117522,WPU117522,Switchgear and switchboard apparatus,1175,"PPI Commodity data for Machinery and equipment-Switchgear, switchboard, industrial controls equipment, not seasonally adjusted",0.103,0.225
+117601,WPU117601,Telephone and wireline data networking equipment,1176,"PPI Commodity data for Machinery and equipment-Communications and related equipment and miscellaneous electronic systems & equipment, not seasonally adjusted",0,0.016
+117603,WPU117603,"Other communications and related equipment, including broadcast and wireless",1176,"PPI Commodity data for Machinery and equipment-Communications and related equipment and miscellaneous electronic systems & equipment, not seasonally adjusted",0.11,0.14
+117605,WPU117605,"Electronic systems and equipment, n.e.c.",1176,"PPI Commodity data for Machinery and equipment-Communications and related equipment and miscellaneous electronic systems & equipment, not seasonally adjusted",0.005,0.049
+117606,WPU117606,"Search, detection, navigation & guidance systems and equipment",1176,"PPI Commodity data for Machinery and equipment-Communications and related equipment and miscellaneous electronic systems & equipment, not seasonally adjusted",0.243,0
+117704,WPU117704,"Electric lamp bulbs, tubes, and components",1177,"PPI Commodity data for Machinery and equipment-Electric lamp bulbs, tubes, and components, not seasonally adjusted",0.002,0.007
+117821,WPU117821,"Relays for electronic circuitry, industrial control overload, and switchgear type",1178,"PPI Commodity data for Machinery and equipment-Electronic components and accessories, not seasonally adjusted",0.007,0.008
+117822,WPU117822,"Switches, mechanical, for electronic circuitry",1178,"PPI Commodity data for Machinery and equipment-Electronic components and accessories, not seasonally adjusted",0.004,0.007
+117824,WPU117824,Connectors for electronic circuitry,1178,"PPI Commodity data for Machinery and equipment-Electronic components and accessories, not seasonally adjusted",0.029,0.049
+117828,WPU117828,"Filters, crystals, and transducers",1178,"PPI Commodity data for Machinery and equipment-Electronic components and accessories, not seasonally adjusted",0.01,0.018
+117839,WPU117839,"Integrated circuit packages, including microprocessors",1178,"PPI Commodity data for Machinery and equipment-Electronic components and accessories, not seasonally adjusted",0.047,0.033
+117847,WPU117847,"Other semiconductor devices, incl. transistors, diodes, and semiconductor parts such as wafers",1178,"PPI Commodity data for Machinery and equipment-Electronic components and accessories, not seasonally adjusted",0.037,0.026
+117849,WPU117849,Bare printed circuit boards,1178,"PPI Commodity data for Machinery and equipment-Electronic components and accessories, not seasonally adjusted",0.018,0.031
+117853,WPU117853,"Electronic coils, transformers, and other inductors",1178,"PPI Commodity data for Machinery and equipment-Electronic components and accessories, not seasonally adjusted",0.012,0.02
+117854,WPU117854,Capacitors and resistors for electronic circuitry,1178,"PPI Commodity data for Machinery and equipment-Electronic components and accessories, not seasonally adjusted",0.007,0.011
+117856,WPU117856,"Microwave components, electron tubes, and other electronic components, n.e.c.",1178,"PPI Commodity data for Machinery and equipment-Electronic components and accessories, not seasonally adjusted",0.047,0.08
+117861,WPU117861,"Printed circuit assemblies, loaded boards, modules and consumer external modems",1178,"PPI Commodity data for Machinery and equipment-Electronic components and accessories, not seasonally adjusted",0.167,0.026
+117901,WPU117901,Storage batteries,1179,"PPI Commodity data for Machinery and equipment-Miscellaneous electrical machinery and equipment, not seasonally adjusted",0.069,0.047
+117902,WPU117902,Primary batteries,1179,"PPI Commodity data for Machinery and equipment-Miscellaneous electrical machinery and equipment, not seasonally adjusted",0.012,0.008
+117903,WPU117903,Carbon and graphite products,1179,"PPI Commodity data for Machinery and equipment-Miscellaneous electrical machinery and equipment, not seasonally adjusted",0.012,0.057
+117905,WPU117905,X-ray and electromedical equipment,1179,"PPI Commodity data for Machinery and equipment-Miscellaneous electrical machinery and equipment, not seasonally adjusted",0.035,0
+117929,WPU117929,Miscellaneous electrical industrial apparatus,1179,"PPI Commodity data for Machinery and equipment-Miscellaneous electrical machinery and equipment, not seasonally adjusted",0.005,0.043
+117939,WPU117939,"All other electrical equipment and components, except industrial",1179,"PPI Commodity data for Machinery and equipment-Miscellaneous electrical machinery and equipment, not seasonally adjusted",0.0,0.001
+118105,WPU118105,"Automatic environmental controls for monitoring residential, commercial, and appliance use",1181,"PPI Commodity data for Machinery and equipment-Automatic environmental controls for monitoring residential, commercial, and appliance use, not seasonally adjusted",0.073,0.072
+118201,WPU118201,Industrial process control instruments,1182,"PPI Commodity data for Machinery and equipment-Industrial process control instruments, not seasonally adjusted",0.012,0.215
+118401,WPU118401,Fluid meters and counting devices,1184,"PPI Commodity data for Machinery and equipment-Fluid meters and counting devices, not seasonally adjusted",0.052,0.068
+118501,WPU118501,"Aeronautical, nautical, and navigational instruments",1185,"PPI Commodity data for Machinery and equipment-Engineering and scientific instruments, not seasonally adjusted",0.071,0
+118601,WPU118601,"Sighting, tracking, and fire-control equipment, optical type",1186,"PPI Commodity data for Machinery and equipment-Measuring instruments and lenses, not seasonally adjusted",0.003,0
+118602,WPU118602,All other miscellaneous optical instruments and lenses,1186,"PPI Commodity data for Machinery and equipment-Measuring instruments and lenses, not seasonally adjusted",0.007,0
+118603,WPU118603,Laboratory analytical instruments,1186,"PPI Commodity data for Machinery and equipment-Measuring instruments and lenses, not seasonally adjusted",0.007,0.026
+118901,WPU118901,Aircraft engine instruments,1189,"PPI Commodity data for Machinery and equipment-Measuring & controlling devices, n.e.c., not seasonally adjusted",0.012,0
+118904,WPU118904,Nuclear radiation detection & monitoring instruments,1189,"PPI Commodity data for Machinery and equipment-Measuring & controlling devices, n.e.c., not seasonally adjusted",0.002,0
+118905,WPU118905,Physical properties and kinematic testing equipment,1189,"PPI Commodity data for Machinery and equipment-Measuring & controlling devices, n.e.c., not seasonally adjusted",0.013,0
+118906,WPU118906,"Commercial, geophysical, meteorological, surveying & all other measuring & controlling devices",1189,"PPI Commodity data for Machinery and equipment-Measuring & controlling devices, n.e.c., not seasonally adjusted",0.008,0
+119106,WPU119106,Parts and attachments for oil and gas field machinery and equipment,1191,"PPI Commodity data for Machinery and equipment-Oil field and gas field machinery, not seasonally adjusted",0.005,0.218
+119253,WPU119253,Parts and attachments for mining machinery and equipment (sold separately),1192,"PPI Commodity data for Machinery and equipment-Mining machinery and equipment, not seasonally adjusted",0.002,0.103
+119401,WPU119401,"Gasoline engines (except aircraft, automobile, highway truck, bus & tank)",1194,"PPI Commodity data for Machinery and equipment-Internal combustion engines, not seasonally adjusted",0.038,0.007
+119407,WPU119407,"Diesel, semidiesel, and dual-fuel engines (except automotive)",1194,"PPI Commodity data for Machinery and equipment-Internal combustion engines, not seasonally adjusted",0.085,0.015
+119408,WPU119408,"Diesel, semidiesel, and dual-fuel engines for automobiles, trucks, and buses",1194,"PPI Commodity data for Machinery and equipment-Internal combustion engines, not seasonally adjusted",0.129,0.024
+119413,WPU119413,"Parts & accessories for internal combustion engines, ex. aircraft & gasoline automotive engines",1194,"PPI Commodity data for Machinery and equipment-Internal combustion engines, not seasonally adjusted",0.095,0.017
+119420,WPU119420,Miscellaneous engine equipment,1194,"PPI Commodity data for Machinery and equipment-Internal combustion engines, not seasonally adjusted",0.044,0.008
+119505,WPU119505,Machine shop products,1195,"PPI Commodity data for Machinery and equipment-Machine shop products, not seasonally adjusted",0.284,0.041
+119701,WPU119701,Turbines and turbine generator sets (excluding parts),1197,"PPI Commodity data for Machinery and equipment-Turbines and turbine generator sets, not seasonally adjusted",0.008,0.026
+119801,WPU119801,"Parts & accesories for turbines, turbine generators, and turbine generator sets",1198,"PPI Commodity data for Machinery and equipment-Parts & accesories for turbines, turbine generators, and turbine generator sets, not seasonally adjusted",0.006,0.022
+121206,WPU121206,Wood household furniture (nonupholstered),1212,"PPI Commodity data for Furniture and household durables-Wood household furniture (nonupholstered), not seasonally adjusted",0.004,0
+121401,WPU121401,Bedding,1214,"PPI Commodity data for Furniture and household durables-Bedding, not seasonally adjusted",0.003,0
+122101,WPU122101,Wood office furniture and store fixtures,1221,"PPI Commodity data for Furniture and household durables-Wood office furniture and store fixtures, not seasonally adjusted",0.198,0.019
+122204,WPU122204,Nonwood partitions and fixtures,1222,"PPI Commodity data for Furniture and household durables-Nonwood furniture and store fixtures, not seasonally adjusted",0.067,0.044
+122301,WPU122301,Public building furniture,1223,"PPI Commodity data for Furniture and household durables-Public building furniture, not seasonally adjusted",0.002,0
+122401,WPU122401,"Commercial furniture and fixtures, n.e.c.",1224,"PPI Commodity data for Furniture and household durables-Commercial furniture and fixtures, n.e.c., not seasonally adjusted",0.002,0
+123101,WPU123101,Carpet and rugs,1231,"PPI Commodity data for Furniture and household durables-Carpets and rugs, not seasonally adjusted",0.09,0
+123201,WPU123201,Resilient floor coverings,1232,"PPI Commodity data for Furniture and household durables-Resilient floor coverings, not seasonally adjusted",0.012,0.01
+124101,WPU124101,Household cooking appliances,1241,"PPI Commodity data for Furniture and household durables-Major appliances, not seasonally adjusted",0.017,0
+124102,WPU124102,Household laundry equipment and parts,1241,"PPI Commodity data for Furniture and household durables-Major appliances, not seasonally adjusted",0.007,0
+124103,WPU124103,Household refrigeration equipment,1241,"PPI Commodity data for Furniture and household durables-Major appliances, not seasonally adjusted",0.009,0
+124104,WPU124104,Other major household appliances including room air-conditioners,1241,"PPI Commodity data for Furniture and household durables-Major appliances, not seasonally adjusted",0.023,0.016
+124301,WPU124301,Household vacuum cleaners and other floor care machines (including parts and attachments),1243,"PPI Commodity data for Furniture and household durables-Household vacuum cleaners, including parts and attachments, not seasonally adjusted",0.005,0.001
+124403,WPU124403,"Parts and attachments for small electric household appliances, including fan parts",1244,"PPI Commodity data for Furniture and household durables-Electric housewares and fans, not seasonally adjusted",0.0,0.0
+124404,WPU124404,"Small electric household appliances, including fans",1244,"PPI Commodity data for Furniture and household durables-Electric housewares and fans, not seasonally adjusted",0.016,0.003
+125707,WPU125707,Speakers and commercial sound equipment,1257,"PPI Commodity data for Furniture and household durables-Speakers and commercial sound equipment, not seasonally adjusted",0.003,0
+125803,WPU125803,"Other home electronic equipment, including television receivers and automotive A/V equipment",1258,"PPI Commodity data for Furniture and household durables-Other home electronic equipment, not seasonally adjusted",0.003,0
+126101,WPU126101,"Vitreous china, porcelain, and earthenware table and kitchenware and other pottery products",1261,"PPI Commodity data for Furniture and household durables-Vitreous china, fine earthenware, and other pottery products, not seasonally adjusted",0.001,0.0
+126501,WPU126501,"Mirrors (decorated and undecorated), made from purchased glass",1265,"PPI Commodity data for Furniture and household durables-Mirrors (decorated and undecorated), not seasonally adjusted",0.04,0.011
+126605,WPU126605,"Parts and attachments for consumer lawn, garden, and snow equipment",1266,"PPI Commodity data for Furniture and household durables-Lawn/garden equipment, not seasonally adjusted",0.0,0.004
+126607,WPU126607,"Consumer lawn, garden, and snow equipment",1266,"PPI Commodity data for Furniture and household durables-Lawn/garden equipment, not seasonally adjusted",0.0,0.039
+131107,WPU131107,Specialty glass,1311,"PPI Commodity data for Nonmetallic mineral products-Flat glass, not seasonally adjusted",0.149,0.042
+131108,WPU131108,"Flat glass (float, sheet, and plate process)",1311,"PPI Commodity data for Nonmetallic mineral products-Flat glass, not seasonally adjusted",0.047,0.013
+131301,WPU131301,Pressed and blown glassware,1313,"PPI Commodity data for Nonmetallic mineral products-Pressed and blown glassware, not seasonally adjusted",0.051,0.014
+131702,WPU131702,Recyclable glass,1317,"PPI Commodity data for Nonmetallic mineral products-Recyclable glass, not seasonally adjusted",0,0.075
+132101,WPU132101,"Construction sand, gravel and crushed stone",1321,"PPI Commodity data for Nonmetallic mineral products-Construction sand, gravel and crushed stone, not seasonally adjusted",0.445,0.763
+132201,WPU132201,"Cement, hydraulic",1322,"PPI Commodity data for Nonmetallic mineral products-Cement, hydraulic, not seasonally adjusted",0.054,0.112
+133111,WPU133111,Structural concrete block,1331,"PPI Commodity data for Nonmetallic mineral products-Concrete block and brick, not seasonally adjusted",0.047,0.016
+133121,WPU133121,Decorative concrete block,1331,"PPI Commodity data for Nonmetallic mineral products-Concrete block and brick, not seasonally adjusted",0.032,0.011
+133131,WPU133131,Concrete brick,1331,"PPI Commodity data for Nonmetallic mineral products-Concrete block and brick, not seasonally adjusted",0.022,0.008
+133141,WPU133141,Concrete pavers,1331,"PPI Commodity data for Nonmetallic mineral products-Concrete block and brick, not seasonally adjusted",0.055,0.019
+133201,WPU133201,Concrete pipe,1332,"PPI Commodity data for Nonmetallic mineral products-Concrete pipe, not seasonally adjusted",0.062,0.021
+133301,WPU133301,Ready-mix concrete,1333,"PPI Commodity data for Nonmetallic mineral products-Ready-mix concrete, not seasonally adjusted",1.1,0.515
+133401,WPU133401,Precast concrete products,1334,"PPI Commodity data for Nonmetallic mineral products-Precast concrete products, not seasonally adjusted",0.388,0.147
+133501,WPU133501,Prestressed concrete products,1335,"PPI Commodity data for Nonmetallic mineral products-Prestressed concrete products, not seasonally adjusted",0.069,0.026
+134201,WPU134201,Building or common brick,1342,"PPI Commodity data for Nonmetallic mineral products-Brick and structural clay tile, not seasonally adjusted",0.029,0.016
+134202,WPU134202,"Glazed brick and other brick (paving, floor, and sewer)",1342,"PPI Commodity data for Nonmetallic mineral products-Brick and structural clay tile, not seasonally adjusted",0.0,0.0
+134401,WPU134401,"Clay floor and wall tile, glazed and unglazed (including quarry tile and ceramic mosaic tile)",1344,"PPI Commodity data for Nonmetallic mineral products-Clay floor and wall tile, glazed and unglazed (including quarry tile and ceramic mosaic tile), not seasonally adjusted",0.024,0.013
+134501,WPU134501,"Structural clay products, n.e.c.",1345,"PPI Commodity data for Nonmetallic mineral products-Structural clay products, n.e.c., not seasonally adjusted",0.003,0.002
+135201,WPU135201,Clay refractories,1352,"PPI Commodity data for Nonmetallic mineral products-Clay refractories, not seasonally adjusted",0.062,0.034
+135301,WPU135301,Nonclay refractories (excluding dead-burned magnesia),1353,"PPI Commodity data for Nonmetallic mineral products-Nonclay refractories (excluding dead-burned magnesia), not seasonally adjusted",0.023,0.012
+136101,WPU136101,Prepared asphalt and tar roofing and siding products,1361,"PPI Commodity data for Nonmetallic mineral products-Prepared asphalt and tar roofing and siding products, not seasonally adjusted",0.301,0.448
+136201,WPU136201,"Roofing asphalts, pitches, coatings, and cement",1362,"PPI Commodity data for Nonmetallic mineral products-Roofing asphalts, pitches, coatings, and cement, not seasonally adjusted",0.056,0.084
+137101,WPU137101,Gypsum products,1371,"PPI Commodity data for Nonmetallic mineral products-Gypsum products, not seasonally adjusted",0.113,0.009
+138101,WPU138101,Glass containers (including value of packaging),1381,"PPI Commodity data for Nonmetallic mineral products-Glass containers (including value of packaging), not seasonally adjusted",0.081,0.023
+139201,WPU139201,Mineral wool for thermal and acoustical envelope insulation,1392,"PPI Commodity data for Nonmetallic mineral products-Insulation materials, not seasonally adjusted",0.12,0.021
+139202,WPU139202,"Mineral wool for industrial, equipment, and appliance insulation",1392,"PPI Commodity data for Nonmetallic mineral products-Insulation materials, not seasonally adjusted",0.084,0.015
+139401,WPU139401,Paving mixtures and blocks,1394,"PPI Commodity data for Nonmetallic mineral products-Paving mixtures and blocks, not seasonally adjusted",0.316,0.385
+139501,WPU139501,Cut stone and stone products,1395,"PPI Commodity data for Nonmetallic mineral products-Cut stone and stone products, not seasonally adjusted",0.125,0
+139801,WPU139801,Gaskets and gasketing material,1398,"PPI Commodity data for Nonmetallic mineral products-Gaskets, packing, and sealing devices, not seasonally adjusted",0.058,0.082
+139802,WPU139802,Packing and sealing,1398,"PPI Commodity data for Nonmetallic mineral products-Gaskets, packing, and sealing devices, not seasonally adjusted",0.037,0.052
+139902,WPU139902,Clay and stone mining and quarrying,1399,"PPI Commodity data for Nonmetallic mineral products-Nonmetallic minerals and products, n.e.c., not seasonally adjusted",0.059,0.343
+139903,WPU139903,All other nonmetallic mineral products,1399,"PPI Commodity data for Nonmetallic mineral products-Nonmetallic minerals and products, n.e.c., not seasonally adjusted",0.122,0.023
+139904,WPU139904,Industrial sand,1399,"PPI Commodity data for Nonmetallic mineral products-Nonmetallic minerals and products, n.e.c., not seasonally adjusted",0.021,0.056
+141104,WPU141104,"Motorcycles, including three-wheel motorbikes, motorscooters, mopeds, and parts",1411,"PPI Commodity data for Transportation equipment-Motor vehicles, not seasonally adjusted",0.012,0
+141205,WPU141205,Motor vehicles parts,1412,"PPI Commodity data for Transportation equipment-Motor vehicles parts, not seasonally adjusted",3.783,1.753
+141301,WPU141301,Truck and bus bodies sold separately,1413,"PPI Commodity data for Transportation equipment-Truck and bus bodies, not seasonally adjusted",0.477,0
+141406,WPU141406,Truck trailers,1414,"PPI Commodity data for Transportation equipment-Truck trailers, not seasonally adjusted",0.001,0
+141602,WPU141602,"Camping trailers, campers, pick-up covers, and parts",1416,"PPI Commodity data for Transportation equipment-Travel trailers and campers, not seasonally adjusted",0.001,0.026
+142301,WPU142301,Aircraft engine and engine parts,1423,"PPI Commodity data for Transportation equipment-Aircraft engine and engine parts, not seasonally adjusted",0.165,0
+142501,WPU142501,Other aircraft parts and equipment,1425,"PPI Commodity data for Transportation equipment-Other aircraft parts and equipment, not seasonally adjusted",0.439,0.166
+143103,WPU143103,"Nonmilitary self-propelled ships, new construction",1431,"PPI Commodity data for Transportation equipment-Ships, not seasonally adjusted",0.0,0
+143104,WPU143104,"Nonpropelled ships, new construction",1431,"PPI Commodity data for Transportation equipment-Ships, not seasonally adjusted",0.0,0
+144401,WPU144401,Railroad cars and locomotives,1444,"PPI Commodity data for Transportation equipment-Railroad cars and locomotives, not seasonally adjusted",0,0.091
+144501,WPU144501,Railway maintenance of way equipment and parts,1445,"PPI Commodity data for Transportation equipment-Railway maintenance of way equipment and parts, not seasonally adjusted",0,0.154
+149111,WPU149111,"Other transportation equipment, incl. golf carts, vehicle trailers, and all-terrain vehicles",1491,"PPI Commodity data for Transportation equipment-Transportation equipment, n.e.c., not seasonally adjusted",0.002,0.03
+151201,WPU151201,Sporting and athletic goods,1512,"PPI Commodity data for Miscellaneous products-Sporting and athletic goods, not seasonally adjusted",0.009,0
+152402,WPU152402,Stemmed and redried tobacco,1524,"PPI Commodity data for Miscellaneous products-Stemmed and redried tobacco, not seasonally adjusted",0.002,0
+152501,WPU152501,Other tobacco products,1525,"PPI Commodity data for Miscellaneous products-Other tobacco products, not seasonally adjusted",0.0,0
+154107,WPU154107,Photographic and photocopying equipment,1541,"PPI Commodity data for Miscellaneous products-Photographic and photocopying equipment, not seasonally adjusted",0.002,0.009
+154206,WPU154206,Photographic supplies,1542,"PPI Commodity data for Miscellaneous products-Photographic supplies, not seasonally adjusted",0.021,0.084
+156201,WPU156201,Surgical and medical instruments,1562,"PPI Commodity data for Miscellaneous products-Surgical and medical instruments, not seasonally adjusted",0.626,0
+156301,WPU156301,Medical and surgical appliances and supplies,1563,"PPI Commodity data for Miscellaneous products-Medical and surgical appliances and supplies, not seasonally adjusted",0.348,0
+156501,WPU156501,Dental equipment and supplies,1565,"PPI Commodity data for Miscellaneous products-Dental equipment and supplies, not seasonally adjusted",0.051,0
+157108,WPU157108,Personal safety equipment and clothing,1571,"PPI Commodity data for Miscellaneous products-Personal safety equipment and clothing, not seasonally adjusted",0.121,0
+159101,WPU159101,Burial caskets,1591,"PPI Commodity data for Miscellaneous products-Burial caskets, not seasonally adjusted",0.011,0.015
+159301,WPU159301,Musical instruments,1593,"PPI Commodity data for Miscellaneous products-Musical instruments, not seasonally adjusted",0.003,0.004
+159404,WPU159404,Costume jewelry and novelties,1594,"PPI Commodity data for Miscellaneous products-Jewelry and jewelry products, not seasonally adjusted",0.006,0
+159408,WPU159408,Jewelers' material and lapidary work,1594,"PPI Commodity data for Miscellaneous products-Jewelry and jewelry products, not seasonally adjusted",0.018,0
+159705,WPU159705,"Brooms, brushes and mops",1597,"PPI Commodity data for Miscellaneous products-Brooms and brushes, not seasonally adjusted",0.015,0.022
+159A04,WPU159A04,Signs and advertising displays,159A,"PPI Commodity data for Miscellaneous products-Miscellaneous products, n.e.c., not seasonally adjusted",0.061,0
+159A11,WPU159A11,All other miscellaneous fabricated products and recyclable materials,159A,"PPI Commodity data for Miscellaneous products-Miscellaneous products, n.e.c., not seasonally adjusted",0.004,0.021
+159F11,WPU159F11,"Hides, skins, and pelts, made in slaughtering plants",159F,"PPI Commodity data for Miscellaneous products-Hides, skins, and related leather products, not seasonally adjusted",0.01,0
+159F31,WPU159F31,"Leather belts, made from purchased materials",159F,"PPI Commodity data for Miscellaneous products-Hides, skins, and related leather products, not seasonally adjusted",0.0,0
+301101,WPU301101,Rail transportation of freight and mail,3011,"PPI Commodity data for Transportation services-Rail transportation of freight and mail, not seasonally adjusted",0.402,0.001
+301201,WPU301201,Local motor carrying,3012,"PPI Commodity data for Transportation services-Truck transportation of freight, not seasonally adjusted",0.366,0.676
+301202,WPU301202,Long-distance motor carrying,3012,"PPI Commodity data for Transportation services-Truck transportation of freight, not seasonally adjusted",1.076,1.99
+301301,WPU301301,Deep sea water transportation of freight,3013,"PPI Commodity data for Transportation services-Water transportation of freight, not seasonally adjusted",0.0,0.118
+301302,WPU301302,Coastal and intercoastal water transportation of freight,3013,"PPI Commodity data for Transportation services-Water transportation of freight, not seasonally adjusted",0.0,0.09
+301303,WPU301303,Great Lakes-St Lawrence Seaway water transportation of freight,3013,"PPI Commodity data for Transportation services-Water transportation of freight, not seasonally adjusted",0.0,0.016
+301304,WPU301304,Inland waterways transportation of freight,3013,"PPI Commodity data for Transportation services-Water transportation of freight, not seasonally adjusted",0.0,0.077
+301401,WPU301401,Air transportation of freight,3014,"PPI Commodity data for Transportation services-Air transportation of freight, not seasonally adjusted",0.076,0.203
+301601,WPU301601,U.S. Postal Service,3016,"PPI Commodity data for Transportation services-Courier, messenger, and U.S. postal services, not seasonally adjusted",0.98,0.003
+301602,WPU301602,"Courier and messenger services, except air",3016,"PPI Commodity data for Transportation services-Courier, messenger, and U.S. postal services, not seasonally adjusted",0.508,0.118
+301603,WPU301603,"Air mail and package delivery services, excluding by USPS",3016,"PPI Commodity data for Transportation services-Courier, messenger, and U.S. postal services, not seasonally adjusted",0.308,0.548
+301701,WPU301701,Pipeline transportation of petroleum products,3017,"PPI Commodity data for Transportation services-Pipeline transportation, not seasonally adjusted",0,0.02
+301702,WPU301702,Pipeline transportation of natural gas,3017,"PPI Commodity data for Transportation services-Pipeline transportation, not seasonally adjusted",0,0.025
+302101,WPU302101,Rail transportation of passengers,3021,"PPI Commodity data for Transportation services-Rail transportation of passengers, not seasonally adjusted",0.003,0.0
+302201,WPU302201,Airline passenger services,3022,"PPI Commodity data for Transportation services-Airline passenger services, not seasonally adjusted",0.386,1.292
+311101,WPU311101,"Towing, tugging, docking and related services",3111,"PPI Commodity data for Services related to transportation activities-Towing, tugging, docking, and related services, not seasonally adjusted",0.001,0
+311201,WPU311201,Operation of port waterfront terminals,3112,"PPI Commodity data for Services related to transportation activities-Operation of port waterfront terminals, not seasonally adjusted",0.0,0.002
+311301,WPU311301,Marine cargo handling,3113,"PPI Commodity data for Services related to transportation activities-Marine cargo handling, not seasonally adjusted",0.101,0.049
+312101,WPU312101,"Other airport operations, excluding aircraft maintenance and repair",3121,"PPI Commodity data for Services related to transportation activities-Other airport operations, excluding aircraft maintenance and repair, not seasonally adjusted",0.104,0.136
+313101,WPU313101,Arrangement of freight and cargo,3131,"PPI Commodity data for Services related to transportation activities-Arrangement of freight and cargo, not seasonally adjusted",0.161,0.188
+313201,WPU313201,Freight forwarding,3132,"PPI Commodity data for Services related to transportation activities-Freight forwarding, not seasonally adjusted",0.101,0.117
+321101,WPU321101,"Warehousing, storage, and related services",3211,"PPI Commodity data for Warehousing, storage, and related services, not seasonally adjusted",0.854,0.76
+331101,WPU331101,Sales of textbooks,3311,"PPI Commodity data for Publishing sales, excluding software-Sales of books, not seasonally adjusted",0.0,0.001
+331102,WPU331102,"Sales of technical, scientific, and professional books",3311,"PPI Commodity data for Publishing sales, excluding software-Sales of books, not seasonally adjusted",0.012,0.313
+331103,WPU331103,Sales of religious books,3311,"PPI Commodity data for Publishing sales, excluding software-Sales of books, not seasonally adjusted",0.0,0.0
+331104,WPU331104,Sales of general adult and juvenile books,3311,"PPI Commodity data for Publishing sales, excluding software-Sales of books, not seasonally adjusted",0.0,0.0
+331105,WPU331105,Sales of general reference books,3311,"PPI Commodity data for Publishing sales, excluding software-Sales of books, not seasonally adjusted",0.001,0
+331201,WPU331201,Sales and subscriptions of periodicals,3312,"PPI Commodity data for Publishing sales, excluding software-Sales and subscriptions of periodicals and newspapers, not seasonally adjusted",0.057,0.193
+331202,WPU331202,Newspaper subscription and single copy sales,3312,"PPI Commodity data for Publishing sales, excluding software-Sales and subscriptions of periodicals and newspapers, not seasonally adjusted",0.003,0.017
+336101,WPU336101,"Directory, mailing list, and related compilations publishing sales",3361,"PPI Commodity data for Publishing sales, excluding software-Directory, mailing list, and related compilations publishing sales, not seasonally adjusted",0.013,0.494
+351101,WPU351101,"Affiliate agreements, programming sales, and retransmission fees for cable and broadcast tv",3511,"PPI Commodity data for Network compensation from broadcast and cable television and radio-Affiliate agreements, programming sales, and retransmission fees for cable and broadcast tv, not seasonally adjusted",0,0.08
+352101,WPU352101,"Affiliate agreements, programming sales, and network compensation for radio",3521,"PPI Commodity data for Network compensation from broadcast and cable television and radio-Affiliate agreements, programming sales, and retransmission fees for radio, not seasonally adjusted",0,0.018
+361101,WPU361101,Advertising space sales in periodicals,3611,"PPI Commodity data for Advertising space and time sales-Advertising space sales in periodicals and newspapers, not seasonally adjusted",0.1,0.096
+361201,WPU361201,Print advertising space sales in directories and mailing lists,3612,"PPI Commodity data for Advertising space and time sales-Advertising space sales in directories and mailing lists, not seasonally adjusted",0.019,0.045
+362101,WPU362101,Broadcast and network television advertising time sales,3621,"PPI Commodity data for Advertising space and time sales-Television advertising time sales, not seasonally adjusted",0,0.095
+362102,WPU362102,Cable network advertising time sales,3621,"PPI Commodity data for Advertising space and time sales-Television advertising time sales, not seasonally adjusted",0,0.009
+362103,WPU362103,Local cable system advertising time sales,3621,"PPI Commodity data for Advertising space and time sales-Television advertising time sales, not seasonally adjusted",0,0.048
+363101,WPU363101,Radio advertising time sales,3631,"PPI Commodity data for Advertising space and time sales-Radio advertising time sales, not seasonally adjusted",0,0.063
+366101,WPU366101,Internet advertising sales,3661,"PPI Commodity data for Advertising space and time sales-Internet advertising sales, not seasonally adjusted",0.879,1.834
+371201,WPU371201,Local business wired telephone service,3712,"PPI Commodity data for Telecommunication, cable, and internet user services-Business wired telephone services, not seasonally adjusted",0.072,0.18
+371202,WPU371202,Long distance business wired telephone and other toll service,3712,"PPI Commodity data for Telecommunication, cable, and internet user services-Business wired telephone services, not seasonally adjusted",0.081,0.351
+371204,WPU371204,Private line wired telephone service,3712,"PPI Commodity data for Telecommunication, cable, and internet user services-Business wired telephone services, not seasonally adjusted",0,0.252
+371205,WPU371205,All-distance business wired telephone service (partial),3712,"PPI Commodity data for Telecommunication, cable, and internet user services-Business wired telephone services, not seasonally adjusted",0,0.005
+371301,WPU371301,Other wired telephone services,3713,"PPI Commodity data for Telecommunication, cable, and internet user services-Other telephone services, not seasonally adjusted",0,0.025
+372101,WPU372101,Cellular phone and other wireless telecommunication services,3721,"PPI Commodity data for Telecommunication, cable, and internet user services-Cellular phone and other wireless telecommunication services, not seasonally adjusted",0.591,1.958
+373101,WPU373101,Cable and satellite subscriber services,3731,"PPI Commodity data for Telecommunication, cable, and internet user services-Cable and satellite subscriber services, not seasonally adjusted",0.051,0.062
+374103,WPU374103,Business Internet access services,3741,"PPI Commodity data for Telecommunication, cable, and internet user services-Internet access services, not seasonally adjusted",0,0.18
+375101,WPU375101,Bundled wired telecommunications access services,3751,"PPI Commodity data for Telecommunication, cable, and internet user services-Bundled wired telecommunications access services, not seasonally adjusted",0,0.438
+381101,WPU381101,"Hosting, ASP and other IT infrastructure provisioning services",3811,"PPI Commodity data for Data processing and related services, not seasonally adjusted",0.548,1.931
+381102,WPU381102,Business process management services (partial),3811,"PPI Commodity data for Data processing and related services, not seasonally adjusted",0.15,0.529
+381103,WPU381103,"Data management, information transformation and other services",3811,"PPI Commodity data for Data processing and related services, not seasonally adjusted",0.119,0.421
+391101,WPU391101,Business loans (partial),3911,"PPI Commodity data for Credit intermediation services (partial)-Business loans (partial), not seasonally adjusted",0.904,0.138
+391301,WPU391301,Other loans and loan services (partial),3913,"PPI Commodity data for Credit intermediation services (partial)-Other loans and loan services (partial), not seasonally adjusted",0.065,0.01
+392101,WPU392101,Deposit services (partial),3921,"PPI Commodity data for Credit intermediation services (partial)-Deposit services (partial), not seasonally adjusted",0.515,0.078
+393101,WPU393101,"Other credit intermediation services, including trust services (partial)",3931,"PPI Commodity data for Credit intermediation services (partial)-Other credit intermediation services, including trust services (partial), not seasonally adjusted",0.074,0.011
+401101,WPU401101,"Securities brokerage, dealing, and investment advice",4011,"PPI Commodity data for Investment services-Securities brokerage, dealing, investment advice, and related services, not seasonally adjusted",1.945,1.794
+401102,WPU401102,Securities brokerage and dealing related services (partial),4011,"PPI Commodity data for Investment services-Securities brokerage, dealing, investment advice, and related services, not seasonally adjusted",0.773,0.969
+402101,WPU402101,Portfolio management,4021,"PPI Commodity data for Investment services-Portfolio management, not seasonally adjusted",3.376,1.412
+403101,WPU403101,Investment banking,4031,"PPI Commodity data for Investment services-Investment banking, not seasonally adjusted",0.652,0.818
+411103,WPU411103,Health and medical insurance,4111,"PPI Commodity data for Insurance and annuities-Insurance, not seasonally adjusted",0.433,0.131
+411104,WPU411104,Property and casualty insurance,4111,"PPI Commodity data for Insurance and annuities-Insurance, not seasonally adjusted",0.807,0.245
+421101,WPU421101,Commissions from sales of life insurance and annuities,4211,"PPI Commodity data for Commissions and fees from sales and administration of insurance policies (partial)-Commissions from sales of insurance, not seasonally adjusted",0.048,0.026
+421102,WPU421102,Commissions from sales of health and medical insurance,4211,"PPI Commodity data for Commissions and fees from sales and administration of insurance policies (partial)-Commissions from sales of insurance, not seasonally adjusted",0.064,0.034
+421103,WPU421103,Commissions from sales of property and casualty insurance,4211,"PPI Commodity data for Commissions and fees from sales and administration of insurance policies (partial)-Commissions from sales of insurance, not seasonally adjusted",0.282,0.152
+421104,WPU421104,Commissions from sales of other insurance,4211,"PPI Commodity data for Commissions and fees from sales and administration of insurance policies (partial)-Commissions from sales of insurance, not seasonally adjusted",0.039,0.021
+431101,WPU431101,"Office buildings, gross rents",4311,"PPI Commodity data for Real estate services (partial)-Nonresidential real estate rents, not seasonally adjusted",1.955,1.191
+431102,WPU431102,"Retail properties, gross rents",4311,"PPI Commodity data for Real estate services (partial)-Nonresidential real estate rents, not seasonally adjusted",2.181,1.329
+431103,WPU431103,"Industrial buildings, gross rents",4311,"PPI Commodity data for Real estate services (partial)-Nonresidential real estate rents, not seasonally adjusted",0.512,0.312
+431104,WPU431104,"Self-service storage and miniwarehouses, gross rents",4311,"PPI Commodity data for Real estate services (partial)-Nonresidential real estate rents, not seasonally adjusted",0.369,0.225
+431105,WPU431105,"Other nonresidential buildings, gross rents",4311,"PPI Commodity data for Real estate services (partial)-Nonresidential real estate rents, not seasonally adjusted",0.958,0.584
+431301,WPU431301,Nonresidential property management fees,4313,"PPI Commodity data for Real estate services (partial)-Nonresidential property management fees, not seasonally adjusted",0.806,0.491
+432201,WPU432201,Residential property management fees,4322,"PPI Commodity data for Real estate services (partial)-Residential property management fees, not seasonally adjusted",1.186,0.722
+433101,WPU433101,Real estate appraisal fees,4331,"PPI Commodity data for Real estate services (partial)-Real estate appraisal fees, not seasonally adjusted",0.114,0.069
+441101,WPU441101,Passenger car rental,4411,"PPI Commodity data for Rental and leasing of goods (partial)-Passenger car rental, not seasonally adjusted",0.093,0.406
+442101,WPU442101,"Truck, truck trailer and RV rental",4421,"PPI Commodity data for Rental and leasing of goods (partial)-Truck, trailer, and RV rental and leasing, not seasonally adjusted",0.059,0.191
+442102,WPU442102,"Truck, truck trailer and RV leasing",4421,"PPI Commodity data for Rental and leasing of goods (partial)-Truck, trailer, and RV rental and leasing, not seasonally adjusted",0.168,0
+443101,WPU443101,"Construction, mining, and forestry machinery and equipment rental and leasing",4431,"PPI Commodity data for Rental and leasing of goods (partial)-Construction, mining, and forestry machinery and equipment rental and leasing, not seasonally adjusted",0.347,0.201
+451101,WPU451101,Legal services,4511,"PPI Commodity data for Professional services (partial)-Legal services, not seasonally adjusted",2.538,0.036
+452101,WPU452101,Financial auditing,4521,"PPI Commodity data for Professional services (partial)-Accounting services, excluding payroll, not seasonally adjusted",0.446,0.021
+452102,WPU452102,Tax preparation and planning,4521,"PPI Commodity data for Professional services (partial)-Accounting services, excluding payroll, not seasonally adjusted",0.507,0.024
+452104,WPU452104,"Other accounting services, including billing and review (partial)",4521,"PPI Commodity data for Professional services (partial)-Accounting services, excluding payroll, not seasonally adjusted",0.135,0.007
+452105,WPU452105,Bookkeeping and compilation (partial),4521,"PPI Commodity data for Professional services (partial)-Accounting services, excluding payroll, not seasonally adjusted",0.062,0.003
+453101,WPU453101,Architectural services,4531,"PPI Commodity data for Professional services (partial)-Architectural services, not seasonally adjusted",0.443,0.428
+453201,WPU453201,Engineering services,4532,"PPI Commodity data for Professional services (partial)-Engineering services, not seasonally adjusted",1.224,1.741
+454101,WPU454101,Administrative and general management consulting services,4541,"PPI Commodity data for Professional services (partial)-Management consulting services, not seasonally adjusted",0.946,0.191
+454102,WPU454102,Human resources consulting services,4541,"PPI Commodity data for Professional services (partial)-Management consulting services, not seasonally adjusted",0.096,0.02
+454103,WPU454103,Marketing consulting services,4541,"PPI Commodity data for Professional services (partial)-Management consulting services, not seasonally adjusted",0.33,0.067
+454104,WPU454104,"Process, physical distribution, and logistics consulting services",4541,"PPI Commodity data for Professional services (partial)-Management consulting services, not seasonally adjusted",0.139,0.028
+455101,WPU455101,Advertising agency services,4551,"PPI Commodity data for Professional services (partial)-Advertising agency services, not seasonally adjusted",0.689,0.316
+461101,WPU461101,Employment placement services,4611,"PPI Commodity data for Employment services-Permanent placement services, not seasonally adjusted",0.113,0.009
+462101,WPU462101,Executive search services,4621,"PPI Commodity data for Employment services-Executive search services, not seasonally adjusted",0.043,0.003
+463101,WPU463101,Temporary help services,4631,"PPI Commodity data for Employment services-Temporary help services, not seasonally adjusted",1.49,0.122
+463201,WPU463201,Co-employment staffing services,4632,"PPI Commodity data for Employment services-Co-employment staffing services, not seasonally adjusted",1.227,0.1
+471101,WPU471101,Arrangement of international flights,4711,"PPI Commodity data for Travel arrangement services  (partial)-Arrangement of international flights, not seasonally adjusted",0.024,0.027
+471201,WPU471201,Arrangement of domestic flights (partial),4712,"PPI Commodity data for Travel arrangement services  (partial)-Arrangement of domestic flights, not seasonally adjusted",0.013,0.014
+472101,WPU472101,Arrangement of vehicle rentals and lodging (partial),4721,"PPI Commodity data for Travel arrangement services  (partial)-Arrangement of vehicle rentals and lodging, not seasonally adjusted",0.014,0.016
+473101,WPU473101,Arrangement of cruises and tours,4731,"PPI Commodity data for Travel arrangement services  (partial)-Arrangement of cruises and tours, not seasonally adjusted",0.019,0.022
+474101,WPU474101,Other travel arrangements (partial),4741,"PPI Commodity data for Travel arrangement services  (partial)-Other travel arrangements (partial), not seasonally adjusted",0.027,0.03
+481101,WPU481101,Security guard services,4811,"PPI Commodity data for Selected security services (partial)-Security guard services, not seasonally adjusted",0.181,0.045
+491101,WPU491101,Janitorial services,4911,"PPI Commodity data for Cleaning and building maintenance services (partial)-Janitorial services, not seasonally adjusted",0.345,0.002
+501101,WPU501101,Solid waste collection,5011,"PPI Commodity data for Waste collection and remediation services (partial)-Solid waste collection, not seasonally adjusted",0.225,0.039
+511102,WPU511102,Medical laboratory and diagnostic imaging center care,5111,"PPI Commodity data for Health care services-Outpatient care (partial), not seasonally adjusted",0.548,0
+511104,WPU511104,Hospital outpatient care,5111,"PPI Commodity data for Health care services-Outpatient care (partial), not seasonally adjusted",0.068,0
+512101,WPU512101,Hospital inpatient care,5121,"PPI Commodity data for Health care services-Inpatient care, not seasonally adjusted",0.073,0
+513101,WPU513101,"Sales of blood and blood products, organs, and tissues",5131,"PPI Commodity data for Health care services-Sales of blood and blood products, organs, and tissues, not seasonally adjusted",0.004,0
+531101,WPU531101,Guestroom or unit rental,5311,"PPI Commodity data for Accommodation services-Traveler accommodation services, not seasonally adjusted",0.065,1.233
+531102,WPU531102,Other traveler accommodation services,5311,"PPI Commodity data for Accommodation services-Traveler accommodation services, not seasonally adjusted",0.006,0.106
+541101,WPU541101,Food and nonalcoholic beverages for immediate consumption (partial),5411,"PPI Commodity data for Food and beverage for immediate consumption services (partial)-Food and nonalcoholic beverages for immediate consumption (partial), not seasonally adjusted",0,0.201
+541201,WPU541201,Alcoholic beverages for immediate consumption (partial),5412,"PPI Commodity data for Food and beverage for immediate consumption services (partial)-Alcoholic beverages for immediate consumption (partial), not seasonally adjusted",0,0.068
+551101,WPU551101,Commercial machinery repair and maintenance,5511,"PPI Commodity data for Repair and maintenance services (partial)-Commercial and industrial machinery and equipment repair and maintenance, not seasonally adjusted",0.719,0.588
+552101,WPU552101,Motor vehicle repair and maintenance (partial),5521,"PPI Commodity data for Repair and maintenance services (partial)-Motor vehicle repair and maintenance (partial), not seasonally adjusted",0.142,0.285
+553102,WPU553102,"Ship repair, nonmilitary",5531,"PPI Commodity data for Repair and maintenance services (partial)-Ship repair and maintenance, not seasonally adjusted",0.004,0
+555101,WPU555101,Aircraft repair and maintenance (partial),5551,,0.0,0.054
+571102,WPU571102,Parts and supplies for machinery and equipment wholesaling,5711,"PPI Commodity data for Wholesale trade services-Machinery and equipment and parts and supplies wholesaling, not seasonally adjusted",3.805,1.372
+572101,WPU572101,Furnishings wholesaling,5721,"PPI Commodity data for Wholesale trade services-Furnishings wholesaling, not seasonally adjusted",0.225,0.07
+573101,WPU573101,"Building materials, paint, and hardware wholesaling",5731,"PPI Commodity data for Wholesale trade services-Building materials, paint, and hardware wholesaling, not seasonally adjusted",0.932,1.056
+574101,WPU574101,"Metals, minerals, and ores wholesaling",5741,"PPI Commodity data for Wholesale trade services-Metals, minerals, and ores wholesaling, not seasonally adjusted",0.819,1.252
+575101,WPU575101,Chemicals and allied products wholesaling,5751,"PPI Commodity data for Wholesale trade services-Chemicals and allied products wholesaling, not seasonally adjusted",1.316,1.622
+576101,WPU576101,Paper and plastics products wholesaling,5761,"PPI Commodity data for Wholesale trade services-Paper and plastics products wholesaling, not seasonally adjusted",0.906,0.679
+577101,WPU577101,Apparel wholesaling,5771,"PPI Commodity data for Wholesale trade services-Apparel wholesaling, not seasonally adjusted",0.029,0.008
+578101,WPU578101,Food wholesaling,5781,"PPI Commodity data for Wholesale trade services-Food and alcohol wholesaling, not seasonally adjusted",1.746,0.779
+578102,WPU578102,Alcohol wholesaling,5781,"PPI Commodity data for Wholesale trade services-Food and alcohol wholesaling, not seasonally adjusted",0.282,0.06
+579101,WPU579101,Other commodities wholesaling,5791,"PPI Commodity data for Wholesale trade services-Other commodities wholesaling, not seasonally adjusted",1.684,2.018
+581102,WPU581102,Food retailing,5811,"PPI Commodity data for Retail trade services-Food and alcohol retailing, not seasonally adjusted",0.018,0
+581103,WPU581103,Alcohol retailing,5811,"PPI Commodity data for Retail trade services-Food and alcohol retailing, not seasonally adjusted",0.001,0
+585101,WPU585101,"TV, video, and photographic equipment and supplies retailing",5851,"PPI Commodity data for Retail trade services-TV, video, and photographic equipment and supplies retailing, not seasonally adjusted",0,0.0
+586102,WPU586102,"Automotive parts, including tires, retailing",5861,"PPI Commodity data for Retail trade services-Automobiles and automobile parts retailing, not seasonally adjusted",0.039,0.336
+58A101,WPU58A101,"Lawn, garden, and farm equipment and supplies retailing",58A1,"PPI Commodity data for Retail trade services-Lawn, garden, and farm equipment and supplies retailing, not seasonally adjusted",0,0.025
+58B101,WPU58B101,Furniture retailing,58B1,"PPI Commodity data for Retail trade services-Furniture retailing, not seasonally adjusted",0.001,0.024
+58C101,WPU58C101,Flooring and floor coverings retailing,58C1,"PPI Commodity data for Retail trade services-Flooring and floor coverings retailing, not seasonally adjusted",0.001,0.008
+58D101,WPU58D101,Hardware and building materials and supplies retailing,58D1,"PPI Commodity data for Retail trade services-Hardware and building materials and supplies retailing, not seasonally adjusted",0.106,0.713
+58E101,WPU58E101,Major household appliance retailing,58E1,"PPI Commodity data for Retail trade services-Major household appliance retailing, not seasonally adjusted",0.003,0.044
+58F101,WPU58F101,Automotive fuels and lubricants retailing,58F1,"PPI Commodity data for Retail trade services-Fuels and lubricants retailing, not seasonally adjusted",0.002,0.161
+58F102,WPU58F102,Household fuels retailing,58F1,"PPI Commodity data for Retail trade services-Fuels and lubricants retailing, not seasonally adjusted",0.006,0.099
+58G101,WPU58G101,Cleaning supplies and paper products retailing,58G1,"PPI Commodity data for Retail trade services-Cleaning supplies and paper products retailing, not seasonally adjusted",0.0,0.008
+58H101,WPU58H101,Book retailing,58H1,"PPI Commodity data for Retail trade services-Book retailing, not seasonally adjusted",0.001,0.02
+58I101,WPU58I101,Other merchandise retailing (partial),58I1,"PPI Commodity data for Retail trade services-Other merchandise retailing (partial), not seasonally adjusted",0.035,0.364
+591101,WPU591101,Metal plating and polishing,5911,"PPI Commodity data for Metal treatment services, not seasonally adjusted",0.096,0.001
+591102,WPU591102,Metal coating and allied services,5911,"PPI Commodity data for Metal treatment services, not seasonally adjusted",0.179,0.003
+591103,WPU591103,Metal heat treating,5911,"PPI Commodity data for Metal treatment services, not seasonally adjusted",0.075,0.001
+601104,WPU601104,Support activities for oil and gas operations,6011,"PPI Commodity data for Mining services, not seasonally adjusted",0.013,1.038
+611102,WPU611102,Contract work on textile products,6111,"PPI Commodity data for Contract work on textile products, apparel, and leather-Contract work on textile products and apparel, not seasonally adjusted",0.024,0.027
+611104,WPU611104,"Commission receipts for throwing, texturing, or winding filament yarns",6111,"PPI Commodity data for Contract work on textile products, apparel, and leather-Contract work on textile products and apparel, not seasonally adjusted",0.001,0.002
+802101,WPU802101,Maintenance and repair of nonresidential buildings (partial),8021,"PPI Commodity data for Construction (partial)-Maintenance and repair of nonresidential buildings (partial), not seasonally adjusted",0.107,0.003

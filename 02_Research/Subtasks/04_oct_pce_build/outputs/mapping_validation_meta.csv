@@ -1,0 +1,9 @@
+field,value
+file,mapping_validation.csv
+script,code/D_mapping_validation.py
+window,Jan 2024 - Sep 2026 (months with both values)
+source,"component_series_history.csv (current vintage, Oct 2025 CPI geometric fill), BEA U20404 2026-11-10"
+units,"percent m/m; gaps = source minus BEA, pp"
+seasonal,SA -> BLS SA; NSA -> unadjusted; SA by BEA -> NSA + method B (prior years only)
+flag_rule,corr<0.5 or |mean gap|>0.05 or MAE gap>0.5 (set before results)
+share,"nominal share of total PCE, Sep 2026 (line 157 shown with leaf 156)"

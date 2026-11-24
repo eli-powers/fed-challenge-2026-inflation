@@ -1,0 +1,5 @@
+Slide 3B label patch, 2026-11-16T23:39:16
+deleted superseded copy: 0; deck now 12 slides; 3B at position [12]; other slides unchanged: True
+labels (category, value shown at 0.0): Oil to $110 2027Q4 2.7992 -> 2.8; Hormuz reopens 2027Q4 1.9920 -> 2.0; SPF median 2027Q4 2.3610 -> 2.4
+chart frame x 0.910-9.800 -> 0.250-9.800 in; crossBetween=between; plot area x 0.925-9.431 in, so points run 1.398-8.958 in (= RENDER_X), last point 0.473 in inside the plot edge
+RESULT: PASS

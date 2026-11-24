@@ -1,0 +1,8 @@
+Inflation slides 2A/2B build check, 2026-11-16T09:12:58
+1. workbook formula cells (2A + 2B): 121 checked after LibreOffice recalc; mismatches: 0 []
+2. cross-checks: breadth vs F_ex_hospital_ts (audited) 4.7e-04; bands vs K_rate_bands (1 dp) 0.06; groups vs G_excess_path (4 dp) 4.9e-05; stage 1 weight x pct vs E csv 2.4e-04
+3. chart points vs workbook chart tabs: 129 points; max abs diff 5.0e-14
+4. axis ranges fit: 2A 0-80 (data 7.2-66.5) True; 2B left -0.10..0.80 (labels 0.00-0.80) (-0.008..0.763) True; 2B right -0.40..0.60 (-0.245..0.529) True; totals 0.84 -> 1.50; stage sum 0.560 vs published 0.551
+5. chart XML: line smooth=0 on all 3 series: True; bar invertIfNegative=0 on 6/6 bar series
+6. deck: 7 slides; order: ['Inflation SECTION 1', 'Inflation: Firming Again After a Summer Lull ', 'Inflation: Firming Again After a Summer Lull ', 'Inflation: Broad Since the Low, Hotter at the', 'Inflation: Three Shocks Now Drive the Excess ', ' AI Buildout: Tech Costs Are Rising Software,', ' AI Buildout: Tech Costs Are Rising Software,']; other slides (content signature, C14N, incl. charts) changed: none; duplicate zip entries: none
+RESULT: PASS

@@ -1,0 +1,5 @@
+source,url,what_was_wanted,result,logged
+ISM Report On Business (manufacturing/services) pages,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/,public availability of commodity up/down lists and any data-access statement,"Fetch returned an empty page (JS) and the report landing page redirected to an ISM SSO login (ecommerce.ismworld.org/SSO/Login.aspx); no content read",2026-11-15
+ISM PMI report pages (october/november),https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/october/,latest ISM prices readings,Empty page (no readable text); november URL closed connection,2026-11-15
+Fed Board main FEDS Note URL (non-accessible variant guessed),https://www.federalreserve.gov/econres/notes/feds-notes/pricing-sentiment-measuring-input-cost-pressure-from-ism-survey-responses-20261001.htm,cross-check of the saved note,HTTP 404 (guessed URL; accessible version fetched instead and saved),2026-11-15
+Haver Analytics (PPI source in the ISM note),https://www.haver.com/our-data,n/a,Proprietary; not accessed,2026-11-15

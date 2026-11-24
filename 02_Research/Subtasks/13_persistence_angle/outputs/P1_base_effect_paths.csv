@@ -1,0 +1,181 @@
+measure,scenario,assumed_mm,month,status,dropping_out_month,dropping_out_mm,twelve_m
+Core PCE,2% pace (0.165 m/m),0.1652,2026-10,actual/est.,2025-10,0.1772,3.242
+Core PCE,2% pace (0.165 m/m),0.1652,2026-11,scenario,2025-11,0.1557,3.252
+Core PCE,2% pace (0.165 m/m),0.1652,2026-12,scenario,2025-12,0.3156,3.097
+Core PCE,2% pace (0.165 m/m),0.1652,2027-01,scenario,2026-01,0.3953,2.861
+Core PCE,2% pace (0.165 m/m),0.1652,2027-02,scenario,2026-02,0.336,2.686
+Core PCE,2% pace (0.165 m/m),0.1652,2027-03,scenario,2026-03,0.2556,2.593
+Core PCE,2018-19 avg m/m,0.148,2026-10,actual/est.,2025-10,0.1772,3.242
+Core PCE,2018-19 avg m/m,0.148,2026-11,scenario,2025-11,0.1557,3.235
+Core PCE,2018-19 avg m/m,0.148,2026-12,scenario,2025-12,0.3156,3.062
+Core PCE,2018-19 avg m/m,0.148,2027-01,scenario,2026-01,0.3953,2.808
+Core PCE,2018-19 avg m/m,0.148,2027-02,scenario,2026-02,0.336,2.616
+Core PCE,2018-19 avg m/m,0.148,2027-03,scenario,2026-03,0.2556,2.506
+Core PCE,last 6m avg m/m,0.2424,2026-10,actual/est.,2025-10,0.1772,3.242
+Core PCE,last 6m avg m/m,0.2424,2026-11,scenario,2025-11,0.1557,3.332
+Core PCE,last 6m avg m/m,0.2424,2026-12,scenario,2025-12,0.3156,3.256
+Core PCE,last 6m avg m/m,0.2424,2027-01,scenario,2026-01,0.3953,3.099
+Core PCE,last 6m avg m/m,0.2424,2027-02,scenario,2026-02,0.336,3.003
+Core PCE,last 6m avg m/m,0.2424,2027-03,scenario,2026-03,0.2556,2.989
+Core PCE,last 3m avg m/m,0.2912,2026-10,actual/est.,2025-10,0.1772,3.242
+Core PCE,last 3m avg m/m,0.2912,2026-11,scenario,2025-11,0.1557,3.382
+Core PCE,last 3m avg m/m,0.2912,2026-12,scenario,2025-12,0.3156,3.357
+Core PCE,last 3m avg m/m,0.2912,2027-01,scenario,2026-01,0.3953,3.25
+Core PCE,last 3m avg m/m,0.2912,2027-02,scenario,2026-02,0.336,3.204
+Core PCE,last 3m avg m/m,0.2912,2027-03,scenario,2026-03,0.2556,3.24
+Core PCE,hold-12m break-even,,2026-10,,2025-10,0.1772,
+Core PCE,hold-12m break-even,,2026-11,,2025-11,0.1557,
+Core PCE,hold-12m break-even,,2026-12,,2025-12,0.3156,
+Core PCE,hold-12m break-even,,2027-01,,2026-01,0.3953,
+Core PCE,hold-12m break-even,,2027-02,,2026-02,0.336,
+Core PCE,hold-12m break-even,,2027-03,,2026-03,0.2556,
+Market-based core PCE,2% pace (0.165 m/m),0.1652,2026-10,scenario,2025-10,0.1914,3.091
+Market-based core PCE,2% pace (0.165 m/m),0.1652,2026-11,scenario,2025-11,0.1325,3.125
+Market-based core PCE,2% pace (0.165 m/m),0.1652,2026-12,scenario,2025-12,0.3279,2.958
+Market-based core PCE,2% pace (0.165 m/m),0.1652,2027-01,scenario,2026-01,0.3644,2.753
+Market-based core PCE,2% pace (0.165 m/m),0.1652,2027-02,scenario,2026-02,0.3742,2.539
+Market-based core PCE,2% pace (0.165 m/m),0.1652,2027-03,scenario,2026-03,0.2776,2.424
+Market-based core PCE,2018-19 avg m/m,0.1346,2026-10,scenario,2025-10,0.1914,3.06
+Market-based core PCE,2018-19 avg m/m,0.1346,2026-11,scenario,2025-11,0.1325,3.062
+Market-based core PCE,2018-19 avg m/m,0.1346,2026-12,scenario,2025-12,0.3279,2.864
+Market-based core PCE,2018-19 avg m/m,0.1346,2027-01,scenario,2026-01,0.3644,2.628
+Market-based core PCE,2018-19 avg m/m,0.1346,2027-02,scenario,2026-02,0.3742,2.383
+Market-based core PCE,2018-19 avg m/m,0.1346,2027-03,scenario,2026-03,0.2776,2.237
+Market-based core PCE,last 6m avg m/m,0.2345,2026-10,scenario,2025-10,0.1914,3.163
+Market-based core PCE,last 6m avg m/m,0.2345,2026-11,scenario,2025-11,0.1325,3.268
+Market-based core PCE,last 6m avg m/m,0.2345,2026-12,scenario,2025-12,0.3279,3.172
+Market-based core PCE,last 6m avg m/m,0.2345,2027-01,scenario,2026-01,0.3644,3.038
+Market-based core PCE,last 6m avg m/m,0.2345,2027-02,scenario,2026-02,0.3742,2.895
+Market-based core PCE,last 6m avg m/m,0.2345,2027-03,scenario,2026-03,0.2776,2.85
+Market-based core PCE,last 3m avg m/m,0.2414,2026-10,scenario,2025-10,0.1914,3.17
+Market-based core PCE,last 3m avg m/m,0.2414,2026-11,scenario,2025-11,0.1325,3.282
+Market-based core PCE,last 3m avg m/m,0.2414,2026-12,scenario,2025-12,0.3279,3.193
+Market-based core PCE,last 3m avg m/m,0.2414,2027-01,scenario,2026-01,0.3644,3.066
+Market-based core PCE,last 3m avg m/m,0.2414,2027-02,scenario,2026-02,0.3742,2.93
+Market-based core PCE,last 3m avg m/m,0.2414,2027-03,scenario,2026-03,0.2776,2.893
+Market-based core PCE,hold-12m break-even,,2026-10,,2025-10,0.1914,
+Market-based core PCE,hold-12m break-even,,2026-11,,2025-11,0.1325,
+Market-based core PCE,hold-12m break-even,,2026-12,,2025-12,0.3279,
+Market-based core PCE,hold-12m break-even,,2027-01,,2026-01,0.3644,
+Market-based core PCE,hold-12m break-even,,2027-02,,2026-02,0.3742,
+Market-based core PCE,hold-12m break-even,,2027-03,,2026-03,0.2776,
+Supercore (services ex energy & housing),2% pace (0.165 m/m),0.1652,2026-10,actual/est.,2025-10,0.2665,3.598
+Supercore (services ex energy & housing),2% pace (0.165 m/m),0.1652,2026-11,scenario,2025-11,0.2475,3.513
+Supercore (services ex energy & housing),2% pace (0.165 m/m),0.1652,2026-12,scenario,2025-12,0.3017,3.372
+Supercore (services ex energy & housing),2% pace (0.165 m/m),0.1652,2027-01,scenario,2026-01,0.493,3.035
+Supercore (services ex energy & housing),2% pace (0.165 m/m),0.1652,2027-02,scenario,2026-02,0.2479,2.95
+Supercore (services ex energy & housing),2% pace (0.165 m/m),0.1652,2027-03,scenario,2026-03,0.2941,2.818
+Supercore (services ex energy & housing),2018-19 avg m/m,0.1859,2026-10,actual/est.,2025-10,0.2665,3.598
+Supercore (services ex energy & housing),2018-19 avg m/m,0.1859,2026-11,scenario,2025-11,0.2475,3.535
+Supercore (services ex energy & housing),2018-19 avg m/m,0.1859,2026-12,scenario,2025-12,0.3017,3.415
+Supercore (services ex energy & housing),2018-19 avg m/m,0.1859,2027-01,scenario,2026-01,0.493,3.099
+Supercore (services ex energy & housing),2018-19 avg m/m,0.1859,2027-02,scenario,2026-02,0.2479,3.035
+Supercore (services ex energy & housing),2018-19 avg m/m,0.1859,2027-03,scenario,2026-03,0.2941,2.924
+Supercore (services ex energy & housing),last 6m avg m/m,0.2847,2026-10,actual/est.,2025-10,0.2665,3.598
+Supercore (services ex energy & housing),last 6m avg m/m,0.2847,2026-11,scenario,2025-11,0.2475,3.637
+Supercore (services ex energy & housing),last 6m avg m/m,0.2847,2026-12,scenario,2025-12,0.3017,3.619
+Supercore (services ex energy & housing),last 6m avg m/m,0.2847,2027-01,scenario,2026-01,0.493,3.405
+Supercore (services ex energy & housing),last 6m avg m/m,0.2847,2027-02,scenario,2026-02,0.2479,3.442
+Supercore (services ex energy & housing),last 6m avg m/m,0.2847,2027-03,scenario,2026-03,0.2941,3.433
+Supercore (services ex energy & housing),last 3m avg m/m,0.336,2026-10,actual/est.,2025-10,0.2665,3.598
+Supercore (services ex energy & housing),last 3m avg m/m,0.336,2026-11,scenario,2025-11,0.2475,3.69
+Supercore (services ex energy & housing),last 3m avg m/m,0.336,2026-12,scenario,2025-12,0.3017,3.725
+Supercore (services ex energy & housing),last 3m avg m/m,0.336,2027-01,scenario,2026-01,0.493,3.563
+Supercore (services ex energy & housing),last 3m avg m/m,0.336,2027-02,scenario,2026-02,0.2479,3.654
+Supercore (services ex energy & housing),last 3m avg m/m,0.336,2027-03,scenario,2026-03,0.2941,3.698
+Supercore (services ex energy & housing),hold-12m break-even,,2026-10,,2025-10,0.2665,
+Supercore (services ex energy & housing),hold-12m break-even,,2026-11,,2025-11,0.2475,
+Supercore (services ex energy & housing),hold-12m break-even,,2026-12,,2025-12,0.3017,
+Supercore (services ex energy & housing),hold-12m break-even,,2027-01,,2026-01,0.493,
+Supercore (services ex energy & housing),hold-12m break-even,,2027-02,,2026-02,0.2479,
+Supercore (services ex energy & housing),hold-12m break-even,,2027-03,,2026-03,0.2941,
+Dallas trimmed mean PCE,2% pace (0.165 m/m),0.1652,2026-10,scenario,2025-10,0.1357,2.288
+Dallas trimmed mean PCE,2% pace (0.165 m/m),0.1652,2026-11,scenario,2025-11,0.1398,2.314
+Dallas trimmed mean PCE,2% pace (0.165 m/m),0.1652,2026-12,scenario,2025-12,0.1921,2.286
+Dallas trimmed mean PCE,2% pace (0.165 m/m),0.1652,2027-01,scenario,2026-01,0.1995,2.251
+Dallas trimmed mean PCE,2% pace (0.165 m/m),0.1652,2027-02,scenario,2026-02,0.1594,2.257
+Dallas trimmed mean PCE,2% pace (0.165 m/m),0.1652,2027-03,scenario,2026-03,0.2117,2.21
+Dallas trimmed mean PCE,2018-19 avg m/m,0.1611,2026-10,scenario,2025-10,0.1357,2.284
+Dallas trimmed mean PCE,2018-19 avg m/m,0.1611,2026-11,scenario,2025-11,0.1398,2.306
+Dallas trimmed mean PCE,2018-19 avg m/m,0.1611,2026-12,scenario,2025-12,0.1921,2.274
+Dallas trimmed mean PCE,2018-19 avg m/m,0.1611,2027-01,scenario,2026-01,0.1995,2.235
+Dallas trimmed mean PCE,2018-19 avg m/m,0.1611,2027-02,scenario,2026-02,0.1594,2.237
+Dallas trimmed mean PCE,2018-19 avg m/m,0.1611,2027-03,scenario,2026-03,0.2117,2.185
+Dallas trimmed mean PCE,last 6m avg m/m,0.1994,2026-10,scenario,2025-10,0.1357,2.323
+Dallas trimmed mean PCE,last 6m avg m/m,0.1994,2026-11,scenario,2025-11,0.1398,2.384
+Dallas trimmed mean PCE,last 6m avg m/m,0.1994,2026-12,scenario,2025-12,0.1921,2.391
+Dallas trimmed mean PCE,last 6m avg m/m,0.1994,2027-01,scenario,2026-01,0.1995,2.391
+Dallas trimmed mean PCE,last 6m avg m/m,0.1994,2027-02,scenario,2026-02,0.1594,2.432
+Dallas trimmed mean PCE,last 6m avg m/m,0.1994,2027-03,scenario,2026-03,0.2117,2.42
+Dallas trimmed mean PCE,last 3m avg m/m,0.1869,2026-10,scenario,2025-10,0.1357,2.31
+Dallas trimmed mean PCE,last 3m avg m/m,0.1869,2026-11,scenario,2025-11,0.1398,2.358
+Dallas trimmed mean PCE,last 3m avg m/m,0.1869,2026-12,scenario,2025-12,0.1921,2.353
+Dallas trimmed mean PCE,last 3m avg m/m,0.1869,2027-01,scenario,2026-01,0.1995,2.34
+Dallas trimmed mean PCE,last 3m avg m/m,0.1869,2027-02,scenario,2026-02,0.1594,2.368
+Dallas trimmed mean PCE,last 3m avg m/m,0.1869,2027-03,scenario,2026-03,0.2117,2.343
+Dallas trimmed mean PCE,hold-12m break-even,,2026-10,,2025-10,0.1357,
+Dallas trimmed mean PCE,hold-12m break-even,,2026-11,,2025-11,0.1398,
+Dallas trimmed mean PCE,hold-12m break-even,,2026-12,,2025-12,0.1921,
+Dallas trimmed mean PCE,hold-12m break-even,,2027-01,,2026-01,0.1995,
+Dallas trimmed mean PCE,hold-12m break-even,,2027-02,,2026-02,0.1594,
+Dallas trimmed mean PCE,hold-12m break-even,,2027-03,,2026-03,0.2117,
+Cleveland median PCE,2% pace (0.165 m/m),0.1652,2026-10,scenario,2025-10,0.1606,2.67
+Cleveland median PCE,2% pace (0.165 m/m),0.1652,2026-11,scenario,2025-11,0.1611,2.674
+Cleveland median PCE,2% pace (0.165 m/m),0.1652,2026-12,scenario,2025-12,0.2702,2.567
+Cleveland median PCE,2% pace (0.165 m/m),0.1652,2027-01,scenario,2026-01,0.2187,2.512
+Cleveland median PCE,2% pace (0.165 m/m),0.1652,2027-02,scenario,2026-02,0.2231,2.453
+Cleveland median PCE,2% pace (0.165 m/m),0.1652,2027-03,scenario,2026-03,0.2391,2.377
+Cleveland median PCE,2018-19 avg m/m,0.2008,2026-10,scenario,2025-10,0.1606,2.707
+Cleveland median PCE,2018-19 avg m/m,0.2008,2026-11,scenario,2025-11,0.1611,2.748
+Cleveland median PCE,2018-19 avg m/m,0.2008,2026-12,scenario,2025-12,0.2702,2.676
+Cleveland median PCE,2018-19 avg m/m,0.2008,2027-01,scenario,2026-01,0.2187,2.658
+Cleveland median PCE,2018-19 avg m/m,0.2008,2027-02,scenario,2026-02,0.2231,2.635
+Cleveland median PCE,2018-19 avg m/m,0.2008,2027-03,scenario,2026-03,0.2391,2.596
+Cleveland median PCE,last 6m avg m/m,0.2268,2026-10,scenario,2025-10,0.1606,2.733
+Cleveland median PCE,last 6m avg m/m,0.2268,2026-11,scenario,2025-11,0.1611,2.801
+Cleveland median PCE,last 6m avg m/m,0.2268,2026-12,scenario,2025-12,0.2702,2.756
+Cleveland median PCE,last 6m avg m/m,0.2268,2027-01,scenario,2026-01,0.2187,2.765
+Cleveland median PCE,last 6m avg m/m,0.2268,2027-02,scenario,2026-02,0.2231,2.768
+Cleveland median PCE,last 6m avg m/m,0.2268,2027-03,scenario,2026-03,0.2391,2.756
+Cleveland median PCE,last 3m avg m/m,0.2265,2026-10,scenario,2025-10,0.1606,2.733
+Cleveland median PCE,last 3m avg m/m,0.2265,2026-11,scenario,2025-11,0.1611,2.8
+Cleveland median PCE,last 3m avg m/m,0.2265,2026-12,scenario,2025-12,0.2702,2.755
+Cleveland median PCE,last 3m avg m/m,0.2265,2027-01,scenario,2026-01,0.2187,2.763
+Cleveland median PCE,last 3m avg m/m,0.2265,2027-02,scenario,2026-02,0.2231,2.767
+Cleveland median PCE,last 3m avg m/m,0.2265,2027-03,scenario,2026-03,0.2391,2.754
+Cleveland median PCE,hold-12m break-even,,2026-10,,2025-10,0.1606,
+Cleveland median PCE,hold-12m break-even,,2026-11,,2025-11,0.1611,
+Cleveland median PCE,hold-12m break-even,,2026-12,,2025-12,0.2702,
+Cleveland median PCE,hold-12m break-even,,2027-01,,2026-01,0.2187,
+Cleveland median PCE,hold-12m break-even,,2027-02,,2026-02,0.2231,
+Cleveland median PCE,hold-12m break-even,,2027-03,,2026-03,0.2391,
+Logan measure (core svcs ex housing & transport),2% pace (0.165 m/m),0.1652,2026-10,actual/est.,2025-10,0.2568,3.241
+Logan measure (core svcs ex housing & transport),2% pace (0.165 m/m),0.1652,2026-11,scenario,2025-11,0.2456,3.158
+Logan measure (core svcs ex housing & transport),2% pace (0.165 m/m),0.1652,2026-12,scenario,2025-12,0.3255,2.993
+Logan measure (core svcs ex housing & transport),2% pace (0.165 m/m),0.1652,2027-01,scenario,2026-01,0.4716,2.679
+Logan measure (core svcs ex housing & transport),2% pace (0.165 m/m),0.1652,2027-02,scenario,2026-02,0.2011,2.642
+Logan measure (core svcs ex housing & transport),2% pace (0.165 m/m),0.1652,2027-03,scenario,2026-03,0.2254,2.581
+Logan measure (core svcs ex housing & transport),2018-19 avg m/m,0.182,2026-10,actual/est.,2025-10,0.2568,3.241
+Logan measure (core svcs ex housing & transport),2018-19 avg m/m,0.182,2026-11,scenario,2025-11,0.2456,3.176
+Logan measure (core svcs ex housing & transport),2018-19 avg m/m,0.182,2026-12,scenario,2025-12,0.3255,3.028
+Logan measure (core svcs ex housing & transport),2018-19 avg m/m,0.182,2027-01,scenario,2026-01,0.4716,2.731
+Logan measure (core svcs ex housing & transport),2018-19 avg m/m,0.182,2027-02,scenario,2026-02,0.2011,2.712
+Logan measure (core svcs ex housing & transport),2018-19 avg m/m,0.182,2027-03,scenario,2026-03,0.2254,2.667
+Logan measure (core svcs ex housing & transport),last 6m avg m/m,0.2475,2026-10,actual/est.,2025-10,0.2568,3.241
+Logan measure (core svcs ex housing & transport),last 6m avg m/m,0.2475,2026-11,scenario,2025-11,0.2456,3.243
+Logan measure (core svcs ex housing & transport),last 6m avg m/m,0.2475,2026-12,scenario,2025-12,0.3255,3.163
+Logan measure (core svcs ex housing & transport),last 6m avg m/m,0.2475,2027-01,scenario,2026-01,0.4716,2.933
+Logan measure (core svcs ex housing & transport),last 6m avg m/m,0.2475,2027-02,scenario,2026-02,0.2011,2.98
+Logan measure (core svcs ex housing & transport),last 6m avg m/m,0.2475,2027-03,scenario,2026-03,0.2254,3.003
+Logan measure (core svcs ex housing & transport),last 3m avg m/m,0.2839,2026-10,actual/est.,2025-10,0.2568,3.241
+Logan measure (core svcs ex housing & transport),last 3m avg m/m,0.2839,2026-11,scenario,2025-11,0.2456,3.281
+Logan measure (core svcs ex housing & transport),last 3m avg m/m,0.2839,2026-12,scenario,2025-12,0.3255,3.238
+Logan measure (core svcs ex housing & transport),last 3m avg m/m,0.2839,2027-01,scenario,2026-01,0.4716,3.045
+Logan measure (core svcs ex housing & transport),last 3m avg m/m,0.2839,2027-02,scenario,2026-02,0.2011,3.13
+Logan measure (core svcs ex housing & transport),last 3m avg m/m,0.2839,2027-03,scenario,2026-03,0.2254,3.19
+Logan measure (core svcs ex housing & transport),hold-12m break-even,,2026-10,,2025-10,0.2568,
+Logan measure (core svcs ex housing & transport),hold-12m break-even,,2026-11,,2025-11,0.2456,
+Logan measure (core svcs ex housing & transport),hold-12m break-even,,2026-12,,2025-12,0.3255,
+Logan measure (core svcs ex housing & transport),hold-12m break-even,,2027-01,,2026-01,0.4716,
+Logan measure (core svcs ex housing & transport),hold-12m break-even,,2027-02,,2026-02,0.2011,
+Logan measure (core svcs ex housing & transport),hold-12m break-even,,2027-03,,2026-03,0.2254,

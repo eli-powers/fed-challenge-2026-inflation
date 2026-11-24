@@ -1,0 +1,2 @@
+LibreOffice recalculation check, 2026-11-15T18:23:11
+formula cells checked: 5714; mismatches: 0; error values: 0; semantic checks vs agent CSVs: 38 passed

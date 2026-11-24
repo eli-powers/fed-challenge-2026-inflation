@@ -1,0 +1,25 @@
+check,measure,case,value,note
+baseline,2027 Q4/Q4,"baseline (SPF 2026Q3 path, 2027Q4 derived)",2.4004,check vs 2.4004
+replicate,2027 Q4/Q4,P1_steo_latest x pre,2.3988,pipeline 2.3988; diff -0.000000
+replicate,2027 Q4/Q4,P1_steo_latest x post,2.9273,pipeline 2.9273; diff +0.000000
+replicate,2027 Q4/Q4,P2_110_flat x pre,2.4819,pipeline 2.4819; diff +0.000001
+replicate,2027 Q4/Q4,P2_110_flat x post,3.1629,pipeline 3.1629; diff -0.000000
+replicate,2027 Q4/Q4,P3_feb26steo_plus25 x pre,2.4183,pipeline 2.4183; diff +0.000000
+replicate,2027 Q4/Q4,P3_feb26steo_plus25 x post,2.7211,pipeline 2.7211; diff -0.000000
+vs_SPF_IQR_SEP,2027 Q4/Q4,P1_steo_latest x pre,2.3988,above SPF P75 2.727: False; above SEP median 2.5: False; above SEP CT top 2.6: False
+vs_SPF_IQR_SEP,2027 Q4/Q4,P1_steo_latest x post,2.9273,above SPF P75 2.727: True; above SEP median 2.5: True; above SEP CT top 2.6: True
+vs_SPF_IQR_SEP,2027 Q4/Q4,P2_110_flat x pre,2.4819,above SPF P75 2.727: False; above SEP median 2.5: False; above SEP CT top 2.6: False
+vs_SPF_IQR_SEP,2027 Q4/Q4,P2_110_flat x post,3.1629,above SPF P75 2.727: True; above SEP median 2.5: True; above SEP CT top 2.6: True
+vs_SPF_IQR_SEP,2027 Q4/Q4,P3_feb26steo_plus25 x pre,2.4183,above SPF P75 2.727: False; above SEP median 2.5: False; above SEP CT top 2.6: False
+vs_SPF_IQR_SEP,2027 Q4/Q4,P3_feb26steo_plus25 x post,2.7211,above SPF P75 2.727: False; above SEP median 2.5: True; above SEP CT top 2.6: True
+sens_plus10_2027,2027 Q4/Q4,"P1 +$10 in 2027Q1-Q4, pre",0.0288,pp change in 2027 Q4/Q4 core PCE
+sens_plus10_2027,2027 Q4/Q4,"P1 +$10 in 2027Q1-Q4, post",0.0989,pp change in 2027 Q4/Q4 core PCE
+flat_check,2027 Q4/Q4,flat $110 rebuilt (should equal P2 x post),3.1629,pipeline 3.1629
+flat_breakeven,2027 Q4/Q4,pre: flat Brent from Nov 12 giving adj +0.00 pp,70.73,"$/bbl, flat 2026-11-12..2027Q4; 2026Q3 actual and Oct1-Nov11 observed kept"
+flat_breakeven,2027 Q4/Q4,pre: flat Brent from Nov 12 giving adj +0.25 pp,not reached below $200,"$/bbl, flat 2026-11-12..2027Q4; 2026Q3 actual and Oct1-Nov11 observed kept"
+flat_breakeven,2027 Q4/Q4,pre: flat Brent from Nov 12 giving adj +0.50 pp,not reached below $200,"$/bbl, flat 2026-11-12..2027Q4; 2026Q3 actual and Oct1-Nov11 observed kept"
+flat_breakeven,2027 Q4/Q4,post: flat Brent from Nov 12 giving adj +0.00 pp,60.37,"$/bbl, flat 2026-11-12..2027Q4; 2026Q3 actual and Oct1-Nov11 observed kept"
+flat_breakeven,2027 Q4/Q4,post: flat Brent from Nov 12 giving adj +0.25 pp,73.99,"$/bbl, flat 2026-11-12..2027Q4; 2026Q3 actual and Oct1-Nov11 observed kept"
+flat_breakeven,2027 Q4/Q4,post: flat Brent from Nov 12 giving adj +0.50 pp,90.07,"$/bbl, flat 2026-11-12..2027Q4; 2026Q3 actual and Oct1-Nov11 observed kept"
+flat_spot,2027 Q4/Q4,"flat $92.14 (EIA spot 2026-11-11), pre",2.4498,adj +0.0494 pp vs baseline
+flat_spot,2027 Q4/Q4,"flat $92.14 (EIA spot 2026-11-11), post",2.9298,adj +0.5294 pp vs baseline

@@ -1,0 +1,11 @@
+proxy,central,vintage,label,quarter,assumed_brent_usd
+steo_matched,True,nov26,"EIA STEO nov26 (released 2026-11-10, completed 2026-11-05); latest STEO released on/before SPF deadline 2026-11-11",2026Q4,108.9767
+steo_matched,True,nov26,"EIA STEO nov26 (released 2026-11-10, completed 2026-11-05); latest STEO released on/before SPF deadline 2026-11-11",2027Q1,95.0000
+steo_matched,True,nov26,"EIA STEO nov26 (released 2026-11-10, completed 2026-11-05); latest STEO released on/before SPF deadline 2026-11-11",2027Q2,89.0000
+steo_matched,True,nov26,"EIA STEO nov26 (released 2026-11-10, completed 2026-11-05); latest STEO released on/before SPF deadline 2026-11-11",2027Q3,83.0000
+steo_matched,True,nov26,"EIA STEO nov26 (released 2026-11-10, completed 2026-11-05); latest STEO released on/before SPF deadline 2026-11-11",2027Q4,77.0000
+steo_previous,False,oct26,EIA STEO oct26 (released 2026-10-06); one vintage earlier,2026Q4,104.6667
+steo_previous,False,oct26,EIA STEO oct26 (released 2026-10-06); one vintage earlier,2027Q1,95.0000
+steo_previous,False,oct26,EIA STEO oct26 (released 2026-10-06); one vintage earlier,2027Q2,87.0000
+steo_previous,False,oct26,EIA STEO oct26 (released 2026-10-06); one vintage earlier,2027Q3,80.0000
+steo_previous,False,oct26,EIA STEO oct26 (released 2026-10-06); one vintage earlier,2027Q4,74.0000

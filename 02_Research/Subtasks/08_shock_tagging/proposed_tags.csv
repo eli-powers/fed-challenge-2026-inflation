@@ -1,0 +1,150 @@
+component_id,component_name,tag_final,overlap_final,weight_latest,tag_main,basis_main,overlap_main,tag_alt,overlap_alt,energy_transport_sens,energy_main,energy_alt_transport,import_direct_goods,import_total_goods,goods_share,bridge_lines
+U20404 line 50 / U20405 line 50 (DCPSRG),Computer software and accessories,AI,,0.0126,AI,Software (incl. 2017-bridge data processing/hosting 518200): direct AI product/feature pricing and cloud compute,,AI,,,0.01916,0.04483,0.0,0.02031,0.0,50
+U20404 line 49 / U20405 line 49 (DCPPRG),Personal computers/tablets and peripheral equipment,AI,AI+tariff,0.00579,AI,PCs/tablets/peripherals: DRAM/NAND and processors are core inputs; AI data-center demand competes for the same memory and chip supply,AI+tariff,AI,AI+tariff,,0.01703,0.0402,0.5669,0.58116,1.0,49
+U20404 line 71 / U20405 line 71 (DTCERG),Telephone and related communication equipment,AI,AI+tariff,0.00196,AI,Telephones/smartphones: memory- and chip-intensive; same AI-driven component-cost channel,AI+tariff,AI,AI+tariff,,0.02331,0.05157,0.36874,0.38831,1.0,71
+U20404 line 51 / U20405 line 51 (DOIPRG),"Calculators, typewriters, and other information processing equipment",AI,AI+tariff+energy,2e-05,AI,Other information processing equipment: same semiconductor/memory input channel as PCs (tiny weight),AI+tariff,AI,AI+tariff+energy,energy,0.0437,0.10384,0.39764,0.45452,1.0,51
+U20404 line 123 / U20405 line 123 (DRXDRG),Prescription drugs,untagged,,0.03113,tariff,direct import share 0.187 (goods),,tariff,,,0.02716,0.05793,0.18711,0.25287,1.0,122
+U20404 line 9 / U20405 line 9 (DNWTRG),New light trucks,tariff,tariff+energy,0.01896,tariff,direct import share 0.268 (goods),,tariff,tariff+energy,,0.03891,0.08655,0.26839,0.37139,1.0,9
+U20404 line 106 / U20405 line 106 (DWGCRG),Women's and girls' clothing (10),tariff,,0.01385,tariff,direct import share 0.294 (goods),,tariff,,,0.02958,0.06901,0.29386,0.3142,0.99766,106
+U20404 line 25 / U20405 line 25 (DFNRRG),Furniture,tariff,tariff+energy,0.00871,tariff,direct import share 0.214 (goods),,tariff,tariff+energy,energy,0.04252,0.13023,0.2139,0.27188,0.92475,25
+U20404 line 107 / U20405 line 107 (DMBCRG),Men's and boys' clothing (11),tariff,,0.00847,tariff,direct import share 0.343 (goods),,tariff,,,0.02813,0.06908,0.34329,0.3629,1.00825,107
+U20404 line 127 / U20405 line 127 (DDOLRG),"Games, toys, and hobbies",tariff,tariff+energy,0.00782,tariff,direct import share 0.258 (goods),,tariff,tariff+energy,energy,0.04776,0.21458,0.25787,0.28873,2.26684,127
+U20404 line 52 / U20405 line 52 (DSPGRG),"Sporting equipment, supplies, guns, and ammunition (part of 80)",tariff,tariff+energy,0.00697,tariff,direct import share 0.152 (goods),,energy,,,0.03843,0.09934,0.15241,0.19821,1.00486,52
+U20404 line 124 / U20405 line 124 (DNRDRG),Nonprescription drugs,untagged,,0.00677,tariff,direct import share 0.187 (goods),,tariff,,,0.02716,0.05793,0.18711,0.25287,1.0,122
+U20404 line 112 / U20405 line 112 (DSHURG),Shoes and other footwear,tariff,,0.00657,tariff,direct import share 0.335 (goods),,tariff,,,0.0316,0.07833,0.33493,0.35542,1.00094,112
+U20404 line 64 / U20405 line 64 (DJLYRG),Jewelry,tariff,,0.00469,tariff,direct import share 0.207 (goods),,tariff,,,0.02992,0.09786,0.20693,0.2355,0.71623,64
+U20404 line 30 / U20405 line 30 (DMHARG),Major household appliances,tariff,tariff+energy,0.00418,tariff,direct import share 0.287 (goods),,tariff,tariff+energy,,0.03468,0.08204,0.28658,0.33076,1.00198,30
+U20404 line 22 / U20405 line 22 (DPAARG),Accessories and parts,tariff,tariff+energy,0.00405,tariff,direct import share 0.170 (goods),,tariff,tariff+energy,,0.04229,0.08417,0.16989,0.2398,1.1393,22
+U20404 line 134 / U20405 line 134 (DLINRG),Household linens,tariff,tariff+energy,0.0038,tariff,direct import share 0.172 (goods),,tariff,tariff+energy,,0.04104,0.08625,0.17175,0.20612,1.0,134
+U20404 line 21 / U20405 line 21 (DTATRG),Tires,tariff,tariff+energy,0.00299,tariff,direct import share 0.200 (goods),,tariff,tariff+energy,,0.04745,0.09389,0.19972,0.25115,1.00022,21
+U20404 line 70 / U20405 line 70 (DLUGRG),Luggage and similar personal items (part of 119),tariff,,0.00281,tariff,direct import share 0.386 (goods),,tariff,,,0.03287,0.08474,0.38594,0.40615,1.0,70
+U20404 line 67 / U20405 line 67 (DTMERG),Therapeutic medical equipment,tariff,,0.0028,tariff,direct import share 0.157 (goods),,untagged,,,0.02934,0.0607,0.15656,0.19095,1.0,67
+U20404 line 41 / U20405 line 41 (DTVSRG),Televisions,tariff,,0.00195,tariff,direct import share 0.444 (goods),,AI,AI+tariff,,0.02392,0.05357,0.44362,0.45959,1.0,41
+U20404 line 33 / U20405 line 33 (DCHNRG),Dishes and flatware,tariff,tariff+energy,0.00168,tariff,direct import share 0.308 (goods),tariff+energy,tariff,tariff+energy,energy,0.07136,0.16728,0.30839,0.35624,1.04965,33
+U20404 line 43 / U20405 line 43 (DAUDRG),Audio equipment,tariff,,0.00165,tariff,direct import share 0.403 (goods),,AI,AI+tariff,,0.02452,0.05444,0.40308,0.42275,1.00131,43
+U20404 line 34 / U20405 line 34 (DNECRG),Nonelectric cookware and tableware,tariff,tariff+energy,0.00163,tariff,direct import share 0.400 (goods),tariff+energy,tariff,tariff+energy,energy,0.06613,0.13337,0.40017,0.45948,0.99941,34
+U20404 line 7 / U20405 line 7 (DNDCRG),New domestic autos,tariff,tariff+energy,0.00139,tariff,direct import share 0.233 (goods),,tariff,tariff+energy,,0.03617,0.08139,0.23254,0.26401,1.0,7
+U20404 line 54 / U20405 line 54 (DMCYRG),Motorcycles,tariff,tariff+energy,0.00112,tariff,direct import share 0.238 (goods),,tariff,tariff+energy,energy,0.03651,0.10147,0.23765,0.29553,1.00642,54
+U20404 line 65 / U20405 line 65 (DWTCRG),Watches,tariff,,0.00097,tariff,direct import share 0.311 (goods),,tariff,,,0.02701,0.05569,0.31079,0.33079,1.0,65
+U20404 line 8 / U20405 line 8 (DNFCRG),New foreign autos,tariff,tariff+energy,0.00082,tariff,direct import share 0.232 (goods),,tariff,tariff+energy,,0.03612,0.08157,0.23174,0.26294,1.0,8
+U20404 line 140 / U20405 line 140 (DEAPRG),Electric appliances for personal care,tariff,tariff+energy,0.00068,tariff,direct import share 0.458 (goods),,tariff,tariff+energy,energy,0.03533,0.13034,0.45849,0.48451,1.0,140
+U20404 line 31 / U20405 line 31 (DSEARG),Small electric household appliances,tariff,tariff+energy,0.00065,tariff,direct import share 0.455 (goods),,tariff,tariff+energy,energy,0.0356,0.13297,0.45451,0.48073,1.00716,31
+U20404 line 42 / U20405 line 42 (DOVARG),Other video equipment,tariff,,0.0006,tariff,direct import share 0.453 (goods),,AI,AI+tariff,,0.02472,0.05261,0.45329,0.47116,1.0,42
+U20404 line 61 / U20405 line 61 (DMSCRG),Musical instruments (part of 80),tariff,tariff+energy,0.00049,tariff,direct import share 0.267 (goods),,tariff,tariff+energy,energy,0.04338,0.13273,0.2673,0.30365,1.00317,61
+U20404 line 55 / U20405 line 55 (DBCYRG),Bicycles and accessories,tariff,,0.00039,tariff,direct import share 0.211 (goods),,tariff,,,0.03076,0.06424,0.21107,0.26576,1.0,55
+U20404 line 47 / U20405 line 47 (DCAMRG),Photographic equipment,tariff,,0.0003,tariff,direct import share 0.420 (goods),,tariff,,,0.02769,0.06032,0.42035,0.44289,0.99524,47
+U20404 line 135 / U20405 line 135 (DSEWRG),Sewing items,tariff,tariff+energy,6e-05,tariff,direct import share 0.178 (goods),tariff+energy,tariff,tariff+energy,energy,0.05631,0.10597,0.17785,0.22846,1.0,135
+U20404 line 111 / U20405 line 111 (DMICRG),Standard clothing issued to military personnel,tariff,,3e-05,tariff,direct import share 0.604 (goods),,tariff,,,0.02486,0.08257,0.60419,0.62171,1.0,111
+U20404 line 207 / U20405 line 207 (DAITRG),Air transportation (64),energy,,0.01195,energy,energy cost share 0.113,,energy,,energy,0.11265,1.0,0.0,0.04897,0.0,207
+U20404 line 167 / U20405 line 167 (DWSMRG),Water supply and sewage maintenance,energy,,0.00524,energy,energy cost share 0.061,,energy,,,0.06057,0.09218,0.0,0.05171,0.0,167
+U20404 line 211 / U20405 line 211 (DMDFRG),Membership clubs and participant sports centers,energy,,0.00442,energy,energy cost share 0.057,,energy,,,0.05695,0.08167,0.0,0.03889,0.0,211
+U20404 line 133 / U20405 line 133 (DPAPRG),Household paper products,energy,,0.0033,energy,energy cost share 0.063,,energy,,energy,0.0634,0.11987,0.04444,0.11832,1.0,133
+U20404 line 228 / U20405 line 228 (DLOTRG),Lotteries,untagged,,0.0027,energy,energy cost share 0.061,,energy,,,0.06087,0.09319,0.0,0.05353,0.0,228
+U20404 line 204 / U20405 line 204 (DTAXRG),Taxicabs and ride sharing services,energy,,0.0024,energy,energy cost share 0.163,,energy,,energy,0.16338,1.0,0.0,0.09235,0.0,204
+U20404 line 132 / U20405 line 132 (DCLERG),Household cleaning products,energy,,0.00219,energy,energy cost share 0.051,,energy,,,0.05054,0.09482,0.08727,0.1495,1.0,132
+U20404 line 206 / U20405 line 206 (DORTRG),Other road transportation service,energy,,0.00217,energy,energy cost share 0.116,,energy,,energy,0.11639,0.76887,0.0,0.07151,0.0,206
+U20404 line 247 / U20405 line 247 (DCFDRG),Food supplied to civilians,energy,,0.00181,energy,energy cost share 0.053,,energy,,energy,0.0533,0.14294,0.07417,0.16903,1.0,246
+U20404 line 329 / U20405 line 329 (DMSERG),"Moving, storage, and freight services",energy,,0.00123,energy,energy cost share 0.077,,energy,,energy,0.07728,0.68846,0.0,0.04376,0.0,329
+U20404 line 205 / U20405 line 205 (DIMTRG),Intracity mass transit,energy,,0.00107,energy,energy cost share 0.163,,energy,,energy,0.16338,1.0,0.0,0.09235,0.0,205
+U20404 line 208 / U20405 line 208 (DWATRG),Water transportation (65),energy,,0.0004,energy,energy cost share 0.068,,energy,,energy,0.06793,1.0,0.0,0.06039,0.0,208
+U20404 line 110 / U20405 line 110 (DCSMRG),Clothing materials,energy,,0.00015,energy,energy cost share 0.053,,energy,,energy,0.05306,0.10625,0.1297,0.19099,1.0,110
+U20404 line 248 / U20405 line 248 (DMFDRG),Food supplied to military,energy,,0.00014,energy,energy cost share 0.053,,energy,,energy,0.0533,0.14294,0.07417,0.16903,1.0,246
+U20404 line 130 / U20405 line 130 (DFLMRG),Film and photographic supplies,energy,,8e-05,energy,energy cost share 0.051,,energy,,,0.05075,0.09945,0.07106,0.13759,1.0,130
+U20404 line 201 / U20405 line 201 (DIRRRG),Railway transportation,energy,,8e-05,energy,energy cost share 0.075,,energy,,energy,0.07481,1.0,0.0,0.05732,0.0,201
+U20404 line 203 / U20405 line 203 (DIBURG),Intercity buses,energy,,6e-05,energy,energy cost share 0.163,,energy,,energy,0.16338,1.0,0.0,0.09235,0.0,203
+U20404 line 162 / U20405 line 162 (DOSTRG),Owner-occupied stationary homes,untagged,,0.12887,untagged,E=0.004; Mdir=0.000; Mtot=0.006,,untagged,,,0.0045,0.00767,0.0,0.00556,0.0,162
+U20404 line 184 / U20405 line 184 (DNPHRG),Nonprofit hospitals' services to households,untagged,,0.06012,untagged,E=0.029; Mdir=0.000; Mtot=0.044,,untagged,,,0.02919,0.04889,0.0,0.04368,0.0,184
+U20404 line 241 / U20405 line 241 (DOPMRG),Other purchased meals,energy,,0.05738,untagged,E=0.045; Mdir=0.000; Mtot=0.047,,energy,,,0.04526,0.06878,0.0,0.04743,0.0,242;243;244
+U20404 line 174 / U20405 line 174 (DPHYRG),Physician services (44),untagged,,0.04486,untagged,E=0.017; Mdir=0.000; Mtot=0.029,,untagged,,,0.01685,0.03317,0.0,0.02855,0.0,174
+U20404 line 156 / U20405 line 156 (IA000629),Tenant-occupied stationary homes and landlord durables,untagged,,0.03982,untagged,E=0.004; Mdir=0.000; Mtot=0.003,,untagged,,,0.00404,0.0057,0.0,0.00268,0.0,156
+U20404 line 176 / U20405 line 176 (DPMSRG),Paramedical services (46),untagged,,0.03601,untagged,E=0.019; Mdir=0.000; Mtot=0.041,,untagged,,,0.01902,0.03378,0.0,0.04071,0.0,177;178;180;181
+U20404 line 342 / U20405 line 342 (DNPIRG),Final consumption expenditures of nonprofit institutions serving households (NPISHs) (132),untagged,,0.03343,untagged,E=0.024; Mdir=0.000; Mtot=0.031,,untagged,,,0.02374,0.04375,0.0,0.03064,0.0,342
+U20404 line 258 / U20405 line 258 (DOFIRG),"Financial service charges, fees, and commissions (108)",untagged,,0.03032,untagged,E=0.019; Mdir=0.000; Mtot=0.013,,AI,,,0.01914,0.03956,0.0,0.01273,0.0,259;262;263;265;266;267;268;269
+U20404 line 186 / U20405 line 186 (DGVHRG),Government hospitals,untagged,,0.01824,untagged,E=0.029; Mdir=0.000; Mtot=0.044,,untagged,,,0.02919,0.04889,0.0,0.04368,0.0,186
+U20404 line 281 / U20405 line 281 (DCOMRG),Communication,untagged,,0.01656,untagged,E=0.019; Mdir=0.000; Mtot=0.040,,untagged,,,0.0195,0.05771,0.0,0.03961,0.0,283;284;285;287;288;289
+U20404 line 275 / U20405 line 275 (DHINRG),Net health insurance (112),untagged,,0.01536,untagged,E=0.007; Mdir=0.000; Mtot=0.006,,untagged,,,0.00687,0.01237,0.0,0.00621,0.0,276;277;278
+U20404 line 192 / U20405 line 192 (DVMRRG),Motor vehicle maintenance and repair (60),untagged,,0.01527,untagged,E=0.025; Mdir=0.000; Mtot=0.063,,untagged,,,0.02484,0.07956,0.0,0.06338,0.0,192
+U20404 line 187 / U20405 line 187 (DNRSRG),Nursing homes (52),energy,,0.01463,untagged,E=0.035; Mdir=0.000; Mtot=0.032,,energy,,,0.03469,0.05173,0.0,0.03155,0.0,188;189
+U20404 line 255 / U20405 line 255 (DIMCRG),Commercial banks,untagged,,0.01412,untagged,E=0.020; Mdir=0.000; Mtot=0.011,,untagged,,,0.01965,0.03497,0.0,0.01059,0.0,255
+U20404 line 256 / U20405 line 256 (DIMNRG),Other depository institutions and regulated investment companies,untagged,,0.01348,untagged,E=0.028; Mdir=0.000; Mtot=0.025,,untagged,,,0.02842,0.05063,0.0,0.02544,0.0,256
+U20404 line 317 / U20405 line 317 (DSCWRG),Social assistance,untagged,,0.01297,untagged,E=0.025; Mdir=0.000; Mtot=0.044,,untagged,,,0.02521,0.05024,0.0,0.04396,0.0,318;319;320;321;322;323
+U20404 line 175 / U20405 line 175 (DDENRG),Dental services (45),untagged,,0.01053,untagged,E=0.012; Mdir=0.000; Mtot=0.021,,untagged,,,0.01195,0.02277,0.0,0.02119,0.0,175
+U20404 line 185 / U20405 line 185 (DFPHRG),Proprietary hospitals,untagged,,0.01024,untagged,E=0.029; Mdir=0.000; Mtot=0.044,,untagged,,,0.02919,0.04889,0.0,0.04368,0.0,185
+U20404 line 17 / U20405 line 17 (DUTRRG),Used light trucks,untagged,,0.00946,untagged,E=0.013; Mdir=0.000; Mtot=0.008,,untagged,,,0.01304,0.02617,0.0,0.00791,0.0,17
+U20404 line 245 / U20405 line 245 (DAPMRG),Alcohol in purchased meals,energy,,0.0093,untagged,E=0.039; Mdir=0.000; Mtot=0.040,,energy,,,0.03851,0.0679,0.0,0.04012,0.0,245
+U20404 line 218 / U20405 line 218 (DAVPRG),"Audio-video, photographic, and information processing equipment services (parts of 77 and 93)",untagged,,0.00894,untagged,E=0.018; Mdir=0.000; Mtot=0.033,,untagged,,,0.01773,0.03201,0.0,0.03298,0.0,219;220;221;222;223
+U20404 line 299 / U20405 line 299 (DGALRG),Legal services,untagged,,0.00848,untagged,E=0.010; Mdir=0.000; Mtot=0.010,,untagged,,,0.0104,0.02277,0.0,0.01009,0.0,299
+U20404 line 227 / U20405 line 227 (DCASRG),Casino gambling,untagged,,0.00829,untagged,E=0.033; Mdir=0.000; Mtot=0.040,,untagged,,,0.03285,0.05331,0.0,0.03951,0.0,227
+U20404 line 250 / U20405 line 250 (DHOTRG),Hotels and motels,energy,,0.00829,untagged,E=0.047; Mdir=0.000; Mtot=0.032,,energy,,,0.04681,0.06072,0.0,0.03198,0.0,250
+U20404 line 310 / U20405 line 310 (DMPCRG),Miscellaneous personal care services,untagged,,0.00676,untagged,E=0.027; Mdir=0.000; Mtot=0.030,,untagged,,,0.02679,0.04396,0.0,0.03036,0.0,310
+U20404 line 138 / U20405 line 138 (DOPHRG),"Hair, dental, shaving, and miscellaneous personal care products except electrical products",energy,,0.00664,untagged,E=0.043; Mdir=0.133; Mtot=0.184,,energy,,,0.04289,0.09072,0.13306,0.18361,1.0,138
+U20404 line 271 / U20405 line 271 (DLIFRG),Life insurance (110),untagged,,0.00661,untagged,E=0.008; Mdir=0.000; Mtot=0.008,,untagged,,,0.00812,0.02114,0.0,0.00763,0.0,271
+U20404 line 292 / U20405 line 292 (DGEDRG),Proprietary and public higher education,untagged,,0.00618,untagged,E=0.029; Mdir=0.000; Mtot=0.022,,untagged,,,0.02922,0.04588,0.0,0.02239,0.0,292
+U20404 line 128 / U20405 line 128 (DPRPRG),Pets and related products,energy,,0.00609,untagged,E=0.041; Mdir=0.042; Mtot=0.097,,energy,,energy,0.04078,0.10195,0.04186,0.09728,1.0,128
+U20404 line 279 / U20405 line 279 (DTINRG),Net motor vehicle and other transportation insurance (116),untagged,,0.00571,untagged,E=0.007; Mdir=0.000; Mtot=0.006,,untagged,,,0.00687,0.01237,0.0,0.00621,0.0,279
+U20404 line 141 / U20405 line 141 (DTOBRG),Tobacco (127),untagged,,0.00554,untagged,E=0.025; Mdir=0.006; Mtot=0.040,,untagged,,,0.02507,0.05631,0.0059,0.03951,1.0,141
+U20404 line 309 / U20405 line 309 (DBBBRG),Hairdressing salons and personal grooming establishments,untagged,,0.00534,untagged,E=0.034; Mdir=0.000; Mtot=0.033,,untagged,,,0.03384,0.05269,0.0,0.03324,0.0,309
+U20404 line 143 / U20405 line 143 (DMAGRG),Newspapers and periodicals,untagged,,0.00525,untagged,E=0.019; Mdir=0.000; Mtot=0.023,,untagged,,,0.01897,0.06612,0.0,0.02314,0.0,143
+U20404 line 161 / U20405 line 161 (DOMHRG),Owner-occupied mobile homes,untagged,,0.00498,untagged,E=0.004; Mdir=0.000; Mtot=0.006,,untagged,,,0.0045,0.00767,0.0,0.00556,0.0,161
+U20404 line 212 / U20405 line 212 (DORSRG),"Amusement parks, campgrounds, and related recreational services",energy,,0.00479,untagged,E=0.041; Mdir=0.019; Mtot=0.051,,energy,,,0.04065,0.06176,0.01889,0.05131,0.04506,212
+U20404 line 297 / U20405 line 297 (DVEDRG),Commercial and vocational schools (99),untagged,,0.00461,untagged,E=0.028; Mdir=0.000; Mtot=0.030,,untagged,,,0.02821,0.04767,0.0,0.03025,0.0,297
+U20404 line 293 / U20405 line 293 (DPEDRG),Nonprofit private higher education services to households,untagged,,0.00452,untagged,E=0.029; Mdir=0.000; Mtot=0.022,,untagged,,,0.02922,0.04588,0.0,0.02239,0.0,293
+U20404 line 257 / U20405 line 257 (DPENRG),Pension funds,untagged,,0.00438,untagged,E=0.030; Mdir=0.000; Mtot=0.028,,untagged,,,0.03015,0.05371,0.0,0.02837,0.0,257
+U20404 line 129 / U20405 line 129 (DFLORG),"Flowers, seeds, and potted plants",energy,,0.00438,untagged,E=0.048; Mdir=0.079; Mtot=0.120,,energy,,energy,0.04836,0.11757,0.07949,0.12004,1.0,129
+U20404 line 139 / U20405 line 139 (DCOSRG),Cosmetic / perfumes / bath / nail preparations and implements,energy,,0.00415,untagged,E=0.041; Mdir=0.092; Mtot=0.146,,energy,,,0.04066,0.07724,0.0916,0.14598,1.0,139
+U20404 line 231 / U20405 line 231 (DVETRG),Veterinary and other services for pets,untagged,,0.00411,untagged,E=0.018; Mdir=0.000; Mtot=0.046,,untagged,,,0.01814,0.03948,0.0,0.04574,0.00291,231
+U20404 line 316 / U20405 line 316 (DCHCRG),Child care,energy,,0.00357,untagged,E=0.036; Mdir=0.000; Mtot=0.037,,energy,,,0.03559,0.05806,0.0,0.03698,0.0,316
+U20404 line 26 / U20405 line 26 (DCLFRG),"Clocks, lamps, lighting fixtures, and other household decorative items",energy,,0.00351,untagged,E=0.035; Mdir=0.126; Mtot=0.156,,energy,,energy,0.03534,0.14995,0.1264,0.15554,0.5253,26
+U20404 line 215 / U20405 line 215 (DLIGRG),"Live entertainment, excluding sports",untagged,,0.00344,untagged,E=0.021; Mdir=0.000; Mtot=0.015,,untagged,,,0.02129,0.05054,0.0,0.01528,0.0,215
+U20404 line 194 / U20405 line 194 (DMVLRG),Motor vehicle leasing,untagged,,0.00296,untagged,E=0.027; Mdir=0.000; Mtot=0.025,,untagged,,,0.02702,0.05019,0.0,0.02494,0.0,195;196
+U20404 line 36 / U20405 line 36 (DHDWRG),"Tools, hardware, and supplies",energy,,0.00276,untagged,E=0.039; Mdir=0.116; Mtot=0.154,,energy,,,0.0393,0.07788,0.11606,0.15366,0.86557,36
+U20404 line 301 / U20405 line 301 (DTAPRG),Tax preparation and other related services,untagged,,0.00276,untagged,E=0.014; Mdir=0.000; Mtot=0.021,,untagged,,,0.01412,0.03511,0.0,0.02147,0.0,301
+U20404 line 68 / U20405 line 68 (DEYERG),Corrective eyeglasses and contact lenses,untagged,,0.00257,untagged,E=0.028; Mdir=0.150; Mtot=0.185,,untagged,,,0.02832,0.05272,0.14951,0.18527,0.51788,68
+U20404 line 216 / U20405 line 216 (DSPERG),Spectator sports,untagged,,0.00254,untagged,E=0.018; Mdir=0.000; Mtot=0.015,,untagged,,,0.01847,0.03685,0.0,0.01534,0.0,216
+U20404 line 251 / U20405 line 251 (DSCHRG),Housing at schools,energy,,0.00248,untagged,E=0.047; Mdir=0.000; Mtot=0.032,,energy,,,0.04681,0.06072,0.0,0.03198,0.0,251
+U20404 line 295 / U20405 line 295 (DESCRG),Elementary and secondary schools,untagged,,0.00244,untagged,E=0.028; Mdir=0.000; Mtot=0.030,,untagged,,,0.02835,0.0433,0.0,0.03025,0.0,295
+U20404 line 13 / U20405 line 13 (DNPURG),Used autos,untagged,,0.00235,untagged,E=0.014; Mdir=0.000; Mtot=-0.000,,untagged,,,0.01377,0.0367,0.0,-0.00033,0.0,13
+U20404 line 332 / U20405 line 332 (DMHSRG),Other household services,untagged,,0.00227,untagged,E=0.029; Mdir=0.000; Mtot=0.055,,untagged,,,0.0295,0.05154,0.0,0.05498,0.0,332
+U20404 line 168 / U20405 line 168 (DREFRG),Garbage and trash collection,energy,,0.0022,untagged,E=0.046; Mdir=0.000; Mtot=0.075,,energy,,,0.04563,0.08754,0.0,0.07534,0.0,168
+U20404 line 57 / U20405 line 57 (DBOARG),Pleasure boats,energy,,0.00201,untagged,E=0.042; Mdir=0.082; Mtot=0.201,,tariff,tariff+energy,energy,0.04205,0.11438,0.08151,0.20092,1.00008,57
+U20404 line 328 / U20405 line 328 (DDMSRG),Domestic services,untagged,,0.00196,untagged,E=0.012; Mdir=0.000; Mtot=0.023,,untagged,,,0.0119,0.01935,0.0,0.02295,0.0,328
+U20404 line 60 / U20405 line 60 (DRBKRG),Recreational books (part of 90),untagged,,0.00185,untagged,E=0.024; Mdir=0.000; Mtot=0.030,,untagged,,,0.02433,0.07922,0.0001,0.02976,0.00145,60
+U20404 line 28 / U20405 line 28 (DWCTRG),Window coverings,energy,,0.0018,untagged,E=0.041; Mdir=0.124; Mtot=0.169,,energy,,energy,0.04064,0.10146,0.12423,0.16868,1.0,28
+U20404 line 144 / U20405 line 144 (DSTYRG),Stationery and miscellaneous printed materials,energy,,0.00174,untagged,E=0.041; Mdir=0.052; Mtot=0.099,,energy,,energy,0.04115,0.10427,0.05175,0.09944,0.4655,144
+U20404 line 59 / U20405 line 59 (DREVRG),Other recreational vehicles,energy,,0.00172,untagged,E=0.036; Mdir=0.026; Mtot=0.127,,energy,,,0.03599,0.08397,0.02622,0.12744,1.00187,59
+U20404 line 197 / U20405 line 197 (DMVRRG),Motor vehicle rental,untagged,,0.00172,untagged,E=0.027; Mdir=0.000; Mtot=0.025,,untagged,,,0.02702,0.05019,0.0,0.02494,0.0,197
+U20404 line 306 / U20405 line 306 (DFUNRG),Funeral and burial services,untagged,,0.00165,untagged,E=0.017; Mdir=0.066; Mtot=0.079,,untagged,,,0.01657,0.05255,0.06561,0.07854,0.12971,306
+U20404 line 198 / U20405 line 198 (DPFTRG),Parking fees and tolls,energy,,0.00156,untagged,E=0.044; Mdir=0.000; Mtot=0.040,,energy,,,0.04361,0.06843,0.0,0.04008,0.0,198
+U20404 line 163 / U20405 line 163 (DFARRG),Rental value of farm dwellings (22),untagged,,0.00155,untagged,E=0.004; Mdir=0.000; Mtot=0.005,,untagged,,,0.00449,0.00762,0.0,0.00548,0.0,163
+U20404 line 27 / U20405 line 27 (DFLRRG),Carpets and other floor coverings,energy,,0.00154,untagged,E=0.048; Mdir=0.103; Mtot=0.157,,energy,,energy,0.04752,0.10841,0.10329,0.15749,0.88141,27
+U20404 line 108 / U20405 line 108 (DCICRG),Children's and infants' clothing (12),energy,,0.00151,untagged,E=0.042; Mdir=0.148; Mtot=0.190,,energy,,,0.04174,0.08553,0.14801,0.19,1.00236,108
+U20404 line 324 / U20405 line 324 (DSADRG),Social advocacy and civic and social organizations,untagged,,0.00146,untagged,E=0.028; Mdir=0.000; Mtot=0.028,,untagged,,,0.02778,0.04582,0.0,0.02826,0.0,324
+U20404 line 232 / U20405 line 232 (DHOLRG),Package tours,untagged,,0.00143,untagged,E=0.018; Mdir=0.000; Mtot=0.023,,untagged,,,0.01827,0.04518,0.0,0.02274,0.0,232
+U20404 line 303 / U20405 line 303 (DTHERG),Other personal business services,untagged,,0.00132,untagged,E=0.023; Mdir=0.000; Mtot=0.027,,untagged,,,0.02295,0.05813,5e-05,0.02724,0.00056,303
+U20404 line 240 / U20405 line 240 (DHSLRG),Higher education school lunches,untagged,,0.00121,untagged,E=0.033; Mdir=0.000; Mtot=0.032,,untagged,,,0.03337,0.04874,0.0,0.03212,0.0,240
+U20404 line 136 / U20405 line 136 (DMHPRG),Miscellaneous household products,energy,,0.00117,untagged,E=0.036; Mdir=0.111; Mtot=0.142,,energy,,,0.03584,0.0783,0.11069,0.14163,1.0,136
+U20404 line 296 / U20405 line 296 (DNSCRG),Day care and nursery schools,energy,,0.00113,untagged,E=0.036; Mdir=0.000; Mtot=0.037,,energy,,,0.03559,0.05806,0.0,0.03698,0.0,296
+U20404 line 217 / U20405 line 217 (DMUSRG),Museums and libraries,untagged,,0.00102,untagged,E=0.025; Mdir=0.000; Mtot=0.021,,untagged,,,0.02479,0.04367,0.0,0.02079,0.0,217
+U20404 line 304 / U20405 line 304 (DUNSRG),Labor organization dues,untagged,,0.00098,untagged,E=0.030; Mdir=0.000; Mtot=0.029,,untagged,,,0.03001,0.04719,0.0,0.02869,0.0,304
+U20404 line 272 / U20405 line 272 (DFINRG),Net household insurance (111),untagged,,0.00091,untagged,E=0.007; Mdir=0.000; Mtot=0.006,,untagged,,,0.00687,0.01237,0.0,0.00621,0.0,272
+U20404 line 305 / U20405 line 305 (DAXSRG),Professional association dues,untagged,,0.00079,untagged,E=0.030; Mdir=0.000; Mtot=0.029,,untagged,,,0.03001,0.04719,0.0,0.02869,0.0,305
+U20404 line 312 / U20405 line 312 (DDRYRG),Laundry and drycleaning services,energy,,0.00079,untagged,E=0.043; Mdir=0.000; Mtot=0.039,,energy,,,0.04339,0.05719,0.0,0.03877,0.0,312
+U20404 line 155 / U20405 line 155 (DTMHRG),Tenant-occupied mobile homes,untagged,,0.00078,untagged,E=0.004; Mdir=0.000; Mtot=0.003,,untagged,,,0.00404,0.0057,0.0,0.00268,0.0,155
+U20404 line 46 / U20405 line 46 (DOVERG),"Video discs, tapes, and permanent digital downloads",untagged,,0.00075,untagged,E=0.022; Mdir=0.003; Mtot=0.021,,untagged,,,0.02179,0.04531,0.00328,0.02113,0.02863,46
+U20404 line 214 / U20405 line 214 (DMOVRG),Motion picture theaters,untagged,,0.00066,untagged,E=0.013; Mdir=0.000; Mtot=0.010,,untagged,,,0.01317,0.03556,0.0,0.00971,0.0,214
+U20404 line 331 / U20405 line 331 (DERERG),Repair of household appliances,untagged,,0.00061,untagged,E=0.018; Mdir=0.000; Mtot=0.048,,untagged,,,0.01764,0.03104,0.0,0.04812,0.0,331
+U20404 line 326 / U20405 line 326 (DGIVRG),Foundations and grantmaking and giving services to households,untagged,,0.00058,untagged,E=0.014; Mdir=0.000; Mtot=0.026,,untagged,,,0.01364,0.03714,0.0,0.02552,0.0,326
+U20404 line 37 / U20405 line 37 (DLWNRG),Outdoor equipment and supplies,energy,,0.00055,untagged,E=0.036; Mdir=0.044; Mtot=0.096,,energy,,,0.03566,0.07205,0.04416,0.09609,0.97126,37
+U20404 line 69 / U20405 line 69 (DEBKRG),Educational books (96),untagged,,0.0005,untagged,E=0.024; Mdir=0.000; Mtot=0.028,,untagged,,,0.02398,0.08594,0.0,0.02834,0.0,69
+U20404 line 125 / U20405 line 125 (DOMPRG),Other medical products,untagged,,0.0005,untagged,E=0.034; Mdir=0.108; Mtot=0.141,,untagged,,,0.03391,0.06521,0.10759,0.14127,1.0,125
+U20404 line 325 / U20405 line 325 (DRELRG),Religious organizations' services to households,untagged,,0.00047,untagged,E=0.019; Mdir=0.000; Mtot=0.015,,untagged,,,0.01913,0.02936,0.0,0.01471,0.0,325
+U20404 line 233 / U20405 line 233 (DRRERG),Maintenance and repair of recreational vehicles and sports equipment,untagged,,0.00045,untagged,E=0.013; Mdir=0.000; Mtot=0.074,,untagged,,,0.01345,0.02382,0.00036,0.07397,0.00378,233
+U20404 line 239 / U20405 line 239 (DESLRG),Elementary and secondary school lunches,untagged,,0.00037,untagged,E=0.033; Mdir=0.000; Mtot=0.032,,untagged,,,0.03337,0.04874,0.0,0.03212,0.0,239
+U20404 line 313 / U20405 line 313 (DLGRRG),"Clothing repair, rental, and alterations",untagged,,0.00036,untagged,E=0.024; Mdir=0.000; Mtot=0.051,,untagged,,,0.02422,0.03708,0.0,0.05094,0.0,313
+U20404 line 229 / U20405 line 229 (DPARRG),Pari-mutuel net receipts,untagged,,0.00034,untagged,E=0.015; Mdir=0.000; Mtot=0.010,,untagged,,,0.01487,0.03042,0.0,0.01005,0.0,229
+U20404 line 164 / U20405 line 164 (DGRHRG),Group housing (23),energy,,0.00018,untagged,E=0.047; Mdir=0.000; Mtot=0.032,,energy,,,0.04681,0.06072,0.0,0.03198,0.0,164
+U20404 line 45 / U20405 line 45 (DRTDRG),"Audio discs, tapes, vinyl, and permanent digital downloads",untagged,,0.00015,untagged,E=0.019; Mdir=0.003; Mtot=0.019,,untagged,,,0.01938,0.04282,0.0032,0.01922,0.02905,45
+U20404 line 58 / U20405 line 58 (DAIRRG),Pleasure aircraft,untagged,,0.00013,untagged,E=0.028; Mdir=0.100; Mtot=0.182,,untagged,,,0.02759,0.05599,0.09974,0.1825,0.86269,58
+U20404 line 330 / U20405 line 330 (DFRERG),"Repair of furniture, furnishings, and floor coverings",untagged,,0.0001,untagged,E=0.013; Mdir=0.000; Mtot=0.074,,untagged,,,0.01336,0.02366,0.0,0.0738,0.0,330
+U20404 line 302 / U20405 line 302 (DGENRG),Employment agency services,untagged,,8e-05,untagged,E=0.011; Mdir=0.000; Mtot=0.015,,untagged,,,0.01133,0.02988,0.0,0.01506,0.0,302
+U20404 line 314 / U20405 line 314 (DSCLRG),Repair and hire of footwear,untagged,,2e-05,untagged,E=0.013; Mdir=0.000; Mtot=0.074,,untagged,,,0.01336,0.02366,0.0,0.0738,0.0,314

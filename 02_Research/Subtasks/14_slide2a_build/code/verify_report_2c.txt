@@ -1,0 +1,7 @@
+Inflation slide 2C build check, 2026-11-16T09:21:46
+1. workbook formula cells: 86 checked after LibreOffice recalc; mismatches: 0 []
+2. cross-checks: PPI vs J_ai_ppi_summary (audited, 2 dp) 0.0045; PCE 12m vs F_attrib_top_leaves (audited, 2 dp) 0.0047
+3. chart points vs workbook tabs: 86 points; max abs diff 5.2e-14
+4. axes: left -10..40 (data -4.6..30.6); right -10..20 (data -6.0..18.5); fit True
+5. deck: 8 slides, 2C at position 6; all other slides (incl. 2A/2B) unchanged in content: True; duplicates: none; order ['Inflation SECTION 1', 'Inflation: Firming Again After a Summer ', 'Inflation: Firming Again After a Summer ', 'Inflation: Broad Since the Low, Hotter a', 'Inflation: Three Shocks Now Drive the Ex', 'Inflation: AI Is Lifting Tech Prices Pri', ' AI Buildout: Tech Costs Are Rising Soft', ' AI Buildout: Tech Costs Are Rising Soft']
+RESULT: PASS

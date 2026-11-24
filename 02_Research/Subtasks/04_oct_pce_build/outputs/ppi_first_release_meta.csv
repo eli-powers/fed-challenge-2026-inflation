@@ -1,0 +1,7 @@
+field,value
+file,ppi_first_release.csv
+rows,440
+source,"ALFRED (FRED API series/observations, output_type=1, realtime 1776-07-04..9999-12-31)"
+retrieved,2026-11-11
+script,code/C2_compute_first_release_revisions.py
+description,"PPI (NSA) first-release vs current. Reference months Dec 2024 on. First release = earliest ALFRED realtime_start with a value. Dates are ALFRED vintage dates, which can lag BLS release day by a few days. Series not in ALFRED listed in C2_alfred_id_resolution.csv (status NOT FOUND)."

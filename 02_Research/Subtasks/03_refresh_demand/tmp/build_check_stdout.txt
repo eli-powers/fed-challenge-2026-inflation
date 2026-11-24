@@ -1,0 +1,36 @@
+        channel                                                      indicator    period   latest     yoy   short          short_label     mom  chg_units  baseline
+0   AI buildout              Real investment: information processing equipment   2026 Q2   789.70   23.57    7.60       Q/Q SAAR (BEA)     NaN          %      6.28
+1   AI buildout                                      Real investment: software   2026 Q2   963.30   11.14   14.00       Q/Q SAAR (BEA)     NaN          %     11.27
+2   AI buildout                             Real investment: equipment (total)   2026 Q2  1598.30   11.15   13.40       Q/Q SAAR (BEA)     NaN          %      2.49
+3   AI buildout        Real investment: intellectual property products (total)   2026 Q2  1760.50    8.63    9.20       Q/Q SAAR (BEA)     NaN          %      8.36
+4   AI buildout                   Real nonresidential fixed investment (total)   2026 Q2  3985.70    6.16    9.00       Q/Q SAAR (BEA)     NaN          %      4.27
+5   AI buildout                    Data center construction spending (nominal)  Aug 2026    85.00   64.67  163.93           3m/3m ann.  138.77          %     33.35
+6   AI buildout   Data centers as share of private nonresidential construction  Aug 2026    11.00    4.70    2.22          3-mo change     NaN         pp       NaN
+7   AI buildout             Core capital goods orders (nondefense ex aircraft)  Aug 2026    87.60   14.11   15.63           3m/3m ann.   20.39          %      1.57
+8   AI buildout          Core capital goods shipments (nondefense ex aircraft)  Aug 2026    85.00   11.34   16.10           3m/3m ann.    6.64          %      0.79
+9   AI buildout                     Computer & electronic products: new orders  Aug 2026    30.90   16.55   13.75           3m/3m ann.   -0.19          %      3.20
+10  AI buildout                      Computer & electronic products: shipments  Aug 2026    34.20    8.11   10.13           3m/3m ann.    0.11          %      1.89
+11  AI buildout  Industrial production: semiconductors & electronic components  Aug 2026   190.10   12.35   27.34           3m/3m ann.   -1.02          %      7.53
+12  AI buildout                  Hyperscaler cash capex (MSFT+GOOGL+AMZN+META)   2026 Q2   165.00   87.03   75.29  Trailing-4Q sum YoY     NaN          %       NaN
+13  AI buildout                                           Microsoft cash capex   2026 Q2    35.80  109.63     NaN                          NaN          %       NaN
+14  AI buildout                                            Alphabet cash capex   2026 Q2    44.90  100.14     NaN                          NaN          %       NaN
+15  AI buildout                                              Amazon cash capex   2026 Q2    54.20   68.44     NaN                          NaN          %       NaN
+16  AI buildout                                                Meta cash capex   2026 Q2    30.10   82.10     NaN                          NaN          %       NaN
+17     Consumer                            Real consumer spending (PCE), total  Aug 2026    17.00    2.57    3.93           3m/3m ann.    6.81          %      2.50
+18     Consumer                                                Real PCE: goods  Aug 2026     5.80    2.74    3.62           3m/3m ann.   17.24          %      3.71
+19     Consumer                                             Real PCE: services  Aug 2026    11.20    2.50    4.06           3m/3m ann.    2.42          %      1.94
+20     Consumer                                Real disposable personal income  Aug 2026    18.40    1.30    2.64           3m/3m ann.   -0.32          %      2.94
+21     Consumer                                           Personal saving rate  Aug 2026     4.10   -1.10   -0.30          3-mo change   -0.50         pp      6.21
+22     Consumer               Gasoline & other energy goods, share of spending  Aug 2026     2.26    0.32   -0.17          3-mo change    0.07         pp      2.44
+23     Consumer                         Retail & food services sales (nominal)  Aug 2026   737.80    5.36    4.71           3m/3m ann.   14.40          %      3.72
+24     Consumer                                 Retail control group (nominal)  Aug 2026   399.40    4.49    4.48           3m/3m ann.   15.73          %      3.64
+25     Consumer                               Gasoline station sales (nominal)  Aug 2026    63.40   20.94   -5.15           3m/3m ann.   41.95          %      3.32
+26     Consumer                          Revolving consumer credit outstanding  Jul 2026     1.40    3.58    4.47           3m/3m ann.    2.51          %      4.46
+27     Consumer                        Household net worth / disposable income   2026 Q2   828.00   59.40   47.13           Q/Q change     NaN         pp    682.39
+28     Consumer       Michigan consumer sentiment (rank: #2 lowest since 1952)  Sep 2026    48.10   -7.00   -1.40          3-mo change   -3.60  index pts     95.74
+29     Consumer      Michigan: current conditions (rank: #4 lowest since 1951)  Sep 2026    50.90   -9.50    3.20          3-mo change   -1.00  index pts    111.30
+30     Consumer            Michigan: expectations (rank: #6 lowest since 1951)  Sep 2026    46.30   -5.40   -4.40          3-mo change   -5.20  index pts     85.74
+31     Consumer                                    Conference Board confidence  Sep 2026    81.90  -12.30  -10.30          3-mo change   -6.70  index pts       NaN
+32     Consumer                                  Conference Board expectations  Sep 2026    63.60   -9.80  -11.10          3-mo change   -5.90  index pts       NaN
+33     Consumer                             Conference Board present situation  Sep 2026   109.30  -16.10   -9.20          3-mo change   -7.90  index pts       NaN
+saved

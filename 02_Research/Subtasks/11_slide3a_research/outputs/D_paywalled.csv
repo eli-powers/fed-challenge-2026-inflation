@@ -1,0 +1,3 @@
+source,url,status,what_was_needed,workaround
+"UMich, Current versus Pre-Pandemic Long-Run Inflation Expectations (Oct 25, 2024)",not located,not found by search (not paywalled),"Pre-pandemic web-basis levels to size the phone-to-web mode effect","Used the Jun 27, 2025 update (px5web202506.pdf), which states the web-basis mid-2022 peak equals Jun 2025 median 4.0; size of the mode effect left unverified"
+"UMich px5web202506.pdf via WebFetch",https://www.sca.isr.umich.edu/files/px5web202506.pdf,WebFetch could not decode text; binary saved and extracted locally with pypdf,Text of the update,Saved to 03_Data/Raw/S3A_D_michigan_mode_2026-11-15/umich_px5web202506.pdf

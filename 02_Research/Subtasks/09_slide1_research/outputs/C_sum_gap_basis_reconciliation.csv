@@ -1,0 +1,5 @@
+period,basis,horizon,sum_value,published,gap_pp
+2026-09,pipeline workbook Sep sum (components.csv contrib_3m_ann_calc after fix_3m; 149 leaves),3m_ann,3.1707,2.9025,0.2681
+2026-09,pipeline workbook Sep sum (components.csv contrib_12m_calc; 149 leaves),12m,3.1839,3.1212,0.0627
+2026-10,"October tab sum (W_pce_oct_tab_lines.csv c3_c, individually annualized; 184 sub-lines)",3m_ann,3.7795,3.5508,0.2287
+2026-10,October tab sum (W_pce_oct_tab_lines.csv c12_c; 184 sub-lines),12m,3.3055,3.2424,0.063

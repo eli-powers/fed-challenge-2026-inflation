@@ -1,0 +1,4 @@
+series,month,used,raw_json,file
+PCUAWHLTRAWHLTR,2026-10,223.337,223.337,03_Data/Raw/BLS_PPI_io_inputs_2026-11-17/bls_api_pcu_io_inputs_2016_2026_batch6_2026-11-17.json
+PCU32411-32411-,2025-10,288.364,288.364,03_Data/Raw/BLS_PPI_io_inputs_2026-11-17/bls_api_pcu_io_inputs_2016_2026_batch2_2026-11-17.json
+PCU33331-33331-,2019-06,125.8,125.8,03_Data/Raw/BLS_PPI_io_inputs_2026-11-17/bls_api_pcu_io_inputs_2016_2026_batch3_2026-11-17.json

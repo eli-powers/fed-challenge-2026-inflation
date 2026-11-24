@@ -1,0 +1,179 @@
+dallas_rank,dallas_component,BEA_line,BEA_series,BEA_description,match_note,source_ids
+1,"Video discs, tapes, and permanent digital downloads",46,DOVERG,"Video discs, tapes, and permanent digital downloads",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+2,Household linens,134,DLINRG,Household linens,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+3,Film and photographic supplies,130,DFLMRG,Film and photographic supplies,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+4,"Moving, storage, and freight services",329,DMSERG,"Moving, storage, and freight services",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+5,Fresh milk,86,DMILRG,Fresh milk,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+6,Televisions,41,DTVSRG,Televisions,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+7,Window coverings,28,DWCTRG,Window coverings,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+8,Household paper products,133,DPAPRG,Household paper products,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+9,Eggs,88,DGGSRG,Eggs,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+10,Prescription drugs,123,DRXDRG,Prescription drugs,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+11,Beef and veal,80,DBEERG,Beef and veal,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+12,Pork,81,DPORRG,Pork,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+13,Professional association dues,305,DAXSRG,Professional association dues,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+14,Legal services,299,DGALRG,Legal services,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+15,Cosmetic / perfumes / bath / nail preparations and implements,139,DCOSRG,Cosmetic / perfumes / bath / nail preparations and implements,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+16,Women's and girls' clothing,106,DWGCRG,Women's and girls' clothing (10),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+17,Furniture,25,DFNRRG,Furniture,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+18,"Live entertainment, excluding sports",215,DLIGRG,"Live entertainment, excluding sports",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+19,Motion picture theaters,214,DMOVRG,Motion picture theaters,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+20,Museums and libraries,217,DMUSRG,Museums and libraries,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+21,Accessories and parts,22,DPAARG,Accessories and parts,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+22,Small electric household appliances,31,DSEARG,Small electric household appliances,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+23,Carpets and other floor coverings,27,DFLRRG,Carpets and other floor coverings,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+24,Veterinary and other services for pets,231,DVETRG,Veterinary and other services for pets,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+25,Other meats,82,DMEARG,Other meats,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+26,"Food products, not elsewhere classified",95,DOFDRG,"Food products, not elsewhere classified",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+27,Child care,316,DCHCRG,Child care,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+28,Day care and nursery schools,296,DNSCRG,Day care and nursery schools,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+29,Communication,281,DCOMRG,Communication,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+30,Processed dairy products,87,DDAIRG,Processed dairy products,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+31,"Tools, hardware, and supplies",36,DHDWRG,"Tools, hardware, and supplies",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+32,Natural gas,171,DGHERG,Natural gas (28),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+33,Clothing materials,110,DCSMRG,Clothing materials,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+34,Sewing items,135,DSEWRG,Sewing items,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+35,Pets and related products,128,DPRPRG,Pets and related products,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+36,Employment agency services,302,DGENRG,Employment agency services,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+37,Spirits,100,DLIQRG,Spirits,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+38,Household cleaning products,132,DCLERG,Household cleaning products,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+39,Fats and oils,89,DFATRG,Fats and oils,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+40,"Sporting equipment, supplies, guns, and ammunition",52,DSPGRG,"Sporting equipment, supplies, guns, and ammunition (part of 80)",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+41,Paramedical services,176,DPMSRG,Paramedical services (46),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+42,Final consumption expenditures of nonprofit institutions serving households,342,DNPIRG,Final consumption expenditures of nonprofit institutions serving households (NPISHs) (132),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+43,Alcohol in purchased meals,245,DAPMRG,Alcohol in purchased meals,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+44,Net motor vehicle and other transportation insurance,279,DTINRG,Net motor vehicle and other transportation insurance (116),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+45,Major household appliances,30,DMHARG,Major household appliances,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+46,Bakery products,78,DBAKRG,Bakery products,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+47,Photographic equipment,47,DCAMRG,Photographic equipment,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+48,Beer,102,DMLTRG,Beer,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+49,Commercial banks,255,DIMCRG,Commercial banks,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+50,Motorcycles,54,DMCYRG,Motorcycles,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+51,Food produced and consumed on farms,103,DFFDRG,Food produced and consumed on farms (6),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+52,Sugar and sweets,94,DSWERG,Sugar and sweets,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+53,Corrective eyeglasses and contact lenses,68,DEYERG,Corrective eyeglasses and contact lenses,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+54,Physician services,174,DPHYRG,Physician services (44),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+55,Standard clothing issued to military personnel,111,DMICRG,Standard clothing issued to military personnel,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+56,Luggage and similar personal items,70,DLUGRG,Luggage and similar personal items (part of 119),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+57,Fish and seafood,84,DFISRG,Fish and seafood,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+58,Funeral and burial services,306,DFUNRG,Funeral and burial services,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+59,Vegetables (fresh),92,DVEGRG,Vegetables (fresh),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+60,Parking fees and tolls,198,DPFTRG,Parking fees and tolls,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+61,Life insurance,271,DLIFRG,Life insurance (110),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+62,Educational books,69,DEBKRG,Educational books (96),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+63,Net household insurance,272,DFINRG,Net household insurance (111),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+64,Other fuels,119,DLPFRG,Other fuels,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+65,Wine,101,DWINRG,Wine,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+66,New light trucks,9,DNWTRG,New light trucks,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+67,Water supply and sewage maintenance,167,DWSMRG,Water supply and sewage maintenance,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+68,Religious organizations' services to households,325,DRELRG,Religious organizations' services to households,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+69,Proprietary hospitals,185,DFPHRG,Proprietary hospitals,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+70,Nonprofit hospitals' services to households,184,DNPHRG,Nonprofit hospitals' services to households,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+71,Government hospitals,186,DGVHRG,Government hospitals,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+72,Other purchased meals,241,DOPMRG,Other purchased meals,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+73,Tenant-occupied stationary homes and landlord durables,156,IA000629,Tenant-occupied stationary homes and landlord durables,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+74,Tenant-occupied mobile homes,155,DTMHRG,Tenant-occupied mobile homes,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+75,Group housing,164,DGRHRG,Group housing (23),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+76,Electricity,170,DELCRG,Electricity (27),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+77,Net health insurance,275,DHINRG,Net health insurance (112),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+78,"Audio discs, tapes, vinyl, and permanent digital downloads",45,DRTDRG,"Audio discs, tapes, vinyl, and permanent digital downloads",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+79,Labor organization dues,304,DUNSRG,Labor organization dues,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+80,Motor vehicle leasing,194,DMVLRG,Motor vehicle leasing,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+81,Other personal business services,303,DTHERG,Other personal business services,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+82,Garbage and trash collection,168,DREFRG,Garbage and trash collection,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+83,Food supplied to military,248,DMFDRG,Food supplied to military,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+84,Higher education school lunches,240,DHSLRG,Higher education school lunches,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+85,Food supplied to civilians,247,DCFDRG,Food supplied to civilians,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+86,Computer software and accessories,50,DCPSRG,Computer software and accessories,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+87,Commercial and vocational schools,297,DVEDRG,Commercial and vocational schools (99),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+88,"Audio-video, photographic, and information processing equipment services",218,DAVPRG,"Audio-video, photographic, and information processing equipment services (parts of 77 and 93)",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+89,Owner-occupied stationary homes,162,DOSTRG,Owner-occupied stationary homes,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+90,Owner-occupied mobile homes,161,DOMHRG,Owner-occupied mobile homes,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+91,Rental value of farm dwellings,163,DFARRG,Rental value of farm dwellings (22),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+92,Other depository institutions and regulated investment companies,256,DIMNRG,Other depository institutions and regulated investment companies,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+93,Nursing homes,187,DNRSRG,Nursing homes (52),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+94,Repair of household appliances,331,DERERG,Repair of household appliances,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+95,"Repair of furniture, furnishings, and floor coverings",330,DFRERG,"Repair of furniture, furnishings, and floor coverings",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+96,New foreign autos,8,DNFCRG,New foreign autos,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+97,New domestic autos,7,DNDCRG,New domestic autos,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+98,Therapeutic medical equipment,67,DTMERG,Therapeutic medical equipment,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+99,Other medical products,125,DOMPRG,Other medical products,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+100,Social assistance,317,DSCWRG,Social assistance,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+101,Housing at schools,251,DSCHRG,Housing at schools,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+102,Watches,65,DWTCRG,Watches,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+103,Social advocacy and civic and social organizations,324,DSADRG,Social advocacy and civic and social organizations,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+104,Maintenance and repair of recreational vehicles and sports equipment,233,DRRERG,Maintenance and repair of recreational vehicles and sports equipment,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+105,Tires,21,DTATRG,Tires,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+106,Pension funds,257,DPENRG,Pension funds,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+107,Hairdressing salons and personal grooming establishments,309,DBBBRG,Hairdressing salons and personal grooming establishments,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+108,Dental services,175,DDENRG,Dental services (45),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+109,Elementary and secondary school lunches,239,DESLRG,Elementary and secondary school lunches,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+110,Elementary and secondary schools,295,DESCRG,Elementary and secondary schools,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+111,Laundry and drycleaning services,312,DDRYRG,Laundry and drycleaning services,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+112,"Coffee, tea, and other beverage materials",97,DCTMRG,"Coffee, tea, and other beverage materials",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+113,Used autos,13,DNPURG,Used autos,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+114,Processed fruits and vegetables,93,DPFVRG,Processed fruits and vegetables,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+115,Shoes and other footwear,112,DSHURG,Shoes and other footwear,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+116,"Calculators, typewriters, and other information processing equipment",51,DOIPRG,"Calculators, typewriters, and other information processing equipment",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+117,Telephone and related communication equipment,71,DTCERG,Telephone and related communication equipment,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+118,Recreational books,60,DRBKRG,Recreational books (part of 90),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+119,Miscellaneous household products,136,DMHPRG,Miscellaneous household products,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+120,Outdoor equipment and supplies,37,DLWNRG,Outdoor equipment and supplies,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+121,Casino gambling,227,DCASRG,Casino gambling,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+122,Lotteries,228,DLOTRG,Lotteries,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+123,Pari-mutuel net receipts,229,DPARRG,Pari-mutuel net receipts,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+124,Used light trucks,17,DUTRRG,Used light trucks,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+125,Motor vehicle maintenance and repair,192,DVMRRG,Motor vehicle maintenance and repair (60),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+126,Tobacco,141,DTOBRG,Tobacco (127),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+127,Poultry,83,DPOURG,Poultry,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+128,Membership clubs and participant sports centers,211,DMDFRG,Membership clubs and participant sports centers,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+129,"Amusement parks, campgrounds, and related recreational services",212,DORSRG,"Amusement parks, campgrounds, and related recreational services",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+130,Package tours,232,DHOLRG,Package tours,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+131,Cereals,77,DGRARG,Cereals,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+132,Fruit (fresh),91,DFRURG,Fruit (fresh),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+133,"Financial service charges, fees, and commissions",258,DOFIRG,"Financial service charges, fees, and commissions (108)",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+134,Electric appliances for personal care,140,DEAPRG,Electric appliances for personal care,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+135,"Hair, dental, shaving, and miscellaneous personal care products except electrical products",138,DOPHRG,"Hair, dental, shaving, and miscellaneous personal care products except electrical products",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+136,Foundations and grantmaking and giving services to households,326,DGIVRG,Foundations and grantmaking and giving services to households,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+137,Other household services,332,DMHSRG,Other household services,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+138,Dishes and flatware,33,DCHNRG,Dishes and flatware,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+139,Other recreational vehicles,59,DREVRG,Other recreational vehicles,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+140,Pleasure aircraft,58,DAIRRG,Pleasure aircraft,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+141,Pleasure boats,57,DBOARG,Pleasure boats,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+142,Bicycles and accessories,55,DBCYRG,Bicycles and accessories,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+143,"Clothing repair, rental, and alterations",313,DLGRRG,"Clothing repair, rental, and alterations",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+144,Miscellaneous personal care services,310,DMPCRG,Miscellaneous personal care services,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+145,Repair and hire of footwear,314,DSCLRG,Repair and hire of footwear,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+146,Lubricants and fluids,116,DLUBRG,Lubricants and fluids,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+147,Musical instruments,61,DMSCRG,Musical instruments (part of 80),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+148,Tax preparation and other related services,301,DTAPRG,Tax preparation and other related services,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+149,"Mineral waters, soft drinks, and vegetable juices",98,DJNBRG,"Mineral waters, soft drinks, and vegetable juices",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+150,Men's and boys' clothing,107,DMBCRG,Men's and boys' clothing (11),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+151,Domestic services,328,DDMSRG,Domestic services,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+152,Nonprofit private higher education services to households,293,DPEDRG,Nonprofit private higher education services to households,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+153,Proprietary and public higher education,292,DGEDRG,Proprietary and public higher education,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+154,"Flowers, seeds, and potted plants",129,DFLORG,"Flowers, seeds, and potted plants",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+155,Nonprescription drugs,124,DNRDRG,Nonprescription drugs,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+156,Audio equipment,43,DAUDRG,Audio equipment,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+157,Personal computers/tablets and peripheral equipment,49,DCPPRG,Personal computers/tablets and peripheral equipment,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+158,Intercity buses,203,DIBURG,Intercity buses,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+159,Water transportation,208,DWATRG,Water transportation (65),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+160,Railway transportation,201,DIRRRG,Railway transportation,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+161,Other road transportation service,206,DORTRG,Other road transportation service,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+162,Nonelectric cookware and tableware,34,DNECRG,Nonelectric cookware and tableware,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+163,Jewelry,64,DJLYRG,Jewelry,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+164,Spectator sports,216,DSPERG,Spectator sports,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+165,"Clocks, lamps, lighting fixtures, and other household decorative items",26,DCLFRG,"Clocks, lamps, lighting fixtures, and other household decorative items",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+166,Taxicabs and ride sharing services,204,DTAXRG,Taxicabs and ride sharing services,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+167,Intracity mass transit,205,DIMTRG,Intracity mass transit,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+168,Children's and infants' clothing,108,DCICRG,Children's and infants' clothing (12),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+169,Hotels and motels,250,DHOTRG,Hotels and motels,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+170,Stationery and miscellaneous printed materials,144,DSTYRG,Stationery and miscellaneous printed materials,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+171,Newspapers and periodicals,143,DMAGRG,Newspapers and periodicals,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+172,"Games, toys, and hobbies",127,DDOLRG,"Games, toys, and hobbies",exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+173,Air transportation,207,DAITRG,Air transportation (64),exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+174,Other video equipment,42,DOVARG,Other video equipment,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+175,Motor vehicle rental,197,DMVRRG,Motor vehicle rental,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+176,Gasoline and other motor fuel,115,DGASRG,Gasoline and other motor fuel,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+177,Fuel oil,118,DOILRG,Fuel oil,exact normalized description match,Dallas technical note/current underlying detail; BEA U20404/U20405
+N/A,N/A: legacy technical-note entry not in current 177-row Dallas workbook,N/A,N/A,N/A,N/A: entry name not present in current source workbook; exact description mapping impossible,Dallas technical note/current underlying detail; BEA U20404/U20405

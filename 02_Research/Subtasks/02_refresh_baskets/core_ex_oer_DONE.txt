@@ -1,0 +1,21 @@
+core_ex_oer.py done on new BEA vintage 2026-11-10 (BEA data through 2026-09; Sep PCE release of Oct 29, 2026, retrieved via BEA API Nov 10).
+
+Command (from project root): python3 -I "03_Data/pipelines/Price indexes/code/core_ex_oer.py" 2026-11-10
+
+Inputs (03_Data/pipelines/Price indexes/PCE/raw/):
+  BEA_NIUnderlyingDetail_U20404_2026-11-10.json
+  BEA_NIUnderlyingDetail_U20405_2026-11-10.json
+  BEA_NIPA_T20804_2026-11-10.json
+
+Outputs (03_Data/pipelines/Price indexes/Cross-index analysis/processed/):
+  core_pce_ex_oer_2026-11-10.csv          <- inflation workbook derived row reads this
+  core_pce_ex_oer_summary_2026-11-10.csv
+
+Latest month: 2026-09 (same as published core PCE line 374).
+Validation (12m / 6m ann / 3m ann / m/m, %):
+  derived 376 minus 153:          3.595 / 3.427 / 3.366 / 0.366
+  published supercore T20804 l28: 3.596 / 3.429 / 3.369 / 0.367
+  -> matches within 0.003 pp (same tolerance pattern as prior vintage; see notes.md)
+
+Core PCE ex OER (derived 374 minus 160), 2026-09: 12m 3.100; 6m ann 2.791; 3m ann 2.854; m/m 0.313
+Core PCE (published line 374), 2026-09:          12m 3.121; 6m ann 2.923; 3m ann 2.903; m/m 0.317

@@ -1,0 +1,8 @@
+Inflation Slide 2A build check, 2026-11-15T20:07:36
+1. workbook formula cells: 23 checked after LibreOffice recalc; mismatches: 0 []
+2. recompute vs audited research outputs: categories (H_oct_drivers_categories.csv) max diff 0.0e+00; shock groups (G_excess_path.csv, 4 dp) max diff 4.9e-05
+3. chart points vs workbook chart tabs: 15 points; max abs diff 9.4e-16; series order ['Mar 2025', 'Oct 2026']
+4. y-axis -0.20 to 0.80 step 0.20; data min -0.0084, max 0.7627; fits: True
+5. chart XML: invertIfNegative=0 on all bar series and asterisk number format present: True
+6. deck: 4 slides (3 kept + 2A); earlier slide/chart/embedding parts changed: none; missing: none; duplicate zip entries: none
+RESULT: PASS

@@ -1,0 +1,28 @@
+series_id,bls_title_full,family,note
+WPSID51,"PPI Commodity data for Intermediate demand by production flow-Stage 1 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,STAGE 1 (production flow)
+WPSID52,"PPI Commodity data for Intermediate demand by production flow-Stage 2 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,STAGE 2 (production flow)
+WPSID53,"PPI Commodity data for Intermediate demand by production flow-Stage 3 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,STAGE 3 (production flow)
+WPSID54,"PPI Commodity data for Intermediate demand by production flow-Stage 4 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,STAGE 4 (production flow)
+WPSFD4,"PPI Commodity data for Final demand, seasonally adjusted",final_demand,
+WPSID61,"PPI Commodity data for Intermediate demand by commodity type-Processed goods for intermediate demand, seasonally adjusted",intermediate_demand_by_commodity_type,COMMODITY-TYPE: processed goods for intermediate demand (NOT stage 1)
+WPSID62,"PPI Commodity data for Intermediate demand by commodity type-Unprocessed goods for intermediate demand, seasonally adjusted",intermediate_demand_by_commodity_type,COMMODITY-TYPE: UNPROCESSED goods for intermediate demand (NOT stage 2; not 'processed')
+WPSID63,"PPI Commodity data for Intermediate demand by commodity type-Services for intermediate demand, seasonally adjusted",intermediate_demand_by_commodity_type,COMMODITY-TYPE: services for intermediate demand (NOT stage 3)
+WPSID64,"PPI Commodity data for Intermediate demand by commodity type-Construction for intermediate demand, seasonally adjusted",intermediate_demand_by_commodity_type,COMMODITY-TYPE: construction for intermediate demand (NOT stage 4)
+WPSID511,"PPI Commodity data for Intermediate demand by production flow-Inputs to stage 1 goods producers, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID512,"PPI Commodity data for Intermediate demand by production flow-Inputs to stage 1 services producers, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID513,"PPI Commodity data for Intermediate demand by production flow-Inputs to stage 1 construction producers, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID521,"PPI Commodity data for Intermediate demand by production flow-Inputs to stage 2 goods producers, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID522,"PPI Commodity data for Intermediate demand by production flow-Inputs to stage 2 services producers, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID59115,"PPI Commodity data for Intermediate demand by production flow-Total energy goods inputs to stage 1 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID59215,"PPI Commodity data for Intermediate demand by production flow-Total energy goods inputs to stage 2 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID59315,"PPI Commodity data for Intermediate demand by production flow-Total energy goods inputs to stage 3 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID59415,"PPI Commodity data for Intermediate demand by production flow-Total energy goods inputs to stage 4 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID59111,"PPI Commodity data for Intermediate demand by production flow-Total goods inputs to stage 1 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID59112,"PPI Commodity data for Intermediate demand by production flow-Total services inputs to stage 1 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID59211,"PPI Commodity data for Intermediate demand by production flow-Total goods inputs to stage 2 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID59212,"PPI Commodity data for Intermediate demand by production flow-Total services inputs to stage 2 intermediate demand, seasonally adjusted",intermediate_demand_by_production_flow,
+WPSID6222,"PPI Commodity data for Intermediate demand by commodity type-Unprocessed fuel, seasonally adjusted",intermediate_demand_by_commodity_type,
+WPSID622,"PPI Commodity data for Intermediate demand by commodity type-Unprocessed nonfood materials, seasonally adjusted",intermediate_demand_by_commodity_type,
+WPSID69113,"PPI Commodity data for Intermediate demand by commodity type-Processed energy goods, seasonally adjusted",intermediate_demand_by_commodity_type,
+WPSID69212,"PPI Commodity data for Intermediate demand by commodity type-Unprocessed energy materials, seasonally adjusted",intermediate_demand_by_commodity_type,
+WPSID613,"PPI Commodity data for Intermediate demand by commodity type-Processed fuels and lubricants for intermediate demand, seasonally adjusted",intermediate_demand_by_commodity_type,

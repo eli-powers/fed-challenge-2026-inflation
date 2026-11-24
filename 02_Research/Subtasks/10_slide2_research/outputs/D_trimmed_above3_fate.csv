@@ -1,0 +1,13 @@
+grp,trim_status,share_of_leaf_months_weighted
+core leaves <=3% at 12m (Sep),boundary,0.0238
+core leaves <=3% at 12m (Sep),cut_bottom,0.3492
+core leaves <=3% at 12m (Sep),cut_top,0.2151
+core leaves <=3% at 12m (Sep),included,0.4119
+core leaves >3% at 12m (Sep),boundary,0.0576
+core leaves >3% at 12m (Sep),cut_bottom,0.1192
+core leaves >3% at 12m (Sep),cut_top,0.3279
+core leaves >3% at 12m (Sep),included,0.4954
+core leaves <=3% at 12m (Sep),"avg m/m all months, annualized x12 (%)",0.5299
+core leaves <=3% at 12m (Sep),"avg m/m kept months only, annualized x12 (%)",1.5251
+core leaves >3% at 12m (Sep),"avg m/m all months, annualized x12 (%)",4.8038
+core leaves >3% at 12m (Sep),"avg m/m kept months only, annualized x12 (%)",2.6475

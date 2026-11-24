@@ -1,0 +1,2 @@
+LibreOffice recalculation check, 2026-11-15T15:21:54
+formula cells checked: 7497; mismatches > 1e-6: 0; error values: 0

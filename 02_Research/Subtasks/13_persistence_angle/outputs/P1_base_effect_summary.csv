@@ -1,0 +1,25 @@
+measure,last_month,last_12m,scenario,assumed_mm,assumed_ann,twelve_m_Jan2027,twelve_m_Mar2027
+Core PCE,2026-10,3.242,2% pace (0.165 m/m),0.1652,2.0,2.861,2.593
+Core PCE,2026-10,3.242,2018-19 avg m/m,0.148,1.79,2.808,2.506
+Core PCE,2026-10,3.242,last 6m avg m/m,0.2424,2.95,3.099,2.989
+Core PCE,2026-10,3.242,last 3m avg m/m,0.2912,3.55,3.25,3.24
+Market-based core PCE,2026-09,3.118,2% pace (0.165 m/m),0.1652,2.0,2.753,2.424
+Market-based core PCE,2026-09,3.118,2018-19 avg m/m,0.1346,1.63,2.628,2.237
+Market-based core PCE,2026-09,3.118,last 6m avg m/m,0.2345,2.85,3.038,2.85
+Market-based core PCE,2026-09,3.118,last 3m avg m/m,0.2414,2.94,3.066,2.893
+Supercore (services ex energy & housing),2026-10,3.598,2% pace (0.165 m/m),0.1652,2.0,3.035,2.818
+Supercore (services ex energy & housing),2026-10,3.598,2018-19 avg m/m,0.1859,2.25,3.099,2.924
+Supercore (services ex energy & housing),2026-10,3.598,last 6m avg m/m,0.2847,3.47,3.405,3.433
+Supercore (services ex energy & housing),2026-10,3.598,last 3m avg m/m,0.336,4.11,3.563,3.698
+Dallas trimmed mean PCE,2026-09,2.258,2% pace (0.165 m/m),0.1652,2.0,2.251,2.21
+Dallas trimmed mean PCE,2026-09,2.258,2018-19 avg m/m,0.1611,1.95,2.235,2.185
+Dallas trimmed mean PCE,2026-09,2.258,last 6m avg m/m,0.1994,2.42,2.391,2.42
+Dallas trimmed mean PCE,2026-09,2.258,last 3m avg m/m,0.1869,2.27,2.34,2.343
+Cleveland median PCE,2026-09,2.666,2% pace (0.165 m/m),0.1652,2.0,2.512,2.377
+Cleveland median PCE,2026-09,2.666,2018-19 avg m/m,0.2008,2.44,2.658,2.596
+Cleveland median PCE,2026-09,2.666,last 6m avg m/m,0.2268,2.76,2.765,2.756
+Cleveland median PCE,2026-09,2.666,last 3m avg m/m,0.2265,2.75,2.763,2.754
+Logan measure (core svcs ex housing & transport),2026-10,3.241,2% pace (0.165 m/m),0.1652,2.0,2.679,2.581
+Logan measure (core svcs ex housing & transport),2026-10,3.241,2018-19 avg m/m,0.182,2.21,2.731,2.667
+Logan measure (core svcs ex housing & transport),2026-10,3.241,last 6m avg m/m,0.2475,3.01,2.933,3.003
+Logan measure (core svcs ex housing & transport),2026-10,3.241,last 3m avg m/m,0.2839,3.46,3.045,3.19

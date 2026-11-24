@@ -1,0 +1,181 @@
+spf_vintage,oil_path,oil_variant,is_central,regime,assumption_proxy,horizon,quarter,status,brent_usd,assumed_brent_usd,baseline_qq_ann,spf_median_qq_ann,oil_gap_pct,oil_gap_simple_pct,level_adj_pct,adj_qq_ann_pp,scenario_qq_ann,spf_published_q4q4
+2026Q3,P1,P1_steo_latest,False,pre,steo_previous,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P1,P1_steo_latest,False,pre,steo_previous,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P1,P1_steo_latest,False,pre,steo_previous,qq_ann,2026Q3,actual,96.299538,74.000000,2.467781,2.700000,26.339843,30.134511,0.051685,,2.467781,
+2026Q3,P1,P1_steo_latest,False,pre,steo_previous,qq_ann,2026Q4,forecast,108.246563,70.000000,2.615800,2.615800,43.591637,54.637946,0.101646,0.205274,2.821074,
+2026Q3,P1,P1_steo_latest,False,pre,steo_previous,qq_ann,2027Q1,forecast,95.000000,67.666667,2.576600,2.576600,33.928320,40.394089,0.104822,0.013035,2.589635,
+2026Q3,P1,P1_steo_latest,False,pre,steo_previous,qq_ann,2027Q2,forecast,89.000000,65.666667,2.431300,2.431300,30.404493,35.532995,0.079812,-0.102423,2.328877,
+2026Q3,P1,P1_steo_latest,False,pre,steo_previous,qq_ann,2027Q3,forecast,83.000000,64.000000,2.326100,2.326100,25.995752,29.687500,0.077163,-0.010843,2.315257,
+2026Q3,P1,P1_steo_latest,False,pre,steo_previous,qq_ann,2027Q4,forecast,77.000000,62.000000,2.267869,2.267869,21.667104,24.193548,0.092713,0.063630,2.331499,
+2026Q3,P1,P1_steo_latest,False,pre,steo_previous,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.101646,0.051513,3.133372,3.287600
+2026Q3,P1,P1_steo_latest,False,pre,steo_previous,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,-0.008933,-0.009147,2.391253,2.400400
+2026Q3,P1,P1_steo_latest,False,post,steo_previous,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P1,P1_steo_latest,False,post,steo_previous,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P1,P1_steo_latest,False,post,steo_previous,qq_ann,2026Q3,actual,96.299538,74.000000,2.467781,2.700000,26.339843,30.134511,0.048406,,2.467781,
+2026Q3,P1,P1_steo_latest,False,post,steo_previous,qq_ann,2026Q4,forecast,108.246563,70.000000,2.615800,2.615800,43.591637,54.637946,0.059414,0.045192,2.660992,
+2026Q3,P1,P1_steo_latest,False,post,steo_previous,qq_ann,2027Q1,forecast,95.000000,67.666667,2.576600,2.576600,33.928320,40.394089,0.169983,0.454678,3.031278,
+2026Q3,P1,P1_steo_latest,False,post,steo_previous,qq_ann,2027Q2,forecast,89.000000,65.666667,2.431300,2.431300,30.404493,35.532995,0.330382,0.659310,3.090610,
+2026Q3,P1,P1_steo_latest,False,post,steo_previous,qq_ann,2027Q3,forecast,83.000000,64.000000,2.326100,2.326100,25.995752,29.687500,0.567828,0.976507,3.302607,
+2026Q3,P1,P1_steo_latest,False,post,steo_previous,qq_ann,2027Q4,forecast,77.000000,62.000000,2.267869,2.267869,21.667104,24.193548,0.794953,0.933335,3.201204,
+2026Q3,P1,P1_steo_latest,False,post,steo_previous,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.059414,0.011348,3.093206,3.287600
+2026Q3,P1,P1_steo_latest,False,post,steo_previous,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.735539,0.755972,3.156372,2.400400
+2026Q3,P1,P1_steo_latest,False,persistence_only,steo_previous,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P1,P1_steo_latest,False,persistence_only,steo_previous,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P1,P1_steo_latest,False,persistence_only,steo_previous,qq_ann,2026Q3,actual,96.299538,74.000000,2.467781,2.700000,26.339843,30.134511,0.049606,,2.467781,
+2026Q3,P1,P1_steo_latest,False,persistence_only,steo_previous,qq_ann,2026Q4,forecast,108.246563,70.000000,2.615800,2.615800,43.591637,54.637946,0.102248,0.216303,2.832103,
+2026Q3,P1,P1_steo_latest,False,persistence_only,steo_previous,qq_ann,2027Q1,forecast,95.000000,67.666667,2.576600,2.576600,33.928320,40.394089,0.126424,0.099246,2.675846,
+2026Q3,P1,P1_steo_latest,False,persistence_only,steo_previous,qq_ann,2027Q2,forecast,89.000000,65.666667,2.431300,2.431300,30.404493,35.532995,0.134820,0.034406,2.465706,
+2026Q3,P1,P1_steo_latest,False,persistence_only,steo_previous,qq_ann,2027Q3,forecast,83.000000,64.000000,2.326100,2.326100,25.995752,29.687500,0.162043,0.111483,2.437583,
+2026Q3,P1,P1_steo_latest,False,persistence_only,steo_previous,qq_ann,2027Q4,forecast,77.000000,62.000000,2.267869,2.267869,21.667104,24.193548,0.193928,0.130519,2.398387,
+2026Q3,P1,P1_steo_latest,False,persistence_only,steo_previous,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.102248,0.054279,3.136137,3.287600
+2026Q3,P1,P1_steo_latest,False,persistence_only,steo_previous,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.091681,0.093924,2.494324,2.400400
+2026Q3,P2,P2_110_flat,False,pre,steo_previous,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P2,P2_110_flat,False,pre,steo_previous,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P2,P2_110_flat,False,pre,steo_previous,qq_ann,2026Q3,actual,96.299538,74.000000,2.467781,2.700000,26.339843,30.134511,0.051685,,2.467781,
+2026Q3,P2,P2_110_flat,False,pre,steo_previous,qq_ann,2026Q4,forecast,113.152813,70.000000,2.615800,2.615800,48.024399,61.646875,0.110344,0.241055,2.856855,
+2026Q3,P2,P2_110_flat,False,pre,steo_previous,qq_ann,2027Q1,forecast,110.000000,67.666667,2.576600,2.576600,48.588668,62.561576,0.136300,0.106557,2.683157,
+2026Q3,P2,P2_110_flat,False,pre,steo_previous,qq_ann,2027Q2,forecast,110.000000,65.666667,2.431300,2.431300,51.588893,67.512690,0.132296,-0.016404,2.414896,
+2026Q3,P2,P2_110_flat,False,pre,steo_previous,qq_ann,2027Q3,forecast,110.000000,64.000000,2.326100,2.326100,54.159728,71.875000,0.148504,0.066360,2.392460,
+2026Q3,P2,P2_110_flat,False,pre,steo_previous,qq_ann,2027Q4,forecast,110.000000,62.000000,2.267869,2.267869,57.334598,77.419355,0.182505,0.139185,2.407054,
+2026Q3,P2,P2_110_flat,False,pre,steo_previous,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.110344,0.060484,3.142343,3.287600
+2026Q3,P2,P2_110_flat,False,pre,steo_previous,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.072162,0.073921,2.474321,2.400400
+2026Q3,P2,P2_110_flat,False,post,steo_previous,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P2,P2_110_flat,False,post,steo_previous,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P2,P2_110_flat,False,post,steo_previous,qq_ann,2026Q3,actual,96.299538,74.000000,2.467781,2.700000,26.339843,30.134511,0.048406,,2.467781,
+2026Q3,P2,P2_110_flat,False,post,steo_previous,qq_ann,2026Q4,forecast,113.152813,70.000000,2.615800,2.615800,48.024399,61.646875,0.067560,0.078650,2.694450,
+2026Q3,P2,P2_110_flat,False,post,steo_previous,qq_ann,2027Q1,forecast,110.000000,67.666667,2.576600,2.576600,48.588668,62.561576,0.193442,0.517805,3.094405,
+2026Q3,P2,P2_110_flat,False,post,steo_previous,qq_ann,2027Q2,forecast,110.000000,65.666667,2.431300,2.431300,51.588893,67.512690,0.381672,0.774138,3.205438,
+2026Q3,P2,P2_110_flat,False,post,steo_previous,qq_ann,2027Q3,forecast,110.000000,64.000000,2.326100,2.326100,54.159728,71.875000,0.693078,1.282568,3.608668,
+2026Q3,P2,P2_110_flat,False,post,steo_previous,qq_ann,2027Q4,forecast,110.000000,62.000000,2.267869,2.267869,57.334598,77.419355,1.031719,1.394708,3.662577,
+2026Q3,P2,P2_110_flat,False,post,steo_previous,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.067560,0.019746,3.101605,3.287600
+2026Q3,P2,P2_110_flat,False,post,steo_previous,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.964159,0.992077,3.392477,2.400400
+2026Q3,P2,P2_110_flat,False,persistence_only,steo_previous,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P2,P2_110_flat,False,persistence_only,steo_previous,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P2,P2_110_flat,False,persistence_only,steo_previous,qq_ann,2026Q3,actual,96.299538,74.000000,2.467781,2.700000,26.339843,30.134511,0.049606,,2.467781,
+2026Q3,P2,P2_110_flat,False,persistence_only,steo_previous,qq_ann,2026Q4,forecast,113.152813,70.000000,2.615800,2.615800,48.024399,61.646875,0.110596,0.250648,2.866448,
+2026Q3,P2,P2_110_flat,False,persistence_only,steo_previous,qq_ann,2027Q1,forecast,110.000000,67.666667,2.576600,2.576600,48.588668,62.561576,0.157425,0.192324,2.768924,
+2026Q3,P2,P2_110_flat,False,persistence_only,steo_previous,qq_ann,2027Q2,forecast,110.000000,65.666667,2.431300,2.431300,51.588893,67.512690,0.190843,0.137012,2.568312,
+2026Q3,P2,P2_110_flat,False,persistence_only,steo_previous,qq_ann,2027Q3,forecast,110.000000,64.000000,2.326100,2.326100,54.159728,71.875000,0.248088,0.234577,2.560677,
+2026Q3,P2,P2_110_flat,False,persistence_only,steo_previous,qq_ann,2027Q4,forecast,110.000000,62.000000,2.267869,2.267869,57.334598,77.419355,0.315828,0.277478,2.545347,
+2026Q3,P2,P2_110_flat,False,persistence_only,steo_previous,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.110596,0.062889,3.144747,3.287600
+2026Q3,P2,P2_110_flat,False,persistence_only,steo_previous,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.205232,0.210374,2.610774,2.400400
+2026Q3,P3,P3_feb26steo_plus25,False,pre,steo_previous,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,steo_previous,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,steo_previous,qq_ann,2026Q3,actual,96.299538,74.000000,2.467781,2.700000,26.339843,30.134511,0.051685,,2.467781,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,steo_previous,qq_ann,2026Q4,forecast,96.684063,70.000000,2.615800,2.615800,32.295333,38.120089,0.079479,0.114149,2.729949,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,steo_previous,qq_ann,2027Q1,forecast,78.000000,67.666667,2.576600,2.576600,14.211514,15.270936,0.059225,-0.083072,2.493528,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,steo_previous,qq_ann,2027Q2,forecast,78.000000,65.666667,2.431300,2.431300,17.211739,18.781726,0.036897,-0.091443,2.339857,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,steo_previous,qq_ann,2027Q3,forecast,78.000000,64.000000,2.326100,2.326100,19.782574,21.875000,0.056710,0.081128,2.407228,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,steo_previous,qq_ann,2027Q4,forecast,78.000000,62.000000,2.267869,2.267869,22.957444,25.806452,0.089568,0.134501,2.402370,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,steo_previous,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.079479,0.028655,3.110514,3.287600
+2026Q3,P3,P3_feb26steo_plus25,False,pre,steo_previous,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.010088,0.010331,2.410731,2.400400
+2026Q3,P3,P3_feb26steo_plus25,False,post,steo_previous,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P3,P3_feb26steo_plus25,False,post,steo_previous,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P3,P3_feb26steo_plus25,False,post,steo_previous,qq_ann,2026Q3,actual,96.299538,74.000000,2.467781,2.700000,26.339843,30.134511,0.048406,,2.467781,
+2026Q3,P3,P3_feb26steo_plus25,False,post,steo_previous,qq_ann,2026Q4,forecast,96.684063,70.000000,2.615800,2.615800,32.295333,38.120089,0.038654,-0.040021,2.575779,
+2026Q3,P3,P3_feb26steo_plus25,False,post,steo_previous,qq_ann,2027Q1,forecast,78.000000,67.666667,2.576600,2.576600,14.211514,15.270936,0.142625,0.427487,3.004087,
+2026Q3,P3,P3_feb26steo_plus25,False,post,steo_previous,qq_ann,2027Q2,forecast,78.000000,65.666667,2.431300,2.431300,17.211739,18.781726,0.260781,0.485261,2.916561,
+2026Q3,P3,P3_feb26steo_plus25,False,post,steo_previous,qq_ann,2027Q3,forecast,78.000000,64.000000,2.326100,2.326100,19.782574,21.875000,0.432112,0.703675,3.029775,
+2026Q3,P3,P3_feb26steo_plus25,False,post,steo_previous,qq_ann,2027Q4,forecast,78.000000,62.000000,2.267869,2.267869,22.957444,25.806452,0.573667,0.580703,2.848572,
+2026Q3,P3,P3_feb26steo_plus25,False,post,steo_previous,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.038654,-0.010052,3.071806,3.287600
+2026Q3,P3,P3_feb26steo_plus25,False,post,steo_previous,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.535013,0.549324,2.949724,2.400400
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,steo_previous,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,steo_previous,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,steo_previous,qq_ann,2026Q3,actual,96.299538,74.000000,2.467781,2.700000,26.339843,30.134511,0.049606,,2.467781,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,steo_previous,qq_ann,2026Q4,forecast,96.684063,70.000000,2.615800,2.615800,32.295333,38.120089,0.080973,0.128834,2.744634,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,steo_previous,qq_ann,2027Q1,forecast,78.000000,67.666667,2.576600,2.576600,14.211514,15.270936,0.080649,-0.001330,2.575270,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,steo_previous,qq_ann,2027Q2,forecast,78.000000,65.666667,2.431300,2.431300,17.211739,18.781726,0.082377,0.007079,2.438379,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,steo_previous,qq_ann,2027Q3,forecast,78.000000,64.000000,2.326100,2.326100,19.782574,21.875000,0.116986,0.141754,2.467854,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,steo_previous,qq_ann,2027Q4,forecast,78.000000,62.000000,2.267869,2.267869,22.957444,25.806452,0.154458,0.153404,2.421273,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,steo_previous,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.080973,0.032339,3.114198,3.287600
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,steo_previous,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.073485,0.075276,2.475676,2.400400
+2026Q3,P1,P1_steo_latest,False,pre,futures_hybrid,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P1,P1_steo_latest,False,pre,futures_hybrid,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P1,P1_steo_latest,False,pre,futures_hybrid,qq_ann,2026Q3,actual,96.299538,85.256667,2.467781,2.700000,12.179721,12.952502,0.023900,,2.467781,
+2026Q3,P1,P1_steo_latest,False,pre,futures_hybrid,qq_ann,2026Q4,forecast,108.246563,78.000000,2.615800,2.615800,32.770278,38.777644,0.071752,0.196604,2.812404,
+2026Q3,P1,P1_steo_latest,False,pre,futures_hybrid,qq_ann,2027Q1,forecast,95.000000,81.480000,2.576600,2.576600,15.351930,16.593029,0.055523,-0.066564,2.510036,
+2026Q3,P1,P1_steo_latest,False,pre,futures_hybrid,qq_ann,2027Q2,forecast,89.000000,78.720000,2.431300,2.431300,12.273912,13.058943,0.038745,-0.068721,2.362579,
+2026Q3,P1,P1_steo_latest,False,pre,futures_hybrid,qq_ann,2027Q3,forecast,83.000000,76.990000,2.326100,2.326100,7.516506,7.806209,0.016132,-0.092514,2.233586,
+2026Q3,P1,P1_steo_latest,False,pre,futures_hybrid,qq_ann,2027Q4,forecast,77.000000,75.760000,2.267869,2.267869,1.623497,1.636748,0.035254,0.078252,2.346121,
+2026Q3,P1,P1_steo_latest,False,pre,futures_hybrid,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.071752,0.049339,3.131197,3.287600
+2026Q3,P1,P1_steo_latest,False,pre,futures_hybrid,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,-0.036498,-0.037367,2.363033,2.400400
+2026Q3,P1,P1_steo_latest,False,post,futures_hybrid,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P1,P1_steo_latest,False,post,futures_hybrid,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P1,P1_steo_latest,False,post,futures_hybrid,qq_ann,2026Q3,actual,96.299538,85.256667,2.467781,2.700000,12.179721,12.952502,0.022383,,2.467781,
+2026Q3,P1,P1_steo_latest,False,post,futures_hybrid,qq_ann,2026Q4,forecast,108.246563,78.000000,2.615800,2.615800,32.770278,38.777644,0.050653,0.116103,2.731903,
+2026Q3,P1,P1_steo_latest,False,post,futures_hybrid,qq_ann,2027Q1,forecast,95.000000,81.480000,2.576600,2.576600,15.351930,16.593029,0.068071,0.071494,2.648094,
+2026Q3,P1,P1_steo_latest,False,post,futures_hybrid,qq_ann,2027Q2,forecast,89.000000,78.720000,2.431300,2.431300,12.273912,13.058943,0.217698,0.614895,3.046195,
+2026Q3,P1,P1_steo_latest,False,post,futures_hybrid,qq_ann,2027Q3,forecast,83.000000,76.990000,2.326100,2.326100,7.516506,7.806209,0.285653,0.278522,2.604622,
+2026Q3,P1,P1_steo_latest,False,post,futures_hybrid,qq_ann,2027Q4,forecast,77.000000,75.760000,2.267869,2.267869,1.623497,1.636748,0.465610,0.738809,3.006678,
+2026Q3,P1,P1_steo_latest,False,post,futures_hybrid,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.050653,0.029145,3.111004,3.287600
+2026Q3,P1,P1_steo_latest,False,post,futures_hybrid,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.414957,0.425801,2.826201,2.400400
+2026Q3,P1,P1_steo_latest,False,persistence_only,futures_hybrid,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P1,P1_steo_latest,False,persistence_only,futures_hybrid,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P1,P1_steo_latest,False,persistence_only,futures_hybrid,qq_ann,2026Q3,actual,96.299538,85.256667,2.467781,2.700000,12.179721,12.952502,0.022938,,2.467781,
+2026Q3,P1,P1_steo_latest,False,persistence_only,futures_hybrid,qq_ann,2026Q4,forecast,108.246563,78.000000,2.615800,2.615800,32.770278,38.777644,0.071034,0.197608,2.813408,
+2026Q3,P1,P1_steo_latest,False,persistence_only,futures_hybrid,qq_ann,2027Q1,forecast,95.000000,81.480000,2.576600,2.576600,15.351930,16.593029,0.067475,-0.014603,2.561997,
+2026Q3,P1,P1_steo_latest,False,persistence_only,futures_hybrid,qq_ann,2027Q2,forecast,89.000000,78.720000,2.431300,2.431300,12.273912,13.058943,0.072693,0.021383,2.452683,
+2026Q3,P1,P1_steo_latest,False,persistence_only,futures_hybrid,qq_ann,2027Q3,forecast,83.000000,76.990000,2.326100,2.326100,7.516506,7.806209,0.066296,-0.026182,2.299918,
+2026Q3,P1,P1_steo_latest,False,persistence_only,futures_hybrid,qq_ann,2027Q4,forecast,77.000000,75.760000,2.267869,2.267869,1.623497,1.636748,0.090785,0.100228,2.368097,
+2026Q3,P1,P1_steo_latest,False,persistence_only,futures_hybrid,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.071034,0.049591,3.131449,3.287600
+2026Q3,P1,P1_steo_latest,False,persistence_only,futures_hybrid,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.019751,0.020227,2.420627,2.400400
+2026Q3,P2,P2_110_flat,False,pre,futures_hybrid,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P2,P2_110_flat,False,pre,futures_hybrid,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P2,P2_110_flat,False,pre,futures_hybrid,qq_ann,2026Q3,actual,96.299538,85.256667,2.467781,2.700000,12.179721,12.952502,0.023900,,2.467781,
+2026Q3,P2,P2_110_flat,False,pre,futures_hybrid,qq_ann,2026Q4,forecast,113.152813,78.000000,2.615800,2.615800,37.203040,45.067708,0.080450,0.232381,2.848181,
+2026Q3,P2,P2_110_flat,False,pre,futures_hybrid,qq_ann,2027Q1,forecast,110.000000,81.480000,2.576600,2.576600,30.012277,35.002455,0.087001,0.026885,2.603485,
+2026Q3,P2,P2_110_flat,False,pre,futures_hybrid,qq_ann,2027Q2,forecast,110.000000,78.720000,2.431300,2.431300,33.458311,39.735772,0.091230,0.017327,2.448627,
+2026Q3,P2,P2_110_flat,False,pre,futures_hybrid,qq_ann,2027Q3,forecast,110.000000,76.990000,2.326100,2.326100,35.680482,42.875698,0.087474,-0.015373,2.310727,
+2026Q3,P2,P2_110_flat,False,pre,futures_hybrid,qq_ann,2027Q4,forecast,110.000000,75.760000,2.267869,2.267869,37.290992,45.195354,0.125047,0.153817,2.421686,
+2026Q3,P2,P2_110_flat,False,pre,futures_hybrid,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.080450,0.058310,3.140168,3.287600
+2026Q3,P2,P2_110_flat,False,pre,futures_hybrid,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.044597,0.045678,2.446078,2.400400
+2026Q3,P2,P2_110_flat,False,post,futures_hybrid,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P2,P2_110_flat,False,post,futures_hybrid,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P2,P2_110_flat,False,post,futures_hybrid,qq_ann,2026Q3,actual,96.299538,85.256667,2.467781,2.700000,12.179721,12.952502,0.022383,,2.467781,
+2026Q3,P2,P2_110_flat,False,post,futures_hybrid,qq_ann,2026Q4,forecast,113.152813,78.000000,2.615800,2.615800,37.203040,45.067708,0.058799,0.149584,2.765384,
+2026Q3,P2,P2_110_flat,False,post,futures_hybrid,qq_ann,2027Q1,forecast,110.000000,81.480000,2.576600,2.576600,30.012277,35.002455,0.091530,0.134385,2.710985,
+2026Q3,P2,P2_110_flat,False,post,futures_hybrid,qq_ann,2027Q2,forecast,110.000000,78.720000,2.431300,2.431300,33.458311,39.735772,0.268988,0.729674,3.160974,
+2026Q3,P2,P2_110_flat,False,post,futures_hybrid,qq_ann,2027Q3,forecast,110.000000,76.990000,2.326100,2.326100,35.680482,42.875698,0.410902,0.582515,2.908615,
+2026Q3,P2,P2_110_flat,False,post,futures_hybrid,qq_ann,2027Q4,forecast,110.000000,75.760000,2.267869,2.267869,37.290992,45.195354,0.702376,1.199313,3.467182,
+2026Q3,P2,P2_110_flat,False,post,futures_hybrid,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.058799,0.037545,3.119404,3.287600
+2026Q3,P2,P2_110_flat,False,post,futures_hybrid,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.643577,0.661150,3.061550,2.400400
+2026Q3,P2,P2_110_flat,False,persistence_only,futures_hybrid,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P2,P2_110_flat,False,persistence_only,futures_hybrid,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P2,P2_110_flat,False,persistence_only,futures_hybrid,qq_ann,2026Q3,actual,96.299538,85.256667,2.467781,2.700000,12.179721,12.952502,0.022938,,2.467781,
+2026Q3,P2,P2_110_flat,False,persistence_only,futures_hybrid,qq_ann,2026Q4,forecast,113.152813,78.000000,2.615800,2.615800,37.203040,45.067708,0.079383,0.231946,2.847746,
+2026Q3,P2,P2_110_flat,False,persistence_only,futures_hybrid,qq_ann,2027Q1,forecast,110.000000,81.480000,2.576600,2.576600,30.012277,35.002455,0.098476,0.078372,2.654972,
+2026Q3,P2,P2_110_flat,False,persistence_only,futures_hybrid,qq_ann,2027Q2,forecast,110.000000,78.720000,2.431300,2.431300,33.458311,39.735772,0.128716,0.123976,2.555276,
+2026Q3,P2,P2_110_flat,False,persistence_only,futures_hybrid,qq_ann,2027Q3,forecast,110.000000,76.990000,2.326100,2.326100,35.680482,42.875698,0.152342,0.096746,2.422846,
+2026Q3,P2,P2_110_flat,False,persistence_only,futures_hybrid,qq_ann,2027Q4,forecast,110.000000,75.760000,2.267869,2.267869,37.290992,45.195354,0.212685,0.247144,2.515013,
+2026Q3,P2,P2_110_flat,False,persistence_only,futures_hybrid,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.079383,0.058201,3.140059,3.287600
+2026Q3,P2,P2_110_flat,False,persistence_only,futures_hybrid,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.133302,0.136593,2.536993,2.400400
+2026Q3,P3,P3_feb26steo_plus25,False,pre,futures_hybrid,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,futures_hybrid,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,futures_hybrid,qq_ann,2026Q3,actual,96.299538,85.256667,2.467781,2.700000,12.179721,12.952502,0.023900,,2.467781,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,futures_hybrid,qq_ann,2026Q4,forecast,96.684063,78.000000,2.615800,2.615800,21.473975,23.953926,0.049586,0.105486,2.721286,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,futures_hybrid,qq_ann,2027Q1,forecast,78.000000,81.480000,2.576600,2.576600,-4.364876,-4.270987,0.009926,-0.162597,2.414003,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,futures_hybrid,qq_ann,2027Q2,forecast,78.000000,78.720000,2.431300,2.431300,-0.918843,-0.914634,-0.004170,-0.057737,2.373563,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,futures_hybrid,qq_ann,2027Q3,forecast,78.000000,76.990000,2.326100,2.326100,1.303328,1.311859,-0.004320,-0.000617,2.325483,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,futures_hybrid,qq_ann,2027Q4,forecast,78.000000,75.760000,2.267869,2.267869,2.913838,2.956705,0.032109,0.149133,2.417002,
+2026Q3,P3,P3_feb26steo_plus25,False,pre,futures_hybrid,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.049586,0.026481,3.108340,3.287600
+2026Q3,P3,P3_feb26steo_plus25,False,pre,futures_hybrid,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,-0.017476,-0.017894,2.382506,2.400400
+2026Q3,P3,P3_feb26steo_plus25,False,post,futures_hybrid,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P3,P3_feb26steo_plus25,False,post,futures_hybrid,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P3,P3_feb26steo_plus25,False,post,futures_hybrid,qq_ann,2026Q3,actual,96.299538,85.256667,2.467781,2.700000,12.179721,12.952502,0.022383,,2.467781,
+2026Q3,P3,P3_feb26steo_plus25,False,post,futures_hybrid,qq_ann,2026Q4,forecast,96.684063,78.000000,2.615800,2.615800,21.473975,23.953926,0.029893,0.030831,2.646631,
+2026Q3,P3,P3_feb26steo_plus25,False,post,futures_hybrid,qq_ann,2027Q1,forecast,78.000000,81.480000,2.576600,2.576600,-4.364876,-4.270987,0.040713,0.044404,2.621004,
+2026Q3,P3,P3_feb26steo_plus25,False,post,futures_hybrid,qq_ann,2027Q2,forecast,78.000000,78.720000,2.431300,2.431300,-0.918843,-0.914634,0.148096,0.440921,2.872221,
+2026Q3,P3,P3_feb26steo_plus25,False,post,futures_hybrid,qq_ann,2027Q3,forecast,78.000000,76.990000,2.326100,2.326100,1.303328,1.311859,0.149937,0.007534,2.333634,
+2026Q3,P3,P3_feb26steo_plus25,False,post,futures_hybrid,qq_ann,2027Q4,forecast,78.000000,75.760000,2.267869,2.267869,2.913838,2.956705,0.244324,0.386842,2.654711,
+2026Q3,P3,P3_feb26steo_plus25,False,post,futures_hybrid,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.029893,0.007742,3.089600,3.287600
+2026Q3,P3,P3_feb26steo_plus25,False,post,futures_hybrid,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.214431,0.219814,2.620214,2.400400
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,futures_hybrid,qq_ann,2026Q1,actual,80.719841,,3.936559,,,,,,3.936559,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,futures_hybrid,qq_ann,2026Q2,actual,102.625902,,3.313972,3.400000,,,,,3.313972,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,futures_hybrid,qq_ann,2026Q3,actual,96.299538,85.256667,2.467781,2.700000,12.179721,12.952502,0.022938,,2.467781,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,futures_hybrid,qq_ann,2026Q4,forecast,96.684063,78.000000,2.615800,2.615800,21.473975,23.953926,0.049760,0.110154,2.725954,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,futures_hybrid,qq_ann,2027Q1,forecast,78.000000,81.480000,2.576600,2.576600,-4.364876,-4.270987,0.021700,-0.115067,2.461533,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,futures_hybrid,qq_ann,2027Q2,forecast,78.000000,78.720000,2.431300,2.431300,-0.918843,-0.914634,0.020250,-0.005941,2.425359,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,futures_hybrid,qq_ann,2027Q3,forecast,78.000000,76.990000,2.326100,2.326100,1.303328,1.311859,0.021239,0.004048,2.330148,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,futures_hybrid,qq_ann,2027Q4,forecast,78.000000,75.760000,2.267869,2.267869,2.913838,2.956705,0.051315,0.123107,2.390975,
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,futures_hybrid,q4q4,2026Q4/2025Q4,built from quarterly path,,,3.081859,,,,0.049760,0.027652,3.109511,3.287600
+2026Q3,P3,P3_feb26steo_plus25,False,persistence_only,futures_hybrid,q4q4,2027Q4/2026Q4,built from quarterly path,,,2.400400,,,,0.001555,0.001592,2.401992,2.400400

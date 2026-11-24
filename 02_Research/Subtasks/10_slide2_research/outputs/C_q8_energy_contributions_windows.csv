@@ -1,0 +1,21 @@
+stage,window,note,contrib_services_pp,contrib_foods_pp,contrib_energy_pp,contrib_goods_ex_food_energy_pp,contrib_construction_pp,stage_mm_pct,sum_of_contribs_pp,residual_pp,energy_share_of_stage_change_pct
+1,Aug-Oct 2026 (3m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",1.477,0.155,1.651,1.054,0.0,4.363,4.337,0.025,38.1
+1,Jul-Sep 2026 (3m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",1.324,0.416,1.663,0.347,0.0,3.778,3.75,0.028,44.3
+1,Nov25-Oct26 (12m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",4.176,0.244,4.082,4.78,0.0,13.337,13.283,0.054,30.7
+1,Sep 2026,"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",0.647,0.214,1.147,0.202,0.0,2.231,2.21,0.021,51.9
+1,Oct 2026,"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",0.397,-0.119,-0.246,0.528,0.0,0.551,0.561,-0.009,-44.0
+2,Aug-Oct 2026 (3m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",1.122,0.342,1.807,0.572,0.0,3.857,3.843,0.013,47.0
+2,Jul-Sep 2026 (3m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",0.851,0.325,2.35,0.223,0.0,3.759,3.75,0.009,62.7
+2,Nov25-Oct26 (12m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",3.009,0.61,5.918,2.966,0.0,12.561,12.502,0.058,47.3
+2,Sep 2026,"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",0.469,0.184,2.422,0.151,0.0,3.229,3.227,0.002,75.1
+2,Oct 2026,"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",0.384,0.1,-0.975,0.274,0.0,-0.209,-0.217,0.008,449.6
+3,Aug-Oct 2026 (3m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",0.939,-0.113,0.915,0.643,0.0,2.393,2.384,0.009,38.4
+3,Jul-Sep 2026 (3m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",0.625,-0.194,1.006,0.451,0.0,1.905,1.889,0.017,53.3
+3,Nov25-Oct26 (12m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",2.844,-0.144,2.272,3.151,0.0,8.128,8.123,0.005,28.0
+3,Sep 2026,"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",0.4,-0.164,0.666,0.165,0.0,1.079,1.066,0.012,62.4
+3,Oct 2026,"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",0.244,0.014,-0.206,0.301,0.0,0.341,0.353,-0.012,-58.2
+4,Aug-Oct 2026 (3m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",1.104,0.09,0.369,0.54,0.0,2.112,2.103,0.009,17.5
+4,Jul-Sep 2026 (3m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",1.1,0.087,0.46,0.498,0.0,2.159,2.145,0.014,21.5
+4,Nov25-Oct26 (12m),"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",4.038,0.105,1.002,2.443,0.0,7.686,7.588,0.099,13.2
+4,Sep 2026,"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",0.527,0.094,0.303,0.125,0.0,1.059,1.049,0.011,28.9
+4,Oct 2026,"sum of monthly contributions (pp), simple not compounded; weights chain-updated from BLS Dec RI",0.294,-0.005,-0.099,0.263,0.0,0.446,0.452,-0.006,-22.0

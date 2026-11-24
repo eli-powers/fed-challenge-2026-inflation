@@ -1,0 +1,5 @@
+bea_line,name,sep2026_musd,net_sign,share_of_headline,price_index_in_U20404,bea_source_text
+145,Net expenditures abroad by U.S. residents,13115.0,1.0,0.0005841147510464183,False,(on sub-lines)
+333,Net foreign travel,54693.0,1.0,0.002435912167669215,False,(on sub-lines)
+,TOTAL gap (1 - sum of 177 leaves incl. 218),67812.0,,0.003020205070374371,,
+218,"memo: line 218 share (rank 88, included above)",177773.0,,0.007917638706654588,True,

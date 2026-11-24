@@ -1,0 +1,137 @@
+"""B_mapping.py: PCE-line and CPI-item mapping into matched groups for the CPI-PCE reconciliation.
+
+Every assumption is explicit here and is written out to outputs/B_mapping_groups.csv by B_core_gap.py.
+Basis: BLS "PCE-CPI code mapping" concordance (03_Data/Raw/BLS_pce_cpi_code_mapping_2026-11-11.csv, ELI level,
+last modified Apr 5 2024) aggregated to published CPI item strata, plus our judgment where the concordance is
+silent or ELI-level detail is finer than the published CPI indexes. Notes say which applies.
+
+kind:  'common'  = matched group, full PCE weight treated as in CPI scope
+       'partial' = medical groups where PCE includes third-party (employer, insurer, government) payments that
+                   are outside CPI scope. In-scope PCE share is set to k * R_g (k = PCE share per CPI RI point
+                   over the fully common groups), so these groups carry no weight effect by construction; the
+                   rest of their PCE weight is reported as PCE-only scope. BEA's own split is unpublished.
+PCE lines are BEA U20404/U20405 line numbers (Nov 10 2026 retrieval, Oct 29 2026 vintage).
+CPI items are BLS item codes (series CUUR0000<code> / CUSR0000<code>) or RI-table names for leaves without a code.
+"""
+
+GROUPS = [
+    # gid, label, kind, PCE lines, CPI codes/names, note
+    ('OER', "Owners' equivalent rent / imputed owner rent", 'common', [161, 162],
+        ['SEHC01', "Unsampled owners' equivalent rent of secondary residences"], 'concordance HC011/HC090 -> DOWNRC'),
+    ('RENT', 'Rent of primary residence / tenant rent', 'common', [155, 156, 164], ['SEHA'],
+        'concordance HA011 -> tenant mobile/stationary homes and group housing'),
+    ('HOTEL', 'Hotels and motels / other lodging away', 'common', [250], ['SEHB02'], 'judgment (name match)'),
+    ('HSCH', 'Housing at school', 'common', [251], ['SEHB01'], 'concordance HB011 -> DSCHRC'),
+    ('HINS', "Tenants' and household insurance", 'common', [272], ['SEHD'], 'concordance HD011 -> DFINRC (net household insurance)'),
+    ('WST', 'Water, sewer and trash', 'common', [167, 168], ['SEHG01', 'SEHG02'], 'judgment (name match)'),
+    ('HF', 'Household furnishings and supplies', 'common', [25, 26, 27, 28, 30, 31, 33, 34, 36, 37, 129, 132, 133, 134, 135, 136],
+        ['SEHH01', 'SEHH02', 'SEHH03', 'SEHJ01', 'SEHJ02', 'SEHJ03', 'Unsampled furniture', 'SEHK01', 'SEHK02',
+         'Unsampled appliances', 'SEHL01', 'SEHL02', 'SEHL03', 'SEHL04', 'SEHM01', 'SEHM02',
+         'Unsampled tools, hardware, outdoor equipment and supplies', 'SEHN01', 'SEHN02', 'SEHN03', 'SERE02'],
+        'concordance at ELI level; aggregated to one group because ELI-to-line links cross strata'),
+    ('HHS', 'Household services', 'common', [328, 329, 330, 331, 332], ['SEHP01', 'SEHP03', 'SEHP04', 'Unsampled household operations'],
+        'concordance HP011/HP031/HP041/HP042/HP090'),
+    ('AP', 'Apparel and footwear', 'common', [106, 107, 108, 110, 111, 112],
+        ['SEAA01', "Men's underwear, nightwear, swimwear, and accessories", 'SEAA03', 'SEAA04', "Unsampled men's apparel",
+         'SEAB', 'SEAC01', 'SEAC02', 'SEAC03', "Women's underwear, nightwear, swimwear, and accessories", "Unsampled women's apparel",
+         'SEAD', 'SEAE01', 'SEAE02', 'SEAE03', 'SEAF'], 'concordance AA-AF'),
+    ('JW', 'Jewelry and watches', 'common', [64, 65], ['SEAG01', 'SEAG02'], 'judgment (name match)'),
+    ('NV', 'New vehicles', 'common', [7, 8, 10, 11], ['SETA01'], 'concordance TA011'),
+    ('UV', 'Used vehicles', 'common', [14, 15, 16, 18, 19], ['SETA02'], 'concordance TA021'),
+    ('LEASE', 'Vehicle leasing', 'common', [195, 196], ['SETA03'], 'concordance TA031'),
+    ('MVRENT', 'Vehicle rental', 'common', [197], ['SETA04', 'Unsampled new and used motor vehicles'], 'concordance TA041/TA090'),
+    ('MVP', 'Motor vehicle parts and equipment', 'common', [21, 22], ['SETC01', 'SETC02'], 'judgment (name match)'),
+    ('MVR', 'Motor vehicle maintenance and repair', 'common', [192], ['SETD01', 'SETD02', 'SETD03', 'Unsampled service policies'], 'judgment'),
+    ('MVI', 'Motor vehicle insurance', 'common', [279], ['SETE'], 'concordance TE011'),
+    ('MVF', 'Parking and tolls', 'common', [198], ['SETF03', 'Unsampled motor vehicle fees'], 'concordance TF031/TF090'),
+    ('AIR', 'Airline fares / air transportation', 'common', [207], ['SETG01'], 'concordance TG011; PCE prices it with PPI (Handbook Table 5.B line 74)'),
+    ('OPT', 'Other public transportation', 'common', [201, 203, 204, 205, 206, 208], ['SETG02', 'SETG03', 'Unsampled public transportation'],
+        'concordance TG021-TG090'),
+    ('RX', 'Prescription drugs', 'partial', [123], ['SEMF01'], 'PCE includes insurer/government-paid drugs (NIPA Handbook ch.5 PCE definition, PDF p.96)'),
+    ('OMP', 'Nonprescription drugs, medical equipment, eyeglasses', 'common', [67, 68, 124, 125], ['SEMF02', 'SEMG', 'SEMC03'],
+        'judgment; treated as fully in CPI scope'),
+    ('PHY', 'Physician services', 'partial', [174], ['SEMC01'], 'concordance MC011'),
+    ('DEN', 'Dental services', 'partial', [175], ['SEMC02'], 'concordance MC021'),
+    ('OPM', 'Other professional medical / home health / labs', 'partial', [177, 178, 180, 181], ['SEMC04'], 'concordance MC041'),
+    ('HOSP', 'Hospital services', 'partial', [184, 185, 186], ['SEMD01'], 'concordance MD011'),
+    ('NH', 'Nursing homes', 'partial', [188, 189], ['SEMD02'], 'concordance MD021'),
+    ('IFS', 'Individual and family services / care at home', 'partial', [320], ['Care of invalids and elderly at home'],
+        'concordance MD031/GD061 -> DFAMRC'),
+    ('HI', 'Health insurance', 'common', [276], ['SEME'], 'concordance ME011-ME041 -> DMINRC (both net/retained-earnings concepts)'),
+    ('VA', 'Video and audio (equipment, streaming, cable)', 'common', [41, 42, 43, 45, 46, 219, 222, 224, 225],
+        ['SERA01', 'SERA02', 'SERA03', 'SERA04', 'SERA05', 'SERA06', 'Unsampled video and audio'], 'concordance RA'),
+    ('PH', 'Photography', 'common', [47, 130, 220, 221], ['SERD01', 'SERD02', 'Unsampled photography'], 'judgment'),
+    ('IT', 'Computers and other information equipment', 'common', [49, 51], ['SEEE01', 'Unsampled information and information processing'], 'concordance EE011/EE042/EE090'),
+    ('SW', 'Computer software and accessories', 'common', [50], ['SEEE02'], 'concordance EE021'),
+    ('PHN', 'Telephone equipment', 'common', [71], ['SEEE04'], 'concordance EE041'),
+    ('NET', 'Internet access', 'common', [289], ['SEEE03'], 'concordance EE031'),
+    ('TEL', 'Telephone services', 'common', [283, 284, 285], ['SEED03', 'SEED04'], 'concordance ED'),
+    ('POST', 'Postage and delivery', 'common', [287, 288], ['SEEC01', 'SEEC02'], 'concordance EC'),
+    ('SP', 'Sporting goods and recreational vehicles', 'common', [52, 54, 55, 57, 58, 59, 233], ['SERC01', 'SERC02', 'Unsampled sporting goods'], 'judgment'),
+    ('TOY', 'Toys, games, musical instruments', 'common', [61, 127], ['SERE01', 'SERE03', 'Unsampled recreation commodities'], 'judgment'),
+    ('RR', 'Recreational reading', 'common', [60, 143], ['SERG01', 'SERG02', 'Unsampled recreational reading materials'], 'judgment'),
+    ('EB', 'Educational books', 'common', [69], ['SEEA'], 'concordance EA'),
+    ('MPG', 'Stationery, luggage, misc personal goods', 'common', [70, 144], ['SEGE'], 'concordance GE011/GE012'),
+    ('PET', 'Pets and pet products', 'common', [128], ['SERB01'], 'judgment'),
+    ('PETS', 'Veterinary and pet services', 'common', [231], ['SERB02'], 'judgment'),
+    ('RS', 'Recreation services and admissions', 'common', [211, 212, 214, 215, 216, 217, 232],
+        ['SERF01', 'SERF02', 'SERF03', 'Unsampled recreation services'], 'concordance RF'),
+    ('EDU', 'Tuition and child care', 'common', [292, 293, 295, 296, 297, 316],
+        ['SEEB01', 'SEEB02', 'SEEB03', 'Technical and business school tuition and fees', 'Unsampled tuition, other school fees, and childcare'],
+        'concordance EB'),
+    ('PCP', 'Personal care products', 'common', [138, 139, 140], ['SEGB01', 'SEGB02', 'Unsampled personal care products'], 'concordance GB'),
+    ('PCS', 'Personal care services', 'common', [309, 310], ['SEGC01'], 'concordance GC011'),
+    ('LEG', 'Legal services', 'common', [299], ['SEGD01'], 'concordance GD011'),
+    ('FUN', 'Funeral', 'common', [306], ['SEGD02'], 'concordance GD021'),
+    ('LAUN', 'Laundry and dry cleaning', 'common', [312], ['SEGD03'], 'concordance GD031'),
+    ('APS', 'Apparel services', 'common', [313, 314], ['SEGD04'], 'concordance GD041/GD042'),
+    ('FIN', 'Bank fees and tax preparation', 'common', [259, 301], ['SEGD05'], 'concordance GD051/GD052'),
+    ('OPB', 'Other personal business services', 'common', [303], ['Unsampled items'], 'concordance GD090 -> DTHERC'),
+    ('TOB', 'Tobacco', 'common', [141], ['SEGA01', 'SEGA02', 'Unsampled tobacco and smoking products'], 'concordance GA'),
+    ('ALA', 'Alcohol away from home', 'common', [245], ['SEFX'], 'concordance FX011 -> DAPMRC'),
+    # food and energy (headline only; outside both cores except as noted)
+    ('ALH', 'Alcohol at home', 'common', [100, 101, 102], ['SEFW01', 'SEFW02', 'SEFW03'],
+        'concordance FW; in core CPI but excluded from core PCE (off-premises beverages)'),
+    ('FAFH', 'Food away from home (meals)', 'common', [239, 240, 242, 243, 244, 247, 248],
+        ['SEFV01', 'SEFV02', 'SEFV03', 'SEFV04', 'SEFV05'], 'concordance FV; in core PCE, excluded from core CPI'),
+    ('FAH', 'Food at home', 'common', [77, 78, 80, 81, 82, 83, 84, 86, 87, 88, 89, 91, 92, 93, 94, 95, 97, 98], ['__FOOD_AT_HOME__'], 'all CPI food-at-home leaves vs PCE lines 77-98'),
+    ('GAS', 'Motor fuel', 'common', [115, 116], ['SETB01', 'SETB02'], 'judgment; lubricants (116) included on PCE side'),
+    ('FUEL', 'Fuel oil and other fuels', 'common', [118, 119], ['SEHE01', 'SEHE02'], 'judgment'),
+    ('ELEC', 'Electricity', 'common', [170], ['SEHF01'], 'judgment'),
+    ('NGAS', 'Utility gas', 'common', [171], ['SEHF02'], 'judgment'),
+]
+
+# PCE-only items (no CPI counterpart): line -> (label, note)
+PCE_ONLY = {
+    255: ('Financial services furnished without payment (imputed)', 'BEA 9.1U scope line'),
+    256: ('Financial services furnished without payment (imputed)', 'BEA 9.1U scope line'),
+    257: ('Financial services furnished without payment (imputed)', 'BEA 9.1U scope line'),
+    268: ('Portfolio management and investment advice', 'CPI excludes investment items (NIPA Handbook CPI definition, PDF p.56)'),
+    262: ('Securities commissions, trust and custody', 'investment services; outside CPI'),
+    263: ('Securities commissions, trust and custody', ''), 265: ('Securities commissions, trust and custody', ''),
+    266: ('Securities commissions, trust and custody', ''), 267: ('Securities commissions, trust and custody', ''),
+    269: ('Securities commissions, trust and custody', ''),
+    271: ('Life insurance', 'CPI excludes life insurance (NIPA Handbook CPI definition, PDF p.56)'),
+    277: ("Income-loss and workers' compensation insurance", 'judgment'),
+    278: ("Income-loss and workers' compensation insurance", 'judgment'),
+    342: ('NPISH final consumption expenditures', 'BEA 9.1U scope line'),
+    334: ('Net foreign travel', 'BEA 9.1U scope line (foreign travel by U.S. residents); enters as 334 less 338'),
+    338: ('Net foreign travel', ''),
+    146: ('Net expenditures abroad by U.S. residents', 'judgment; enters as 146 less 149'),
+    149: ('Net expenditures abroad by U.S. residents', ''),
+    163: ('Rental value of farm dwellings', 'CPI covers urban consumers; judgment'),
+    103: ('Food produced and consumed on farms', 'judgment'),
+    227: ('Gambling', 'judgment (no CPI stratum)'), 228: ('Gambling', ''), 229: ('Gambling', ''),
+    318: ('Social services and religious/advocacy organizations', 'judgment'),
+    319: ('Social services and religious/advocacy organizations', ''), 321: ('Social services and religious/advocacy organizations', ''),
+    322: ('Social services and religious/advocacy organizations', ''), 323: ('Social services and religious/advocacy organizations', ''),
+    324: ('Social services and religious/advocacy organizations', ''), 325: ('Social services and religious/advocacy organizations', ''),
+    326: ('Social services and religious/advocacy organizations', ''),
+    302: ('Employment agency, union and professional dues', 'judgment'),
+    304: ('Employment agency, union and professional dues', ''), 305: ('Employment agency, union and professional dues', ''),
+}
+# CPI-only items (no PCE counterpart): code or name -> (label, note)
+CPI_ONLY = {
+    'SETF01': ('Vehicle registration and license fees', 'concordance TF011/TF012 -> N/A (no PCE line)'),
+    'SEHP02': ('Gardening and lawncare services', 'concordance HP021 -> N/A'),
+}

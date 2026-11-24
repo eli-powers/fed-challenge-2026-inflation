@@ -1,0 +1,44 @@
+group,series,horizon,latest_period,latest_value,latest_status,release_date,avg_2018_19,peak_2021_23,peak_2021_23_period,source_file
+NY Fed MCT,MCT central,% annualized trend,2026-09,2.84,actual,2026-10-30,1.865,5.66,2022-06,03_Data/Raw/S3A_expectations_underlying_2026-11-15/NYFed_MCT_chart_data_2026-11-15.csv
+NY Fed MCT,MCT lower 68% band,%,2026-09,2.49,actual,2026-10-30,1.612,5.35,2022-06,03_Data/Raw/S3A_expectations_underlying_2026-11-15/NYFed_MCT_chart_data_2026-11-15.csv
+NY Fed MCT,MCT upper 68% band,%,2026-09,3.21,actual,2026-10-30,2.117,5.99,2022-06,03_Data/Raw/S3A_expectations_underlying_2026-11-15/NYFed_MCT_chart_data_2026-11-15.csv
+Dallas trimmed mean PCE,Dallas trimmed-mean PCE,1m annualized,2026-09,2.84,actual,2026-10-29,1.952,7.43,2022-06,FRED PCETRIM*SFRBDAL (fetched 2026-11-15)
+Dallas trimmed mean PCE,Dallas trimmed-mean PCE,6m annualized,2026-09,2.42,actual,2026-10-29,1.968,5.28,2022-10,FRED PCETRIM*SFRBDAL (fetched 2026-11-15)
+Dallas trimmed mean PCE,Dallas trimmed-mean PCE,12m (y/y),2026-09,2.26,actual,2026-10-29,1.935,4.85,2022-08,FRED PCETRIM*SFRBDAL (fetched 2026-11-15)
+Cleveland median PCE,Cleveland median PCE (compounded),1m ann,2026-09,3.003,actual,2026-10-29,2.438,8.851,2022-06,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ClevelandFed_median_PCE_full_history_2026-11-15.csv
+Cleveland median PCE,Cleveland median PCE (compounded),3m ann,2026-09,2.751,actual,2026-10-29,2.417,7.345,2022-06,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ClevelandFed_median_PCE_full_history_2026-11-15.csv
+Cleveland median PCE,Cleveland median PCE (compounded),6m ann,2026-09,2.756,actual,2026-10-29,2.408,6.665,2022-09,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ClevelandFed_median_PCE_full_history_2026-11-15.csv
+Cleveland median PCE,Cleveland median PCE,12m published,2026-09,2.666,actual,2026-10-29,2.34,5.898,2022-09,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ClevelandFed_median_PCE_full_history_2026-11-15.csv
+Cleveland median PCE,Cleveland median PCE,1m % m/m,2026-09,0.247,actual,2026-10-29,0.201,0.709,2022-06,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ClevelandFed_median_PCE_full_history_2026-11-15.csv
+Cleveland CPI,Median CPI,12m,2026-10,2.799,actual,2026-11-10,2.699,6.921,2023-02,pipeline raw clevelandfed_mediancpi_chartdata_2026-11-10.csv
+Cleveland CPI,16% trimmed-mean CPI,12m,2026-10,2.891,actual,2026-11-10,2.205,7.174,2022-09,pipeline raw clevelandfed_mediancpi_chartdata_2026-11-10.csv
+Cleveland CPI,Median CPI,1m annualized,2026-10,3.7,actual,2026-11-10,2.788,7.8,2022-06,ClevelandFed_mediancpi_mcpi_revised_2026-11-15.csv
+Cleveland CPI,16% trimmed-mean CPI,1m annualized,2026-10,4.5,actual,2026-11-10,2.337,9.6,2021-10,ClevelandFed_mediancpi_trim_revised_2026-11-15.csv
+BEA,Core PCE,1m,2026-09,0.317,actual,2026-10-29,0.148,0.618,2022-06,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+BEA,Core PCE,3m ann,2026-09,2.903,actual,2026-10-29,1.765,6.476,2021-12,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+BEA,Core PCE,6m ann,2026-09,2.923,actual,2026-10-29,1.788,6.038,2022-03,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+BEA,Core PCE,12m,2026-09,3.121,actual,2026-10-29,1.771,5.64,2022-09,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+BEA,Headline PCE,1m,2026-09,0.491,actual,2026-10-29,0.142,0.963,2022-06,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+BEA,Headline PCE,3m ann,2026-09,3.558,actual,2026-10-29,1.68,8.604,2022-03,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+BEA,Headline PCE,6m ann,2026-09,3.335,actual,2026-10-29,1.731,8.31,2022-03,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+BEA,Headline PCE,12m,2026-09,3.649,actual,2026-10-29,1.74,7.218,2022-06,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+BEA,BEA market-based core PCE,1m,2026-09,0.339,actual,2026-10-29,0.135,0.629,2022-06,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+BEA,BEA market-based core PCE,3m ann,2026-09,2.936,actual,2026-10-29,1.598,6.324,2022-02,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+BEA,BEA market-based core PCE,6m ann,2026-09,2.85,actual,2026-10-29,1.62,5.967,2022-03,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+BEA,BEA market-based core PCE,12m,2026-09,3.118,actual,2026-10-29,1.567,5.452,2022-09,"03_Data/pipelines/inflation_data/processed/bea/observations.csv (BEA NIPA T20804, vintage retrieved 2026-11-10, LastRevised 2026-10-29)"
+Supercore / Logan measure,Supercore (BEA L28; Oct est.),1m,2026-10,0.268,est.,Sep: 2026-10-29; Oct est.,0.186,0.608,2022-06,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,Supercore (BEA L28) [Sep actual],1m,2026-09,0.367,actual,2026-10-29,0.186,0.608,2022-06,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,Supercore (BEA L28; Oct est.),3m ann,2026-10,4.108,est.,Sep: 2026-10-29; Oct est.,2.213,5.931,2021-04,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,Supercore (BEA L28) [Sep actual],3m ann,2026-09,3.369,actual,2026-10-29,2.213,5.931,2021-04,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,Supercore (BEA L28; Oct est.),6m ann,2026-10,3.471,est.,Sep: 2026-10-29; Oct est.,2.25,5.68,2021-07,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,Supercore (BEA L28) [Sep actual],6m ann,2026-09,3.429,actual,2026-10-29,2.25,5.68,2021-07,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,Supercore (BEA L28; Oct est.),12m,2026-10,3.598,est.,Sep: 2026-10-29; Oct est.,2.251,5.326,2022-10,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,Supercore (BEA L28) [Sep actual],12m,2026-09,3.596,actual,2026-10-29,2.251,5.326,2022-10,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,"Logan measure (services ex energy, housing, transportation; Oct est.)",1m,2026-10,0.29,est.,Sep: 2026-10-29; Oct est.,0.182,0.543,2021-03,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,"Logan measure (services ex energy, housing, transportation) [Sep actual]",1m,2026-09,0.24,actual,2026-10-29,0.182,0.543,2021-03,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,"Logan measure (services ex energy, housing, transportation; Oct est.)",3m ann,2026-10,3.461,est.,Sep: 2026-10-29; Oct est.,2.216,5.367,2021-04,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,"Logan measure (services ex energy, housing, transportation) [Sep actual]",3m ann,2026-09,2.605,actual,2026-10-29,2.216,5.367,2021-04,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,"Logan measure (services ex energy, housing, transportation; Oct est.)",6m ann,2026-10,3.011,est.,Sep: 2026-10-29; Oct est.,2.259,5.286,2022-11,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,"Logan measure (services ex energy, housing, transportation) [Sep actual]",6m ann,2026-09,2.908,actual,2026-10-29,2.259,5.286,2022-11,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,"Logan measure (services ex energy, housing, transportation; Oct est.)",12m,2026-10,3.241,est.,Sep: 2026-10-29; Oct est.,2.265,4.816,2022-01,outputs/C_q6_logan_measure.csv
+Supercore / Logan measure,"Logan measure (services ex energy, housing, transportation) [Sep actual]",12m,2026-09,3.207,actual,2026-10-29,2.265,4.816,2022-01,outputs/C_q6_logan_measure.csv

@@ -1,0 +1,76 @@
+                                                    indicator period_old  latest_old period_new  latest_new                  units_new  yoy_new  short_new     short_label_new  mom_new chg_units_new
+                                          Alphabet cash capex    2026 Q2       44.90    2026 Q3       51.40     Bil. $, quarterly, NSA   114.40        NaN                 NaN      NaN             %
+                                            Amazon cash capex    2026 Q2       54.20    2026 Q3       77.30     Bil. $, quarterly, NSA   120.14        NaN                 NaN      NaN             %
+                                              Meta cash capex    2026 Q2       30.10    2026 Q3       33.90     Bil. $, quarterly, NSA    80.26        NaN                 NaN      NaN             %
+                                         Microsoft cash capex    2026 Q2       35.80    2026 Q3       39.40     Bil. $, quarterly, NSA   102.99        NaN                 NaN      NaN             %
+                   Computer & electronic products: new orders   Aug 2026       30.90   Sep 2026       31.30                 Bil. $, SA    16.65       9.71          3m/3m ann.    10.16             %
+                    Computer & electronic products: shipments   Aug 2026       34.20   Sep 2026       34.70                 Bil. $, SA     9.71       4.41          3m/3m ann.    17.73             %
+                                  Conference Board confidence   Sep 2026       81.90   Oct 2026       91.70           Index (1985=100)      NaN       1.50         3-mo change     7.50     index pts
+                                Conference Board expectations   Sep 2026       63.60   Oct 2026       72.60           Index (1985=100)      NaN      -1.40         3-mo change     6.90     index pts
+                           Conference Board present situation   Sep 2026      109.30   Oct 2026      120.40           Index (1985=100)      NaN       6.00         3-mo change     8.60     index pts
+           Core capital goods orders (nondefense ex aircraft)   Aug 2026       87.60   Sep 2026       88.20                 Bil. $, SA    13.65      15.37          3m/3m ann.     8.08             %
+        Core capital goods shipments (nondefense ex aircraft)   Aug 2026       85.00   Sep 2026       86.10                 Bil. $, SA    11.55      16.71          3m/3m ann.    15.87             %
+                  Data center construction spending (nominal)   Aug 2026       85.00   Sep 2026       96.50               Bil. $, SAAR    80.26     211.37          3m/3m ann.   169.43             %
+ Data centers as share of private nonresidential construction   Aug 2026       11.00   Sep 2026       12.20                 % of total     5.64       2.62         3-mo change      NaN            pp
+             Gasoline & other energy goods, share of spending   Aug 2026        2.26   Sep 2026        2.44           % of nominal PCE     0.43       0.20         3-mo change     0.19            pp
+                             Gasoline station sales (nominal)   Aug 2026       63.40   Sep 2026       68.00                 Bil. $, SA    28.05       6.56          3m/3m ann.   109.72             %
+                      Household net worth / disposable income    2026 Q2      828.00    2026 Q2      828.00     % of disposable income    59.40      47.13          Q/Q change      NaN            pp
+                Hyperscaler cash capex (MSFT+GOOGL+AMZN+META)    2026 Q2      165.00    2026 Q3      201.90     Bil. $, quarterly, NSA   107.59      86.61 Trailing-4Q sum YoY      NaN             %
+Industrial production: semiconductors & electronic components   Aug 2026      190.10   Sep 2026      198.60             Index 2017=100    19.90      28.37          3m/3m ann.    28.54             %
+     Michigan consumer sentiment (rank: #2 lowest since 1952)   Sep 2026       48.10   Oct 2026       48.00         Index (1966Q1=100)    -5.60      -7.20         3-mo change    -0.10     index pts
+    Michigan: current conditions (rank: #2 lowest since 1951)        NaN         NaN   Oct 2026       46.70         Index (1966Q1=100)   -11.90      -8.10         3-mo change    -4.20     index pts
+    Michigan: current conditions (rank: #4 lowest since 1951)   Sep 2026       50.90        NaN         NaN                        NaN      NaN        NaN                 NaN      NaN           NaN
+         Michigan: expectations (rank: #13 lowest since 1951)        NaN         NaN   Oct 2026       48.80         Index (1966Q1=100)    -1.50      -6.60         3-mo change     2.50     index pts
+          Michigan: expectations (rank: #6 lowest since 1951)   Sep 2026       46.30        NaN         NaN                        NaN      NaN        NaN                 NaN      NaN           NaN
+                                         Personal saving rate   Aug 2026        4.10   Sep 2026        3.80     % of disposable income    -1.30      -0.60         3-mo change    -0.20            pp
+                                              Real PCE: goods   Aug 2026        5.80   Sep 2026        5.80 Tril. chained 2017 $, SAAR     2.51       3.04          3m/3m ann.    -3.49             %
+                                           Real PCE: services   Aug 2026       11.20   Sep 2026       11.20 Tril. chained 2017 $, SAAR     2.55       4.11          3m/3m ann.     1.89             %
+                          Real consumer spending (PCE), total   Aug 2026       17.00   Sep 2026       17.00 Tril. chained 2017 $, SAAR     2.54       3.77          3m/3m ann.     0.19             %
+                              Real disposable personal income   Aug 2026       18.40   Sep 2026       18.40 Tril. chained 2017 $, SAAR     0.95       2.30          3m/3m ann.    -3.22             %
+                           Real investment: equipment (total)    2026 Q2     1598.30    2026 Q3     1675.90  Bil. chained 2017 $, SAAR    14.08      20.90      Q/Q SAAR (BEA)      NaN             %
+            Real investment: information processing equipment    2026 Q2      789.70    2026 Q3      854.90  Bil. chained 2017 $, SAAR    29.09      37.40      Q/Q SAAR (BEA)      NaN             %
+      Real investment: intellectual property products (total)    2026 Q2     1760.50    2026 Q3     1796.40  Bil. chained 2017 $, SAAR     9.31       8.40      Q/Q SAAR (BEA)      NaN             %
+                                    Real investment: software    2026 Q2      963.30    2026 Q3      985.70  Bil. chained 2017 $, SAAR    12.85       9.60      Q/Q SAAR (BEA)      NaN             %
+                 Real nonresidential fixed investment (total)    2026 Q2     3985.70    2026 Q3     4106.90  Bil. chained 2017 $, SAAR     8.37      12.70      Q/Q SAAR (BEA)      NaN             %
+                       Retail & food services sales (nominal)   Aug 2026      737.80   Sep 2026      745.00                 Bil. $, SA     6.29       4.84          3m/3m ann.     9.65             %
+                               Retail control group (nominal)   Aug 2026      399.40   Sep 2026      400.20                 Bil. $, SA     4.64       4.27          3m/3m ann.     1.64             %
+                        Revolving consumer credit outstanding   Jul 2026        1.40   Sep 2026        1.40                Tril. $, SA     4.25       2.54          3m/3m ann.    15.46             %
+
+Series with unchanged latest period: ['Household net worth / disposable income']
+
+Overlapping obs: 4262 | new-only obs: 46
+Revised observations (value changed): 109 of 4262
+
+Revisions since 2025-01 (> 0.3% relative or > 0.1 abs for rates/indexes):
+                                                          series_key       date        v_o        v_n       abs    rel
+                                         conference_board_confidence 2026-09-01     81.900     84.200     2.300  2.808
+                                       conference_board_expectations 2026-09-01     63.600     65.700     2.100  3.302
+                                  conference_board_present_situation 2026-09-01    109.300    111.800     2.500  2.287
+                                    construction_private_data_center 2026-07-01  79007.000  80718.000  1711.000  2.166
+                                    construction_private_data_center 2026-08-01  84950.000  88815.000  3865.000  4.550
+                                   food_services_and_drinking_places 2026-08-01  91416.000  91882.000   466.000  0.510
+                                                   gasoline_stations 2025-08-01  52451.000  52840.000   389.000  0.742
+                                                   gasoline_stations 2025-09-01  53433.000  53119.000  -314.000 -0.588
+                                                   gasoline_stations 2026-08-01  63432.000  63950.000   518.000  0.817
+industrial_production_semiconductors_and_other_electronic_components 2026-06-01    187.519    188.261     0.742  0.396
+industrial_production_semiconductors_and_other_electronic_components 2026-07-01    190.261    192.214     1.953  1.026
+industrial_production_semiconductors_and_other_electronic_components 2026-08-01    190.099    194.521     4.422  2.326
+          manufacturers_new_orders_computers_and_electronic_products 2026-08-01  30868.000  31015.000   147.000  0.476
+                                   pce_nominal_gasoline_energy_goods 2026-08-01 503882.000 501618.000 -2264.000 -0.449
+                                                personal_saving_rate 2026-07-01      4.600      4.500    -0.100 -2.174
+                                                personal_saving_rate 2026-08-01      4.100      4.000    -0.100 -2.439
+                                 private_nonresidential_construction 2026-07-01 764979.000 771564.000  6585.000  0.861
+                                 private_nonresidential_construction 2026-08-01 773010.000 782272.000  9262.000  1.198
+
+Q2 2026 (2026-04-01) BEA investment components:
+                                         series_key       v_o       v_n  abs  rel
+                      ai_investment_equipment_total 1598303.0 1598303.0  0.0  0.0
+          ai_investment_equipment_total_pct_qq_saar      13.4      13.4  0.0  0.0
+            ai_investment_info_processing_equipment  789690.0  789690.0  0.0  0.0
+ai_investment_info_processing_equipment_pct_qq_saar       7.6       7.6  0.0  0.0
+                    ai_investment_ip_products_total 1760515.0 1760515.0  0.0  0.0
+        ai_investment_ip_products_total_pct_qq_saar       9.2       9.2  0.0  0.0
+                 ai_investment_nonresidential_total 3985726.0 3985726.0  0.0  0.0
+     ai_investment_nonresidential_total_pct_qq_saar       9.0       9.0  0.0  0.0
+                             ai_investment_software  963285.0  963285.0  0.0  0.0
+                 ai_investment_software_pct_qq_saar      14.0      14.0  0.0  0.0

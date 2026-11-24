@@ -1,0 +1,16 @@
+leaf,name,mean,mean_abs,max_abs,n,section,horizon,oct_leaf_breadth_point,band_low,band_high,n_split_leaves,near_threshold_leaves,near_threshold_weight_pct,note
+13,Used autos,-0.0019,0.0061,0.0232,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+17,Used light trucks,-0.0014,0.006,0.0237,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+176,Paramedical services (46),-0.0001,0.0008,0.0035,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+187,Nursing homes (52),0.0003,0.0007,0.005,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+194,Motor vehicle leasing,0.0048,0.0087,0.0436,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+218,"Audio-video, photographic, and information processing equipment services (parts of 77 and 93)",0.0042,0.0073,0.0317,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+241,Other purchased meals,0.0002,0.0005,0.0021,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+258,"Financial service charges, fees, and commissions (108)",0.0024,0.0103,0.0801,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+272,Net household insurance (111),0.0009,0.0048,0.0135,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+275,Net health insurance (112),0.0004,0.0014,0.0069,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+281,Communication,0.0006,0.0013,0.0112,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+317,Social assistance,0.0007,0.001,0.0043,36.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+ALL,"all 12 split leaves, Oct 2023 - Sep 2026",0.0009,0.0041,0.0801,432.0,"roll-up error by leaf (pp m/m, fixed prior-month within-leaf shares vs BEA leaf m/m)",,,,,,,,
+,,,,,,effect on October leaf breadth,12m,54.038,54.038,54.038,12.0,0.0,0.0,"band: every split leaf Oct m/m shifted by +/- its own maximum historical roll-up error (Oct 2023-Sep 2026); overall mean abs error 0.0041 pp, p95 0.0168 pp, max 0.0801 pp"
+,,,,,,effect on October leaf breadth,3m_ann,45.467,45.467,45.467,12.0,0.0,0.0,"band: every split leaf Oct m/m shifted by +/- its own maximum historical roll-up error (Oct 2023-Sep 2026); overall mean abs error 0.0041 pp, p95 0.0168 pp, max 0.0801 pp"

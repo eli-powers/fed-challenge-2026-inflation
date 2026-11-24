@@ -1,0 +1,109 @@
+oil_variant,oil_path,is_central,label,source,quarter,brent_usd,kind
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2025Q1,75.8746,actual (EIA RBRTE quarterly mean of trading days)
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2025Q2,68.0670,actual (EIA RBRTE quarterly mean of trading days)
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2025Q3,69.0312,actual (EIA RBRTE quarterly mean of trading days)
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2025Q4,63.6542,actual (EIA RBRTE quarterly mean of trading days)
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2026Q1,80.7198,actual (EIA RBRTE quarterly mean of trading days)
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2026Q2,102.6259,actual (EIA RBRTE quarterly mean of trading days)
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2026Q3,96.2995,actual (EIA RBRTE quarterly mean of trading days)
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2026Q4,108.2466,splice: 30 observed days to 2026-11-11 + 34 remaining weekdays at rule
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2027Q1,95.0000,rule/forecast
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2027Q2,89.0000,rule/forecast
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2027Q3,83.0000,rule/forecast
+P1_steo_latest,P1,True,P1 Baseline oil: latest EIA STEO Brent path,EIA STEO nov26 BREPUUS,2027Q4,77.0000,rule/forecast
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2025Q1,75.8746,actual (EIA RBRTE quarterly mean of trading days)
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2025Q2,68.0670,actual (EIA RBRTE quarterly mean of trading days)
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2025Q3,69.0312,actual (EIA RBRTE quarterly mean of trading days)
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2025Q4,63.6542,actual (EIA RBRTE quarterly mean of trading days)
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2026Q1,80.7198,actual (EIA RBRTE quarterly mean of trading days)
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2026Q2,102.6259,actual (EIA RBRTE quarterly mean of trading days)
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2026Q3,96.2995,actual (EIA RBRTE quarterly mean of trading days)
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2026Q4,105.6303,splice: 30 observed days to 2026-11-11 + 34 remaining weekdays at rule
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2027Q1,93.2267,rule/forecast
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2027Q2,87.5433,rule/forecast
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2027Q3,83.7667,rule/forecast
+P1_futures_2026-11-13,P1,False,P1 alt (market check): NYMEX BZ futures closes 2026-11-13,Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close,2027Q4,80.8100,rule/forecast
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2025Q1,75.8746,actual (EIA RBRTE quarterly mean of trading days)
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2025Q2,68.0670,actual (EIA RBRTE quarterly mean of trading days)
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2025Q3,69.0312,actual (EIA RBRTE quarterly mean of trading days)
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2025Q4,63.6542,actual (EIA RBRTE quarterly mean of trading days)
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2026Q1,80.7198,actual (EIA RBRTE quarterly mean of trading days)
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2026Q2,102.6259,actual (EIA RBRTE quarterly mean of trading days)
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2026Q3,96.2995,actual (EIA RBRTE quarterly mean of trading days)
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2026Q4,113.1528,splice: 30 observed days to 2026-11-11 + 34 remaining weekdays at rule
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2027Q1,110.0000,rule/forecast
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2027Q2,110.0000,rule/forecast
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2027Q3,110.0000,rule/forecast
+P2_110_flat,P2,True,P2 Oil rises again: Brent $110 flat,"rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'",2027Q4,110.0000,rule/forecast
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2025Q1,75.8746,actual (EIA RBRTE quarterly mean of trading days)
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2025Q2,68.0670,actual (EIA RBRTE quarterly mean of trading days)
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2025Q3,69.0312,actual (EIA RBRTE quarterly mean of trading days)
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2025Q4,63.6542,actual (EIA RBRTE quarterly mean of trading days)
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2026Q1,80.7198,actual (EIA RBRTE quarterly mean of trading days)
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2026Q2,102.6259,actual (EIA RBRTE quarterly mean of trading days)
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2026Q3,96.2995,actual (EIA RBRTE quarterly mean of trading days)
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2026Q4,120.5517,splice: 30 observed days to 2026-11-11 + 34 remaining weekdays at rule
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2027Q1,123.9273,rule/forecast
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2027Q2,123.9273,rule/forecast
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2027Q3,123.9273,rule/forecast
+P2_octavg_flat,P2,False,"P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",rule; EIA RBRTE Oct 2026 mean of trading days = $123.93,2027Q4,123.9273,rule/forecast
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2025Q1,75.8746,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2025Q2,68.0670,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2025Q3,69.0312,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2025Q4,63.6542,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2026Q1,80.7198,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2026Q2,102.6259,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2026Q3,96.2995,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2026Q4,96.6841,splice: 30 observed days to 2026-11-11 + 34 remaining weekdays at rule
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2027Q1,78.0000,rule/forecast
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2027Q2,78.0000,rule/forecast
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2027Q3,78.0000,rule/forecast
+P3_feb26steo_plus25,P3,True,P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium,"rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')",2027Q4,78.0000,rule/forecast
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2025Q1,75.8746,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2025Q2,68.0670,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2025Q3,69.0312,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2025Q4,63.6542,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2026Q1,80.7198,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2026Q2,102.6259,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2026Q3,96.2995,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2026Q4,94.0278,splice: 30 observed days to 2026-11-11 + 34 remaining weekdays at rule
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2027Q1,73.0000,rule/forecast
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2027Q2,73.0000,rule/forecast
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2027Q3,73.0000,rule/forecast
+P3_feb26steo_plus20,P3,False,P3 alt: Feb-2026 STEO + $20,rule; Waller low end,2027Q4,73.0000,rule/forecast
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2025Q1,75.8746,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2025Q2,68.0670,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2025Q3,69.0312,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2025Q4,63.6542,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2026Q1,80.7198,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2026Q2,102.6259,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2026Q3,96.2995,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2026Q4,99.3403,splice: 30 observed days to 2026-11-11 + 34 remaining weekdays at rule
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2027Q1,83.0000,rule/forecast
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2027Q2,83.0000,rule/forecast
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2027Q3,83.0000,rule/forecast
+P3_feb26steo_plus30,P3,False,P3 alt: Feb-2026 STEO + $30,rule; Waller high end,2027Q4,83.0000,rule/forecast
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2025Q1,75.8746,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2025Q2,68.0670,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2025Q3,69.0312,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2025Q4,63.6542,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2026Q1,80.7198,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2026Q2,102.6259,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2026Q3,96.2995,actual (EIA RBRTE quarterly mean of trading days)
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2026Q4,83.4028,splice: 30 observed days to 2026-11-11 + 34 remaining weekdays at rule
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2027Q1,53.0000,rule/forecast
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2027Q2,53.0000,rule/forecast
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2027Q3,53.0000,rule/forecast
+P3_feb26steo_plus0,P3,False,P3 alt: Feb-2026 STEO + $0 (no residual premium),"rule; premise check, B_q3_path_definitions.md",2027Q4,53.0000,rule/forecast
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2025Q1,75.8746,actual (EIA RBRTE quarterly mean of trading days)
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2025Q2,68.0670,actual (EIA RBRTE quarterly mean of trading days)
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2025Q3,69.0312,actual (EIA RBRTE quarterly mean of trading days)
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2025Q4,63.6542,actual (EIA RBRTE quarterly mean of trading days)
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2026Q1,80.7198,actual (EIA RBRTE quarterly mean of trading days)
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2026Q2,102.6259,actual (EIA RBRTE quarterly mean of trading days)
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2026Q3,96.2995,actual (EIA RBRTE quarterly mean of trading days)
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2026Q4,104.4894,splice: 30 observed days to 2026-11-11 + 34 remaining weekdays at rule
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2027Q1,93.6924,rule/forecast
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2027Q2,93.6924,rule/forecast
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2027Q3,93.6924,rule/forecast
+P3_janfebavg_plus25,P3,False,P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25,rule; EIA RBRTE = $93.69,2027Q4,93.6924,rule/forecast

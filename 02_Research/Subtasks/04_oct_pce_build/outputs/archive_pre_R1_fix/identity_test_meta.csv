@@ -1,0 +1,8 @@
+field,value
+file,identity_test.csv
+script,code/D_identity_test.py
+inputs,"U20404 and U20405, vintage 2026-11-10 (current); component_mapping.csv"
+units,"percent m/m, SA (BEA Fisher indexes); gaps in pp = aggregate minus published"
+variants,A leaf-level locked formula; B sub-line roll-up locked formula (as used by the build); F Fisher diagnostic; C locked formula with the excluded net lines entered via gross components (+146 -149 +334 -338); CF Fisher with that coverage
+coverage,177 leaves (99.70% of PCE); lines 145 and 333 (0.30%) excluded and weights rescaled
+caveat,current vintage only; not a real-time test

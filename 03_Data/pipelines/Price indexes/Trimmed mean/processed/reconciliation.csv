@@ -1,0 +1,2 @@
+aggregate,period,horizon,publisher_rate_pct,component_contributions_calc,gap_pp_calc,source_ids,raw_file,note
+Cleveland Fed 16% trimmed-mean CPI,Oct 2026,1m SA,0.4,N/A,N/A,Cleveland Fed Median CPI page / component table; trim_revised.csv (monthly rate),Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv; Price indexes/Trimmed mean/raw/clevelandfed_trim_revised_2026-11-10.csv,No tail-based rate reconstruction; publisher states tails are below 8th and above 92nd percentiles.

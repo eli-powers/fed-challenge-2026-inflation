@@ -1,0 +1,13 @@
+stage4 w_dec2024: units 696, RI 99.950; goods absent from the S2 map (tagged other) 45 units, RI 0.329; unpriced at Dec 2024 7 units, RI 0.099
+stage1 w_dec2024: units 576, RI 99.979; goods absent from the S2 map (tagged other) 32 units, RI 0.593; unpriced at Dec 2024 3 units, RI 0.155
+stage4: units 655, RI sum 99.980; unpriced RI 0.000; goods with unmatched import share RI 0.000 (0.00%); own-index units 547, parent-based/filled 108 (RI 2.781)
+stage4: scrap units (other by fallback) 0, RI 0.000
+stage4: Dec 2025 RI by tag energy 6.23, tariff 20.70, AI 0.53, other 72.52
+stage1: units 557, RI sum 99.991; unpriced RI 0.054; goods with unmatched import share RI 8.256 (8.26%); own-index units 466, parent-based/filled 91 (RI 3.287)
+stage1: scrap units (other by fallback) 12, RI 8.256
+stage1: Dec 2025 RI by tag energy 7.38, tariff 20.37, AI 0.67, other 71.57
+stage4 central: max unpriced RI over Jan 2018-Oct 2026 0.892 (2018-01); in Mar 2025/Feb 2026/Oct 2026: 0.000, 0.000, 0.000
+stage1 central: max unpriced RI over Jan 2018-Oct 2026 2.382 (2018-01); in Mar 2025/Feb 2026/Oct 2026: 0.054, 0.054, 0.054
+published aggregate footnotes (P = preliminary): {('54', '2025-03'): '', ('54', '2026-02'): '', ('54', '2026-10'): 'P', ('51', '2025-03'): '', ('51', '2026-02'): '', ('51', '2026-10'): 'P'}
+energy check stage4: energy-block units 20, group-05 units 20, identical: True
+energy check stage1: energy-block units 24, group-05 units 24, identical: True

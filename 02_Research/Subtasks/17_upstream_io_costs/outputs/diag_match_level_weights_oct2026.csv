@@ -1,0 +1,109 @@
+version,group,match,weight
+central,energy,broader (3-digit),0.05536889254320204
+central,energy,broader (4-digit),0.027130891462032968
+central,energy,broader (5-digit),0.01796466829239499
+central,energy,dropped (no NAICS),0.005054677966202617
+central,energy,dropped (no PPI),0.35705174312947946
+central,energy,exact,0.34264414923265246
+central,energy,exact via NAICS-2022 crosswalk,0.008657289758263157
+central,energy,margin index,0.15526713920310015
+central,energy,sector aggregate,0.030860548412672117
+central,tariff,broader (3-digit),0.033120317396970654
+central,tariff,broader (4-digit),0.0153246521453893
+central,tariff,broader (5-digit),0.010669334840981811
+central,tariff,dropped (no NAICS),0.002888079603364943
+central,tariff,dropped (no PPI),0.07727060643765513
+central,tariff,exact,0.23217387543730877
+central,tariff,exact via NAICS-2022 crosswalk,0.0013730840349981859
+central,tariff,margin index,0.6205217846977167
+central,tariff,sector aggregate,0.006658265405614626
+central,AI,broader (3-digit),0.011652885418520236
+central,AI,broader (4-digit),0.01058146955171069
+central,AI,broader (5-digit),0.0055169260455274274
+central,AI,dropped (no NAICS),0.00103834036495577
+central,AI,dropped (no PPI),0.17388216818820834
+central,AI,exact,0.1995826921498502
+central,AI,exact via NAICS-2022 crosswalk,0.0654739703633768
+central,AI,margin index,0.5252494875068594
+central,AI,sector aggregate,0.0070220604109911015
+central,untagged,broader (3-digit),0.07999930339758807
+central,untagged,broader (4-digit),0.03355360893297432
+central,untagged,broader (5-digit),0.007703040955099709
+central,untagged,dropped (no NAICS),0.004997991313336716
+central,untagged,dropped (no PPI),0.4662071850411447
+central,untagged,exact,0.3028974487323384
+central,untagged,exact via NAICS-2022 crosswalk,0.009772721701456981
+central,untagged,margin index,0.07545025290099325
+central,untagged,sector aggregate,0.01941844702506783
+direct,energy,broader (3-digit),0.04419658382771827
+direct,energy,broader (4-digit),0.022973173471472083
+direct,energy,broader (5-digit),0.021982954944310615
+direct,energy,dropped (no NAICS),0.004585349385181194
+direct,energy,dropped (no PPI),0.358366412398625
+direct,energy,exact,0.3198415464890368
+direct,energy,exact via NAICS-2022 crosswalk,0.006925318754051205
+direct,energy,margin index,0.18968467212669207
+direct,energy,sector aggregate,0.03144398860291289
+direct,tariff,broader (3-digit),0.02207811379819395
+direct,tariff,broader (4-digit),0.008428769267964554
+direct,tariff,broader (5-digit),0.008584052787253504
+direct,tariff,dropped (no NAICS),0.00024716780820608605
+direct,tariff,dropped (no PPI),0.03102952389131964
+direct,tariff,exact,0.18616601392415272
+direct,tariff,exact via NAICS-2022 crosswalk,0.00013559846138392316
+direct,tariff,margin index,0.7407611134488506
+direct,tariff,sector aggregate,0.0025696466126750323
+direct,AI,broader (3-digit),0.0037401371455478265
+direct,AI,broader (4-digit),0.004722235118237879
+direct,AI,broader (5-digit),0.004603165965969552
+direct,AI,dropped (no NAICS),0.00018281751403750456
+direct,AI,dropped (no PPI),0.11813009992965133
+direct,AI,exact,0.15831618677251452
+direct,AI,exact via NAICS-2022 crosswalk,0.06873335339767407
+direct,AI,margin index,0.6393443588710396
+direct,AI,sector aggregate,0.0022276452853278866
+direct,untagged,broader (3-digit),0.06936563494916487
+direct,untagged,broader (4-digit),0.032716505019405484
+direct,untagged,broader (5-digit),0.008007357394113884
+direct,untagged,dropped (no NAICS),0.005416892646600446
+direct,untagged,dropped (no PPI),0.5218782735021142
+direct,untagged,exact,0.2580787436042788
+direct,untagged,exact via NAICS-2022 crosswalk,0.007207767464976094
+direct,untagged,margin index,0.08233651921919656
+direct,untagged,sector aggregate,0.014992306200149557
+summary,energy,broader (3-digit),0.1627063747855152
+summary,energy,broader (4-digit),0.023560982738083516
+summary,energy,broader (5-digit),0.0005208048561903615
+summary,energy,dropped (no NAICS),0.005253332988240399
+summary,energy,dropped (no PPI),0.4370563778034648
+summary,energy,exact,0.0523788713803649
+summary,energy,exact via NAICS-2022 crosswalk,0.00033469018894640725
+summary,energy,margin index,0.15710818771816557
+summary,energy,sector aggregate,0.16108037754102886
+summary,tariff,broader (3-digit),0.15797010586857246
+summary,tariff,broader (4-digit),0.0032166677412402834
+summary,tariff,broader (5-digit),0.00011331776215303326
+summary,tariff,dropped (no NAICS),0.002472760866553732
+summary,tariff,dropped (no PPI),0.10773794951773834
+summary,tariff,exact,0.02362404080132552
+summary,tariff,exact via NAICS-2022 crosswalk,9.999543972632071e-05
+summary,tariff,margin index,0.6296986231239573
+summary,tariff,sector aggregate,0.07506653887873303
+summary,AI,broader (3-digit),0.07497886838349314
+summary,AI,broader (4-digit),0.006228388153141367
+summary,AI,broader (5-digit),8.609148306629928e-05
+summary,AI,dropped (no NAICS),0.0013024974885014005
+summary,AI,dropped (no PPI),0.20870385510303788
+summary,AI,exact,0.025821932815041453
+summary,AI,exact via NAICS-2022 crosswalk,6.393673558094363e-05
+summary,AI,margin index,0.5720584850838123
+summary,AI,sector aggregate,0.11075594475432521
+summary,untagged,broader (3-digit),0.19676162307174933
+summary,untagged,broader (4-digit),0.012692112925792606
+summary,untagged,broader (5-digit),0.00028972293965899695
+summary,untagged,dropped (no NAICS),0.009397883743475891
+summary,untagged,dropped (no PPI),0.5602427077681145
+summary,untagged,exact,0.04690524411657126
+summary,untagged,exact via NAICS-2022 crosswalk,0.00039420769902888023
+summary,untagged,margin index,0.05649851102829019
+summary,untagged,sector aggregate,0.11681798670731838

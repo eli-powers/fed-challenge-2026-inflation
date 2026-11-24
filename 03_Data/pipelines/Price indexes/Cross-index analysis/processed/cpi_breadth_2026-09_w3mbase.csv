@@ -1,0 +1,3 @@
+index,period,share_weight_3m_ann_above_3_w12mbase_official,share_weight_3m_ann_above_3_w3mbase,weights_note,n_components
+CPI headline,2026-09,54.61368388005199,55.47942344042578,w3mbase: published weights at the start of the 3-month window (exact); w12mbase_official: as in breadth.csv,171
+CPI core,2026-09,58.30658278447498,59.0352881599661,w3mbase: published weights at the start of the 3-month window (exact); w12mbase_official: as in breadth.csv,107

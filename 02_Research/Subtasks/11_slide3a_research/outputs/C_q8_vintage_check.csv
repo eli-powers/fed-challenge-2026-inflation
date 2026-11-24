@@ -1,0 +1,23 @@
+series,vintage,month,yoy_pct,source_file
+PCEPI,2021-05-01,2021-02,1.522,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPI_asof_2021-05-01.json
+PCEPI,2021-05-01,2021-03,2.319,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPI_asof_2021-05-01.json
+PCEPI,2021-06-01,2021-02,1.57,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPI_asof_2021-06-01.json
+PCEPI,2021-06-01,2021-03,2.412,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPI_asof_2021-06-01.json
+PCEPI,2021-06-01,2021-04,3.581,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPI_asof_2021-06-01.json
+PCEPI,2026-09-29,2021-02,1.843,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPI_asof_2026-09-29.json
+PCEPI,2026-09-29,2021-03,2.669,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPI_asof_2026-09-29.json
+PCEPI,2026-09-29,2021-04,3.64,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPI_asof_2026-09-29.json
+PCEPI,current (2026-11-15 fetch),2021-02,1.786,03_Data/Raw/S3A_expectations_underlying_2026-11-15/FRED_PCEPI_2026-11-15.json
+PCEPI,current (2026-11-15 fetch),2021-03,2.635,03_Data/Raw/S3A_expectations_underlying_2026-11-15/FRED_PCEPI_2026-11-15.json
+PCEPI,current (2026-11-15 fetch),2021-04,3.578,03_Data/Raw/S3A_expectations_underlying_2026-11-15/FRED_PCEPI_2026-11-15.json
+PCEPILFE,2021-05-01,2021-02,1.372,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPILFE_asof_2021-05-01.json
+PCEPILFE,2021-05-01,2021-03,1.833,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPILFE_asof_2021-05-01.json
+PCEPILFE,2021-06-01,2021-02,1.428,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPILFE_asof_2021-06-01.json
+PCEPILFE,2021-06-01,2021-03,1.941,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPILFE_asof_2021-06-01.json
+PCEPILFE,2021-06-01,2021-04,3.062,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPILFE_asof_2021-06-01.json
+PCEPILFE,2026-09-29,2021-02,1.709,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPILFE_asof_2026-09-29.json
+PCEPILFE,2026-09-29,2021-03,2.199,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPILFE_asof_2026-09-29.json
+PCEPILFE,2026-09-29,2021-04,3.131,03_Data/Raw/S3A_expectations_underlying_2026-11-15/ALFRED_PCEPILFE_asof_2026-09-29.json
+PCEPILFE,current (2026-11-15 fetch),2021-02,1.646,03_Data/Raw/S3A_expectations_underlying_2026-11-15/FRED_PCEPILFE_2026-11-15.json
+PCEPILFE,current (2026-11-15 fetch),2021-03,2.134,03_Data/Raw/S3A_expectations_underlying_2026-11-15/FRED_PCEPILFE_2026-11-15.json
+PCEPILFE,current (2026-11-15 fetch),2021-04,3.068,03_Data/Raw/S3A_expectations_underlying_2026-11-15/FRED_PCEPILFE_2026-11-15.json

@@ -1,0 +1,1213 @@
+code,series,name,ri,tag,rule,import_share,naics_2017,bea_match,price_source,n_filled_months,priced,stage
+011101,WPU011101,Citrus fruits,0.032,tariff,"goods, import share 0.394 >= 0.15 (BEA 111300)",0.39392518601569665,1113,111300,own,0,True,stage4
+011102,WPU011102,Other fruits and berries,0.182,tariff,"goods, import share 0.394 >= 0.15 (BEA 111300)",0.39392518601569665,1113,111300,own,0,True,stage4
+011103,WPU011103,Melons,0.002,tariff,"goods, import share 0.311 >= 0.15 (BEA 111200)",0.3113952195664258,1112,111200,own+fill WPU0111,43,True,stage4
+011301,WPU011301,Dry vegetables,0.001,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111130,1111B0,own,0,True,stage4
+011302,WPU011302,"Fresh vegetables, except potatoes",0.036,tariff,"goods, import share 0.311 >= 0.15 (BEA 111200)",0.3113952195664258,1112,111200,own,0,True,stage4
+011303,WPU011303,Sweet potatoes,0.001,tariff,"goods, import share 0.311 >= 0.15 (BEA 111200)",0.3113952195664258,1112,111200,own,0,True,stage4
+011306,WPU011306,Potatoes,0.007,tariff,"goods, import share 0.311 >= 0.15 (BEA 111200)",0.3113952195664258,1112,111200,own,0,True,stage4
+011901,WPU011901,Tree nuts,0.068,tariff,"goods, import share 0.394 >= 0.15 (BEA 111300)",0.39392518601569665,111335,111300,own,0,True,stage4
+012101,WPU012101,Wheat,0.04,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111140,1111B0,own,0,True,stage4
+012201,WPU012201,Barley,0.003,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111199,1111B0,own,0,True,stage4
+012202,WPU012202,Corn,0.262,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111150,1111B0,own,0,True,stage4
+012203,WPU012203,Oats,0.0,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111199,1111B0,own,0,True,stage4
+012204,WPU012204,Rye,0.0,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111199,1111B0,own+fill WPU0122,105,True,stage4
+012205,WPU012205,Sorghum,0.006,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111199,1111B0,own,0,True,stage4
+012301,WPU012301,Rough rice,0.012,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111160,1111B0,own,0,True,stage4
+013201,WPU013201,Slaughter barrows and gilts,0.08800000000000001,other,"goods, import share 0.126 < 0.15",0.12605506034550762,112210,112A00,own,0,True,stage4
+013202,WPU013202,Slaughter sows,0.003,other,"goods, import share 0.126 < 0.15",0.12605506034550762,112210,112A00,own,0,True,stage4
+013301,WPU013301,Slaughter lambs,0.005,other,"goods, import share 0.126 < 0.15",0.12605506034550762,112410,112A00,own,0,True,stage4
+014102,WPU014102,Broilers and other meat type chickens,0.032,other,"goods, import share 0.002 < 0.15",0.002304199516569905,112320,112300,own,0,True,stage4
+014201,WPU014201,Slaughter turkeys,0.007,other,"goods, import share 0.002 < 0.15",0.002304199516569905,112330,112300,own,0,True,stage4
+014301,WPU014301,Slaughter ducks,0.001,other,"goods, import share 0.002 < 0.15",0.002304199516569905,112390,112300,own,0,True,stage4
+016101,WPU016101,Raw milk,0.023,other,"goods, import share 0.000 < 0.15",0.0002361275088547816,112120,112120,own,0,True,stage4
+017108,WPU017108,Breaker stock and checks and undergrades,0.004,other,"goods, import share 0.002 < 0.15",0.002304199516569905,112310,112300,own,0,True,stage4
+018301,WPU018301,Oilseeds,0.027999999999999997,other,"goods, import share 0.025 < 0.15",0.024765333676224764,111110;111120,1111A0,own,0,True,stage4
+021121,WPU021121,"Cookies, crackers, and related products",0.003,other,"goods, import share 0.036 < 0.15",0.036304436304436305,311821,3118A0,own,0,True,stage4
+021203,WPU021203,Wheat flour,0.10099999999999999,other,"goods, import share 0.095 < 0.15",0.09528358208955223,311211,311210,own,0,True,stage4
+021204,WPU021204,Flour base mixes and doughs,0.051,other,"goods, import share 0.036 < 0.15",0.036304436304436305,311824,3118A0,own,0,True,stage4
+021301,WPU021301,Head rice,0.011,other,"goods, import share 0.095 < 0.15",0.09528358208955223,311212,311210,own,0,True,stage4
+021302,WPU021302,"Milled rice (incl second heads, screenings, brewers, bran, sharps, rice flour, and byproducts)",0.008,other,"goods, import share 0.095 < 0.15",0.09528358208955223,311212,311210,own,0,True,stage4
+021402,WPU021402,"Dry macaroni, spaghetti, and egg noodle products, made from purchased flour",0.001,other,"goods, import share 0.036 < 0.15",0.036304436304436305,311824,3118A0,own,0,True,stage4
+021409,WPU021409,"Cereal and mill products, other than flour",0.11699999999999999,other,"goods, import share 0.078 < 0.15",0.07809815492642115,311230;311211,311210;311230,own,0,True,stage4
+022101,WPU022101,"Beef and veal products, fresh or frozen",0.464,other,"goods, import share 0.059 < 0.15",0.059385075493245676,311611,31161A,own,0,True,stage4
+022103,WPU022103,"Lamb/mutton, fresh or frozen, not canned or made into sausage, made in slaughtering plants",0.004,other,"goods, import share 0.059 < 0.15",0.059385075493245676,311611,31161A,own+fill WPU0221,17,True,stage4
+022104,WPU022104,"Pork products, fresh, frozen, or processed, except sausage",0.252,other,"goods, import share 0.059 < 0.15",0.059385075493245676,311611;311612,31161A,own,0,True,stage4
+022105,WPU022105,"Other meats, fresh, frozen, or canned",0.346,other,"goods, import share 0.059 < 0.15",0.059385075493245676,311611;311612,31161A,own,0,True,stage4
+022203,WPU022203,"Young chickens, including bulk, chilled, frozen, whole, and in parts",0.23,other,"goods, import share 0.007 < 0.15",0.007133022819814277,311615,311615,own,0,True,stage4
+022206,WPU022206,"Turkeys, including frozen, whole, and in parts",0.08399999999999999,other,"goods, import share 0.007 < 0.15",0.007133022819814277,311615,311615,own,0,True,stage4
+022208,WPU022208,"Canned, cooked, smoked or prepared poultry",0.122,other,"goods, import share 0.007 < 0.15",0.007133022819814277,311615,311615,own,0,True,stage4
+022209,WPU022209,Chicken hens and other poultry/small game,0.026,other,"goods, import share 0.007 < 0.15",0.007133022819814277,311615,311615,own+fill WPU0222,17,True,stage4
+022301,WPU022301,Unprocessed finfish,0.021,tariff,"goods, import share 0.621 >= 0.15 (BEA 114000)",0.6214455461771695,114111,114000,own,0,True,stage4
+022304,WPU022304,"Canned seafood (including soups, stews, and chowders)",0.022000000000000002,tariff,"goods, import share 0.247 >= 0.15 (BEA 311700)",0.2468154599891127,311710,311700,own+fill WPU0223,46,True,stage4
+022305,WPU022305,Unprocessed shellfish,0.034,tariff,"goods, import share 0.621 >= 0.15 (BEA 114000)",0.6214455461771695,114112,114000,own+fill WPU0223,1,True,stage4
+022306,WPU022306,Prepared fresh and frozen seafood,0.189,tariff,"goods, import share 0.247 >= 0.15 (BEA 311700)",0.2468154599891127,311710,311700,own,0,True,stage4
+023302,WPU023302,"Natural cheese, except cottage cheese",0.28800000000000003,other,"goods, import share 0.030 < 0.15",0.03001935998177884,311513,311513,own,0,True,stage4
+023303,WPU023303,Processed cheese and related products,0.061,other,"goods, import share 0.030 < 0.15",0.03001935998177884,311513,311513,own,0,True,stage4
+023304,WPU023304,Cheese substitutes and imitations,0.004,other,"goods, import share 0.030 < 0.15",0.03001935998177884,311513,311513,own+fill WPU0233,22,True,stage4
+023307,WPU023307,Raw liquid whey,0.005,other,"goods, import share 0.030 < 0.15",0.03001935998177884,311513,311513,own,0,True,stage4
+023502,WPU023502,"Dry milk products, including feed grade",0.035,other,"goods, import share 0.048 < 0.15",0.04769054137596043,311514,311514,own,0,True,stage4
+023503,WPU023503,Liquid milk products,0.01,other,"goods, import share 0.026 < 0.15",0.025602082881319158,311514;311511,311514;31151A,own,0,True,stage4
+023505,WPU023505,Ice cream mixes and related products,0.004,other,"goods, import share 0.010 < 0.15",0.009738942242661978,311520,311520,own,0,True,stage4
+024101,WPU024101,"Canned fruits, excluding baby foods",0.011,tariff,"goods, import share 0.155 >= 0.15 (BEA 311420)",0.15479209735512883,311421,311420,own,0,True,stage4
+024102,WPU024102,"Canned and fresh fruit juices, nectars, and concentrates",0.019,other,"goods, import share 0.130 < 0.15",0.13019310244822002,311421;311411,311410;311420,own,0,True,stage4
+024202,WPU024202,Frozen fruits,0.0,other,"goods, import share 0.098 < 0.15",0.09798230681215639,311411,311410,own,0,True,stage4
+024203,WPU024203,"Frozen juices, ades, drinks, and cocktails, including orange juice",0.001,other,"goods, import share 0.098 < 0.15",0.09798230681215639,311411,311410,own+fill WPU0242,81,True,stage4
+024401,WPU024401,Canned vegetables and juices,0.039,tariff,"goods, import share 0.155 >= 0.15 (BEA 311420)",0.15479209735512883,311421,311420,own,0,True,stage4
+024502,WPU024502,"Frozen potato products (French-fried, patties, puffs, etc.)",0.003,other,"goods, import share 0.098 < 0.15",0.09798230681215639,311411,311410,own,0,True,stage4
+024505,WPU024505,"Frozen vegetables, other than potato products",0.003,other,"goods, import share 0.098 < 0.15",0.09798230681215639,311411,311410,own,0,True,stage4
+024801,WPU024801,Dried and dehydrated food,0.016,tariff,"goods, import share 0.155 >= 0.15 (BEA 311420)",0.15479209735512883,311423,311420,own,0,True,stage4
+025201,WPU025201,Raw cane sugar and sugarcane mill products and byproducts,0.036000000000000004,tariff,"goods, import share 0.169 >= 0.15 (BEA 311300)",0.16940965619740783,311314,311300,own,0,True,stage4
+025307,WPU025307,Refined sugar products and byproducts,0.08600000000000001,tariff,"goods, import share 0.169 >= 0.15 (BEA 311300)",0.16940965619740783,311313;311314,311300,own,0,True,stage4
+025401,WPU025401,Confectionery materials,0.17099999999999999,tariff,"goods, import share 0.169 >= 0.15 (BEA 311300)",0.16940965619740783,3113,311300,own,0,True,stage4
+025502,WPU025502,"Chewing gum, bubble gum, and chewing gum base",0.004,tariff,"goods, import share 0.169 >= 0.15 (BEA 311300)",0.16940965619740783,311340,311300,own+fill WPU0255,67,True,stage4
+025503,WPU025503,Candy and nuts,0.116,other,"goods, import share 0.126 < 0.15",0.12609118458546292,311340;311351;311352;311911,311300;311910,own,0,True,stage4
+026301,WPU026301,"Coffee (whole bean, ground, & instant)",0.018,other,"goods, import share 0.138 < 0.15",0.13776368577714507,311920,311920,own,0,True,stage4
+026303,WPU026303,"Tea in consumer packages, exc. canned ice tea",0.001,other,"goods, import share 0.138 < 0.15",0.13776368577714507,311920,311920,own,0,True,stage4
+026401,WPU026401,Other beverage materials,0.22499999999999998,tariff,"goods, import share 0.174 >= 0.15 (BEA 311930)",0.17408679800883406,311930,311930,own,0,True,stage4
+027101,WPU027101,"Lard, made in slaughtering plants",0.002,other,"goods, import share 0.059 < 0.15",0.059385075493245676,311611,31161A,parent WPU0271+fill WPU027,130,True,stage4
+027801,WPU027801,"Shortening, cooking oil, and margarine",0.129,other,"goods, import share 0.023 < 0.15",0.02308221196346135,311225,311225,own,0,True,stage4
+027A01,WPU027A01,Other oilseed processing,0.131,tariff,"goods, import share 0.202 >= 0.15 (BEA 311224)",0.20159074093647605,311224,311224,own,0,True,stage4
+027B01,WPU027B01,"Corn oil, made by wet milling",0.038,other,"goods, import share 0.076 < 0.15",0.07608543906184559,311221,311221,own+fill WPU027,29,True,stage4
+028101,WPU028101,"Canned jams, jellies, and preserves",0.005,tariff,"goods, import share 0.155 >= 0.15 (BEA 311420)",0.15479209735512883,311421,311420,own,0,True,stage4
+028201,WPU028201,Pickles and other pickled products,0.005,tariff,"goods, import share 0.155 >= 0.15 (BEA 311420)",0.15479209735512883,311421,311420,own,0,True,stage4
+028301,WPU028301,"Processed eggs (dried, frozen, or liquid)",0.013999999999999999,other,"goods, import share 0.101 < 0.15",0.10141708373165383,311999,311990,own+fill WPU0283+fill WPU028,58,True,stage4
+028401,WPU028401,Specialty canning,0.022,tariff,"goods, import share 0.155 >= 0.15 (BEA 311420)",0.15479209735512883,311422,311420,own,0,True,stage4
+028501,WPU028501,Frozen specialty food,0.006,other,"goods, import share 0.098 < 0.15",0.09798230681215639,311412,311410,own,0,True,stage4
+028601,WPU028601,"Prepared sauces, excluding tomato-based sauces and sauces comprised of 20 percent or more meat",0.047,other,"goods, import share 0.098 < 0.15",0.09838258543110787,311941,311940,own,0,True,stage4
+028901,WPU028901,Other miscellaneous processed foods,0.75,other,"goods, import share 0.106 < 0.15",0.10589964941380481,3119,311910;311920;311930;311940;311990,own,0,True,stage4
+029201,WPU029201,"Soybean cake, meal, and byproducts",0.181,tariff,"goods, import share 0.202 >= 0.15 (BEA 311224)",0.20159074093647605,311224,311224,own,0,True,stage4
+029403,WPU029403,Miscellaneous feedstuffs other than pet food,0.22299999999999998,other,"goods, import share 0.020 < 0.15",0.020047732696897375,311119,311119,own,0,True,stage4
+057103,WPU057103,Unleaded premium gasoline,0.113,energy,BLS energy (group 05),,324110,324110,own,0,True,stage4
+057104,WPU057104,Unleaded regular gasoline,0.389,energy,BLS energy (group 05),,324110,324110,own,0,True,stage4
+057105,WPU057105,Unleaded mid-premium gasoline,0.008,energy,BLS energy (group 05),,324110,324110,own,0,True,stage4
+057407,WPU057407,"Residual fuels (heavy fuel oils, incl. #5, #6, & other residual fuels)",0.048,energy,BLS energy (group 05),,324110,324110,own,0,True,stage4
+057603,WPU057603,Lubricating grease,0.013000000000000001,energy,BLS energy (group 05),,324191,324190,own+fill WPU0576,52,True,stage4
+057604,WPU057604,Lubricating and similar oils,0.11100000000000002,energy,BLS energy (group 05),,324191,324190,own,0,True,stage4
+058103,WPU058103,"Other petroleum and coal products, including coke oven products, n.e.c.",0.196,energy,BLS energy (group 05),,324199;324110,324110;324190,own,0,True,stage4
+015101,WPU015101,Raw cotton,0.048999999999999995,other,"goods, import share 0.061 < 0.15",0.060718196578937435,111920,111900,own,0,True,stage4
+018101,WPU018101,Hay and hayseeds,0.064,other,"goods, import share 0.061 < 0.15",0.060718196578937435,111940,111900,own,0,True,stage4
+026102,WPU026102,"Distilled and bottled liquor, excluding brandy",0.11800000000000001,tariff,"goods, import share 0.250 >= 0.15 (BEA 312140)",0.2501080252975606,312140,312140,own,0,True,stage4
+031504,WPU031504,Noncellulosic and cellulosic organic fibers,0.042,tariff,"goods, import share 0.188 >= 0.15 (BEA 3252A0)",0.18766591790892384,325220,3252A0,own+fill WPU0315,76,True,stage4
+032601,WPU032601,Spun cotton yarns,0.013000000000000001,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,own+fill WPU0326,1,True,stage4
+032603,WPU032603,Spun synthetic yarns,0.004,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,own+fill WPU0326,1,True,stage4
+032604,WPU032604,Textured and twisted yarns,0.019,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,own,0,True,stage4
+032607,WPU032607,Other spun noncellulosic and natural fiber (excluding cotton and wool) yarns,0.003,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,own,0,True,stage4
+032608,WPU032608,"Spun wool yarns, including new, reused, and reprocessed",0.001,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,parent WPU0326,130,True,stage4
+032705,WPU032705,Thread,0.001,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,own+fill WPU032,54,True,stage4
+033701,WPU033701,Greige cotton broadwoven fabrics,0.009000000000000001,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313210,313200,own+fill WPU0337,99,True,stage4
+033703,WPU033703,"Greige manmade, silk, and other natural fiber (exc cotton/wool) broadwoven fabrics",0.015,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313210,313200,own,0,True,stage4
+033803,WPU033803,"Weft (circular) knit fabrics, greige goods (excluding hosiery)",0.002,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313240,313200,own+fill WPU0338,1,True,stage4
+033804,WPU033804,"Warp knit fabrics, greige goods (excluding hosiery)",0.002,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313240,313200,own,0,True,stage4
+033901,WPU033901,Tire cord and tire fabrics,0.015000000000000001,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313210,313200,own+fill WPU033,7,True,stage4
+034201,WPU034201,Finished cotton broadwoven fabrics,0.008,tariff,"goods, import share 0.154 >= 0.15 (BEA 313300)",0.15419590787782939,313310,313300,own+fill WPU0342,1,True,stage4
+034202,WPU034202,Finished wool broadwoven fabrics and felts,0.001,tariff,"goods, import share 0.154 >= 0.15 (BEA 313300)",0.15419590787782939,313310,313300,own+fill WPU0342,94,True,stage4
+034203,WPU034203,"Finished manmade, silk, and other natural fiber (exc. cotton and wool) broadwoven fabrics",0.016,tariff,"goods, import share 0.154 >= 0.15 (BEA 313300)",0.15419590787782939,313310,313300,own,0,True,stage4
+034503,WPU034503,Nonwoven fabrics and felts,0.046,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313230,313200,own,0,True,stage4
+034601,WPU034601,"Coated fabrics, not rubberized",0.020999999999999998,tariff,"goods, import share 0.154 >= 0.15 (BEA 313300)",0.15419590787782939,313320,313300,own,0,True,stage4
+034701,WPU034701,Screen printed textile and apparel materials and embroideries,0.084,tariff,"goods, import share 0.154 >= 0.15 (BEA 313300)",0.15419590787782939,313310,313300,own,0,True,stage4
+034702,WPU034702,"Lace & net goods, all leavers & Nottingham lace machine products, incl. bobbinets/barmen laces",0.0,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313240,313200,parent WPU0347,130,True,stage4
+034801,WPU034801,"Weft (circular) knit fabrics, knit and finished in the same establishment (excluding hosiery)",0.003,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313240,313200,own+fill WPU0348,11,True,stage4
+034802,WPU034802,"Warp knit goods, knit and finished in the same establishment",0.003,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313240,313200,own,0,True,stage4
+038104,WPU038104,Miscellaneous apparel and accessories,0.0,tariff,"goods, import share 0.895 >= 0.15 (BEA 315000)",0.8946861308560728,315990,315000,own,0,True,stage4
+038203,WPU038203,Textile house furnishings,0.03,tariff,"goods, import share 0.547 >= 0.15 (BEA 314110,314120)",0.5474281897127589,314120;314110,314110;314120,own,0,True,stage4
+038303,WPU038303,Industrial and other fabricated products,0.113,tariff,"goods, import share 0.450 >= 0.15 (BEA 314900)",0.4498743367774365,3149,314900,own,0,True,stage4
+039401,WPU039401,Miscellaneous textile products/services,0.023,tariff,"goods, import share 0.450 >= 0.15 (BEA 314900)",0.4498743367774365,3149,314900,own+fill WPU039,32,True,stage4
+061302,WPU061302,"Inorganic chemicals, other than alkalies and chlorine",0.108,tariff,"goods, import share 0.208 >= 0.15 (BEA 325180)",0.20843538055764882,325180,325180,own,0,True,stage4
+061303,WPU061303,"Alkalies and chlorine, including natural sodium carbonate and sulfate",0.025,tariff,"goods, import share 0.208 >= 0.15 (BEA 325180)",0.20843538055764882,325180,325180,own,0,True,stage4
+061401,WPU061401,Primary basic organic chemicals,0.017,other,"goods, import share 0.098 < 0.15",0.09751073991248096,325110;324110,324110;325110,own,0,True,stage4
+061402,WPU061402,Cyclic intermediate chemicals and dyes,0.013999999999999999,other,"goods, import share 0.108 < 0.15",0.10840539165818922,325110;325130,325110;325130,own,0,True,stage4
+061403,WPU061403,Other basic organics,0.22899999999999998,tariff,"goods, import share 0.214 >= 0.15 (BEA 325190)",0.21379245800159102,325199;325193,325190,own,0,True,stage4
+062101,WPU062101,Architectural coatings,0.274,other,"goods, import share 0.044 < 0.15",0.04385686585580822,325510,325510,own,0,True,stage4
+062102,WPU062102,OEM finishes excluding marine coatings,0.121,other,"goods, import share 0.044 < 0.15",0.04385686585580822,325510,325510,own,0,True,stage4
+062103,WPU062103,"Special purpose coatings, incl. marine, industrial & construction coatings",0.10300000000000001,other,"goods, import share 0.044 < 0.15",0.04385686585580822,325510,325510,own,0,True,stage4
+062204,WPU062204,Kaolin and ball clay,0.007,other,"goods, import share 0.118 < 0.15",0.11778304682868998,212324,2123A0,own+fill WPU0622,37,True,stage4
+062301,WPU062301,Allied and miscellaneous paint products,0.038000000000000006,other,"goods, import share 0.044 < 0.15",0.04385686585580822,325510,325510,own,0,True,stage4
+063102,WPU063102,"Medicinal and botanical chemicals, drugs, and other products",0.307,other,"goods, import share 0.008 < 0.15",0.008370436331255565,325411,325411,own,0,True,stage4
+063717,WPU063717,"Biological products, excluding diagnostic, for veterinary, industrial, and all other misc. uses",0.244,tariff,"goods, import share 0.621 >= 0.15 (BEA 325414)",0.6212686115482388,325414,325414,own,0,True,stage4
+063719,WPU063719,"Biological products, excluding diagnostic, for human use",0.48,tariff,"goods, import share 0.621 >= 0.15 (BEA 325414)",0.6212686115482388,325414,325414,own,0,True,stage4
+064101,WPU064101,"Fats and oils, inedible",0.218,other,"goods, import share 0.059 < 0.15",0.059385075493245676,311613,31161A,own,0,True,stage4
+065105,WPU065105,Mixed fertilizers,0.037000000000000005,tariff,"goods, import share 0.280 >= 0.15 (BEA 325310)",0.28008063500062996,325314,325310,own,0,True,stage4
+065201,WPU065201,Nitrogenates,0.047,tariff,"goods, import share 0.280 >= 0.15 (BEA 325310)",0.28008063500062996,325311,325310,own,0,True,stage4
+065202,WPU065202,Phosphates,0.052000000000000005,tariff,"goods, import share 0.280 >= 0.15 (BEA 325310)",0.28008063500062996,325312,325310,own,0,True,stage4
+065301,WPU065301,Other agricultural chemicals,0.038,other,"goods, import share 0.110 < 0.15",0.10981598721969114,325320,325320,own,0,True,stage4
+067104,WPU067104,Soaps and other detergents,0.025,other,"goods, import share 0.083 < 0.15",0.08297095146982084,325611,325610,own,0,True,stage4
+067201,WPU067201,Polish and other sanitation goods,0.008,other,"goods, import share 0.083 < 0.15",0.08297095146982084,325612,325610,own,0,True,stage4
+067502,WPU067502,Shaving preparations,0.001,tariff,"goods, import share 0.177 >= 0.15 (BEA 325620)",0.17691323487953506,325620,325620,own+fill WPU0675,18,True,stage4
+067503,WPU067503,"Perfumes, toilet waters, and colognes",0.002,tariff,"goods, import share 0.177 >= 0.15 (BEA 325620)",0.17691323487953506,325620,325620,own+fill WPU0675,13,True,stage4
+067504,WPU067504,Hair preparations (including shampoos),0.004,tariff,"goods, import share 0.177 >= 0.15 (BEA 325620)",0.17691323487953506,325620,325620,own,0,True,stage4
+067505,WPU067505,"Toothpastes, denture cleaners, and mouthwashes",0.008,tariff,"goods, import share 0.177 >= 0.15 (BEA 325620)",0.17691323487953506,325620,325620,own,0,True,stage4
+067514,WPU067514,"Creams, lotions, and oils, excluding shaving, hair, and deodorant",0.006,tariff,"goods, import share 0.177 >= 0.15 (BEA 325620)",0.17691323487953506,325620,325620,own,0,True,stage4
+067515,WPU067515,Other cosmetics and toilet preparations,0.011,tariff,"goods, import share 0.177 >= 0.15 (BEA 325620)",0.17691323487953506,325620,325620,own,0,True,stage4
+067902,WPU067902,Explosives and blasting accessories,0.011,other,"goods, import share 0.123 < 0.15",0.1228434881378453,325920,3259A0,own,0,True,stage4
+067904,WPU067904,Adhesives and sealants,0.162,other,"goods, import share 0.043 < 0.15",0.043207547169811324,325520,325520,own,0,True,stage4
+067905,WPU067905,Surface active agents,0.025,other,"goods, import share 0.083 < 0.15",0.08297095146982084,325613,325610,own,0,True,stage4
+067906,WPU067906,"Gum and wood chemicals, including wood distillation products",0.003,tariff,"goods, import share 0.214 >= 0.15 (BEA 325190)",0.21379245800159102,325194,325190,own,0,True,stage4
+067909,WPU067909,Other miscellaneous chemical products,0.105,other,"goods, import share 0.123 < 0.15",0.1228434881378453,325998,3259A0,own,0,True,stage4
+071102,WPU071102,Synthetic rubber,0.009,tariff,"goods, import share 0.188 >= 0.15 (BEA 3252A0)",0.18766591790892384,325212,3252A0,own,0,True,stage4
+071201,WPU071201,Tires,0.213,tariff,"goods, import share 0.430 >= 0.15 (BEA 326210)",0.4297083030743161,326211,326210,own,0,True,stage4
+071203,WPU071203,"Tread rubber, tire sundries, and repair materials",0.012,tariff,"goods, import share 0.326 >= 0.15 (BEA 326210,326290)",0.3260910038725052,326212;326299,326210;326290,own+fill WPU0712,2,True,stage4
+071303,WPU071303,Rubber and plastic belts and belting,0.032,tariff,"goods, import share 0.356 >= 0.15 (BEA 326220)",0.3562357538261153,326220,326220,own,0,True,stage4
+071304,WPU071304,Rubber and plastics hose,0.035,tariff,"goods, import share 0.356 >= 0.15 (BEA 326220)",0.3562357538261153,326220,326220,own,0,True,stage4
+071306,WPU071306,"Miscellaneous rubber products, n.e.c.",0.22499999999999998,tariff,"goods, import share 0.160 >= 0.15 (BEA 326290)",0.16037553232675184,326299,326290,own,0,True,stage4
+072106,WPU072106,Plastics construction products,0.744,tariff,"goods, import share 0.178 >= 0.15 (BEA 326120,326190)",0.17785667715508688,326122;326191;326199,326120;326190,own,0,True,stage4
+072205,WPU072205,"Unsupported plastics film, sheet, and other shapes",0.21,other,"goods, import share 0.095 < 0.15",0.09453055351361496,326113;326121,326110;326120,own,0,True,stage4
+072304,WPU072304,"Laminated plastics plates, sheet (except packaging), and shapes",0.04,other,"goods, import share 0.000 < 0.15",0.0,326130,326130,own,0,True,stage4
+072601,WPU072601,Parts for transportation equipment,0.322,tariff,"goods, import share 0.195 >= 0.15 (BEA 326190)",0.19477794805812115,326199,326190,own,0,True,stage4
+072602,WPU072602,Other parts and components for manufacturing,0.10799999999999998,tariff,"goods, import share 0.195 >= 0.15 (BEA 326190)",0.19477794805812115,326199,326190,own,0,True,stage4
+072603,WPU072603,Foam components for furniture,0.09799999999999999,other,"goods, import share 0.000 < 0.15",0.0,326150;326140,326140;326150,own,0,True,stage4
+072901,WPU072901,Other plastics products,0.165,tariff,"goods, import share 0.195 >= 0.15 (BEA 326190)",0.19477794805812115,326199,326190,own,0,True,stage4
+072A01,WPU072A01,Plastics packaging products,0.678,other,"goods, import share 0.101 < 0.15",0.10070187752237235,326111;326112;326160,326110;326160,own,0,True,stage4
+072B01,WPU072B01,"All other consumer, institutional, and commercial products",0.05499999999999999,tariff,"goods, import share 0.195 >= 0.15 (BEA 326190)",0.19477794805812115,326199,326190,own,0,True,stage4
+081106,WPU081106,"Softwood lumber, not edge worked",0.126,tariff,"goods, import share 0.176 >= 0.15 (BEA 321100)",0.1759191345007793,321113,321100,own,0,True,stage4
+081108,WPU081108,"Softwood lumber, made from purchased lumber, cut stock, and dimension",0.043000000000000003,other,"goods, import share 0.102 < 0.15",0.101560260452926,321912,321910,own+fill WPU0811,112,True,stage4
+081204,WPU081204,Hardwood flooring,0.032,other,"goods, import share 0.102 < 0.15",0.101560260452926,321918,321910,own,0,True,stage4
+081205,WPU081205,"Hardwood lumber, not edge worked",0.062,tariff,"goods, import share 0.176 >= 0.15 (BEA 321100)",0.1759191345007793,321113,321100,own,0,True,stage4
+081207,WPU081207,"Hardwood lumber, made from purchased lumber, cut stock, and dimension",0.048,other,"goods, import share 0.102 < 0.15",0.101560260452926,321912,321910,own+fill WPU0812,112,True,stage4
+082101,WPU082101,General millwork,0.777,other,"goods, import share 0.102 < 0.15",0.101560260452926,32191,321910,own,0,True,stage4
+082201,WPU082201,Prefabricated structural members,0.23600000000000002,tariff,"goods, import share 0.234 >= 0.15 (BEA 321200)",0.23379651812809454,321213;321214,321200,own,0,True,stage4
+083103,WPU083103,Softwood veneer and plywood,0.09000000000000001,tariff,"goods, import share 0.234 >= 0.15 (BEA 321200)",0.23379651812809454,321212;321211,321200,own,0,True,stage4
+083501,WPU083501,Hardwood veneer and plywood,0.079,tariff,"goods, import share 0.234 >= 0.15 (BEA 321200)",0.23379651812809454,321211,321200,own,0,True,stage4
+084101,WPU084101,Wood pallets and pallet containers,0.056,other,"goods, import share 0.131 < 0.15",0.13096222773642127,321920,3219A0,own,0,True,stage4
+084201,WPU084201,Wood boxes,0.009000000000000001,other,"goods, import share 0.131 < 0.15",0.13096222773642127,321920,3219A0,own,0,True,stage4
+084903,WPU084903,"Wood ties, siding, shingles, and shakes, and contract sawing of logs owned by others",0.005,other,"goods, import share 0.149 < 0.15",0.14923508751304246,321113;321912,321100;321910,own+fill WPU0849,17,True,stage4
+084904,WPU084904,"Sawn wood fence stock, wood lath, and contract resawing and planing",0.01,other,"goods, import share 0.149 < 0.15",0.14923508751304246,321912;321113,321100;321910,own,0,True,stage4
+084909,WPU084909,All other miscellaneous wood products,0.045,other,"goods, import share 0.131 < 0.15",0.13096222773642127,321999,3219A0,own,0,True,stage4
+085105,WPU085105,"Logs, bolts, timber, pulpwood and wood chips",0.022000000000000002,other,"goods, import share 0.109 < 0.15",0.10904533110507625,113310,113000,own,0,True,stage4
+086101,WPU086101,Prefabricated wood buildings and components,0.040999999999999995,other,"goods, import share 0.131 < 0.15",0.13096222773642127,321992,3219A0,own,0,True,stage4
+087101,WPU087101,Treated wood,0.067,tariff,"goods, import share 0.176 >= 0.15 (BEA 321100)",0.1759191345007793,321114,321100,own,0,True,stage4
+087102,WPU087102,Contract wood preservation,0.003,tariff,"goods, import share 0.176 >= 0.15 (BEA 321100)",0.1759191345007793,321114,321100,own,0,True,stage4
+091301,WPU091301,Writing and printing papers,0.039,tariff,"goods, import share 0.183 >= 0.15 (BEA 322120)",0.18279618091353267,322121,322120,own,0,True,stage4
+091303,WPU091303,Packaging and industrial converting paper,0.1,tariff,"goods, import share 0.183 >= 0.15 (BEA 322120)",0.18279618091353267,322121,322120,own,0,True,stage4
+091305,WPU091305,All other coated and processed papers,0.02,tariff,"goods, import share 0.192 >= 0.15 (BEA 322120,322220)",0.191616428299143,322220;322121,322120;322220,own,0,True,stage4
+091405,WPU091405,"Corrugated paperboard in sheets and rolls, lined and unlined",0.123,other,"goods, import share 0.034 < 0.15",0.033650260999254285,322211,322210,own,0,True,stage4
+091502,WPU091502,"Paper, plastic, and foil bags",0.101,tariff,"goods, import share 0.207 >= 0.15 (BEA 322220)",0.2066308038609744,322220,322220,own,0,True,stage4
+091503,WPU091503,Paper boxes and containers,0.8400000000000001,other,"goods, import share 0.034 < 0.15",0.033650260999254285,322211;322212;322219,322210,own,0,True,stage4
+091504,WPU091504,"Other corrugated and solid fiber products, including containers, pallets, pads, etc.",0.10900000000000001,other,"goods, import share 0.034 < 0.15",0.033650260999254285,322211,322210,own,0,True,stage4
+091507,WPU091507,"Fiber cans, tubes, and similar fiber products",0.042,other,"goods, import share 0.034 < 0.15",0.033650260999254285,322219,322210,own,0,True,stage4
+091508,WPU091508,"Molded pulp goods, including egg cartons, florists pots, food trays, etc.",0.017,tariff,"goods, import share 0.175 >= 0.15 (BEA 322299)",0.17534942820838628,322299,322299,own+fill WPU0915,10,True,stage4
+091509,WPU091509,Miscellaneous converted paper and paperboard products,0.097,tariff,"goods, import share 0.175 >= 0.15 (BEA 322299)",0.17534942820838628,322299,322299,own,0,True,stage4
+091601,WPU091601,Pressure-sensitive products,0.068,tariff,"goods, import share 0.207 >= 0.15 (BEA 322220)",0.2066308038609744,322220,322220,own,0,True,stage4
+092201,WPU092201,Particleboard and fiberboard,0.14700000000000002,tariff,"goods, import share 0.234 >= 0.15 (BEA 321200)",0.23379651812809454,321219,321200,own,0,True,stage4
+092202,WPU092202,Hardboard products,0.008,tariff,"goods, import share 0.234 >= 0.15 (BEA 321200)",0.23379651812809454,321219,321200,own+fill WPU0922,1,True,stage4
+101502,WPU101502,"Pressure and soil pipe and fittings, cast iron",0.009,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331511,331510,own,0,True,stage4
+101504,WPU101504,Other gray and ductile iron castings,0.042,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331511,331510,own,0,True,stage4
+101506,WPU101506,Steel investment castings,0.025,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331512,331510,own,0,True,stage4
+101507,WPU101507,"Carbon steel castings, except investment",0.005,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331513,331510,own,0,True,stage4
+101508,WPU101508,"High alloy steel castings, excluding investment",0.009,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331513,331510,own,0,True,stage4
+101509,WPU101509,"Other alloy steel castings, except investment",0.006,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331513,331510,own,0,True,stage4
+101513,WPU101513,Other forge shop products,0.08700000000000001,other,"goods, import share 0.000 < 0.15",0.0,332111,33211A,own,0,True,stage4
+101702,WPU101702,Semifinished steel mill products,0.079,tariff,"goods, import share 0.249 >= 0.15 (BEA 331110)",0.24850767167302903,331110,331110,own,0,True,stage4
+101703,WPU101703,"Hot rolled steel sheet and strip, including tin mill products",0.296,tariff,"goods, import share 0.249 >= 0.15 (BEA 331110)",0.24850767167302903,331110,331110,own+fill WPU1017,56,True,stage4
+101704,WPU101704,"Hot rolled steel bars, plates, and structural shapes",0.13,tariff,"goods, import share 0.249 >= 0.15 (BEA 331110)",0.24850767167302903,331110,331110,own,0,True,stage4
+101705,WPU101705,Steel wire,0.006,tariff,"goods, import share 0.287 >= 0.15 (BEA 331200)",0.2866070050918068,331222,331200,own,0,True,stage4
+101706,WPU101706,Steel pipe and tube,0.09,tariff,"goods, import share 0.252 >= 0.15 (BEA 331110,331200)",0.2518297276934668,331210;331110,331110;331200,own,0,True,stage4
+101707,WPU101707,Cold rolled steel sheet and strip,0.104,tariff,"goods, import share 0.252 >= 0.15 (BEA 331110,331200)",0.2518297276934668,331110;331221,331110;331200,own,0,True,stage4
+101708,WPU101708,Cold finished steel bars and bar shapes,0.024,tariff,"goods, import share 0.287 >= 0.15 (BEA 331200)",0.2866070050918068,331221,331200,own,0,True,stage4
+101712,WPU101712,Electrometallurgical ferroalloy products,0.01,tariff,"goods, import share 0.249 >= 0.15 (BEA 331110)",0.24850767167302903,331110,331110,own+fill WPU1017,23,True,stage4
+102201,WPU102201,Primary nonferrous metals,0.046,tariff,"goods, import share 0.551 >= 0.15 (BEA 331313,331410)",0.5507795882886048,331313;331410,331313;331410,own,0,True,stage4
+102403,WPU102403,"Secondary copper, alloyed and unalloyed",0.009000000000000001,tariff,"goods, import share 0.386 >= 0.15 (BEA 331410,331420)",0.3860428011515383,331420;331410,331410;331420,own,0,True,stage4
+102406,WPU102406,Secondary precious metals,0.027000000000000003,tariff,"goods, import share 0.552 >= 0.15 (BEA 331410)",0.5518999073215941,331410,331410,own+fill WPU1024,1,True,stage4
+102408,WPU102408,"All other miscellaneous secondary nonferrous metals, including lead and zinc",0.011,tariff,"goods, import share 0.196 >= 0.15 (BEA 331490)",0.19559753218066875,331492,331490,own,0,True,stage4
+102501,WPU102501,Aluminum mill shapes,0.307,tariff,"goods, import share 0.192 >= 0.15 (BEA 33131B)",0.19160786051074333,331315;331318,33131B,own,0,True,stage4
+102502,WPU102502,Copper and brass mill shapes,0.074,other,"goods, import share 0.138 < 0.15",0.1384974496412207,331420,331420,own,0,True,stage4
+102504,WPU102504,Nickel and nickel-base alloy mill shapes,0.007,tariff,"goods, import share 0.196 >= 0.15 (BEA 331490)",0.19559753218066875,331491,331490,own,0,True,stage4
+102505,WPU102505,Titanium and titanium-base alloy mill shapes,0.013000000000000001,tariff,"goods, import share 0.196 >= 0.15 (BEA 331490)",0.19559753218066875,331491,331490,own,0,True,stage4
+102519,WPU102519,Other nonferrous mill shapes,0.013000000000000001,tariff,"goods, import share 0.196 >= 0.15 (BEA 331490)",0.19559753218066875,331491,331490,own,0,True,stage4
+102603,WPU102603,Nonferrous wire and cable,0.197,tariff,"goods, import share 0.263 >= 0.15 (BEA 331420,335920)",0.2632859369833247,331420;335929,331420;335920,own,0,True,stage4
+102701,WPU102701,Nonferrous forge shop products,0.032,other,"goods, import share 0.000 < 0.15",0.0,332112,33211A,own,0,True,stage4
+102802,WPU102802,Aluminum castings,0.027,other,"goods, import share 0.007 < 0.15",0.007409793814432989,331524;331523,331520,own,0,True,stage4
+102807,WPU102807,"Castings, nonferrous (except aluminum)",0.015,other,"goods, import share 0.007 < 0.15",0.007409793814432989,331529;331523,331520,own,0,True,stage4
+103102,WPU103102,Steel cans and tinware end products,0.118,other,"goods, import share 0.059 < 0.15",0.05908798972382787,332431,332430,own,0,True,stage4
+103103,WPU103103,Aluminum cans and can components,0.162,other,"goods, import share 0.059 < 0.15",0.05908798972382787,332431,332430,own,0,True,stage4
+103201,WPU103201,"Barrels, drums, pails and other metal containers",0.063,other,"goods, import share 0.059 < 0.15",0.05908798972382787,332439,332430,own,0,True,stage4
+104101,WPU104101,Builders' hardware,0.10200000000000001,tariff,"goods, import share 0.472 >= 0.15 (BEA 332500)",0.4724052469322372,332510,332500,own,0,True,stage4
+104103,WPU104103,Transportation equipment hardware,0.05500000000000001,tariff,"goods, import share 0.472 >= 0.15 (BEA 332500)",0.4724052469322372,332510,332500,own,0,True,stage4
+104104,WPU104104,Furniture hardware,0.01,tariff,"goods, import share 0.472 >= 0.15 (BEA 332500)",0.4724052469322372,332510,332500,own+fill WPU1041,10,True,stage4
+104105,WPU104105,Other miscellaneous hardware,0.015000000000000001,tariff,"goods, import share 0.472 >= 0.15 (BEA 332500)",0.4724052469322372,332510,332500,own,0,True,stage4
+106201,WPU106201,"Furnaces and heaters, including parts",0.063,tariff,"goods, import share 0.260 >= 0.15 (BEA 333414,333415)",0.25989409141583053,333414;333415,333414;333415,own,0,True,stage4
+107102,WPU107102,Metal doors and frames (except storm),0.369,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332321,332320,own,0,True,stage4
+107105,WPU107105,"Metal combination screen, storm sash, and storm doors",0.019000000000000003,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332321,332320,own+fill WPU1071,12,True,stage4
+107201,WPU107201,Metal tanks,0.09,other,"goods, import share 0.136 < 0.15",0.13591503969105342,332420,332420,own,0,True,stage4
+107301,WPU107301,Sheet metal products,0.658,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332322,332320,own,0,True,stage4
+107405,WPU107405,Fabricated structural metal,1.1889999999999998,other,"goods, import share 0.087 < 0.15",0.08654474888734207,332312,332310,own,0,True,stage4
+107407,WPU107407,Custom roll form products,0.04,other,"goods, import share 0.000 < 0.15",0.0,332114,332114,own+fill WPU1074,1,True,stage4
+107408,WPU107408,Ornamental and architectural metal work,0.34800000000000003,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332323,332320,own,0,True,stage4
+107501,WPU107501,Heat exchangers and steam condensers,0.096,tariff,"goods, import share 0.234 >= 0.15 (BEA 332410)",0.23412436827070973,332410,332410,own,0,True,stage4
+107601,WPU107601,Fabricated steel plate,0.257,other,"goods, import share 0.087 < 0.15",0.08654474888734207,332313,332310,own+fill WPU1076,1,True,stage4
+108102,WPU108102,"Externally threaded fasteners, except aircraft types",0.07,other,"goods, import share 0.142 < 0.15",0.14167772372106738,332722,332720,own,0,True,stage4
+108103,WPU108103,"Internally threaded fasteners, except aircraft types",0.014,other,"goods, import share 0.142 < 0.15",0.14167772372106738,332722,332720,own,0,True,stage4
+108104,WPU108104,"Nonthreaded metal fasteners, except aircraft types",0.013,other,"goods, import share 0.142 < 0.15",0.14167772372106738,332722,332720,own,0,True,stage4
+108105,WPU108105,"Aircraft fasteners, except plastics (including aerospace)",0.055,other,"goods, import share 0.142 < 0.15",0.14167772372106738,332722,332720,own+fill WPU1081,1,True,stage4
+108106,WPU108106,"Formed products, except fasteners, made by cold-, warm-, or hot-heading processes",0.014,other,"goods, import share 0.142 < 0.15",0.14167772372106738,332722,332720,own+fill WPU1081,23,True,stage4
+108305,WPU108305,Other lighting equipment,0.016,tariff,"goods, import share 0.560 >= 0.15 (BEA 335120)",0.5597003516281914,335129,335120,own,0,True,stage4
+108801,WPU108801,"Ferrous wire rope, cable, forms and strand",0.029,tariff,"goods, import share 0.287 >= 0.15 (BEA 331200)",0.2866070050918068,331222,331200,own,0,True,stage4
+108807,WPU108807,"Ferrous wire cloth, other woven wire products",0.001,tariff,"goods, import share 0.227 >= 0.15 (BEA 332600)",0.2272416153319644,332618,332600,own,0,True,stage4
+108809,WPU108809,Other fabricated ferrous wire products,0.017,tariff,"goods, import share 0.227 >= 0.15 (BEA 332600)",0.2272416153319644,332618,332600,own,0,True,stage4
+108812,WPU108812,"Steel nails, staples, tacks, spikes and brads",0.01,tariff,"goods, import share 0.265 >= 0.15 (BEA 331200,332600)",0.26520945379187844,331222;332618,331200;332600,own,0,True,stage4
+108904,WPU108904,Wire springs,0.039,tariff,"goods, import share 0.227 >= 0.15 (BEA 332600)",0.2272416153319644,332613,332600,own,0,True,stage4
+108905,WPU108905,Other metal products,1.633,tariff,"goods, import share 0.164 >= 0.15 (BEA 332720,332999,336370)",0.16364158957599242,336370;332721;332999,332720;332999;336370,own,0,True,stage4
+108907,WPU108907,Metal stampings n.e.c.,0.14500000000000002,other,"goods, import share 0.057 < 0.15",0.056719248340660285,332119,332119,own,0,True,stage4
+108908,WPU108908,Metal foil and leaf,0.011,tariff,"goods, import share 0.289 >= 0.15 (BEA 33131B,332999)",0.28911515588394304,331315;332999,33131B;332999,own,0,True,stage4
+108909,WPU108909,Heavy gauge springs,0.033,tariff,"goods, import share 0.227 >= 0.15 (BEA 332600)",0.2272416153319644,332613,332600,own,0,True,stage4
+111401,WPU111401,"Commercial turf and grounds care equipment, including parts and attachments",0.001,other,"goods, import share 0.016 < 0.15",0.016105417276720352,333112,333112,own,0,True,stage4
+111409,WPU111409,"Parts for farm machinery, for sale separately",0.007,tariff,"goods, import share 0.277 >= 0.15 (BEA 333111)",0.27683566177547375,333111,333111,own,0,True,stage4
+112J01,WPU112J01,"Winches, aerial work platforms, and automotive wrecker hoists, including parts and attachments",0.032,tariff,"goods, import share 0.275 >= 0.15 (BEA 333120,333920)",0.2750924474336114,333923;333120,333120;333920,own,0,True,stage4
+112K01,WPU112K01,"Parts for construction machinery and equipment, sold separately",0.027,tariff,"goods, import share 0.322 >= 0.15 (BEA 333120)",0.3216159052453469,333120,333120,own,0,True,stage4
+113301,WPU113301,"Arc welding machines, components, and accessories, excluding electrodes and stud welding equip",0.02,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333992,33399A,own,0,True,stage4
+113302,WPU113302,"Resistance welders, components, accessories, and electrodes",0.003,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333992,33399A,own+fill WPU1133,2,True,stage4
+113303,WPU113303,"Arc welding electrodes, metal",0.012,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333992,33399A,own+fill WPU1133,125,True,stage4
+113304,WPU113304,"Gas welding and cutting equipment, parts, attachments, and accessories",0.002,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333992,33399A,own,0,True,stage4
+113306,WPU113306,"Other welding equipment, components, and accessories (excluding arc, resistance, and gas)",0.002,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333992,33399A,own,0,True,stage4
+113409,WPU113409,Parts and attachments for industrial process furnaces and ovens,0.003,tariff,"goods, import share 0.198 >= 0.15 (BEA 333994)",0.19793297839022864,333994,333994,own+fill WPU1134,3,True,stage4
+113501,WPU113501,Small cutting tools,0.061,tariff,"goods, import share 0.269 >= 0.15 (BEA 33351B)",0.2691771269177127,333515,33351B,own,0,True,stage4
+113505,WPU113505,Other machine tool attachments and accessories,0.007,tariff,"goods, import share 0.269 >= 0.15 (BEA 33351B)",0.2691771269177127,333515,33351B,own,0,True,stage4
+113601,WPU113601,"Nonmetallic sized grains, powders, and flour abrasives (incl. graded only)",0.01,tariff,"goods, import share 0.280 >= 0.15 (BEA 327910)",0.27965843244891736,327910,327910,own,0,True,stage4
+113603,WPU113603,Nonmetallic abrasive products (including diamond abrasives),0.012,tariff,"goods, import share 0.280 >= 0.15 (BEA 327910)",0.27965843244891736,327910,327910,own,0,True,stage4
+113605,WPU113605,"Nonmetallic coated abrasive products and buffing wheels, polishing wheels, and laps",0.022,tariff,"goods, import share 0.280 >= 0.15 (BEA 327910)",0.27965843244891736,327910,327910,own,0,True,stage4
+113632,WPU113632,"Metal abrasives including steel and iron grid, shot, and sand, and other metal abrasives",0.005,tariff,"goods, import share 0.280 >= 0.15 (BEA 327910)",0.27965843244891736,327910,327910,own+fill WPU1136,116,True,stage4
+113753,WPU113753,Rebuilt metal-cutting machine tools and parts for metal-cutting machine tools,0.0,tariff,"goods, import share 0.464 >= 0.15 (BEA 333517)",0.4644543084619178,333517,333517,own,0,True,stage4
+113852,WPU113852,Rebuilt metal-forming machine tools and parts for metal-forming machine tools,0.0,tariff,"goods, import share 0.464 >= 0.15 (BEA 333517)",0.4644543084619178,333517,333517,own,0,True,stage4
+113901,WPU113901,"Special tools, dies, jigs, and fixtures",0.005,other,"goods, import share 0.125 < 0.15",0.12511671335200747,333514,333514,own,0,True,stage4
+114107,WPU114107,Parts and attachments for air and gas compressors and vacuum pumps,0.002,tariff,"goods, import share 0.284 >= 0.15 (BEA 333912)",0.28394266387502015,333912,333912,own+fill WPU1141,1,True,stage4
+114108,WPU114108,Industrial spraying equipment,0.003,tariff,"goods, import share 0.368 >= 0.15 (BEA 333912,33399A)",0.36818700799230814,333999;333912,333912;33399A,own+fill WPU1141,72,True,stage4
+114115,WPU114115,Air and gas compressors and vacuum pumps,0.015,tariff,"goods, import share 0.284 >= 0.15 (BEA 333912)",0.28394266387502015,333912,333912,own,0,True,stage4
+114201,WPU114201,Elevators and moving stairways,0.071,tariff,"goods, import share 0.214 >= 0.15 (BEA 333920)",0.21446487142030263,333921,333920,own,0,True,stage4
+114202,WPU114202,Parts and attachments for elevators and moving stairs (sold separately),0.012,tariff,"goods, import share 0.214 >= 0.15 (BEA 333920)",0.21446487142030263,333921,333920,own,0,True,stage4
+114301,WPU114301,Fluid power pumps and parts,0.058,tariff,"goods, import share 0.347 >= 0.15 (BEA 33399B)",0.3471200980392157,333996,33399B,own,0,True,stage4
+114302,WPU114302,Fluid power valves,0.062,tariff,"goods, import share 0.383 >= 0.15 (BEA 33291A)",0.3834057785732549,332912,33291A,own,0,True,stage4
+114303,WPU114303,"Fluid power cylinders, actuators, accumulators, cushions, & parts",0.114,tariff,"goods, import share 0.347 >= 0.15 (BEA 33399B)",0.3471200980392157,333995,33399B,own,0,True,stage4
+114304,WPU114304,Fluid power hose and tube fittings,0.11299999999999999,tariff,"goods, import share 0.383 >= 0.15 (BEA 33291A)",0.3834057785732549,332912,33291A,own,0,True,stage4
+114305,WPU114305,Parts for fluid power valves,0.006,tariff,"goods, import share 0.383 >= 0.15 (BEA 33291A)",0.3834057785732549,332912,33291A,own,0,True,stage4
+114403,WPU114403,"Industrial trucks, trailers, and stackers",0.076,tariff,"goods, import share 0.214 >= 0.15 (BEA 333920)",0.21446487142030263,333924,333920,own,0,True,stage4
+114404,WPU114404,"Hoists, overhead cranes, and monorail systems",0.019,tariff,"goods, import share 0.214 >= 0.15 (BEA 333920)",0.21446487142030263,333923,333920,own,0,True,stage4
+114406,WPU114406,Parts and accessories for conveyors and conveying systems,0.047,tariff,"goods, import share 0.214 >= 0.15 (BEA 333920)",0.21446487142030263,333922,333920,own+fill WPU1144,32,True,stage4
+114501,WPU114501,"Speed changers, drives, gears",0.019,tariff,"goods, import share 0.624 >= 0.15 (BEA 333612)",0.6242251425737664,333612,333612,own,0,True,stage4
+114502,WPU114502,Other power transmission equipment,0.05,tariff,"goods, import share 0.370 >= 0.15 (BEA 333613)",0.36976506639427986,333613,333613,own,0,True,stage4
+114613,WPU114613,"Parts, attachments, and accessories for scales and balances",0.002,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333997,33399A,own,0,True,stage4
+114802,WPU114802,"Unitary air-conditioners, except air source heat pumps",0.183,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own+fill WPU1148,1,True,stage4
+114803,WPU114803,Commercial refrigeration equipment,0.063,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own,0,True,stage4
+114806,WPU114806,All other miscellaneous refrigeration and air-conditioning equipment,0.041,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own,0,True,stage4
+114807,WPU114807,"Heat transfer equipment, including heat pumps",0.10300000000000001,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own,0,True,stage4
+114808,WPU114808,"Refrigerant compressors, except automotive",0.057999999999999996,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own+fill WPU1148,96,True,stage4
+114809,WPU114809,Parts and accessories for air conditioning and heat transfer equipment,0.052000000000000005,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own,0,True,stage4
+114815,WPU114815,Refrigeration condensing units,0.021,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own+fill WPU1148,40,True,stage4
+114902,WPU114902,"Metal valves, except fluid power",0.16499999999999998,tariff,"goods, import share 0.383 >= 0.15 (BEA 33291A)",0.3834057785732549,332911,33291A,own,0,True,stage4
+114903,WPU114903,"Metal pipe fittings, flanges, and unions",0.055,tariff,"goods, import share 0.383 >= 0.15 (BEA 33291A)",0.3834057785732549,332919,33291A,own,0,True,stage4
+114905,WPU114905,Ball and roller bearings,0.03,tariff,"goods, import share 0.341 >= 0.15 (BEA 332991)",0.341079295154185,332991,332991,own,0,True,stage4
+114907,WPU114907,Industrial patterns,0.008,tariff,"goods, import share 0.193 >= 0.15 (BEA 333511,333514)",0.1931554524361949,333511;333514,333511;333514,own+fill WPU1149,56,True,stage4
+114908,WPU114908,Filters and strainers,0.07400000000000001,tariff,"goods, import share 0.379 >= 0.15 (BEA 333413,33399A)",0.3792953173686619,333999;333413,333413;33399A,own,0,True,stage4
+114911,WPU114911,Other miscellaneous general purpose equipment,0.051000000000000004,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333999,33399A,own,0,True,stage4
+115201,WPU115201,"Computer storage devices (except parts, attachments and accessories)",0.012,AI,AI list,,334112,334112,own,0,True,stage4
+115203,WPU115203,"Parts, attachments and accessories for computer storage devices",0.0,AI,AI list,,334112,334112,parent WPU1152,130,True,stage4
+115405,WPU115405,"Parts, attachments, and accessories for computer terminals and peripherals",0.012,AI,AI list,,334118,334118,own+fill WPU1154,48,True,stage4
+115406,WPU115406,Computer terminals (including POS and funds-transfer devices) and other computer peripherals,0.005,AI,AI list,,334118,334118,own,0,True,stage4
+116101,WPU116101,Dairy and milk products plant machinery and equipment,0.0,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333241,33329A,own,0,True,stage4
+116104,WPU116104,Commercial food products machinery (except packaging and cooking equipment),0.001,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333241,33329A,own,0,True,stage4
+116105,WPU116105,"Industrial food products machinery for processing foods, beverages, & animal & fowl feed",0.001,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333241,33329A,own,0,True,stage4
+116306,WPU116306,Sawmill and woodworking machinery,0.0,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333243,33329A,own,0,True,stage4
+116401,WPU116401,Paper industries machinery,0.001,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333243,33329A,own,0,True,stage4
+116510,WPU116510,Printing machinery and equipment,0.0,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333244,33329A,own+fill WPU1165,112,True,stage4
+116603,WPU116603,Plastics-working and rubber-working machinery and equipment,0.001,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333249,33329A,own,0,True,stage4
+116606,WPU116606,All other industrial machinery,0.005,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333249,33329A,own,0,True,stage4
+116705,WPU116705,"Packing, packaging, and bottling machinery and parts",0.032,tariff,"goods, import share 0.309 >= 0.15 (BEA 333993)",0.30850626669406206,333993,333993,own,0,True,stage4
+116801,WPU116801,Service industry machinery and parts,0.052000000000000005,tariff,"goods, import share 0.291 >= 0.15 (BEA 333318)",0.2905669127023998,333318,333318,own,0,True,stage4
+117101,WPU117101,Current-carrying wiring devices,0.202,tariff,"goods, import share 0.188 >= 0.15 (BEA 335930)",0.18810208932816214,335931,335930,own,0,True,stage4
+117102,WPU117102,Noncurrent-carrying wiring devices,0.177,tariff,"goods, import share 0.188 >= 0.15 (BEA 335930)",0.18810208932816214,335932,335930,own,0,True,stage4
+117205,WPU117205,"Test equipment for electrical, radio, & communication circuits & motors",0.013,tariff,"goods, import share 0.338 >= 0.15 (BEA 334515)",0.3379127358490566,334515,334515,own,0,True,stage4
+117209,WPU117209,Electrical integrating instruments and other instruments to measure electricity,0.004,tariff,"goods, import share 0.338 >= 0.15 (BEA 334515)",0.3379127358490566,334515,334515,own+fill WPU1172,57,True,stage4
+117303,WPU117303,Fractional horsepower motors and generators,0.007,tariff,"goods, import share 0.566 >= 0.15 (BEA 335312)",0.5657123480114324,335312,335312,own,0,True,stage4
+117304,WPU117304,Integral horsepower motors and generators (excluding land transportation types),0.022999999999999996,tariff,"goods, import share 0.566 >= 0.15 (BEA 335312)",0.5657123480114324,335312,335312,own,0,True,stage4
+117309,WPU117309,Parts and supplies for motors and generators,0.02,tariff,"goods, import share 0.566 >= 0.15 (BEA 335312)",0.5657123480114324,335312,335312,own,0,True,stage4
+117311,WPU117311,Other motors and generators,0.034999999999999996,tariff,"goods, import share 0.566 >= 0.15 (BEA 335312)",0.5657123480114324,335312,335312,own,0,True,stage4
+117411,WPU117411,Other transformers and parts for transformers,0.001,tariff,"goods, import share 0.307 >= 0.15 (BEA 335311)",0.3068318018377946,335311,335311,own,0,True,stage4
+117507,WPU117507,Industrial controls and related parts and accessories,0.04,tariff,"goods, import share 0.459 >= 0.15 (BEA 335314)",0.45927578861953544,335314,335314,own,0,True,stage4
+117603,WPU117603,"Other communications and related equipment, including broadcast and wireless",0.11,AI,AI list,,334220,334220,own,0,True,stage4
+117605,WPU117605,"Electronic systems and equipment, n.e.c.",0.005,AI,AI list,,334290,334290,own,0,True,stage4
+117606,WPU117606,"Search, detection, navigation & guidance systems and equipment",0.243,other,"goods, import share 0.103 < 0.15",0.10259775280898877,334511,334511,own,0,True,stage4
+117704,WPU117704,"Electric lamp bulbs, tubes, and components",0.002,tariff,"goods, import share 0.482 >= 0.15 (BEA 335110)",0.4816066066066066,335110,335110,own,0,True,stage4
+117821,WPU117821,"Relays for electronic circuitry, industrial control overload, and switchgear type",0.007,AI,AI list,,335314,335314,own,0,True,stage4
+117822,WPU117822,"Switches, mechanical, for electronic circuitry",0.004,AI,AI list,,334419,33441A,own,0,True,stage4
+117824,WPU117824,Connectors for electronic circuitry,0.029,AI,AI list,,334417,33441A,own,0,True,stage4
+117828,WPU117828,"Filters, crystals, and transducers",0.01,AI,AI list,,334419,33441A,own,0,True,stage4
+117839,WPU117839,"Integrated circuit packages, including microprocessors",0.047,AI,AI list,,334413,334413,own,0,True,stage4
+117847,WPU117847,"Other semiconductor devices, incl. transistors, diodes, and semiconductor parts such as wafers",0.037,AI,AI list,,334413,334413,own,0,True,stage4
+117849,WPU117849,Bare printed circuit boards,0.018000000000000002,AI,AI list,,334412,33441A,own,0,True,stage4
+117853,WPU117853,"Electronic coils, transformers, and other inductors",0.012,AI,AI list,,334416,33441A,own,0,True,stage4
+117854,WPU117854,Capacitors and resistors for electronic circuitry,0.007,AI,AI list,,334416,33441A,own+fill WPU1178,83,True,stage4
+117856,WPU117856,"Microwave components, electron tubes, and other electronic components, n.e.c.",0.047,AI,AI list,,334419,33441A,own,0,True,stage4
+117861,WPU117861,"Printed circuit assemblies, loaded boards, modules and consumer external modems",0.167,AI,AI list,,334418,334418,own,0,True,stage4
+117901,WPU117901,Storage batteries,0.069,tariff,"goods, import share 0.471 >= 0.15 (BEA 335911)",0.4706259346293527,335911,335911,own,0,True,stage4
+117902,WPU117902,Primary batteries,0.012,tariff,"goods, import share 0.297 >= 0.15 (BEA 335912)",0.2966643009226402,335912,335912,own,0,True,stage4
+117903,WPU117903,Carbon and graphite products,0.012,tariff,"goods, import share 0.217 >= 0.15 (BEA 335991)",0.2169475433183005,335991,335991,own,0,True,stage4
+117905,WPU117905,X-ray and electromedical equipment,0.035,tariff,"goods, import share 0.243 >= 0.15 (BEA 334510,334517)",0.24258040248260296,334517;334510,334510;334517,own,0,True,stage4
+117929,WPU117929,Miscellaneous electrical industrial apparatus,0.005,tariff,"goods, import share 0.464 >= 0.15 (BEA 335999)",0.46353750997605747,335999,335999,own,0,True,stage4
+117939,WPU117939,"All other electrical equipment and components, except industrial",0.0,tariff,"goods, import share 0.464 >= 0.15 (BEA 335999)",0.46353750997605747,335999,335999,own+fill WPU1179,3,True,stage4
+118105,WPU118105,"Automatic environmental controls for monitoring residential, commercial, and appliance use",0.07300000000000001,tariff,"goods, import share 0.314 >= 0.15 (BEA 334512)",0.314210273643783,334512,334512,own,0,True,stage4
+118401,WPU118401,Fluid meters and counting devices,0.052,tariff,"goods, import share 0.296 >= 0.15 (BEA 334514)",0.29624554672513015,334514,334514,own,0,True,stage4
+118501,WPU118501,"Aeronautical, nautical, and navigational instruments",0.071,other,"goods, import share 0.103 < 0.15",0.10259775280898877,334511,334511,own,0,True,stage4
+118601,WPU118601,"Sighting, tracking, and fire-control equipment, optical type",0.003,tariff,"goods, import share 0.548 >= 0.15 (BEA 333314)",0.5477302076090196,333314,333314,own,0,True,stage4
+118602,WPU118602,All other miscellaneous optical instruments and lenses,0.007,tariff,"goods, import share 0.548 >= 0.15 (BEA 333314)",0.5477302076090196,333314,333314,own,0,True,stage4
+118901,WPU118901,Aircraft engine instruments,0.012,tariff,"goods, import share 0.162 >= 0.15 (BEA 334511,33451A)",0.1624962804663619,334519;334511,334511;33451A,own,0,True,stage4
+118904,WPU118904,Nuclear radiation detection & monitoring instruments,0.002,tariff,"goods, import share 0.344 >= 0.15 (BEA 33451A)",0.34447539461467036,334519,33451A,own,0,True,stage4
+118905,WPU118905,Physical properties and kinematic testing equipment,0.013000000000000001,tariff,"goods, import share 0.344 >= 0.15 (BEA 33451A)",0.34447539461467036,334519,33451A,own,0,True,stage4
+118906,WPU118906,"Commercial, geophysical, meteorological, surveying & all other measuring & controlling devices",0.008,tariff,"goods, import share 0.344 >= 0.15 (BEA 33451A)",0.34447539461467036,334519,33451A,own,0,True,stage4
+119106,WPU119106,Parts and attachments for oil and gas field machinery and equipment,0.005,other,"goods, import share 0.099 < 0.15",0.0994792220214688,333132,333130,own+fill WPU1191,1,True,stage4
+119253,WPU119253,Parts and attachments for mining machinery and equipment (sold separately),0.002,other,"goods, import share 0.099 < 0.15",0.0994792220214688,333131,333130,own,0,True,stage4
+119401,WPU119401,"Gasoline engines (except aircraft, automobile, highway truck, bus & tank)",0.038000000000000006,tariff,"goods, import share 0.315 >= 0.15 (BEA 333618)",0.31472506745605533,333618,333618,parent WPU1194,130,True,stage4
+119407,WPU119407,"Diesel, semidiesel, and dual-fuel engines (except automotive)",0.08499999999999999,tariff,"goods, import share 0.315 >= 0.15 (BEA 333618)",0.31472506745605533,333618,333618,own+fill WPU1194,23,True,stage4
+119408,WPU119408,"Diesel, semidiesel, and dual-fuel engines for automobiles, trucks, and buses",0.129,tariff,"goods, import share 0.314 >= 0.15 (BEA 333618,336310)",0.31430185341106504,333618;336310,333618;336310,own,0,True,stage4
+119413,WPU119413,"Parts & accessories for internal combustion engines, ex. aircraft & gasoline automotive engines",0.09499999999999999,tariff,"goods, import share 0.314 >= 0.15 (BEA 333618,336310)",0.31430185341106504,333618;336310,333618;336310,own,0,True,stage4
+119420,WPU119420,Miscellaneous engine equipment,0.044,tariff,"goods, import share 0.315 >= 0.15 (BEA 333618)",0.31472506745605533,333618,333618,parent WPU1194,130,True,stage4
+119505,WPU119505,Machine shop products,0.28400000000000003,other,"goods, import share 0.000 < 0.15",0.0,332710,332710,own,0,True,stage4
+119701,WPU119701,Turbines and turbine generator sets (excluding parts),0.008,tariff,"goods, import share 0.222 >= 0.15 (BEA 333611)",0.22241557102345966,333611,333611,own+fill WPU1197+fill WPU119,10,True,stage4
+119801,WPU119801,"Parts & accesories for turbines, turbine generators, and turbine generator sets",0.006,tariff,"goods, import share 0.222 >= 0.15 (BEA 333611)",0.22241557102345966,333611,333611,own,0,True,stage4
+121206,WPU121206,Wood household furniture (nonupholstered),0.004,tariff,"goods, import share 0.760 >= 0.15 (BEA 337122)",0.7601778779907303,337122,337122,own+fill WPU1212,83,True,stage4
+121401,WPU121401,Bedding,0.003,tariff,"goods, import share 0.185 >= 0.15 (BEA 337900)",0.18526315789473685,337910,337900,own,0,True,stage4
+122101,WPU122101,Wood office furniture and store fixtures,0.19799999999999998,other,"goods, import share 0.088 < 0.15",0.08827828120432622,337211;337212,33721A,own,0,True,stage4
+122204,WPU122204,Nonwood partitions and fixtures,0.067,tariff,"goods, import share 0.458 >= 0.15 (BEA 337215)",0.45800563881881584,337215,337215,own,0,True,stage4
+123101,WPU123101,Carpet and rugs,0.09,tariff,"goods, import share 0.230 >= 0.15 (BEA 314110)",0.2299311007851306,314110,314110,own,0,True,stage4
+123201,WPU123201,Resilient floor coverings,0.012,tariff,"goods, import share 0.195 >= 0.15 (BEA 326190)",0.19477794805812115,326199,326190,own+fill WPU1232+fill WPU123,65,True,stage4
+124104,WPU124104,Other major household appliances including room air-conditioners,0.023,tariff,"goods, import share 0.351 >= 0.15 (BEA 333415,335220)",0.3513108705446841,335220;333415,333415;335220,own,0,True,stage4
+125707,WPU125707,Speakers and commercial sound equipment,0.003,tariff,"goods, import share 0.904 >= 0.15 (BEA 334300)",0.9040968630972657,334310,334300,own,0,True,stage4
+125803,WPU125803,"Other home electronic equipment, including television receivers and automotive A/V equipment",0.003,tariff,"goods, import share 0.904 >= 0.15 (BEA 334300)",0.9040968630972657,334310,334300,own+fill WPU1258,12,True,stage4
+126501,WPU126501,"Mirrors (decorated and undecorated), made from purchased glass",0.04,tariff,"goods, import share 0.234 >= 0.15 (BEA 327200)",0.23350965894146183,327215,327200,own,0,True,stage4
+131107,WPU131107,Specialty glass,0.149,tariff,"goods, import share 0.234 >= 0.15 (BEA 327200)",0.23350965894146183,327212,327200,own,0,True,stage4
+131108,WPU131108,"Flat glass (float, sheet, and plate process)",0.047,tariff,"goods, import share 0.234 >= 0.15 (BEA 327200)",0.23350965894146183,327211,327200,own+fill WPU1311,83,True,stage4
+131301,WPU131301,Pressed and blown glassware,0.051,tariff,"goods, import share 0.234 >= 0.15 (BEA 327200)",0.23350965894146183,327212,327200,own,0,True,stage4
+132101,WPU132101,"Construction sand, gravel and crushed stone",0.445,other,"goods, import share 0.073 < 0.15",0.07311529233489077,212321;212312;212319,212310;2123A0,own,0,True,stage4
+132201,WPU132201,"Cement, hydraulic",0.054,other,"goods, import share 0.123 < 0.15",0.12263535551206783,327310,327310,own,0,True,stage4
+138101,WPU138101,Glass containers (including value of packaging),0.081,tariff,"goods, import share 0.234 >= 0.15 (BEA 327200)",0.23350965894146183,327213,327200,own,0,True,stage4
+139201,WPU139201,Mineral wool for thermal and acoustical envelope insulation,0.12000000000000001,other,"goods, import share 0.119 < 0.15",0.11904761904761904,327993,327993,own,0,True,stage4
+139202,WPU139202,"Mineral wool for industrial, equipment, and appliance insulation",0.084,other,"goods, import share 0.119 < 0.15",0.11904761904761904,327993,327993,own,0,True,stage4
+139801,WPU139801,Gaskets and gasketing material,0.057999999999999996,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339991,339990,own,0,True,stage4
+139802,WPU139802,Packing and sealing,0.037000000000000005,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339991,339990,own,0,True,stage4
+139902,WPU139902,Clay and stone mining and quarrying,0.059,other,"goods, import share 0.073 < 0.15",0.07311529233489077,2123,212310;2123A0,own,0,True,stage4
+139903,WPU139903,All other nonmetallic mineral products,0.122,other,"goods, import share 0.103 < 0.15",0.10347856640899508,327999,327999,own,0,True,stage4
+139904,WPU139904,Industrial sand,0.020999999999999998,other,"goods, import share 0.118 < 0.15",0.11778304682868998,212322,2123A0,own+fill WPU1399,112,True,stage4
+141104,WPU141104,"Motorcycles, including three-wheel motorbikes, motorscooters, mopeds, and parts",0.012,tariff,"goods, import share 0.404 >= 0.15 (BEA 336991)",0.4042027194066749,336991,336991,own,0,True,stage4
+141205,WPU141205,Motor vehicles parts,3.783,tariff,"goods, import share 0.299 >= 0.15 (BEA 336310,336320,336350,336360)",0.29931667728519357,3363,336310;336320;336350;336360;336370;336390;3363A0,own,0,True,stage4
+141301,WPU141301,Truck and bus bodies sold separately,0.477,other,"goods, import share 0.006 < 0.15",0.006213519111278478,336211,336211,own,0,True,stage4
+141406,WPU141406,Truck trailers,0.001,tariff,"goods, import share 0.162 >= 0.15 (BEA 336212)",0.16230945422952373,336212,336212,own,0,True,stage4
+141602,WPU141602,"Camping trailers, campers, pick-up covers, and parts",0.001,other,"goods, import share 0.066 < 0.15",0.06566181566181566,336214,336214,own,0,True,stage4
+142301,WPU142301,Aircraft engine and engine parts,0.165,tariff,"goods, import share 0.238 >= 0.15 (BEA 336412)",0.23793873139181326,336412,336412,own,0,True,stage4
+142501,WPU142501,Other aircraft parts and equipment,0.439,tariff,"goods, import share 0.266 >= 0.15 (BEA 336413)",0.2658246094524226,336413,336413,own,0,True,stage4
+149111,WPU149111,"Other transportation equipment, incl. golf carts, vehicle trailers, and all-terrain vehicles",0.002,other,"goods, import share 0.065 < 0.15",0.06539446125203631,336999;336214,336214;336999,own,0,True,stage4
+151201,WPU151201,Sporting and athletic goods,0.009000000000000001,tariff,"goods, import share 0.454 >= 0.15 (BEA 339920)",0.4535568645219755,339920,339920,own,0,True,stage4
+152402,WPU152402,Stemmed and redried tobacco,0.002,other,"goods, import share 0.016 < 0.15",0.01626631055620807,312230,312200,own,0,True,stage4
+152501,WPU152501,Other tobacco products,0.0,other,"goods, import share 0.016 < 0.15",0.01626631055620807,312230,312200,own,0,True,stage4
+154107,WPU154107,Photographic and photocopying equipment,0.002,tariff,"goods, import share 0.385 >= 0.15 (BEA 333316)",0.3846555323590814,333316,333316,own+fill WPU1541+fill WPU154,47,True,stage4
+154206,WPU154206,Photographic supplies,0.020999999999999998,other,"goods, import share 0.123 < 0.15",0.1228434881378453,325992,3259A0,own,0,True,stage4
+159101,WPU159101,Burial caskets,0.011,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339995,339990,own,0,True,stage4
+159301,WPU159301,Musical instruments,0.003,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339992,339990,own,0,True,stage4
+159404,WPU159404,Costume jewelry and novelties,0.006,tariff,"goods, import share 0.597 >= 0.15 (BEA 339910)",0.5966798554963014,339910,339910,own,0,True,stage4
+159408,WPU159408,Jewelers' material and lapidary work,0.018,tariff,"goods, import share 0.597 >= 0.15 (BEA 339910)",0.5966798554963014,339910,339910,own+fill WPU1594,24,True,stage4
+159705,WPU159705,"Brooms, brushes and mops",0.015,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339994,339990,own,0,True,stage4
+159A11,WPU159A11,All other miscellaneous fabricated products and recyclable materials,0.004,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339999,339990,parent WPU159A,130,True,stage4
+159F11,WPU159F11,"Hides, skins, and pelts, made in slaughtering plants",0.01,other,"goods, import share 0.059 < 0.15",0.059385075493245676,311611,31161A,own,0,True,stage4
+159F31,WPU159F31,"Leather belts, made from purchased materials",0.0,tariff,"goods, import share 0.898 >= 0.15 (BEA 316000)",0.8979310628496215,316998,316000,own+fill WPU159,16,True,stage4
+331102,WPU331102,"Sales of technical, scientific, and professional books",0.012,other,services (non-AI),,,,own,0,True,stage4
+371201,WPU371201,Local business wired telephone service,0.072,other,services (non-AI),,,,own,0,True,stage4
+371202,WPU371202,Long distance business wired telephone and other toll service,0.08099999999999999,other,services (non-AI),,,,own,0,True,stage4
+372101,WPU372101,Cellular phone and other wireless telecommunication services,0.591,other,services (non-AI),,,,own,0,True,stage4
+381101,WPU381101,"Hosting, ASP and other IT infrastructure provisioning services",0.548,other,services (non-AI),,,,own,0,True,stage4
+381102,WPU381102,Business process management services (partial),0.15,other,services (non-AI),,,,own,0,True,stage4
+381103,WPU381103,"Data management, information transformation and other services",0.11900000000000001,other,services (non-AI),,,,own,0,True,stage4
+441101,WPU441101,Passenger car rental,0.093,other,services (non-AI),,,,own,0,True,stage4
+442101,WPU442101,"Truck, truck trailer and RV rental",0.059000000000000004,other,services (non-AI),,,,own,0,True,stage4
+442102,WPU442102,"Truck, truck trailer and RV leasing",0.16799999999999998,other,services (non-AI),,,,own,0,True,stage4
+443101,WPU443101,"Construction, mining, and forestry machinery and equipment rental and leasing",0.34700000000000003,other,services (non-AI),,,,own,0,True,stage4
+451101,WPU451101,Legal services,2.5380000000000003,other,services (non-AI),,,,own,0,True,stage4
+453101,WPU453101,Architectural services,0.443,other,services (non-AI),,,,own,0,True,stage4
+453201,WPU453201,Engineering services,1.224,other,services (non-AI),,,,own,0,True,stage4
+454101,WPU454101,Administrative and general management consulting services,0.9460000000000001,other,services (non-AI),,,,own,0,True,stage4
+454102,WPU454102,Human resources consulting services,0.096,other,services (non-AI),,,,own,0,True,stage4
+454103,WPU454103,Marketing consulting services,0.33,other,services (non-AI),,,,own,0,True,stage4
+454104,WPU454104,"Process, physical distribution, and logistics consulting services",0.139,other,services (non-AI),,,,own,0,True,stage4
+501101,WPU501101,Solid waste collection,0.22500000000000003,other,services (non-AI),,,,own,0,True,stage4
+555101,WPU555101,Aircraft repair and maintenance (partial),0.0,other,services (non-AI),,,,UNPRICED,0,False,stage4
+591101,WPU591101,Metal plating and polishing,0.096,other,services (non-AI),,,,own,0,True,stage4
+591102,WPU591102,Metal coating and allied services,0.179,other,services (non-AI),,,,own,0,True,stage4
+591103,WPU591103,Metal heat treating,0.075,other,services (non-AI),,,,own,0,True,stage4
+601104,WPU601104,Support activities for oil and gas operations,0.013000000000000001,other,services (non-AI),,,,own,0,True,stage4
+611102,WPU611102,Contract work on textile products,0.024,other,services (non-AI),,,,own,0,True,stage4
+611104,WPU611104,"Commission receipts for throwing, texturing, or winding filament yarns",0.001,other,services (non-AI),,,,parent WPU6111,130,True,stage4
+571102,WPU571102,Parts and supplies for machinery and equipment wholesaling,3.805,other,services (non-AI),,,,own,0,True,stage4
+572101,WPU572101,Furnishings wholesaling,0.22499999999999998,other,services (non-AI),,,,own,0,True,stage4
+573101,WPU573101,"Building materials, paint, and hardware wholesaling",0.9319999999999999,other,services (non-AI),,,,own,0,True,stage4
+574101,WPU574101,"Metals, minerals, and ores wholesaling",0.819,other,services (non-AI),,,,own,0,True,stage4
+575101,WPU575101,Chemicals and allied products wholesaling,1.316,other,services (non-AI),,,,own,0,True,stage4
+576101,WPU576101,Paper and plastics products wholesaling,0.906,other,services (non-AI),,,,own,0,True,stage4
+577101,WPU577101,Apparel wholesaling,0.028999999999999998,other,services (non-AI),,,,own,0,True,stage4
+578101,WPU578101,Food wholesaling,1.746,other,services (non-AI),,,,own,0,True,stage4
+578102,WPU578102,Alcohol wholesaling,0.28200000000000003,other,services (non-AI),,,,own,0,True,stage4
+579101,WPU579101,Other commodities wholesaling,1.6840000000000002,other,services (non-AI),,,,own,0,True,stage4
+586102,WPU586102,"Automotive parts, including tires, retailing",0.039,other,services (non-AI),,,,own,0,True,stage4
+58F101,WPU58F101,Automotive fuels and lubricants retailing,0.002,other,services (non-AI),,,,own,0,True,stage4
+58I101,WPU58I101,Other merchandise retailing (partial),0.035,other,services (non-AI),,,,own,0,True,stage4
+302201,WPU302201,Airline passenger services,0.386,other,services (non-AI),,,,own,0,True,stage4
+301101,WPU301101,Rail transportation of freight and mail,0.402,other,services (non-AI),,,,own,0,True,stage4
+301201,WPU301201,Local motor carrying,0.366,other,services (non-AI),,,,own,0,True,stage4
+301202,WPU301202,Long-distance motor carrying,1.076,other,services (non-AI),,,,own,0,True,stage4
+301301,WPU301301,Deep sea water transportation of freight,0.0,other,services (non-AI),,,,own,0,True,stage4
+301302,WPU301302,Coastal and intercoastal water transportation of freight,0.0,other,services (non-AI),,,,own,0,True,stage4
+301303,WPU301303,Great Lakes-St Lawrence Seaway water transportation of freight,0.0,other,services (non-AI),,,,own+fill WPU3013,2,True,stage4
+301304,WPU301304,Inland waterways transportation of freight,0.0,other,services (non-AI),,,,own,0,True,stage4
+301401,WPU301401,Air transportation of freight,0.076,other,services (non-AI),,,,own,0,True,stage4
+311301,WPU311301,Marine cargo handling,0.101,other,services (non-AI),,,,own,0,True,stage4
+021102,WPU021102,"Bread (white, wheat, rye, etc.), including frozen",0.004,other,"goods, import share 0.082 < 0.15",0.08247982211950908,311812,311810,own,0,True,stage4
+021105,WPU021105,"Rolls (bread-type), muffins, bagels, and croissants",0.004,other,"goods, import share 0.082 < 0.15",0.08247982211950908,311812,311810,own,0,True,stage4
+021107,WPU021107,"Other sweet goods, excluding frozen",0.002,other,"goods, import share 0.082 < 0.15",0.08247982211950908,311812,311810,own,0,True,stage4
+021108,WPU021108,"Soft cakes, excluding frozen",0.001,other,"goods, import share 0.082 < 0.15",0.08247982211950908,311812,311810,own,0,True,stage4
+021109,WPU021109,"Pies (fruit, cream, and custard), excluding frozen",0.0,other,"goods, import share 0.082 < 0.15",0.08247982211950908,311812,311810,own+fill WPU0211,22,True,stage4
+021130,WPU021130,"Retail bakery products, excluding retail trade",0.001,other,"goods, import share 0.082 < 0.15",0.08247982211950908,311811,311810,own,0,True,stage4
+023103,WPU023103,Packaged fluid milk and related products,0.065,other,"goods, import share 0.014 < 0.15",0.013658070678127984,311511,31151A,own,0,True,stage4
+023104,WPU023104,Cottage cheese,0.003,other,"goods, import share 0.030 < 0.15",0.03001935998177884,311513,311513,own,0,True,stage4
+023105,WPU023105,Other milk products,0.039,other,"goods, import share 0.026 < 0.15",0.025602082881319158,311511;311514,311514;31151A,own,0,True,stage4
+023106,WPU023106,Bulk fluid milk and cream,0.061,other,"goods, import share 0.014 < 0.15",0.013658070678127984,311511,31151A,own,0,True,stage4
+023201,WPU023201,Butter,0.011,other,"goods, import share 0.014 < 0.15",0.013658070678127984,311512,31151A,own,0,True,stage4
+023402,WPU023402,Ice cream and frozen desserts,0.118,other,"goods, import share 0.010 < 0.15",0.009738942242661978,311520,311520,own,0,True,stage4
+026206,WPU026206,"Soft drinks, non-carbonated and bottled water",0.005,other,"goods, import share 0.080 < 0.15",0.07970660146699267,312112,312110,own,0,True,stage4
+026210,WPU026210,"Soft drinks, carbonated, bottle/can, all types",0.008,other,"goods, import share 0.080 < 0.15",0.07970660146699267,312111,312110,own,0,True,stage4
+026211,WPU026211,"Soft drinks, energy and sport",0.004,other,"goods, import share 0.080 < 0.15",0.07970660146699267,312111,312110,own+fill WPU0262,96,True,stage4
+029301,WPU029301,Formula feeds,0.009,other,"goods, import share 0.020 < 0.15",0.020047732696897375,311119,311119,own,0,True,stage4
+051301,WPU051301,Coal,0.041,energy,BLS energy (group 05),,2121,212100,own,0,True,stage4
+054221,WPU054221,Commercial electric power,2.873,energy,BLS energy (group 05),,2211,221100,own,0,True,stage4
+054321,WPU054321,Industrial electric power,1.513,energy,BLS energy (group 05),,2211,221100,own,0,True,stage4
+054621,WPU054621,Transportation electric power,0.015,energy,BLS energy (group 05),,2211,221100,own,0,True,stage4
+055221,WPU055221,Commercial natural gas,0.066,energy,BLS energy (group 05),,2212,221200,own,0,True,stage4
+055321,WPU055321,Industrial natural gas,0.048,energy,BLS energy (group 05),,2212,221200,own,0,True,stage4
+055421,WPU055421,Natural gas to electric power,0.33,energy,BLS energy (group 05),,2212,221200,own,0,True,stage4
+057108,WPU057108,Aviation gasoline,0.015,energy,BLS energy (group 05),,324110,324110,parent WPU0571,130,True,stage4
+057202,WPU057202,Kerosene,0.003,energy,BLS energy (group 05),,324110,324110,own,0,True,stage4
+057203,WPU057203,Jet fuel,0.015,energy,BLS energy (group 05),,324110,324110,own,0,True,stage4
+057302,WPU057302,Home heating oil and distillates,0.012,energy,BLS energy (group 05),,324110,324110,own,0,True,stage4
+057303,WPU057303,No. 2 diesel fuel,0.383,energy,BLS energy (group 05),,324110,324110,own,0,True,stage4
+057801,WPU057801,Lubricating oil base stocks,0.037,energy,BLS energy (group 05),,324110;324191,324110;324190,own,0,True,stage4
+026101,WPU026101,Malt beverages,0.164,other,"goods, import share 0.141 < 0.15",0.14083226358579376,312120,312120,own,0,True,stage4
+026104,WPU026104,"Wines, brandy, and brandy spirits",0.092,tariff,"goods, import share 0.268 >= 0.15 (BEA 312130)",0.26827094474153296,312130,312130,own,0,True,stage4
+029402,WPU029402,Pet food,0.008,other,"goods, import share 0.035 < 0.15",0.03470044734311635,311111,311111,own,0,True,stage4
+062202,WPU062202,Paint colors,0.019,tariff,"goods, import share 0.255 >= 0.15 (BEA 325130)",0.2551031790295594,325130,325130,own,0,True,stage4
+063403,WPU063403,Pharmaceuticals for veterinary use,0.004,tariff,"goods, import share 0.374 >= 0.15 (BEA 325412)",0.37420880544531043,325412,325412,own+fill WPU063,23,True,stage4
+063718,WPU063718,Diagnostics,0.223,other,"goods, import share 0.003 < 0.15",0.0027593407412931613,325413,325413,own,0,True,stage4
+063801,WPU063801,"Pharmaceuticals affecting neoplasms, the endocrine system, & metabolic diseases",0.021,tariff,"goods, import share 0.374 >= 0.15 (BEA 325412)",0.37420880544531043,325412,325412,own,0,True,stage4
+063802,WPU063802,Pharmaceuticals acting on the central nervous system and the sense organs,0.036,tariff,"goods, import share 0.374 >= 0.15 (BEA 325412)",0.37420880544531043,325412,325412,own,0,True,stage4
+063803,WPU063803,Pharmaceuticals acting on the cardiovascular system,0.011,tariff,"goods, import share 0.374 >= 0.15 (BEA 325412)",0.37420880544531043,325412,325412,own,0,True,stage4
+063804,WPU063804,Pharmaceuticals acting on the respiratory system,0.009,tariff,"goods, import share 0.374 >= 0.15 (BEA 325412)",0.37420880544531043,325412,325412,own,0,True,stage4
+063805,WPU063805,Pharmaceuticals acting on the digestive or the genito-urinary systems,0.002,tariff,"goods, import share 0.374 >= 0.15 (BEA 325412)",0.37420880544531043,325412,325412,own,0,True,stage4
+063806,WPU063806,Pharmaceuticals acting on the skin,0.005,tariff,"goods, import share 0.374 >= 0.15 (BEA 325412)",0.37420880544531043,325412,325412,own,0,True,stage4
+063807,WPU063807,"Vitamin, nutrient, and hematinic preparations",0.014,tariff,"goods, import share 0.374 >= 0.15 (BEA 325412)",0.37420880544531043,325412,325412,own,0,True,stage4
+063808,WPU063808,Pharmaceuticals affecting parasitic and infective diseases,0.01,tariff,"goods, import share 0.374 >= 0.15 (BEA 325412)",0.37420880544531043,325412,325412,own,0,True,stage4
+067903,WPU067903,Industrial gases,0.118,other,"goods, import share 0.022 < 0.15",0.02166465135026199,325120,325120,own,0,True,stage4
+091302,WPU091302,Newsprint,0.0,tariff,"goods, import share 0.183 >= 0.15 (BEA 322120)",0.18279618091353267,322122,322120,own,0,True,stage4
+091501,WPU091501,"Sanitary paper products, including stock",0.074,tariff,"goods, import share 0.159 >= 0.15 (BEA 322120,322291)",0.15891351857633468,322291;322121,322120;322291,own,0,True,stage4
+091506,WPU091506,Office supplies and accessories,0.003,other,"goods, import share 0.049 < 0.15",0.048907229099801316,322230,322230,own,0,True,stage4
+094401,WPU094401,Books printing,0.062,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323117,323110,own,0,True,stage4
+094501,WPU094501,Manifold business forms printing,0.011,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own+fill WPU094,23,True,stage4
+094701,WPU094701,Magazine and periodical printing,0.046,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own,0,True,stage4
+094702,WPU094702,Label and wrapper printing for packaging,0.148,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own,0,True,stage4
+094703,WPU094703,Catalog and directory printing,0.029,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own+fill WPU0947,1,True,stage4
+094704,WPU094704,Financial and legal printing (lithographic),0.061,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own+fill WPU0947,108,True,stage4
+094705,WPU094705,Advertising printing,0.12,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own,0,True,stage4
+094706,WPU094706,Other general job printing,0.119,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own,0,True,stage4
+094711,WPU094711,"Other commercial printing, incl. screen, engraving, digital, & general job exc. labels/wrappers",0.309,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111;323113,323110,own,0,True,stage4
+094A01,WPU094A01,"Checkbooks, blankbooks, looseleaf binders, and devices",0.013,other,"goods, import share 0.039 < 0.15",0.03943543347732768,323111;322230,322230;323110,own+fill WPU094,97,True,stage4
+101105,WPU101105,Iron ores,0.002,other,"goods, import share 0.119 < 0.15",0.1192582990475117,212210,2122A0,own,0,True,stage4
+102102,WPU102102,Copper and nickel ores,0.117,other,"goods, import share 0.009 < 0.15",0.009239637195897262,212230,212230,own+fill WPU1021,73,True,stage4
+102105,WPU102105,Gold ores,0.015,other,"goods, import share 0.119 < 0.15",0.1192582990475117,212221,2122A0,own+fill WPU1021,58,True,stage4
+102112,WPU102112,Other metal ores,0.007,other,"goods, import share 0.119 < 0.15",0.1192582990475117,212299,2122A0,own+fill WPU1021,41,True,stage4
+102114,WPU102114,Lead and zinc ores,0.038,other,"goods, import share 0.009 < 0.15",0.009239637195897262,212230,212230,parent WPU1021,130,True,stage4
+104201,WPU104201,Hand and edge tools,0.033,tariff,"goods, import share 0.478 >= 0.15 (BEA 332200)",0.4780327868852459,332216,332200,own,0,True,stage4
+105201,WPU105201,"Vitreous plumbing fixtures, china lavatories, & flush tanks, incl. plumbing accessories",0.014,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327110,327100,parent WPU105,130,True,stage4
+105402,WPU105402,"Plumbing fixtures, fittings, and trim",0.14300000000000002,tariff,"goods, import share 0.222 >= 0.15 (BEA 332913)",0.22193211488250653,332913,332913,own,0,True,stage4
+105601,WPU105601,Enameled iron and metal sanitary ware,0.019999999999999997,tariff,"goods, import share 0.418 >= 0.15 (BEA 332999)",0.4181003809284608,332999,332999,own+fill WPU105,33,True,stage4
+106101,WPU106101,Steam and hot water equipment,0.022,tariff,"goods, import share 0.234 >= 0.15 (BEA 332410)",0.23412436827070973,332410,332410,own+fill WPU106,3,True,stage4
+106301,WPU106301,"Other heating equipment, non-electric, including parts",0.047,tariff,"goods, import share 0.198 >= 0.15 (BEA 333414)",0.19824433065106073,333414,333414,own,0,True,stage4
+106401,WPU106401,Domestic heating stoves,0.008,tariff,"goods, import share 0.198 >= 0.15 (BEA 333414)",0.19824433065106073,333414,333414,own,0,True,stage4
+106601,WPU106601,Domestic water heaters,0.006,tariff,"goods, import share 0.452 >= 0.15 (BEA 335220)",0.45182964370800655,335220,335220,own+fill WPU106,5,True,stage4
+107103,WPU107103,Metal windows (except storm sash),0.095,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332321,332320,own+fill WPU1071,1,True,stage4
+107104,WPU107104,Metal molding and trim and store fronts,0.043000000000000003,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332321,332320,own+fill WPU1071,3,True,stage4
+107107,WPU107107,Metal window and door screens (except combination screens) and metal weather strip,0.033,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332321,332320,own+fill WPU1071,25,True,stage4
+107901,WPU107901,"Prefabricated metal building systems (excl. farm service bldgs, residential bldgs, and parts)",0.275,other,"goods, import share 0.087 < 0.15",0.08654474888734207,332311,332310,own+fill WPU1079,1,True,stage4
+107902,WPU107902,"Farm service buildings and other prefabricated and portable buildings, steel and aluminum",0.047,other,"goods, import share 0.087 < 0.15",0.08654474888734207,332311,332310,own+fill WPU1079,6,True,stage4
+107903,WPU107903,"Panels, parts, and sections for prefabricated buildings, steel and aluminum",0.03,other,"goods, import share 0.087 < 0.15",0.08654474888734207,332311,332310,own,0,True,stage4
+108303,WPU108303,"Commercial, institutional and industrial electric lighting fixtures",0.152,tariff,"goods, import share 0.560 >= 0.15 (BEA 335120)",0.5597003516281914,335122,335120,own,0,True,stage4
+113502,WPU113502,Precision measuring tools,0.007,tariff,"goods, import share 0.269 >= 0.15 (BEA 33351B)",0.2691771269177127,333515,33351B,own+fill WPU1135,60,True,stage4
+113903,WPU113903,Industrial molds and mold boxes,0.002,tariff,"goods, import share 0.283 >= 0.15 (BEA 333511)",0.283148085775233,333511,333511,own,0,True,stage4
+118201,WPU118201,Industrial process control instruments,0.012,tariff,"goods, import share 0.344 >= 0.15 (BEA 334513)",0.3435318014472515,334513,334513,own,0,True,stage4
+118603,WPU118603,Laboratory analytical instruments,0.007,tariff,"goods, import share 0.253 >= 0.15 (BEA 334516)",0.25324488029997116,334516,334516,own,0,True,stage4
+122301,WPU122301,Public building furniture,0.002,tariff,"goods, import share 0.662 >= 0.15 (BEA 337127)",0.6621582315299592,337127,337127,own,0,True,stage4
+122401,WPU122401,"Commercial furniture and fixtures, n.e.c.",0.002,tariff,"goods, import share 0.561 >= 0.15 (BEA 337127,337215)",0.5611090708777084,337127;337215,337127;337215,own,0,True,stage4
+124101,WPU124101,Household cooking appliances,0.017,tariff,"goods, import share 0.452 >= 0.15 (BEA 335220)",0.45182964370800655,335220,335220,own,0,True,stage4
+124102,WPU124102,Household laundry equipment and parts,0.007,tariff,"goods, import share 0.452 >= 0.15 (BEA 335220)",0.45182964370800655,335220,335220,own+fill WPU1241,125,True,stage4
+124103,WPU124103,Household refrigeration equipment,0.009000000000000001,tariff,"goods, import share 0.452 >= 0.15 (BEA 335220)",0.45182964370800655,335220,335220,own+fill WPU1241,2,True,stage4
+124301,WPU124301,Household vacuum cleaners and other floor care machines (including parts and attachments),0.005,tariff,"goods, import share 0.785 >= 0.15 (BEA 335210)",0.7849441413354118,335210,335210,own+fill WPU1243+fill WPU124,34,True,stage4
+124403,WPU124403,"Parts and attachments for small electric household appliances, including fan parts",0.0,tariff,"goods, import share 0.785 >= 0.15 (BEA 335210)",0.7849441413354118,335210,335210,own+fill WPU1244,3,True,stage4
+124404,WPU124404,"Small electric household appliances, including fans",0.016,tariff,"goods, import share 0.785 >= 0.15 (BEA 335210)",0.7849441413354118,335210,335210,own+fill WPU1244,64,True,stage4
+126101,WPU126101,"Vitreous china, porcelain, and earthenware table and kitchenware and other pottery products",0.001,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327110,327100,own,0,True,stage4
+126605,WPU126605,"Parts and attachments for consumer lawn, garden, and snow equipment",0.0,other,"goods, import share 0.016 < 0.15",0.016105417276720352,333112,333112,own,0,True,stage4
+126607,WPU126607,"Consumer lawn, garden, and snow equipment",0.0,other,"goods, import share 0.016 < 0.15",0.016105417276720352,333112,333112,own+fill WPU1266,28,True,stage4
+133111,WPU133111,Structural concrete block,0.047,other,"goods, import share 0.007 < 0.15",0.006672091131000813,327331,327330,own,0,True,stage4
+133121,WPU133121,Decorative concrete block,0.032,other,"goods, import share 0.007 < 0.15",0.006672091131000813,327331,327330,own,0,True,stage4
+133131,WPU133131,Concrete brick,0.022,other,"goods, import share 0.007 < 0.15",0.006672091131000813,327331,327330,own,0,True,stage4
+133141,WPU133141,Concrete pavers,0.05499999999999999,other,"goods, import share 0.007 < 0.15",0.006672091131000813,327331,327330,own,0,True,stage4
+133201,WPU133201,Concrete pipe,0.062,other,"goods, import share 0.007 < 0.15",0.006672091131000813,327332,327330,own,0,True,stage4
+133301,WPU133301,Ready-mix concrete,1.0999999999999999,other,"goods, import share 0.000 < 0.15",3.262004175365344e-05,327320,327320,own,0,True,stage4
+133401,WPU133401,Precast concrete products,0.388,other,"goods, import share 0.144 < 0.15",0.14373927958833618,327390,327390,own,0,True,stage4
+133501,WPU133501,Prestressed concrete products,0.06899999999999999,other,"goods, import share 0.144 < 0.15",0.14373927958833618,327390,327390,own,0,True,stage4
+134201,WPU134201,Building or common brick,0.029,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage4
+134202,WPU134202,"Glazed brick and other brick (paving, floor, and sewer)",0.0,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage4
+134401,WPU134401,"Clay floor and wall tile, glazed and unglazed (including quarry tile and ceramic mosaic tile)",0.024,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage4
+134501,WPU134501,"Structural clay products, n.e.c.",0.003,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage4
+135201,WPU135201,Clay refractories,0.062,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage4
+135301,WPU135301,Nonclay refractories (excluding dead-burned magnesia),0.023,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage4
+136101,WPU136101,Prepared asphalt and tar roofing and siding products,0.301,other,"goods, import share 0.025 < 0.15",0.02481549815498155,324122,324122,own,0,True,stage4
+136201,WPU136201,"Roofing asphalts, pitches, coatings, and cement",0.056,other,"goods, import share 0.025 < 0.15",0.02481549815498155,324122,324122,own,0,True,stage4
+137101,WPU137101,Gypsum products,0.113,other,"goods, import share 0.023 < 0.15",0.022892441860465115,327420,327400,own,0,True,stage4
+139401,WPU139401,Paving mixtures and blocks,0.316,other,"goods, import share 0.007 < 0.15",0.006638503319251659,324121,324121,own,0,True,stage4
+139501,WPU139501,Cut stone and stone products,0.125,tariff,"goods, import share 0.399 >= 0.15 (BEA 327991)",0.39910041332360807,327991,327991,own,0,True,stage4
+143103,WPU143103,"Nonmilitary self-propelled ships, new construction",0.0,other,"goods, import share 0.020 < 0.15",0.019508926811965477,336611,336611,own,0,True,stage4
+143104,WPU143104,"Nonpropelled ships, new construction",0.0,other,"goods, import share 0.020 < 0.15",0.019508926811965477,336611,336611,own+fill WPU1431,77,True,stage4
+156201,WPU156201,Surgical and medical instruments,0.626,tariff,"goods, import share 0.234 >= 0.15 (BEA 339112)",0.23405503725869858,339112,339112,own,0,True,stage4
+156301,WPU156301,Medical and surgical appliances and supplies,0.348,tariff,"goods, import share 0.374 >= 0.15 (BEA 339113)",0.3740747975950164,339113,339113,own,0,True,stage4
+156501,WPU156501,Dental equipment and supplies,0.051,tariff,"goods, import share 0.287 >= 0.15 (BEA 339114)",0.2869724160850781,339114,339114,own+fill WPU156,1,True,stage4
+157108,WPU157108,Personal safety equipment and clothing,0.121,tariff,"goods, import share 0.374 >= 0.15 (BEA 339113)",0.3740747975950164,339113,339113,own,0,True,stage4
+331101,WPU331101,Sales of textbooks,0.0,other,services (non-AI),,,,own,0,True,stage4
+331103,WPU331103,Sales of religious books,0.0,other,services (non-AI),,,,own,0,True,stage4
+331104,WPU331104,Sales of general adult and juvenile books,0.0,other,services (non-AI),,,,own,0,True,stage4
+331105,WPU331105,Sales of general reference books,0.001,other,services (non-AI),,,,own,0,True,stage4
+331201,WPU331201,Sales and subscriptions of periodicals,0.057,other,services (non-AI),,,,own,0,True,stage4
+331202,WPU331202,Newspaper subscription and single copy sales,0.003,other,services (non-AI),,,,own,0,True,stage4
+336101,WPU336101,"Directory, mailing list, and related compilations publishing sales",0.013,other,services (non-AI),,,,own,0,True,stage4
+361101,WPU361101,Advertising space sales in periodicals,0.1,other,services (non-AI),,,,own,0,True,stage4
+361201,WPU361201,Print advertising space sales in directories and mailing lists,0.019,other,services (non-AI),,,,own,0,True,stage4
+366101,WPU366101,Internet advertising sales,0.879,other,services (non-AI),,,,own,0,True,stage4
+373101,WPU373101,Cable and satellite subscriber services,0.051,other,services (non-AI),,,,own,0,True,stage4
+391101,WPU391101,Business loans (partial),0.904,other,services (non-AI),,,,own,0,True,stage4
+391301,WPU391301,Other loans and loan services (partial),0.065,other,services (non-AI),,,,own,0,True,stage4
+392101,WPU392101,Deposit services (partial),0.515,other,services (non-AI),,,,own,0,True,stage4
+393101,WPU393101,"Other credit intermediation services, including trust services (partial)",0.074,other,services (non-AI),,,,own,0,True,stage4
+401101,WPU401101,"Securities brokerage, dealing, and investment advice",1.945,other,services (non-AI),,,,own,0,True,stage4
+401102,WPU401102,Securities brokerage and dealing related services (partial),0.773,other,services (non-AI),,,,own,0,True,stage4
+402101,WPU402101,Portfolio management,3.376,other,services (non-AI),,,,own,0,True,stage4
+403101,WPU403101,Investment banking,0.652,other,services (non-AI),,,,own,0,True,stage4
+411103,WPU411103,Health and medical insurance,0.433,other,services (non-AI),,,,own,0,True,stage4
+411104,WPU411104,Property and casualty insurance,0.807,other,services (non-AI),,,,own,0,True,stage4
+421101,WPU421101,Commissions from sales of life insurance and annuities,0.048,other,services (non-AI),,,,own,0,True,stage4
+421102,WPU421102,Commissions from sales of health and medical insurance,0.064,other,services (non-AI),,,,own,0,True,stage4
+421103,WPU421103,Commissions from sales of property and casualty insurance,0.282,other,services (non-AI),,,,own,0,True,stage4
+421104,WPU421104,Commissions from sales of other insurance,0.039,other,services (non-AI),,,,own,0,True,stage4
+431101,WPU431101,"Office buildings, gross rents",1.955,other,services (non-AI),,,,own,0,True,stage4
+431102,WPU431102,"Retail properties, gross rents",2.181,other,services (non-AI),,,,own,0,True,stage4
+431103,WPU431103,"Industrial buildings, gross rents",0.512,other,services (non-AI),,,,own,0,True,stage4
+431104,WPU431104,"Self-service storage and miniwarehouses, gross rents",0.369,other,services (non-AI),,,,own,0,True,stage4
+431105,WPU431105,"Other nonresidential buildings, gross rents",0.958,other,services (non-AI),,,,own,0,True,stage4
+431301,WPU431301,Nonresidential property management fees,0.806,other,services (non-AI),,,,own,0,True,stage4
+432201,WPU432201,Residential property management fees,1.186,other,services (non-AI),,,,own,0,True,stage4
+433101,WPU433101,Real estate appraisal fees,0.114,other,services (non-AI),,,,own,0,True,stage4
+452101,WPU452101,Financial auditing,0.446,other,services (non-AI),,,,own,0,True,stage4
+452102,WPU452102,Tax preparation and planning,0.507,other,services (non-AI),,,,own,0,True,stage4
+452104,WPU452104,"Other accounting services, including billing and review (partial)",0.135,other,services (non-AI),,,,own,0,True,stage4
+452105,WPU452105,Bookkeeping and compilation (partial),0.062,other,services (non-AI),,,,own,0,True,stage4
+455101,WPU455101,Advertising agency services,0.689,other,services (non-AI),,,,own,0,True,stage4
+461101,WPU461101,Employment placement services,0.113,other,services (non-AI),,,,own,0,True,stage4
+462101,WPU462101,Executive search services,0.043,other,services (non-AI),,,,own,0,True,stage4
+463101,WPU463101,Temporary help services,1.49,other,services (non-AI),,,,own,0,True,stage4
+463201,WPU463201,Co-employment staffing services,1.227,other,services (non-AI),,,,own,0,True,stage4
+471101,WPU471101,Arrangement of international flights,0.024,other,services (non-AI),,,,own,0,True,stage4
+471201,WPU471201,Arrangement of domestic flights (partial),0.013,other,services (non-AI),,,,own,0,True,stage4
+472101,WPU472101,Arrangement of vehicle rentals and lodging (partial),0.014,other,services (non-AI),,,,own,0,True,stage4
+473101,WPU473101,Arrangement of cruises and tours,0.019,other,services (non-AI),,,,own,0,True,stage4
+474101,WPU474101,Other travel arrangements (partial),0.027,other,services (non-AI),,,,own,0,True,stage4
+481101,WPU481101,Security guard services,0.181,other,services (non-AI),,,,own,0,True,stage4
+491101,WPU491101,Janitorial services,0.345,other,services (non-AI),,,,own,0,True,stage4
+511102,WPU511102,Medical laboratory and diagnostic imaging center care,0.548,other,services (non-AI),,,,own,0,True,stage4
+511104,WPU511104,Hospital outpatient care,0.068,other,services (non-AI),,,,own,0,True,stage4
+512101,WPU512101,Hospital inpatient care,0.073,other,services (non-AI),,,,own,0,True,stage4
+513101,WPU513101,"Sales of blood and blood products, organs, and tissues",0.004,other,services (non-AI),,,,own,0,True,stage4
+531101,WPU531101,Guestroom or unit rental,0.065,other,services (non-AI),,,,own,0,True,stage4
+531102,WPU531102,Other traveler accommodation services,0.006,other,services (non-AI),,,,own,0,True,stage4
+551101,WPU551101,Commercial machinery repair and maintenance,0.719,other,services (non-AI),,,,own,0,True,stage4
+552101,WPU552101,Motor vehicle repair and maintenance (partial),0.142,other,services (non-AI),,,,own,0,True,stage4
+553102,WPU553102,"Ship repair, nonmilitary",0.004,other,services (non-AI),,,,own,0,True,stage4
+581102,WPU581102,Food retailing,0.018,other,services (non-AI),,,,own,0,True,stage4
+581103,WPU581103,Alcohol retailing,0.001,other,services (non-AI),,,,own,0,True,stage4
+58B101,WPU58B101,Furniture retailing,0.001,other,services (non-AI),,,,own,0,True,stage4
+58D101,WPU58D101,Hardware and building materials and supplies retailing,0.106,other,services (non-AI),,,,own,0,True,stage4
+58E101,WPU58E101,Major household appliance retailing,0.003,other,services (non-AI),,,,own,0,True,stage4
+58F102,WPU58F102,Household fuels retailing,0.006,other,services (non-AI),,,,own,0,True,stage4
+58G101,WPU58G101,Cleaning supplies and paper products retailing,0.0,other,services (non-AI),,,,own,0,True,stage4
+58H101,WPU58H101,Book retailing,0.001,other,services (non-AI),,,,own,0,True,stage4
+302101,WPU302101,Rail transportation of passengers,0.003,other,services (non-AI),,,,own,0,True,stage4
+301601,WPU301601,U.S. Postal Service,0.98,other,services (non-AI),,,,own,0,True,stage4
+301602,WPU301602,"Courier and messenger services, except air",0.508,other,services (non-AI),,,,own,0,True,stage4
+301603,WPU301603,"Air mail and package delivery services, excluding by USPS",0.308,other,services (non-AI),,,,own,0,True,stage4
+311101,WPU311101,"Towing, tugging, docking and related services",0.001,other,services (non-AI),,,,own,0,True,stage4
+311201,WPU311201,Operation of port waterfront terminals,0.0,other,services (non-AI),,,,own,0,True,stage4
+312101,WPU312101,"Other airport operations, excluding aircraft maintenance and repair",0.104,other,services (non-AI),,,,own,0,True,stage4
+313101,WPU313101,Arrangement of freight and cargo,0.161,other,services (non-AI),,,,own,0,True,stage4
+313201,WPU313201,Freight forwarding,0.101,other,services (non-AI),,,,own,0,True,stage4
+321101,WPU321101,"Warehousing, storage, and related services",0.854,other,services (non-AI),,,,own,0,True,stage4
+802101,WPU802101,Maintenance and repair of nonresidential buildings (partial),0.107,other,services (non-AI),,,,own,0,True,stage4
+107411,WPU107411,"Fabricated metal pipe, tube, and fittings",0.112,other,"goods, import share 0.000 < 0.15",0.0,332996,332996,own,0,True,stage4
+114701,WPU114701,"Fan, blower, air purification equipment",0.047,tariff,"goods, import share 0.304 >= 0.15 (BEA 333413)",0.30424415832141155,333413,333413,own,0,True,stage4
+117522,WPU117522,Switchgear and switchboard apparatus,0.103,tariff,"goods, import share 0.266 >= 0.15 (BEA 335313)",0.26641256489452586,335313,335313,own,0,True,stage4
+159A04,WPU159A04,Signs and advertising displays,0.061,other,"goods, import share 0.028 < 0.15",0.02754742159946621,339950,339950,own,0,True,stage4
+58C101,WPU58C101,Flooring and floor coverings retailing,0.001,other,services (non-AI),,,,own,0,True,stage4
+011301,WPU011301,Dry vegetables,0.003,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111130,1111B0,own,0,True,stage1
+012101,WPU012101,Wheat,0.135,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111140,1111B0,own,0,True,stage1
+012201,WPU012201,Barley,0.01,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111199,1111B0,own,0,True,stage1
+012202,WPU012202,Corn,0.87,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111150,1111B0,own,0,True,stage1
+012203,WPU012203,Oats,0.001,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111199,1111B0,own,0,True,stage1
+012204,WPU012204,Rye,0.001,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111199,1111B0,own+fill WPU0122,105,True,stage1
+012205,WPU012205,Sorghum,0.021,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111199,1111B0,own,0,True,stage1
+012301,WPU012301,Rough rice,0.039,other,"goods, import share 0.028 < 0.15",0.027959800359895426,111160,1111B0,own,0,True,stage1
+013201,WPU013201,Slaughter barrows and gilts,0.031,other,"goods, import share 0.126 < 0.15",0.12605506034550762,112210,112A00,own,0,True,stage1
+013202,WPU013202,Slaughter sows,0.001,other,"goods, import share 0.126 < 0.15",0.12605506034550762,112210,112A00,own,0,True,stage1
+013301,WPU013301,Slaughter lambs,0.002,other,"goods, import share 0.126 < 0.15",0.12605506034550762,112410,112A00,own,0,True,stage1
+018301,WPU018301,Oilseeds,0.038,other,"goods, import share 0.025 < 0.15",0.024765333676224764,111110;111120,1111A0,own,0,True,stage1
+021203,WPU021203,Wheat flour,0.04,other,"goods, import share 0.095 < 0.15",0.09528358208955223,311211,311210,own,0,True,stage1
+021204,WPU021204,Flour base mixes and doughs,0.013,other,"goods, import share 0.036 < 0.15",0.036304436304436305,311824,3118A0,own,0,True,stage1
+021301,WPU021301,Head rice,0.004,other,"goods, import share 0.095 < 0.15",0.09528358208955223,311212,311210,own,0,True,stage1
+021302,WPU021302,"Milled rice (incl second heads, screenings, brewers, bran, sharps, rice flour, and byproducts)",0.003,other,"goods, import share 0.095 < 0.15",0.09528358208955223,311212,311210,own,0,True,stage1
+021409,WPU021409,"Cereal and mill products, other than flour",0.063,other,"goods, import share 0.078 < 0.15",0.07809815492642115,311230;311211,311210;311230,own,0,True,stage1
+022301,WPU022301,Unprocessed finfish,0.005,tariff,"goods, import share 0.621 >= 0.15 (BEA 114000)",0.6214455461771695,114111,114000,own,0,True,stage1
+022304,WPU022304,"Canned seafood (including soups, stews, and chowders)",0.003,tariff,"goods, import share 0.247 >= 0.15 (BEA 311700)",0.2468154599891127,311710,311700,own+fill WPU0223,46,True,stage1
+022305,WPU022305,Unprocessed shellfish,0.008,tariff,"goods, import share 0.621 >= 0.15 (BEA 114000)",0.6214455461771695,114112,114000,own+fill WPU0223,1,True,stage1
+022306,WPU022306,Prepared fresh and frozen seafood,0.031,tariff,"goods, import share 0.247 >= 0.15 (BEA 311700)",0.2468154599891127,311710,311700,own,0,True,stage1
+023502,WPU023502,"Dry milk products, including feed grade",0.014,other,"goods, import share 0.048 < 0.15",0.04769054137596043,311514,311514,own,0,True,stage1
+023503,WPU023503,Liquid milk products,0.004,other,"goods, import share 0.026 < 0.15",0.025602082881319158,311514;311511,311514;31151A,own,0,True,stage1
+023505,WPU023505,Ice cream mixes and related products,0.002,other,"goods, import share 0.010 < 0.15",0.009738942242661978,311520,311520,own,0,True,stage1
+025201,WPU025201,Raw cane sugar and sugarcane mill products and byproducts,0.007,tariff,"goods, import share 0.169 >= 0.15 (BEA 311300)",0.16940965619740783,311314,311300,own,0,True,stage1
+025307,WPU025307,Refined sugar products and byproducts,0.017,tariff,"goods, import share 0.169 >= 0.15 (BEA 311300)",0.16940965619740783,311313;311314,311300,own,0,True,stage1
+025401,WPU025401,Confectionery materials,0.141,tariff,"goods, import share 0.169 >= 0.15 (BEA 311300)",0.16940965619740783,3113,311300,own,0,True,stage1
+025502,WPU025502,"Chewing gum, bubble gum, and chewing gum base",0.001,tariff,"goods, import share 0.169 >= 0.15 (BEA 311300)",0.16940965619740783,311340,311300,own+fill WPU0255,67,True,stage1
+025503,WPU025503,Candy and nuts,0.013,other,"goods, import share 0.126 < 0.15",0.12609118458546292,311340;311351;311352;311911,311300;311910,own,0,True,stage1
+026401,WPU026401,Other beverage materials,0.012,tariff,"goods, import share 0.174 >= 0.15 (BEA 311930)",0.17408679800883406,311930,311930,own,0,True,stage1
+027801,WPU027801,"Shortening, cooking oil, and margarine",0.043,other,"goods, import share 0.023 < 0.15",0.02308221196346135,311225,311225,own,0,True,stage1
+027A01,WPU027A01,Other oilseed processing,0.16,tariff,"goods, import share 0.202 >= 0.15 (BEA 311224)",0.20159074093647605,311224,311224,own,0,True,stage1
+027B01,WPU027B01,"Corn oil, made by wet milling",0.036,other,"goods, import share 0.076 < 0.15",0.07608543906184559,311221,311221,own+fill WPU027,29,True,stage1
+028601,WPU028601,"Prepared sauces, excluding tomato-based sauces and sauces comprised of 20 percent or more meat",0.005,other,"goods, import share 0.098 < 0.15",0.09838258543110787,311941,311940,own,0,True,stage1
+028901,WPU028901,Other miscellaneous processed foods,0.054000000000000006,other,"goods, import share 0.106 < 0.15",0.10589964941380481,3119,311910;311920;311930;311940;311990,own,0,True,stage1
+029201,WPU029201,"Soybean cake, meal, and byproducts",0.22,tariff,"goods, import share 0.202 >= 0.15 (BEA 311224)",0.20159074093647605,311224,311224,own,0,True,stage1
+029301,WPU029301,Formula feeds,0.001,other,"goods, import share 0.020 < 0.15",0.020047732696897375,311119,311119,own,0,True,stage1
+029403,WPU029403,Miscellaneous feedstuffs other than pet food,0.009,other,"goods, import share 0.020 < 0.15",0.020047732696897375,311119,311119,own,0,True,stage1
+051301,WPU051301,Coal,0.014,energy,BLS energy (group 05),,2121,212100,own,0,True,stage1
+053101,WPU053101,Natural gas,0.174,energy,BLS energy (group 05),,211130,211000,own,0,True,stage1
+053201,WPU053201,Natural gas liquids,0.03,energy,BLS energy (group 05),,211130,211000,own,0,True,stage1
+054221,WPU054221,Commercial electric power,0.771,energy,BLS energy (group 05),,2211,221100,own,0,True,stage1
+054321,WPU054321,Industrial electric power,0.406,energy,BLS energy (group 05),,2211,221100,own,0,True,stage1
+054621,WPU054621,Transportation electric power,0.004,energy,BLS energy (group 05),,2211,221100,own,0,True,stage1
+055221,WPU055221,Commercial natural gas,0.14300000000000002,energy,BLS energy (group 05),,2212,221200,own,0,True,stage1
+055321,WPU055321,Industrial natural gas,0.10300000000000001,energy,BLS energy (group 05),,2212,221200,own,0,True,stage1
+055421,WPU055421,Natural gas to electric power,0.712,energy,BLS energy (group 05),,2212,221200,own,0,True,stage1
+056101,WPU056101,Crude petroleum (domestic production),0.339,energy,BLS energy (group 05),,211120,211000,own,0,True,stage1
+057103,WPU057103,Unleaded premium gasoline,0.22799999999999998,energy,BLS energy (group 05),,324110,324110,own,0,True,stage1
+057104,WPU057104,Unleaded regular gasoline,0.79,energy,BLS energy (group 05),,324110,324110,own,0,True,stage1
+057105,WPU057105,Unleaded mid-premium gasoline,0.016,energy,BLS energy (group 05),,324110,324110,own,0,True,stage1
+057108,WPU057108,Aviation gasoline,0.053,energy,BLS energy (group 05),,324110,324110,parent WPU0571,130,True,stage1
+057202,WPU057202,Kerosene,0.078,energy,BLS energy (group 05),,324110,324110,own,0,True,stage1
+057407,WPU057407,"Residual fuels (heavy fuel oils, incl. #5, #6, & other residual fuels)",0.201,energy,BLS energy (group 05),,324110,324110,own,0,True,stage1
+057603,WPU057603,Lubricating grease,0.043,energy,BLS energy (group 05),,324191,324190,own+fill WPU0576,52,True,stage1
+057604,WPU057604,Lubricating and similar oils,0.31100000000000005,energy,BLS energy (group 05),,324191,324190,own,0,True,stage1
+058103,WPU058103,"Other petroleum and coal products, including coke oven products, n.e.c.",0.6600000000000001,energy,BLS energy (group 05),,324199;324110,324110;324190,own,0,True,stage1
+015101,WPU015101,Raw cotton,0.006,other,"goods, import share 0.061 < 0.15",0.060718196578937435,111920,111900,own,0,True,stage1
+018101,WPU018101,Hay and hayseeds,0.007,other,"goods, import share 0.061 < 0.15",0.060718196578937435,111940,111900,own,0,True,stage1
+026102,WPU026102,"Distilled and bottled liquor, excluding brandy",0.09,tariff,"goods, import share 0.250 >= 0.15 (BEA 312140)",0.2501080252975606,312140,312140,own,0,True,stage1
+029402,WPU029402,Pet food,0.001,other,"goods, import share 0.035 < 0.15",0.03470044734311635,311111,311111,own,0,True,stage1
+031504,WPU031504,Noncellulosic and cellulosic organic fibers,0.036000000000000004,tariff,"goods, import share 0.188 >= 0.15 (BEA 3252A0)",0.18766591790892384,325220,3252A0,own+fill WPU0315,76,True,stage1
+032601,WPU032601,Spun cotton yarns,0.019,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,own+fill WPU0326,1,True,stage1
+032603,WPU032603,Spun synthetic yarns,0.006,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,own+fill WPU0326,1,True,stage1
+032604,WPU032604,Textured and twisted yarns,0.031,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,own,0,True,stage1
+032607,WPU032607,Other spun noncellulosic and natural fiber (excluding cotton and wool) yarns,0.005,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,own,0,True,stage1
+032608,WPU032608,"Spun wool yarns, including new, reused, and reprocessed",0.002,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,parent WPU0326,130,True,stage1
+032705,WPU032705,Thread,0.002,tariff,"goods, import share 0.154 >= 0.15 (BEA 313100)",0.1535880227155395,313110,313100,own+fill WPU032,54,True,stage1
+033701,WPU033701,Greige cotton broadwoven fabrics,0.015,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313210,313200,own+fill WPU0337,99,True,stage1
+033703,WPU033703,"Greige manmade, silk, and other natural fiber (exc cotton/wool) broadwoven fabrics",0.024,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313210,313200,own,0,True,stage1
+033803,WPU033803,"Weft (circular) knit fabrics, greige goods (excluding hosiery)",0.003,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313240,313200,own+fill WPU0338,1,True,stage1
+033804,WPU033804,"Warp knit fabrics, greige goods (excluding hosiery)",0.004,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313240,313200,own,0,True,stage1
+034201,WPU034201,Finished cotton broadwoven fabrics,0.01,tariff,"goods, import share 0.154 >= 0.15 (BEA 313300)",0.15419590787782939,313310,313300,own+fill WPU0342,1,True,stage1
+034202,WPU034202,Finished wool broadwoven fabrics and felts,0.001,tariff,"goods, import share 0.154 >= 0.15 (BEA 313300)",0.15419590787782939,313310,313300,own+fill WPU0342,94,True,stage1
+034203,WPU034203,"Finished manmade, silk, and other natural fiber (exc. cotton and wool) broadwoven fabrics",0.023,tariff,"goods, import share 0.154 >= 0.15 (BEA 313300)",0.15419590787782939,313310,313300,own,0,True,stage1
+034503,WPU034503,Nonwoven fabrics and felts,0.077,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313230,313200,own,0,True,stage1
+034601,WPU034601,"Coated fabrics, not rubberized",0.008,tariff,"goods, import share 0.154 >= 0.15 (BEA 313300)",0.15419590787782939,313320,313300,own,0,True,stage1
+034701,WPU034701,Screen printed textile and apparel materials and embroideries,0.166,tariff,"goods, import share 0.154 >= 0.15 (BEA 313300)",0.15419590787782939,313310,313300,own,0,True,stage1
+034702,WPU034702,"Lace & net goods, all leavers & Nottingham lace machine products, incl. bobbinets/barmen laces",0.0,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313240,313200,parent WPU0347,130,True,stage1
+034801,WPU034801,"Weft (circular) knit fabrics, knit and finished in the same establishment (excluding hosiery)",0.006,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313240,313200,own+fill WPU0348,11,True,stage1
+034802,WPU034802,"Warp knit goods, knit and finished in the same establishment",0.005,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313240,313200,own,0,True,stage1
+038203,WPU038203,Textile house furnishings,0.004,tariff,"goods, import share 0.547 >= 0.15 (BEA 314110,314120)",0.5474281897127589,314120;314110,314110;314120,own,0,True,stage1
+038303,WPU038303,Industrial and other fabricated products,0.065,tariff,"goods, import share 0.450 >= 0.15 (BEA 314900)",0.4498743367774365,3149,314900,own,0,True,stage1
+039401,WPU039401,Miscellaneous textile products/services,0.096,tariff,"goods, import share 0.450 >= 0.15 (BEA 314900)",0.4498743367774365,3149,314900,own+fill WPU039,32,True,stage1
+061302,WPU061302,"Inorganic chemicals, other than alkalies and chlorine",0.43000000000000005,tariff,"goods, import share 0.208 >= 0.15 (BEA 325180)",0.20843538055764882,325180,325180,own,0,True,stage1
+061303,WPU061303,"Alkalies and chlorine, including natural sodium carbonate and sulfate",0.304,tariff,"goods, import share 0.208 >= 0.15 (BEA 325180)",0.20843538055764882,325180,325180,own,0,True,stage1
+061401,WPU061401,Primary basic organic chemicals,2.2,other,"goods, import share 0.098 < 0.15",0.09751073991248096,325110;324110,324110;325110,own,0,True,stage1
+061402,WPU061402,Cyclic intermediate chemicals and dyes,0.20400000000000001,other,"goods, import share 0.108 < 0.15",0.10840539165818922,325110;325130,325110;325130,own,0,True,stage1
+061403,WPU061403,Other basic organics,4.032,tariff,"goods, import share 0.214 >= 0.15 (BEA 325190)",0.21379245800159102,325199;325193,325190,own,0,True,stage1
+062101,WPU062101,Architectural coatings,0.383,other,"goods, import share 0.044 < 0.15",0.04385686585580822,325510,325510,own,0,True,stage1
+062102,WPU062102,OEM finishes excluding marine coatings,0.16699999999999998,other,"goods, import share 0.044 < 0.15",0.04385686585580822,325510,325510,own,0,True,stage1
+062103,WPU062103,"Special purpose coatings, incl. marine, industrial & construction coatings",0.14400000000000002,other,"goods, import share 0.044 < 0.15",0.04385686585580822,325510,325510,own,0,True,stage1
+062202,WPU062202,Paint colors,0.034,tariff,"goods, import share 0.255 >= 0.15 (BEA 325130)",0.2551031790295594,325130,325130,own,0,True,stage1
+062204,WPU062204,Kaolin and ball clay,0.022000000000000002,other,"goods, import share 0.118 < 0.15",0.11778304682868998,212324,2123A0,own+fill WPU0622,37,True,stage1
+062301,WPU062301,Allied and miscellaneous paint products,0.054,other,"goods, import share 0.044 < 0.15",0.04385686585580822,325510,325510,own,0,True,stage1
+063102,WPU063102,"Medicinal and botanical chemicals, drugs, and other products",0.119,other,"goods, import share 0.008 < 0.15",0.008370436331255565,325411,325411,own,0,True,stage1
+064101,WPU064101,"Fats and oils, inedible",0.231,other,"goods, import share 0.059 < 0.15",0.059385075493245676,311613,31161A,own,0,True,stage1
+065105,WPU065105,Mixed fertilizers,0.095,tariff,"goods, import share 0.280 >= 0.15 (BEA 325310)",0.28008063500062996,325314,325310,own,0,True,stage1
+065201,WPU065201,Nitrogenates,0.121,tariff,"goods, import share 0.280 >= 0.15 (BEA 325310)",0.28008063500062996,325311,325310,own,0,True,stage1
+065202,WPU065202,Phosphates,0.319,tariff,"goods, import share 0.280 >= 0.15 (BEA 325310)",0.28008063500062996,325312,325310,own,0,True,stage1
+065301,WPU065301,Other agricultural chemicals,0.024,other,"goods, import share 0.110 < 0.15",0.10981598721969114,325320,325320,own,0,True,stage1
+066212,WPU066212,Thermoplastic resins and plastics materials,0.292,other,"goods, import share 0.142 < 0.15",0.14176731742308216,325211,325211,own,0,True,stage1
+066306,WPU066306,Thermosetting resins and plastics materials,0.044,other,"goods, import share 0.142 < 0.15",0.14176731742308216,325211,325211,own,0,True,stage1
+067902,WPU067902,Explosives and blasting accessories,0.045,other,"goods, import share 0.123 < 0.15",0.1228434881378453,325920,3259A0,own,0,True,stage1
+067903,WPU067903,Industrial gases,0.476,other,"goods, import share 0.022 < 0.15",0.02166465135026199,325120,325120,own,0,True,stage1
+067904,WPU067904,Adhesives and sealants,0.018000000000000002,other,"goods, import share 0.043 < 0.15",0.043207547169811324,325520,325520,own,0,True,stage1
+067906,WPU067906,"Gum and wood chemicals, including wood distillation products",0.059000000000000004,tariff,"goods, import share 0.214 >= 0.15 (BEA 325190)",0.21379245800159102,325194,325190,own,0,True,stage1
+067909,WPU067909,Other miscellaneous chemical products,0.15000000000000002,other,"goods, import share 0.123 < 0.15",0.1228434881378453,325998,3259A0,own,0,True,stage1
+071102,WPU071102,Synthetic rubber,0.033,tariff,"goods, import share 0.188 >= 0.15 (BEA 3252A0)",0.18766591790892384,325212,3252A0,own,0,True,stage1
+071201,WPU071201,Tires,0.079,tariff,"goods, import share 0.430 >= 0.15 (BEA 326210)",0.4297083030743161,326211,326210,own,0,True,stage1
+071203,WPU071203,"Tread rubber, tire sundries, and repair materials",0.004,tariff,"goods, import share 0.326 >= 0.15 (BEA 326210,326290)",0.3260910038725052,326212;326299,326210;326290,own+fill WPU0712,2,True,stage1
+071303,WPU071303,Rubber and plastic belts and belting,0.019,tariff,"goods, import share 0.356 >= 0.15 (BEA 326220)",0.3562357538261153,326220,326220,own,0,True,stage1
+071304,WPU071304,Rubber and plastics hose,0.021,tariff,"goods, import share 0.356 >= 0.15 (BEA 326220)",0.3562357538261153,326220,326220,own,0,True,stage1
+071306,WPU071306,"Miscellaneous rubber products, n.e.c.",0.017,tariff,"goods, import share 0.160 >= 0.15 (BEA 326290)",0.16037553232675184,326299,326290,own,0,True,stage1
+072106,WPU072106,Plastics construction products,0.773,tariff,"goods, import share 0.178 >= 0.15 (BEA 326120,326190)",0.17785667715508688,326122;326191;326199,326120;326190,own,0,True,stage1
+072205,WPU072205,"Unsupported plastics film, sheet, and other shapes",0.189,other,"goods, import share 0.095 < 0.15",0.09453055351361496,326113;326121,326110;326120,own,0,True,stage1
+072304,WPU072304,"Laminated plastics plates, sheet (except packaging), and shapes",0.004,other,"goods, import share 0.000 < 0.15",0.0,326130,326130,own,0,True,stage1
+072601,WPU072601,Parts for transportation equipment,0.263,tariff,"goods, import share 0.195 >= 0.15 (BEA 326190)",0.19477794805812115,326199,326190,own,0,True,stage1
+072602,WPU072602,Other parts and components for manufacturing,0.079,tariff,"goods, import share 0.195 >= 0.15 (BEA 326190)",0.19477794805812115,326199,326190,own,0,True,stage1
+072901,WPU072901,Other plastics products,0.287,tariff,"goods, import share 0.195 >= 0.15 (BEA 326190)",0.19477794805812115,326199,326190,own,0,True,stage1
+072A01,WPU072A01,Plastics packaging products,0.34099999999999997,other,"goods, import share 0.101 < 0.15",0.10070187752237235,326111;326112;326160,326110;326160,own,0,True,stage1
+072B01,WPU072B01,"All other consumer, institutional, and commercial products",0.041999999999999996,tariff,"goods, import share 0.195 >= 0.15 (BEA 326190)",0.19477794805812115,326199,326190,own,0,True,stage1
+072C01,WPU072C01,Recyclable plastics,0.215,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,own+fill WPU072,17,True,stage1
+081106,WPU081106,"Softwood lumber, not edge worked",0.13999999999999999,tariff,"goods, import share 0.176 >= 0.15 (BEA 321100)",0.1759191345007793,321113,321100,own,0,True,stage1
+081108,WPU081108,"Softwood lumber, made from purchased lumber, cut stock, and dimension",0.009000000000000001,other,"goods, import share 0.102 < 0.15",0.101560260452926,321912,321910,own+fill WPU0811,112,True,stage1
+081204,WPU081204,Hardwood flooring,0.007,other,"goods, import share 0.102 < 0.15",0.101560260452926,321918,321910,own,0,True,stage1
+081205,WPU081205,"Hardwood lumber, not edge worked",0.06799999999999999,tariff,"goods, import share 0.176 >= 0.15 (BEA 321100)",0.1759191345007793,321113,321100,own,0,True,stage1
+081207,WPU081207,"Hardwood lumber, made from purchased lumber, cut stock, and dimension",0.009000000000000001,other,"goods, import share 0.102 < 0.15",0.101560260452926,321912,321910,own+fill WPU0812,112,True,stage1
+082101,WPU082101,General millwork,0.072,other,"goods, import share 0.102 < 0.15",0.101560260452926,32191,321910,own,0,True,stage1
+082201,WPU082201,Prefabricated structural members,0.11599999999999999,tariff,"goods, import share 0.234 >= 0.15 (BEA 321200)",0.23379651812809454,321213;321214,321200,own,0,True,stage1
+083103,WPU083103,Softwood veneer and plywood,0.045,tariff,"goods, import share 0.234 >= 0.15 (BEA 321200)",0.23379651812809454,321212;321211,321200,own,0,True,stage1
+083501,WPU083501,Hardwood veneer and plywood,0.039,tariff,"goods, import share 0.234 >= 0.15 (BEA 321200)",0.23379651812809454,321211,321200,own,0,True,stage1
+084101,WPU084101,Wood pallets and pallet containers,0.18000000000000002,other,"goods, import share 0.131 < 0.15",0.13096222773642127,321920,3219A0,own,0,True,stage1
+084201,WPU084201,Wood boxes,0.031,other,"goods, import share 0.131 < 0.15",0.13096222773642127,321920,3219A0,own,0,True,stage1
+084903,WPU084903,"Wood ties, siding, shingles, and shakes, and contract sawing of logs owned by others",0.007,other,"goods, import share 0.149 < 0.15",0.14923508751304246,321113;321912,321100;321910,own+fill WPU0849,17,True,stage1
+084904,WPU084904,"Sawn wood fence stock, wood lath, and contract resawing and planing",0.003,other,"goods, import share 0.149 < 0.15",0.14923508751304246,321912;321113,321100;321910,own,0,True,stage1
+084909,WPU084909,All other miscellaneous wood products,0.14100000000000001,other,"goods, import share 0.131 < 0.15",0.13096222773642127,321999,3219A0,own,0,True,stage1
+085105,WPU085105,"Logs, bolts, timber, pulpwood and wood chips",0.273,other,"goods, import share 0.109 < 0.15",0.10904533110507625,113310,113000,own,0,True,stage1
+086101,WPU086101,Prefabricated wood buildings and components,0.132,other,"goods, import share 0.131 < 0.15",0.13096222773642127,321992,3219A0,own,0,True,stage1
+087101,WPU087101,Treated wood,0.074,tariff,"goods, import share 0.176 >= 0.15 (BEA 321100)",0.1759191345007793,321114,321100,own,0,True,stage1
+087102,WPU087102,Contract wood preservation,0.003,tariff,"goods, import share 0.176 >= 0.15 (BEA 321100)",0.1759191345007793,321114,321100,own,0,True,stage1
+091105,WPU091105,Wood pulp,0.029,tariff,"goods, import share 0.288 >= 0.15 (BEA 322110)",0.2884891397952349,322110,322110,own,0,True,stage1
+091201,WPU091201,News and other low grade recyclable paper,0.03,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,own+fill WPU0912,17,True,stage1
+091203,WPU091203,Corrugated recyclable paper,0.307,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,own,0,True,stage1
+091207,WPU091207,High grade recyclable paper (including pulp substitutes and deinking),0.078,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,own,0,True,stage1
+091303,WPU091303,Packaging and industrial converting paper,0.045,tariff,"goods, import share 0.183 >= 0.15 (BEA 322120)",0.18279618091353267,322121,322120,own,0,True,stage1
+091405,WPU091405,"Corrugated paperboard in sheets and rolls, lined and unlined",0.091,other,"goods, import share 0.034 < 0.15",0.033650260999254285,322211,322210,own,0,True,stage1
+091411,WPU091411,"Paperboard, excluding corrugated paperboard in sheets and rolls",0.026,other,"goods, import share 0.045 < 0.15",0.04469075067421391,322130,322130,own,0,True,stage1
+091502,WPU091502,"Paper, plastic, and foil bags",0.039,tariff,"goods, import share 0.207 >= 0.15 (BEA 322220)",0.2066308038609744,322220,322220,own,0,True,stage1
+091503,WPU091503,Paper boxes and containers,0.619,other,"goods, import share 0.034 < 0.15",0.033650260999254285,322211;322212;322219,322210,own,0,True,stage1
+091504,WPU091504,"Other corrugated and solid fiber products, including containers, pallets, pads, etc.",0.08,other,"goods, import share 0.034 < 0.15",0.033650260999254285,322211,322210,own,0,True,stage1
+091507,WPU091507,"Fiber cans, tubes, and similar fiber products",0.032,other,"goods, import share 0.034 < 0.15",0.033650260999254285,322219,322210,own,0,True,stage1
+091508,WPU091508,"Molded pulp goods, including egg cartons, florists pots, food trays, etc.",0.005,tariff,"goods, import share 0.175 >= 0.15 (BEA 322299)",0.17534942820838628,322299,322299,own+fill WPU0915,10,True,stage1
+091509,WPU091509,Miscellaneous converted paper and paperboard products,0.05,tariff,"goods, import share 0.175 >= 0.15 (BEA 322299)",0.17534942820838628,322299,322299,own,0,True,stage1
+092201,WPU092201,Particleboard and fiberboard,0.07300000000000001,tariff,"goods, import share 0.234 >= 0.15 (BEA 321200)",0.23379651812809454,321219,321200,own,0,True,stage1
+092202,WPU092202,Hardboard products,0.004,tariff,"goods, import share 0.234 >= 0.15 (BEA 321200)",0.23379651812809454,321219,321200,own+fill WPU0922,1,True,stage1
+101211,WPU101211,Carbon steel scrap,2.949,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,own,0,True,stage1
+101212,WPU101212,Stainless and other alloy steel scrap,0.194,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,own,0,True,stage1
+101213,WPU101213,Cast iron scrap,0.102,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,own+fill WPU1012,1,True,stage1
+101215,WPU101215,Other ferrous scrap,0.05,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,own+fill WPU1012,28,True,stage1
+101502,WPU101502,"Pressure and soil pipe and fittings, cast iron",0.026000000000000002,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331511,331510,own,0,True,stage1
+101504,WPU101504,Other gray and ductile iron castings,0.116,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331511,331510,own,0,True,stage1
+101506,WPU101506,Steel investment castings,0.07100000000000001,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331512,331510,own,0,True,stage1
+101507,WPU101507,"Carbon steel castings, except investment",0.015,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331513,331510,own,0,True,stage1
+101508,WPU101508,"High alloy steel castings, excluding investment",0.026000000000000002,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331513,331510,own,0,True,stage1
+101509,WPU101509,"Other alloy steel castings, except investment",0.017,other,"goods, import share 0.052 < 0.15",0.05212643678160919,331513,331510,own,0,True,stage1
+101513,WPU101513,Other forge shop products,0.033,other,"goods, import share 0.000 < 0.15",0.0,332111,33211A,own,0,True,stage1
+101702,WPU101702,Semifinished steel mill products,0.109,tariff,"goods, import share 0.249 >= 0.15 (BEA 331110)",0.24850767167302903,331110,331110,own,0,True,stage1
+101703,WPU101703,"Hot rolled steel sheet and strip, including tin mill products",0.407,tariff,"goods, import share 0.249 >= 0.15 (BEA 331110)",0.24850767167302903,331110,331110,own+fill WPU1017,56,True,stage1
+101704,WPU101704,"Hot rolled steel bars, plates, and structural shapes",0.179,tariff,"goods, import share 0.249 >= 0.15 (BEA 331110)",0.24850767167302903,331110,331110,own,0,True,stage1
+101705,WPU101705,Steel wire,0.092,tariff,"goods, import share 0.287 >= 0.15 (BEA 331200)",0.2866070050918068,331222,331200,own,0,True,stage1
+101706,WPU101706,Steel pipe and tube,0.271,tariff,"goods, import share 0.252 >= 0.15 (BEA 331110,331200)",0.2518297276934668,331210;331110,331110;331200,own,0,True,stage1
+101707,WPU101707,Cold rolled steel sheet and strip,0.263,tariff,"goods, import share 0.252 >= 0.15 (BEA 331110,331200)",0.2518297276934668,331110;331221,331110;331200,own,0,True,stage1
+101708,WPU101708,Cold finished steel bars and bar shapes,0.051000000000000004,tariff,"goods, import share 0.287 >= 0.15 (BEA 331200)",0.2866070050918068,331221,331200,own,0,True,stage1
+101712,WPU101712,Electrometallurgical ferroalloy products,0.014,tariff,"goods, import share 0.249 >= 0.15 (BEA 331110)",0.24850767167302903,331110,331110,own+fill WPU1017,23,True,stage1
+102102,WPU102102,Copper and nickel ores,0.006,other,"goods, import share 0.009 < 0.15",0.009239637195897262,212230,212230,own+fill WPU1021,73,True,stage1
+102114,WPU102114,Lead and zinc ores,0.002,other,"goods, import share 0.009 < 0.15",0.009239637195897262,212230,212230,parent WPU1021,130,True,stage1
+102201,WPU102201,Primary nonferrous metals,1.118,tariff,"goods, import share 0.551 >= 0.15 (BEA 331313,331410)",0.5507795882886048,331313;331410,331313;331410,own,0,True,stage1
+102301,WPU102301,Copper base scrap,1.299,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,own,0,True,stage1
+102302,WPU102302,Aluminum base scrap,1.561,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,own,0,True,stage1
+102303,WPU102303,"Other nonferrous scrap (including lead, zinc and precious metals)",1.396,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,own,0,True,stage1
+102403,WPU102403,"Secondary copper, alloyed and unalloyed",0.014,tariff,"goods, import share 0.386 >= 0.15 (BEA 331410,331420)",0.3860428011515383,331420;331410,331410;331420,own,0,True,stage1
+102406,WPU102406,Secondary precious metals,0.031,tariff,"goods, import share 0.552 >= 0.15 (BEA 331410)",0.5518999073215941,331410,331410,own+fill WPU1024,1,True,stage1
+102408,WPU102408,"All other miscellaneous secondary nonferrous metals, including lead and zinc",0.013,tariff,"goods, import share 0.196 >= 0.15 (BEA 331490)",0.19559753218066875,331492,331490,own,0,True,stage1
+102501,WPU102501,Aluminum mill shapes,0.186,tariff,"goods, import share 0.192 >= 0.15 (BEA 33131B)",0.19160786051074333,331315;331318,33131B,own,0,True,stage1
+102502,WPU102502,Copper and brass mill shapes,0.112,other,"goods, import share 0.138 < 0.15",0.1384974496412207,331420,331420,own,0,True,stage1
+102504,WPU102504,Nickel and nickel-base alloy mill shapes,0.009,tariff,"goods, import share 0.196 >= 0.15 (BEA 331490)",0.19559753218066875,331491,331490,own,0,True,stage1
+102505,WPU102505,Titanium and titanium-base alloy mill shapes,0.015,tariff,"goods, import share 0.196 >= 0.15 (BEA 331490)",0.19559753218066875,331491,331490,own,0,True,stage1
+102519,WPU102519,Other nonferrous mill shapes,0.015,tariff,"goods, import share 0.196 >= 0.15 (BEA 331490)",0.19559753218066875,331491,331490,own,0,True,stage1
+102603,WPU102603,Nonferrous wire and cable,0.136,tariff,"goods, import share 0.263 >= 0.15 (BEA 331420,335920)",0.2632859369833247,331420;335929,331420;335920,own,0,True,stage1
+102701,WPU102701,Nonferrous forge shop products,0.047,other,"goods, import share 0.000 < 0.15",0.0,332112,33211A,own,0,True,stage1
+102802,WPU102802,Aluminum castings,0.121,other,"goods, import share 0.007 < 0.15",0.007409793814432989,331524;331523,331520,own,0,True,stage1
+102807,WPU102807,"Castings, nonferrous (except aluminum)",0.066,other,"goods, import share 0.007 < 0.15",0.007409793814432989,331529;331523,331520,own,0,True,stage1
+104101,WPU104101,Builders' hardware,0.091,tariff,"goods, import share 0.472 >= 0.15 (BEA 332500)",0.4724052469322372,332510,332500,own,0,True,stage1
+104103,WPU104103,Transportation equipment hardware,0.048,tariff,"goods, import share 0.472 >= 0.15 (BEA 332500)",0.4724052469322372,332510,332500,own,0,True,stage1
+104104,WPU104104,Furniture hardware,0.01,tariff,"goods, import share 0.472 >= 0.15 (BEA 332500)",0.4724052469322372,332510,332500,own+fill WPU1041,10,True,stage1
+104105,WPU104105,Other miscellaneous hardware,0.014,tariff,"goods, import share 0.472 >= 0.15 (BEA 332500)",0.4724052469322372,332510,332500,own,0,True,stage1
+104201,WPU104201,Hand and edge tools,0.03,tariff,"goods, import share 0.478 >= 0.15 (BEA 332200)",0.4780327868852459,332216,332200,own,0,True,stage1
+105201,WPU105201,"Vitreous plumbing fixtures, china lavatories, & flush tanks, incl. plumbing accessories",0.007,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327110,327100,parent WPU105,130,True,stage1
+105601,WPU105601,Enameled iron and metal sanitary ware,0.013,tariff,"goods, import share 0.418 >= 0.15 (BEA 332999)",0.4181003809284608,332999,332999,own+fill WPU105,33,True,stage1
+107102,WPU107102,Metal doors and frames (except storm),0.257,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332321,332320,own,0,True,stage1
+107103,WPU107103,Metal windows (except storm sash),0.039,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332321,332320,own+fill WPU1071,1,True,stage1
+107104,WPU107104,Metal molding and trim and store fronts,0.043,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332321,332320,own+fill WPU1071,3,True,stage1
+107105,WPU107105,"Metal combination screen, storm sash, and storm doors",0.018,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332321,332320,own+fill WPU1071,12,True,stage1
+107405,WPU107405,Fabricated structural metal,0.715,other,"goods, import share 0.087 < 0.15",0.08654474888734207,332312,332310,own,0,True,stage1
+107407,WPU107407,Custom roll form products,0.082,other,"goods, import share 0.000 < 0.15",0.0,332114,332114,own+fill WPU1074,1,True,stage1
+107501,WPU107501,Heat exchangers and steam condensers,0.068,tariff,"goods, import share 0.234 >= 0.15 (BEA 332410)",0.23412436827070973,332410,332410,own,0,True,stage1
+107601,WPU107601,Fabricated steel plate,0.15400000000000003,other,"goods, import share 0.087 < 0.15",0.08654474888734207,332313,332310,own+fill WPU1076,1,True,stage1
+107902,WPU107902,"Farm service buildings and other prefabricated and portable buildings, steel and aluminum",0.013000000000000001,other,"goods, import share 0.087 < 0.15",0.08654474888734207,332311,332310,own+fill WPU1079,6,True,stage1
+108102,WPU108102,"Externally threaded fasteners, except aircraft types",0.017,other,"goods, import share 0.142 < 0.15",0.14167772372106738,332722,332720,own,0,True,stage1
+108103,WPU108103,"Internally threaded fasteners, except aircraft types",0.004,other,"goods, import share 0.142 < 0.15",0.14167772372106738,332722,332720,own,0,True,stage1
+108104,WPU108104,"Nonthreaded metal fasteners, except aircraft types",0.003,other,"goods, import share 0.142 < 0.15",0.14167772372106738,332722,332720,own,0,True,stage1
+108105,WPU108105,"Aircraft fasteners, except plastics (including aerospace)",0.013,other,"goods, import share 0.142 < 0.15",0.14167772372106738,332722,332720,own+fill WPU1081,1,True,stage1
+108106,WPU108106,"Formed products, except fasteners, made by cold-, warm-, or hot-heading processes",0.003,other,"goods, import share 0.142 < 0.15",0.14167772372106738,332722,332720,own+fill WPU1081,23,True,stage1
+108801,WPU108801,"Ferrous wire rope, cable, forms and strand",0.048,tariff,"goods, import share 0.287 >= 0.15 (BEA 331200)",0.2866070050918068,331222,331200,own,0,True,stage1
+108807,WPU108807,"Ferrous wire cloth, other woven wire products",0.011,tariff,"goods, import share 0.227 >= 0.15 (BEA 332600)",0.2272416153319644,332618,332600,own,0,True,stage1
+108809,WPU108809,Other fabricated ferrous wire products,0.18,tariff,"goods, import share 0.227 >= 0.15 (BEA 332600)",0.2272416153319644,332618,332600,own,0,True,stage1
+108812,WPU108812,"Steel nails, staples, tacks, spikes and brads",0.001,tariff,"goods, import share 0.265 >= 0.15 (BEA 331200,332600)",0.26520945379187844,331222;332618,331200;332600,own,0,True,stage1
+108904,WPU108904,Wire springs,0.001,tariff,"goods, import share 0.227 >= 0.15 (BEA 332600)",0.2272416153319644,332613,332600,own,0,True,stage1
+108905,WPU108905,Other metal products,0.165,tariff,"goods, import share 0.164 >= 0.15 (BEA 332720,332999,336370)",0.16364158957599242,336370;332721;332999,332720;332999;336370,own,0,True,stage1
+108907,WPU108907,Metal stampings n.e.c.,0.099,other,"goods, import share 0.057 < 0.15",0.056719248340660285,332119,332119,own,0,True,stage1
+108908,WPU108908,Metal foil and leaf,0.004,tariff,"goods, import share 0.289 >= 0.15 (BEA 33131B,332999)",0.28911515588394304,331315;332999,33131B;332999,own,0,True,stage1
+108909,WPU108909,Heavy gauge springs,0.004,tariff,"goods, import share 0.227 >= 0.15 (BEA 332600)",0.2272416153319644,332613,332600,own,0,True,stage1
+112J01,WPU112J01,"Winches, aerial work platforms, and automotive wrecker hoists, including parts and attachments",0.036,tariff,"goods, import share 0.275 >= 0.15 (BEA 333120,333920)",0.2750924474336114,333923;333120,333120;333920,own,0,True,stage1
+112K01,WPU112K01,"Parts for construction machinery and equipment, sold separately",0.189,tariff,"goods, import share 0.322 >= 0.15 (BEA 333120)",0.3216159052453469,333120,333120,own,0,True,stage1
+113301,WPU113301,"Arc welding machines, components, and accessories, excluding electrodes and stud welding equip",0.033,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333992,33399A,own,0,True,stage1
+113302,WPU113302,"Resistance welders, components, accessories, and electrodes",0.005,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333992,33399A,own+fill WPU1133,2,True,stage1
+113303,WPU113303,"Arc welding electrodes, metal",0.02,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333992,33399A,own+fill WPU1133,125,True,stage1
+113304,WPU113304,"Gas welding and cutting equipment, parts, attachments, and accessories",0.003,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333992,33399A,own,0,True,stage1
+113306,WPU113306,"Other welding equipment, components, and accessories (excluding arc, resistance, and gas)",0.004,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333992,33399A,own,0,True,stage1
+113409,WPU113409,Parts and attachments for industrial process furnaces and ovens,0.024,tariff,"goods, import share 0.198 >= 0.15 (BEA 333994)",0.19793297839022864,333994,333994,own+fill WPU1134,3,True,stage1
+113501,WPU113501,Small cutting tools,0.164,tariff,"goods, import share 0.269 >= 0.15 (BEA 33351B)",0.2691771269177127,333515,33351B,own,0,True,stage1
+113502,WPU113502,Precision measuring tools,0.006,tariff,"goods, import share 0.269 >= 0.15 (BEA 33351B)",0.2691771269177127,333515,33351B,own+fill WPU1135,60,True,stage1
+113505,WPU113505,Other machine tool attachments and accessories,0.021,tariff,"goods, import share 0.269 >= 0.15 (BEA 33351B)",0.2691771269177127,333515,33351B,own,0,True,stage1
+113601,WPU113601,"Nonmetallic sized grains, powders, and flour abrasives (incl. graded only)",0.019000000000000003,tariff,"goods, import share 0.280 >= 0.15 (BEA 327910)",0.27965843244891736,327910,327910,own,0,True,stage1
+113603,WPU113603,Nonmetallic abrasive products (including diamond abrasives),0.022,tariff,"goods, import share 0.280 >= 0.15 (BEA 327910)",0.27965843244891736,327910,327910,own,0,True,stage1
+113605,WPU113605,"Nonmetallic coated abrasive products and buffing wheels, polishing wheels, and laps",0.041999999999999996,tariff,"goods, import share 0.280 >= 0.15 (BEA 327910)",0.27965843244891736,327910,327910,own,0,True,stage1
+113632,WPU113632,"Metal abrasives including steel and iron grid, shot, and sand, and other metal abrasives",0.010000000000000002,tariff,"goods, import share 0.280 >= 0.15 (BEA 327910)",0.27965843244891736,327910,327910,own+fill WPU1136,116,True,stage1
+113753,WPU113753,Rebuilt metal-cutting machine tools and parts for metal-cutting machine tools,0.001,tariff,"goods, import share 0.464 >= 0.15 (BEA 333517)",0.4644543084619178,333517,333517,own,0,True,stage1
+113852,WPU113852,Rebuilt metal-forming machine tools and parts for metal-forming machine tools,0.0,tariff,"goods, import share 0.464 >= 0.15 (BEA 333517)",0.4644543084619178,333517,333517,own,0,True,stage1
+113901,WPU113901,"Special tools, dies, jigs, and fixtures",0.053,other,"goods, import share 0.125 < 0.15",0.12511671335200747,333514,333514,own,0,True,stage1
+113903,WPU113903,Industrial molds and mold boxes,0.133,tariff,"goods, import share 0.283 >= 0.15 (BEA 333511)",0.283148085775233,333511,333511,own,0,True,stage1
+114201,WPU114201,Elevators and moving stairways,0.08199999999999999,tariff,"goods, import share 0.214 >= 0.15 (BEA 333920)",0.21446487142030263,333921,333920,own,0,True,stage1
+114202,WPU114202,Parts and attachments for elevators and moving stairs (sold separately),0.013999999999999999,tariff,"goods, import share 0.214 >= 0.15 (BEA 333920)",0.21446487142030263,333921,333920,own,0,True,stage1
+114301,WPU114301,Fluid power pumps and parts,0.006,tariff,"goods, import share 0.347 >= 0.15 (BEA 33399B)",0.3471200980392157,333996,33399B,own,0,True,stage1
+114302,WPU114302,Fluid power valves,0.15000000000000002,tariff,"goods, import share 0.383 >= 0.15 (BEA 33291A)",0.3834057785732549,332912,33291A,own,0,True,stage1
+114303,WPU114303,"Fluid power cylinders, actuators, accumulators, cushions, & parts",0.012,tariff,"goods, import share 0.347 >= 0.15 (BEA 33399B)",0.3471200980392157,333995,33399B,own,0,True,stage1
+114304,WPU114304,Fluid power hose and tube fittings,0.273,tariff,"goods, import share 0.383 >= 0.15 (BEA 33291A)",0.3834057785732549,332912,33291A,own,0,True,stage1
+114305,WPU114305,Parts for fluid power valves,0.016,tariff,"goods, import share 0.383 >= 0.15 (BEA 33291A)",0.3834057785732549,332912,33291A,own,0,True,stage1
+114403,WPU114403,"Industrial trucks, trailers, and stackers",0.088,tariff,"goods, import share 0.214 >= 0.15 (BEA 333920)",0.21446487142030263,333924,333920,own,0,True,stage1
+114404,WPU114404,"Hoists, overhead cranes, and monorail systems",0.022,tariff,"goods, import share 0.214 >= 0.15 (BEA 333920)",0.21446487142030263,333923,333920,own,0,True,stage1
+114406,WPU114406,Parts and accessories for conveyors and conveying systems,0.054000000000000006,tariff,"goods, import share 0.214 >= 0.15 (BEA 333920)",0.21446487142030263,333922,333920,own+fill WPU1144,32,True,stage1
+114502,WPU114502,Other power transmission equipment,0.059,tariff,"goods, import share 0.370 >= 0.15 (BEA 333613)",0.36976506639427986,333613,333613,own,0,True,stage1
+114613,WPU114613,"Parts, attachments, and accessories for scales and balances",0.004,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333997,33399A,own,0,True,stage1
+114701,WPU114701,"Fan, blower, air purification equipment",0.066,tariff,"goods, import share 0.304 >= 0.15 (BEA 333413)",0.30424415832141155,333413,333413,own,0,True,stage1
+114902,WPU114902,"Metal valves, except fluid power",0.403,tariff,"goods, import share 0.383 >= 0.15 (BEA 33291A)",0.3834057785732549,332911,33291A,own,0,True,stage1
+114903,WPU114903,"Metal pipe fittings, flanges, and unions",0.133,tariff,"goods, import share 0.383 >= 0.15 (BEA 33291A)",0.3834057785732549,332919,33291A,own,0,True,stage1
+114905,WPU114905,Ball and roller bearings,0.08499999999999999,tariff,"goods, import share 0.341 >= 0.15 (BEA 332991)",0.341079295154185,332991,332991,own,0,True,stage1
+114908,WPU114908,Filters and strainers,0.123,tariff,"goods, import share 0.379 >= 0.15 (BEA 333413,33399A)",0.3792953173686619,333999;333413,333413;33399A,own,0,True,stage1
+114911,WPU114911,Other miscellaneous general purpose equipment,0.084,tariff,"goods, import share 0.396 >= 0.15 (BEA 33399A)",0.39608052259698706,333999,33399A,own,0,True,stage1
+116101,WPU116101,Dairy and milk products plant machinery and equipment,0.002,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333241,33329A,own,0,True,stage1
+116104,WPU116104,Commercial food products machinery (except packaging and cooking equipment),0.009,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333241,33329A,own,0,True,stage1
+116105,WPU116105,"Industrial food products machinery for processing foods, beverages, & animal & fowl feed",0.007,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333241,33329A,own,0,True,stage1
+116306,WPU116306,Sawmill and woodworking machinery,0.004,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333243,33329A,own,0,True,stage1
+116401,WPU116401,Paper industries machinery,0.007,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333243,33329A,own,0,True,stage1
+116510,WPU116510,Printing machinery and equipment,0.004,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333244,33329A,own+fill WPU1165,112,True,stage1
+116603,WPU116603,Plastics-working and rubber-working machinery and equipment,0.011,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333249,33329A,own,0,True,stage1
+116606,WPU116606,All other industrial machinery,0.074,tariff,"goods, import share 0.410 >= 0.15 (BEA 33329A)",0.409796056446936,333249,33329A,own,0,True,stage1
+117102,WPU117102,Noncurrent-carrying wiring devices,0.055,tariff,"goods, import share 0.188 >= 0.15 (BEA 335930)",0.18810208932816214,335932,335930,own,0,True,stage1
+117303,WPU117303,Fractional horsepower motors and generators,0.006,tariff,"goods, import share 0.566 >= 0.15 (BEA 335312)",0.5657123480114324,335312,335312,own,0,True,stage1
+117304,WPU117304,Integral horsepower motors and generators (excluding land transportation types),0.019,tariff,"goods, import share 0.566 >= 0.15 (BEA 335312)",0.5657123480114324,335312,335312,own,0,True,stage1
+117309,WPU117309,Parts and supplies for motors and generators,0.015,tariff,"goods, import share 0.566 >= 0.15 (BEA 335312)",0.5657123480114324,335312,335312,own,0,True,stage1
+117311,WPU117311,Other motors and generators,0.027999999999999997,tariff,"goods, import share 0.566 >= 0.15 (BEA 335312)",0.5657123480114324,335312,335312,own,0,True,stage1
+117507,WPU117507,Industrial controls and related parts and accessories,0.047,tariff,"goods, import share 0.459 >= 0.15 (BEA 335314)",0.45927578861953544,335314,335314,own,0,True,stage1
+117821,WPU117821,"Relays for electronic circuitry, industrial control overload, and switchgear type",0.008,AI,AI list,,335314,335314,own,0,True,stage1
+117822,WPU117822,"Switches, mechanical, for electronic circuitry",0.007,AI,AI list,,334419,33441A,own,0,True,stage1
+117824,WPU117824,Connectors for electronic circuitry,0.049,AI,AI list,,334417,33441A,own,0,True,stage1
+117828,WPU117828,"Filters, crystals, and transducers",0.018,AI,AI list,,334419,33441A,own,0,True,stage1
+117839,WPU117839,"Integrated circuit packages, including microprocessors",0.033,AI,AI list,,334413,334413,own,0,True,stage1
+117847,WPU117847,"Other semiconductor devices, incl. transistors, diodes, and semiconductor parts such as wafers",0.026,AI,AI list,,334413,334413,own,0,True,stage1
+117849,WPU117849,Bare printed circuit boards,0.031,AI,AI list,,334412,33441A,own,0,True,stage1
+117853,WPU117853,"Electronic coils, transformers, and other inductors",0.02,AI,AI list,,334416,33441A,own,0,True,stage1
+117854,WPU117854,Capacitors and resistors for electronic circuitry,0.011,AI,AI list,,334416,33441A,own+fill WPU1178,83,True,stage1
+117856,WPU117856,"Microwave components, electron tubes, and other electronic components, n.e.c.",0.08,AI,AI list,,334419,33441A,own,0,True,stage1
+117861,WPU117861,"Printed circuit assemblies, loaded boards, modules and consumer external modems",0.026,AI,AI list,,334418,334418,own,0,True,stage1
+117901,WPU117901,Storage batteries,0.047,tariff,"goods, import share 0.471 >= 0.15 (BEA 335911)",0.4706259346293527,335911,335911,own,0,True,stage1
+117902,WPU117902,Primary batteries,0.008,tariff,"goods, import share 0.297 >= 0.15 (BEA 335912)",0.2966643009226402,335912,335912,own,0,True,stage1
+117903,WPU117903,Carbon and graphite products,0.056999999999999995,tariff,"goods, import share 0.217 >= 0.15 (BEA 335991)",0.2169475433183005,335991,335991,own,0,True,stage1
+118201,WPU118201,Industrial process control instruments,0.215,tariff,"goods, import share 0.344 >= 0.15 (BEA 334513)",0.3435318014472515,334513,334513,own,0,True,stage1
+118401,WPU118401,Fluid meters and counting devices,0.068,tariff,"goods, import share 0.296 >= 0.15 (BEA 334514)",0.29624554672513015,334514,334514,own,0,True,stage1
+119106,WPU119106,Parts and attachments for oil and gas field machinery and equipment,0.218,other,"goods, import share 0.099 < 0.15",0.0994792220214688,333132,333130,own+fill WPU1191,1,True,stage1
+119253,WPU119253,Parts and attachments for mining machinery and equipment (sold separately),0.103,other,"goods, import share 0.099 < 0.15",0.0994792220214688,333131,333130,own,0,True,stage1
+119505,WPU119505,Machine shop products,0.041,other,"goods, import share 0.000 < 0.15",0.0,332710,332710,own,0,True,stage1
+123201,WPU123201,Resilient floor coverings,0.01,tariff,"goods, import share 0.195 >= 0.15 (BEA 326190)",0.19477794805812115,326199,326190,own+fill WPU1232+fill WPU123,65,True,stage1
+126101,WPU126101,"Vitreous china, porcelain, and earthenware table and kitchenware and other pottery products",0.0,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327110,327100,own,0,True,stage1
+126501,WPU126501,"Mirrors (decorated and undecorated), made from purchased glass",0.011,tariff,"goods, import share 0.234 >= 0.15 (BEA 327200)",0.23350965894146183,327215,327200,own,0,True,stage1
+131107,WPU131107,Specialty glass,0.041999999999999996,tariff,"goods, import share 0.234 >= 0.15 (BEA 327200)",0.23350965894146183,327212,327200,own,0,True,stage1
+131108,WPU131108,"Flat glass (float, sheet, and plate process)",0.013000000000000001,tariff,"goods, import share 0.234 >= 0.15 (BEA 327200)",0.23350965894146183,327211,327200,own+fill WPU1311,83,True,stage1
+131301,WPU131301,Pressed and blown glassware,0.014,tariff,"goods, import share 0.234 >= 0.15 (BEA 327200)",0.23350965894146183,327212,327200,own,0,True,stage1
+131702,WPU131702,Recyclable glass,0.075,other,"goods, scrap: no NAICS industry -> unmatched (GO fallback); BEA S00401 share would be 0.384",,SCRAP,S00401,parent WPU1317+fill WPU131,130,True,stage1
+132101,WPU132101,"Construction sand, gravel and crushed stone",0.763,other,"goods, import share 0.073 < 0.15",0.07311529233489077,212321;212312;212319,212310;2123A0,own,0,True,stage1
+132201,WPU132201,"Cement, hydraulic",0.112,other,"goods, import share 0.123 < 0.15",0.12263535551206783,327310,327310,own,0,True,stage1
+134201,WPU134201,Building or common brick,0.016,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage1
+134202,WPU134202,"Glazed brick and other brick (paving, floor, and sewer)",0.0,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage1
+134401,WPU134401,"Clay floor and wall tile, glazed and unglazed (including quarry tile and ceramic mosaic tile)",0.013000000000000001,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage1
+134501,WPU134501,"Structural clay products, n.e.c.",0.002,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage1
+135201,WPU135201,Clay refractories,0.034,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage1
+135301,WPU135301,Nonclay refractories (excluding dead-burned magnesia),0.012,tariff,"goods, import share 0.468 >= 0.15 (BEA 327100)",0.4676864244741874,327120,327100,own,0,True,stage1
+137101,WPU137101,Gypsum products,0.009000000000000001,other,"goods, import share 0.023 < 0.15",0.022892441860465115,327420,327400,own,0,True,stage1
+138101,WPU138101,Glass containers (including value of packaging),0.023,tariff,"goods, import share 0.234 >= 0.15 (BEA 327200)",0.23350965894146183,327213,327200,own,0,True,stage1
+139201,WPU139201,Mineral wool for thermal and acoustical envelope insulation,0.021,other,"goods, import share 0.119 < 0.15",0.11904761904761904,327993,327993,own,0,True,stage1
+139202,WPU139202,"Mineral wool for industrial, equipment, and appliance insulation",0.015,other,"goods, import share 0.119 < 0.15",0.11904761904761904,327993,327993,own,0,True,stage1
+139902,WPU139902,Clay and stone mining and quarrying,0.343,other,"goods, import share 0.073 < 0.15",0.07311529233489077,2123,212310;2123A0,own,0,True,stage1
+139903,WPU139903,All other nonmetallic mineral products,0.023,other,"goods, import share 0.103 < 0.15",0.10347856640899508,327999,327999,own,0,True,stage1
+139904,WPU139904,Industrial sand,0.056,other,"goods, import share 0.118 < 0.15",0.11778304682868998,212322,2123A0,own+fill WPU1399,112,True,stage1
+141205,WPU141205,Motor vehicles parts,1.753,tariff,"goods, import share 0.299 >= 0.15 (BEA 336310,336320,336350,336360)",0.29931667728519357,3363,336310;336320;336350;336360;336370;336390;3363A0,own,0,True,stage1
+154107,WPU154107,Photographic and photocopying equipment,0.009000000000000001,tariff,"goods, import share 0.385 >= 0.15 (BEA 333316)",0.3846555323590814,333316,333316,own+fill WPU1541+fill WPU154,47,True,stage1
+154206,WPU154206,Photographic supplies,0.08399999999999999,other,"goods, import share 0.123 < 0.15",0.1228434881378453,325992,3259A0,own,0,True,stage1
+159A11,WPU159A11,All other miscellaneous fabricated products and recyclable materials,0.020999999999999998,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339999,339990,parent WPU159A,130,True,stage1
+371201,WPU371201,Local business wired telephone service,0.18000000000000002,other,services (non-AI),,,,own,0,True,stage1
+371202,WPU371202,Long distance business wired telephone and other toll service,0.35100000000000003,other,services (non-AI),,,,own,0,True,stage1
+372101,WPU372101,Cellular phone and other wireless telecommunication services,1.9580000000000002,other,services (non-AI),,,,own,0,True,stage1
+441101,WPU441101,Passenger car rental,0.40599999999999997,other,services (non-AI),,,,own,0,True,stage1
+442101,WPU442101,"Truck, truck trailer and RV rental",0.191,other,services (non-AI),,,,own,0,True,stage1
+443101,WPU443101,"Construction, mining, and forestry machinery and equipment rental and leasing",0.201,other,services (non-AI),,,,own,0,True,stage1
+453101,WPU453101,Architectural services,0.428,other,services (non-AI),,,,own,0,True,stage1
+453201,WPU453201,Engineering services,1.741,other,services (non-AI),,,,own,0,True,stage1
+501101,WPU501101,Solid waste collection,0.039,other,services (non-AI),,,,own,0,True,stage1
+591101,WPU591101,Metal plating and polishing,0.001,other,services (non-AI),,,,own,0,True,stage1
+591102,WPU591102,Metal coating and allied services,0.003,other,services (non-AI),,,,own,0,True,stage1
+591103,WPU591103,Metal heat treating,0.001,other,services (non-AI),,,,own,0,True,stage1
+601104,WPU601104,Support activities for oil and gas operations,1.038,other,services (non-AI),,,,own,0,True,stage1
+611102,WPU611102,Contract work on textile products,0.027,other,services (non-AI),,,,own,0,True,stage1
+611104,WPU611104,"Commission receipts for throwing, texturing, or winding filament yarns",0.002,other,services (non-AI),,,,parent WPU6111,130,True,stage1
+571102,WPU571102,Parts and supplies for machinery and equipment wholesaling,1.3719999999999999,other,services (non-AI),,,,own,0,True,stage1
+572101,WPU572101,Furnishings wholesaling,0.06999999999999999,other,services (non-AI),,,,own,0,True,stage1
+573101,WPU573101,"Building materials, paint, and hardware wholesaling",1.056,other,services (non-AI),,,,own,0,True,stage1
+574101,WPU574101,"Metals, minerals, and ores wholesaling",1.252,other,services (non-AI),,,,own,0,True,stage1
+575101,WPU575101,Chemicals and allied products wholesaling,1.6219999999999999,other,services (non-AI),,,,own,0,True,stage1
+576101,WPU576101,Paper and plastics products wholesaling,0.6789999999999999,other,services (non-AI),,,,own,0,True,stage1
+577101,WPU577101,Apparel wholesaling,0.008,other,services (non-AI),,,,own,0,True,stage1
+578101,WPU578101,Food wholesaling,0.779,other,services (non-AI),,,,own,0,True,stage1
+578102,WPU578102,Alcohol wholesaling,0.06,other,services (non-AI),,,,own,0,True,stage1
+579101,WPU579101,Other commodities wholesaling,2.0180000000000002,other,services (non-AI),,,,own,0,True,stage1
+586102,WPU586102,"Automotive parts, including tires, retailing",0.336,other,services (non-AI),,,,own,0,True,stage1
+58D101,WPU58D101,Hardware and building materials and supplies retailing,0.7130000000000001,other,services (non-AI),,,,own,0,True,stage1
+58F101,WPU58F101,Automotive fuels and lubricants retailing,0.16099999999999998,other,services (non-AI),,,,own,0,True,stage1
+58I101,WPU58I101,Other merchandise retailing (partial),0.364,other,services (non-AI),,,,own,0,True,stage1
+302201,WPU302201,Airline passenger services,1.292,other,services (non-AI),,,,own,0,True,stage1
+301101,WPU301101,Rail transportation of freight and mail,0.001,other,services (non-AI),,,,own,0,True,stage1
+301201,WPU301201,Local motor carrying,0.676,other,services (non-AI),,,,own,0,True,stage1
+301202,WPU301202,Long-distance motor carrying,1.9900000000000002,other,services (non-AI),,,,own,0,True,stage1
+301301,WPU301301,Deep sea water transportation of freight,0.118,other,services (non-AI),,,,own,0,True,stage1
+301302,WPU301302,Coastal and intercoastal water transportation of freight,0.09,other,services (non-AI),,,,own,0,True,stage1
+301303,WPU301303,Great Lakes-St Lawrence Seaway water transportation of freight,0.016,other,services (non-AI),,,,own+fill WPU3013,2,True,stage1
+301304,WPU301304,Inland waterways transportation of freight,0.077,other,services (non-AI),,,,own,0,True,stage1
+301401,WPU301401,Air transportation of freight,0.203,other,services (non-AI),,,,own,0,True,stage1
+301701,WPU301701,Pipeline transportation of petroleum products,0.02,other,services (non-AI),,,,own,0,True,stage1
+301702,WPU301702,Pipeline transportation of natural gas,0.025,other,services (non-AI),,,,own+fill WPU301,76,True,stage1
+311301,WPU311301,Marine cargo handling,0.049,other,services (non-AI),,,,own,0,True,stage1
+028301,WPU028301,"Processed eggs (dried, frozen, or liquid)",0.017,other,"goods, import share 0.101 < 0.15",0.10141708373165383,311999,311990,own+fill WPU0283+fill WPU028,58,True,stage1
+057203,WPU057203,Jet fuel,0.342,energy,BLS energy (group 05),,324110,324110,own,0,True,stage1
+057302,WPU057302,Home heating oil and distillates,0.055,energy,BLS energy (group 05),,324110,324110,own,0,True,stage1
+057303,WPU057303,No. 2 diesel fuel,1.687,energy,BLS energy (group 05),,324110,324110,own,0,True,stage1
+057801,WPU057801,Lubricating oil base stocks,0.164,energy,BLS energy (group 05),,324110;324191,324110;324190,own,0,True,stage1
+058102,WPU058102,Asphalt,0.056,energy,BLS energy (group 05),,324110,324110,own,0,True,stage1
+033901,WPU033901,Tire cord and tire fabrics,0.006,tariff,"goods, import share 0.335 >= 0.15 (BEA 313200)",0.3351786612984399,313210,313200,own+fill WPU033,7,True,stage1
+067104,WPU067104,Soaps and other detergents,0.27,other,"goods, import share 0.083 < 0.15",0.08297095146982084,325611,325610,own,0,True,stage1
+067201,WPU067201,Polish and other sanitation goods,0.09499999999999999,other,"goods, import share 0.083 < 0.15",0.08297095146982084,325612,325610,own,0,True,stage1
+067505,WPU067505,"Toothpastes, denture cleaners, and mouthwashes",0.011,tariff,"goods, import share 0.177 >= 0.15 (BEA 325620)",0.17691323487953506,325620,325620,own,0,True,stage1
+067905,WPU067905,Surface active agents,0.273,other,"goods, import share 0.083 < 0.15",0.08297095146982084,325613,325610,own,0,True,stage1
+072603,WPU072603,Foam components for furniture,0.038,other,"goods, import share 0.000 < 0.15",0.0,326150;326140,326140;326150,own,0,True,stage1
+091301,WPU091301,Writing and printing papers,0.072,tariff,"goods, import share 0.183 >= 0.15 (BEA 322120)",0.18279618091353267,322121,322120,own,0,True,stage1
+091302,WPU091302,Newsprint,0.003,tariff,"goods, import share 0.183 >= 0.15 (BEA 322120)",0.18279618091353267,322122,322120,own,0,True,stage1
+091305,WPU091305,All other coated and processed papers,0.016,tariff,"goods, import share 0.192 >= 0.15 (BEA 322120,322220)",0.191616428299143,322220;322121,322120;322220,own,0,True,stage1
+091501,WPU091501,"Sanitary paper products, including stock",0.046,tariff,"goods, import share 0.159 >= 0.15 (BEA 322120,322291)",0.15891351857633468,322291;322121,322120;322291,own,0,True,stage1
+091506,WPU091506,Office supplies and accessories,0.152,other,"goods, import share 0.049 < 0.15",0.048907229099801316,322230,322230,own,0,True,stage1
+091601,WPU091601,Pressure-sensitive products,0.054,tariff,"goods, import share 0.207 >= 0.15 (BEA 322220)",0.2066308038609744,322220,322220,own,0,True,stage1
+094401,WPU094401,Books printing,0.147,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323117,323110,own,0,True,stage1
+094501,WPU094501,Manifold business forms printing,0.027,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own+fill WPU094,23,True,stage1
+094701,WPU094701,Magazine and periodical printing,0.111,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own,0,True,stage1
+094702,WPU094702,Label and wrapper printing for packaging,0.353,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own,0,True,stage1
+094703,WPU094703,Catalog and directory printing,0.069,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own+fill WPU0947,1,True,stage1
+094704,WPU094704,Financial and legal printing (lithographic),0.147,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own+fill WPU0947,108,True,stage1
+094705,WPU094705,Advertising printing,0.288,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own,0,True,stage1
+094706,WPU094706,Other general job printing,0.285,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111,323110,own,0,True,stage1
+094711,WPU094711,"Other commercial printing, incl. screen, engraving, digital, & general job exc. labels/wrappers",0.739,other,"goods, import share 0.039 < 0.15",0.03851142818803954,323111;323113,323110,own,0,True,stage1
+094A01,WPU094A01,"Checkbooks, blankbooks, looseleaf binders, and devices",0.031,other,"goods, import share 0.039 < 0.15",0.03943543347732768,323111;322230,322230;323110,own+fill WPU094,97,True,stage1
+105402,WPU105402,"Plumbing fixtures, fittings, and trim",0.095,tariff,"goods, import share 0.222 >= 0.15 (BEA 332913)",0.22193211488250653,332913,332913,own,0,True,stage1
+106101,WPU106101,Steam and hot water equipment,0.015,tariff,"goods, import share 0.234 >= 0.15 (BEA 332410)",0.23412436827070973,332410,332410,own+fill WPU106,3,True,stage1
+106201,WPU106201,"Furnaces and heaters, including parts",0.07,tariff,"goods, import share 0.260 >= 0.15 (BEA 333414,333415)",0.25989409141583053,333414;333415,333414;333415,own,0,True,stage1
+106301,WPU106301,"Other heating equipment, non-electric, including parts",0.03,tariff,"goods, import share 0.198 >= 0.15 (BEA 333414)",0.19824433065106073,333414,333414,own,0,True,stage1
+106401,WPU106401,Domestic heating stoves,0.006,tariff,"goods, import share 0.198 >= 0.15 (BEA 333414)",0.19824433065106073,333414,333414,own,0,True,stage1
+107301,WPU107301,Sheet metal products,0.522,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332322,332320,own,0,True,stage1
+107408,WPU107408,Ornamental and architectural metal work,0.276,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332323,332320,own,0,True,stage1
+107411,WPU107411,"Fabricated metal pipe, tube, and fittings",0.08,other,"goods, import share 0.000 < 0.15",0.0,332996,332996,own,0,True,stage1
+107901,WPU107901,"Prefabricated metal building systems (excl. farm service bldgs, residential bldgs, and parts)",0.005,other,"goods, import share 0.087 < 0.15",0.08654474888734207,332311,332310,own+fill WPU1079,1,True,stage1
+108303,WPU108303,"Commercial, institutional and industrial electric lighting fixtures",0.168,tariff,"goods, import share 0.560 >= 0.15 (BEA 335120)",0.5597003516281914,335122,335120,own,0,True,stage1
+108305,WPU108305,Other lighting equipment,0.053,tariff,"goods, import share 0.560 >= 0.15 (BEA 335120)",0.5597003516281914,335129,335120,own,0,True,stage1
+111401,WPU111401,"Commercial turf and grounds care equipment, including parts and attachments",0.003,other,"goods, import share 0.016 < 0.15",0.016105417276720352,333112,333112,own,0,True,stage1
+111409,WPU111409,"Parts for farm machinery, for sale separately",0.014,tariff,"goods, import share 0.277 >= 0.15 (BEA 333111)",0.27683566177547375,333111,333111,own,0,True,stage1
+114501,WPU114501,"Speed changers, drives, gears",0.055,tariff,"goods, import share 0.624 >= 0.15 (BEA 333612)",0.6242251425737664,333612,333612,own,0,True,stage1
+114802,WPU114802,"Unitary air-conditioners, except air source heat pumps",0.248,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own+fill WPU1148,1,True,stage1
+114803,WPU114803,Commercial refrigeration equipment,0.08600000000000001,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own,0,True,stage1
+114806,WPU114806,All other miscellaneous refrigeration and air-conditioning equipment,0.055999999999999994,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own,0,True,stage1
+114807,WPU114807,"Heat transfer equipment, including heat pumps",0.14200000000000002,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own,0,True,stage1
+114808,WPU114808,"Refrigerant compressors, except automotive",0.08,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own+fill WPU1148,96,True,stage1
+114809,WPU114809,Parts and accessories for air conditioning and heat transfer equipment,0.07100000000000001,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own,0,True,stage1
+114815,WPU114815,Refrigeration condensing units,0.027999999999999997,tariff,"goods, import share 0.267 >= 0.15 (BEA 333415)",0.2674247162898758,333415,333415,own+fill WPU1148,40,True,stage1
+114907,WPU114907,Industrial patterns,0.004,tariff,"goods, import share 0.193 >= 0.15 (BEA 333511,333514)",0.1931554524361949,333511;333514,333511;333514,own+fill WPU1149,56,True,stage1
+115201,WPU115201,"Computer storage devices (except parts, attachments and accessories)",0.005,AI,AI list,,334112,334112,own,0,True,stage1
+115203,WPU115203,"Parts, attachments and accessories for computer storage devices",0.0,AI,AI list,,334112,334112,parent WPU1152,130,True,stage1
+115405,WPU115405,"Parts, attachments, and accessories for computer terminals and peripherals",0.108,AI,AI list,,334118,334118,own+fill WPU1154,48,True,stage1
+115406,WPU115406,Computer terminals (including POS and funds-transfer devices) and other computer peripherals,0.047,AI,AI list,,334118,334118,own,0,True,stage1
+116801,WPU116801,Service industry machinery and parts,0.015,tariff,"goods, import share 0.291 >= 0.15 (BEA 333318)",0.2905669127023998,333318,333318,own,0,True,stage1
+117101,WPU117101,Current-carrying wiring devices,0.057,tariff,"goods, import share 0.188 >= 0.15 (BEA 335930)",0.18810208932816214,335931,335930,own,0,True,stage1
+117522,WPU117522,Switchgear and switchboard apparatus,0.22499999999999998,tariff,"goods, import share 0.266 >= 0.15 (BEA 335313)",0.26641256489452586,335313,335313,own,0,True,stage1
+117601,WPU117601,Telephone and wireline data networking equipment,0.016,AI,AI list,,334210,334210,own,0,True,stage1
+117603,WPU117603,"Other communications and related equipment, including broadcast and wireless",0.13999999999999999,AI,AI list,,334220,334220,own,0,True,stage1
+117605,WPU117605,"Electronic systems and equipment, n.e.c.",0.049,AI,AI list,,334290,334290,own,0,True,stage1
+117704,WPU117704,"Electric lamp bulbs, tubes, and components",0.007,tariff,"goods, import share 0.482 >= 0.15 (BEA 335110)",0.4816066066066066,335110,335110,own,0,True,stage1
+117929,WPU117929,Miscellaneous electrical industrial apparatus,0.043,tariff,"goods, import share 0.464 >= 0.15 (BEA 335999)",0.46353750997605747,335999,335999,own,0,True,stage1
+117939,WPU117939,"All other electrical equipment and components, except industrial",0.001,tariff,"goods, import share 0.464 >= 0.15 (BEA 335999)",0.46353750997605747,335999,335999,own+fill WPU1179,3,True,stage1
+118105,WPU118105,"Automatic environmental controls for monitoring residential, commercial, and appliance use",0.07200000000000001,tariff,"goods, import share 0.314 >= 0.15 (BEA 334512)",0.314210273643783,334512,334512,own,0,True,stage1
+118603,WPU118603,Laboratory analytical instruments,0.026,tariff,"goods, import share 0.253 >= 0.15 (BEA 334516)",0.25324488029997116,334516,334516,own,0,True,stage1
+119401,WPU119401,"Gasoline engines (except aircraft, automobile, highway truck, bus & tank)",0.007,tariff,"goods, import share 0.315 >= 0.15 (BEA 333618)",0.31472506745605533,333618,333618,parent WPU1194,130,True,stage1
+119407,WPU119407,"Diesel, semidiesel, and dual-fuel engines (except automotive)",0.015,tariff,"goods, import share 0.315 >= 0.15 (BEA 333618)",0.31472506745605533,333618,333618,own+fill WPU1194,23,True,stage1
+119408,WPU119408,"Diesel, semidiesel, and dual-fuel engines for automobiles, trucks, and buses",0.024,tariff,"goods, import share 0.314 >= 0.15 (BEA 333618,336310)",0.31430185341106504,333618;336310,333618;336310,own,0,True,stage1
+119413,WPU119413,"Parts & accessories for internal combustion engines, ex. aircraft & gasoline automotive engines",0.017,tariff,"goods, import share 0.314 >= 0.15 (BEA 333618,336310)",0.31430185341106504,333618;336310,333618;336310,own,0,True,stage1
+119420,WPU119420,Miscellaneous engine equipment,0.008,tariff,"goods, import share 0.315 >= 0.15 (BEA 333618)",0.31472506745605533,333618,333618,parent WPU1194,130,True,stage1
+119701,WPU119701,Turbines and turbine generator sets (excluding parts),0.026,tariff,"goods, import share 0.222 >= 0.15 (BEA 333611)",0.22241557102345966,333611,333611,own+fill WPU1197+fill WPU119,10,True,stage1
+119801,WPU119801,"Parts & accesories for turbines, turbine generators, and turbine generator sets",0.022,tariff,"goods, import share 0.222 >= 0.15 (BEA 333611)",0.22241557102345966,333611,333611,own,0,True,stage1
+122101,WPU122101,Wood office furniture and store fixtures,0.019,other,"goods, import share 0.088 < 0.15",0.08827828120432622,337211;337212,33721A,own,0,True,stage1
+122204,WPU122204,Nonwood partitions and fixtures,0.044,tariff,"goods, import share 0.458 >= 0.15 (BEA 337215)",0.45800563881881584,337215,337215,own,0,True,stage1
+124104,WPU124104,Other major household appliances including room air-conditioners,0.016,tariff,"goods, import share 0.351 >= 0.15 (BEA 333415,335220)",0.3513108705446841,335220;333415,333415;335220,own,0,True,stage1
+126605,WPU126605,"Parts and attachments for consumer lawn, garden, and snow equipment",0.004,other,"goods, import share 0.016 < 0.15",0.016105417276720352,333112,333112,own,0,True,stage1
+126607,WPU126607,"Consumer lawn, garden, and snow equipment",0.039,other,"goods, import share 0.016 < 0.15",0.016105417276720352,333112,333112,own+fill WPU1266,28,True,stage1
+133301,WPU133301,Ready-mix concrete,0.515,other,"goods, import share 0.000 < 0.15",3.262004175365344e-05,327320,327320,own,0,True,stage1
+133401,WPU133401,Precast concrete products,0.14700000000000002,other,"goods, import share 0.144 < 0.15",0.14373927958833618,327390,327390,own,0,True,stage1
+133501,WPU133501,Prestressed concrete products,0.026000000000000002,other,"goods, import share 0.144 < 0.15",0.14373927958833618,327390,327390,own,0,True,stage1
+136101,WPU136101,Prepared asphalt and tar roofing and siding products,0.44799999999999995,other,"goods, import share 0.025 < 0.15",0.02481549815498155,324122,324122,own,0,True,stage1
+136201,WPU136201,"Roofing asphalts, pitches, coatings, and cement",0.084,other,"goods, import share 0.025 < 0.15",0.02481549815498155,324122,324122,own,0,True,stage1
+139801,WPU139801,Gaskets and gasketing material,0.082,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339991,339990,own,0,True,stage1
+139802,WPU139802,Packing and sealing,0.052,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339991,339990,own,0,True,stage1
+141602,WPU141602,"Camping trailers, campers, pick-up covers, and parts",0.026,other,"goods, import share 0.066 < 0.15",0.06566181566181566,336214,336214,own,0,True,stage1
+142501,WPU142501,Other aircraft parts and equipment,0.166,tariff,"goods, import share 0.266 >= 0.15 (BEA 336413)",0.2658246094524226,336413,336413,own,0,True,stage1
+144401,WPU144401,Railroad cars and locomotives,0.091,tariff,"goods, import share 0.196 >= 0.15 (BEA 336500)",0.19620172764227642,336510,336500,own+fill WPU144,76,True,stage1
+144501,WPU144501,Railway maintenance of way equipment and parts,0.154,tariff,"goods, import share 0.196 >= 0.15 (BEA 336500)",0.19620172764227642,336510,336500,own,0,True,stage1
+149111,WPU149111,"Other transportation equipment, incl. golf carts, vehicle trailers, and all-terrain vehicles",0.03,other,"goods, import share 0.065 < 0.15",0.06539446125203631,336999;336214,336214;336999,own,0,True,stage1
+159101,WPU159101,Burial caskets,0.015,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339995,339990,own,0,True,stage1
+159301,WPU159301,Musical instruments,0.004,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339992,339990,own,0,True,stage1
+159705,WPU159705,"Brooms, brushes and mops",0.022,tariff,"goods, import share 0.375 >= 0.15 (BEA 339990)",0.3747522119615143,339994,339990,own,0,True,stage1
+331101,WPU331101,Sales of textbooks,0.001,other,services (non-AI),,,,own,0,True,stage1
+331102,WPU331102,"Sales of technical, scientific, and professional books",0.313,other,services (non-AI),,,,own,0,True,stage1
+331103,WPU331103,Sales of religious books,0.0,other,services (non-AI),,,,own,0,True,stage1
+331104,WPU331104,Sales of general adult and juvenile books,0.0,other,services (non-AI),,,,own,0,True,stage1
+331201,WPU331201,Sales and subscriptions of periodicals,0.193,other,services (non-AI),,,,own,0,True,stage1
+331202,WPU331202,Newspaper subscription and single copy sales,0.017,other,services (non-AI),,,,own,0,True,stage1
+336101,WPU336101,"Directory, mailing list, and related compilations publishing sales",0.494,other,services (non-AI),,,,own,0,True,stage1
+351101,WPU351101,"Affiliate agreements, programming sales, and retransmission fees for cable and broadcast tv",0.08,other,services (non-AI),,,,own,0,True,stage1
+352101,WPU352101,"Affiliate agreements, programming sales, and network compensation for radio",0.018,other,services (non-AI),,,,own,0,True,stage1
+361101,WPU361101,Advertising space sales in periodicals,0.096,other,services (non-AI),,,,own,0,True,stage1
+361201,WPU361201,Print advertising space sales in directories and mailing lists,0.045,other,services (non-AI),,,,own,0,True,stage1
+362101,WPU362101,Broadcast and network television advertising time sales,0.095,other,services (non-AI),,,,own,0,True,stage1
+362102,WPU362102,Cable network advertising time sales,0.009,other,services (non-AI),,,,own,0,True,stage1
+362103,WPU362103,Local cable system advertising time sales,0.048,other,services (non-AI),,,,own,0,True,stage1
+363101,WPU363101,Radio advertising time sales,0.063,other,services (non-AI),,,,own,0,True,stage1
+366101,WPU366101,Internet advertising sales,1.834,other,services (non-AI),,,,own,0,True,stage1
+371204,WPU371204,Private line wired telephone service,0.252,other,services (non-AI),,,,own,0,True,stage1
+371205,WPU371205,All-distance business wired telephone service (partial),0.005,other,services (non-AI),,,,own+fill WPU3712,76,True,stage1
+371301,WPU371301,Other wired telephone services,0.025,other,services (non-AI),,,,own,0,True,stage1
+373101,WPU373101,Cable and satellite subscriber services,0.062,other,services (non-AI),,,,own,0,True,stage1
+374103,WPU374103,Business Internet access services,0.18,other,services (non-AI),,,,own,0,True,stage1
+375101,WPU375101,Bundled wired telecommunications access services,0.438,other,services (non-AI),,,,own,0,True,stage1
+381101,WPU381101,"Hosting, ASP and other IT infrastructure provisioning services",1.931,other,services (non-AI),,,,own,0,True,stage1
+381102,WPU381102,Business process management services (partial),0.529,other,services (non-AI),,,,own,0,True,stage1
+381103,WPU381103,"Data management, information transformation and other services",0.421,other,services (non-AI),,,,own,0,True,stage1
+391101,WPU391101,Business loans (partial),0.138,other,services (non-AI),,,,own,0,True,stage1
+391301,WPU391301,Other loans and loan services (partial),0.01,other,services (non-AI),,,,own,0,True,stage1
+392101,WPU392101,Deposit services (partial),0.078,other,services (non-AI),,,,own,0,True,stage1
+393101,WPU393101,"Other credit intermediation services, including trust services (partial)",0.011,other,services (non-AI),,,,own,0,True,stage1
+401101,WPU401101,"Securities brokerage, dealing, and investment advice",1.794,other,services (non-AI),,,,own,0,True,stage1
+401102,WPU401102,Securities brokerage and dealing related services (partial),0.969,other,services (non-AI),,,,own,0,True,stage1
+402101,WPU402101,Portfolio management,1.412,other,services (non-AI),,,,own,0,True,stage1
+403101,WPU403101,Investment banking,0.818,other,services (non-AI),,,,own,0,True,stage1
+411103,WPU411103,Health and medical insurance,0.131,other,services (non-AI),,,,own,0,True,stage1
+411104,WPU411104,Property and casualty insurance,0.245,other,services (non-AI),,,,own,0,True,stage1
+421101,WPU421101,Commissions from sales of life insurance and annuities,0.026,other,services (non-AI),,,,own,0,True,stage1
+421102,WPU421102,Commissions from sales of health and medical insurance,0.034,other,services (non-AI),,,,own,0,True,stage1
+421103,WPU421103,Commissions from sales of property and casualty insurance,0.152,other,services (non-AI),,,,own,0,True,stage1
+421104,WPU421104,Commissions from sales of other insurance,0.021,other,services (non-AI),,,,own,0,True,stage1
+431101,WPU431101,"Office buildings, gross rents",1.191,other,services (non-AI),,,,own,0,True,stage1
+431102,WPU431102,"Retail properties, gross rents",1.329,other,services (non-AI),,,,own,0,True,stage1
+431103,WPU431103,"Industrial buildings, gross rents",0.312,other,services (non-AI),,,,own,0,True,stage1
+431104,WPU431104,"Self-service storage and miniwarehouses, gross rents",0.225,other,services (non-AI),,,,own,0,True,stage1
+431105,WPU431105,"Other nonresidential buildings, gross rents",0.584,other,services (non-AI),,,,own,0,True,stage1
+431301,WPU431301,Nonresidential property management fees,0.491,other,services (non-AI),,,,own,0,True,stage1
+432201,WPU432201,Residential property management fees,0.722,other,services (non-AI),,,,own,0,True,stage1
+433101,WPU433101,Real estate appraisal fees,0.069,other,services (non-AI),,,,own,0,True,stage1
+451101,WPU451101,Legal services,0.036,other,services (non-AI),,,,own,0,True,stage1
+452101,WPU452101,Financial auditing,0.021,other,services (non-AI),,,,own,0,True,stage1
+452102,WPU452102,Tax preparation and planning,0.024,other,services (non-AI),,,,own,0,True,stage1
+452104,WPU452104,"Other accounting services, including billing and review (partial)",0.007,other,services (non-AI),,,,own,0,True,stage1
+452105,WPU452105,Bookkeeping and compilation (partial),0.003,other,services (non-AI),,,,own,0,True,stage1
+454101,WPU454101,Administrative and general management consulting services,0.191,other,services (non-AI),,,,own,0,True,stage1
+454102,WPU454102,Human resources consulting services,0.02,other,services (non-AI),,,,own,0,True,stage1
+454103,WPU454103,Marketing consulting services,0.067,other,services (non-AI),,,,own,0,True,stage1
+454104,WPU454104,"Process, physical distribution, and logistics consulting services",0.028,other,services (non-AI),,,,own,0,True,stage1
+455101,WPU455101,Advertising agency services,0.316,other,services (non-AI),,,,own,0,True,stage1
+461101,WPU461101,Employment placement services,0.009,other,services (non-AI),,,,own,0,True,stage1
+462101,WPU462101,Executive search services,0.003,other,services (non-AI),,,,own,0,True,stage1
+463101,WPU463101,Temporary help services,0.122,other,services (non-AI),,,,own,0,True,stage1
+463201,WPU463201,Co-employment staffing services,0.1,other,services (non-AI),,,,own,0,True,stage1
+471101,WPU471101,Arrangement of international flights,0.027,other,services (non-AI),,,,own,0,True,stage1
+471201,WPU471201,Arrangement of domestic flights (partial),0.014,other,services (non-AI),,,,own,0,True,stage1
+472101,WPU472101,Arrangement of vehicle rentals and lodging (partial),0.016,other,services (non-AI),,,,own,0,True,stage1
+473101,WPU473101,Arrangement of cruises and tours,0.022,other,services (non-AI),,,,own,0,True,stage1
+474101,WPU474101,Other travel arrangements (partial),0.03,other,services (non-AI),,,,own,0,True,stage1
+481101,WPU481101,Security guard services,0.045,other,services (non-AI),,,,own,0,True,stage1
+491101,WPU491101,Janitorial services,0.002,other,services (non-AI),,,,own,0,True,stage1
+531101,WPU531101,Guestroom or unit rental,1.233,other,services (non-AI),,,,own,0,True,stage1
+531102,WPU531102,Other traveler accommodation services,0.106,other,services (non-AI),,,,own,0,True,stage1
+541101,WPU541101,Food and nonalcoholic beverages for immediate consumption (partial),0.201,other,services (non-AI),,,,own,0,True,stage1
+541201,WPU541201,Alcoholic beverages for immediate consumption (partial),0.068,other,services (non-AI),,,,own,0,True,stage1
+551101,WPU551101,Commercial machinery repair and maintenance,0.5880000000000001,other,services (non-AI),,,,own,0,True,stage1
+552101,WPU552101,Motor vehicle repair and maintenance (partial),0.285,other,services (non-AI),,,,own,0,True,stage1
+555101,WPU555101,Aircraft repair and maintenance (partial),0.054,other,services (non-AI),,,,UNPRICED,0,False,stage1
+585101,WPU585101,"TV, video, and photographic equipment and supplies retailing",0.0,other,services (non-AI),,,,own,0,True,stage1
+58A101,WPU58A101,"Lawn, garden, and farm equipment and supplies retailing",0.025,other,services (non-AI),,,,own,0,True,stage1
+58B101,WPU58B101,Furniture retailing,0.024,other,services (non-AI),,,,own,0,True,stage1
+58F102,WPU58F102,Household fuels retailing,0.09899999999999999,other,services (non-AI),,,,own,0,True,stage1
+58G101,WPU58G101,Cleaning supplies and paper products retailing,0.008,other,services (non-AI),,,,own,0,True,stage1
+58H101,WPU58H101,Book retailing,0.02,other,services (non-AI),,,,own,0,True,stage1
+302101,WPU302101,Rail transportation of passengers,0.0,other,services (non-AI),,,,own,0,True,stage1
+301601,WPU301601,U.S. Postal Service,0.003,other,services (non-AI),,,,own,0,True,stage1
+301602,WPU301602,"Courier and messenger services, except air",0.118,other,services (non-AI),,,,own,0,True,stage1
+301603,WPU301603,"Air mail and package delivery services, excluding by USPS",0.548,other,services (non-AI),,,,own,0,True,stage1
+311201,WPU311201,Operation of port waterfront terminals,0.002,other,services (non-AI),,,,own,0,True,stage1
+312101,WPU312101,"Other airport operations, excluding aircraft maintenance and repair",0.136,other,services (non-AI),,,,own,0,True,stage1
+313101,WPU313101,Arrangement of freight and cargo,0.188,other,services (non-AI),,,,own,0,True,stage1
+313201,WPU313201,Freight forwarding,0.117,other,services (non-AI),,,,own,0,True,stage1
+321101,WPU321101,"Warehousing, storage, and related services",0.76,other,services (non-AI),,,,own,0,True,stage1
+802101,WPU802101,Maintenance and repair of nonresidential buildings (partial),0.003,other,services (non-AI),,,,own,0,True,stage1
+107107,WPU107107,Metal window and door screens (except combination screens) and metal weather strip,0.02,other,"goods, import share 0.039 < 0.15",0.039465441637084986,332321,332320,own+fill WPU1071,25,True,stage1
+107201,WPU107201,Metal tanks,0.036,other,"goods, import share 0.136 < 0.15",0.13591503969105342,332420,332420,own,0,True,stage1
+107903,WPU107903,"Panels, parts, and sections for prefabricated buildings, steel and aluminum",0.017,other,"goods, import share 0.087 < 0.15",0.08654474888734207,332311,332310,own,0,True,stage1
+124301,WPU124301,Household vacuum cleaners and other floor care machines (including parts and attachments),0.001,tariff,"goods, import share 0.785 >= 0.15 (BEA 335210)",0.7849441413354118,335210,335210,own+fill WPU1243+fill WPU124,34,True,stage1
+124403,WPU124403,"Parts and attachments for small electric household appliances, including fan parts",0.0,tariff,"goods, import share 0.785 >= 0.15 (BEA 335210)",0.7849441413354118,335210,335210,own+fill WPU1244,3,True,stage1
+124404,WPU124404,"Small electric household appliances, including fans",0.003,tariff,"goods, import share 0.785 >= 0.15 (BEA 335210)",0.7849441413354118,335210,335210,own+fill WPU1244,64,True,stage1
+133111,WPU133111,Structural concrete block,0.016,other,"goods, import share 0.007 < 0.15",0.006672091131000813,327331,327330,own,0,True,stage1
+133121,WPU133121,Decorative concrete block,0.011,other,"goods, import share 0.007 < 0.15",0.006672091131000813,327331,327330,own,0,True,stage1
+133131,WPU133131,Concrete brick,0.008,other,"goods, import share 0.007 < 0.15",0.006672091131000813,327331,327330,own,0,True,stage1
+133141,WPU133141,Concrete pavers,0.019,other,"goods, import share 0.007 < 0.15",0.006672091131000813,327331,327330,own,0,True,stage1
+133201,WPU133201,Concrete pipe,0.021,other,"goods, import share 0.007 < 0.15",0.006672091131000813,327332,327330,own,0,True,stage1
+139401,WPU139401,Paving mixtures and blocks,0.385,other,"goods, import share 0.007 < 0.15",0.006638503319251659,324121,324121,own,0,True,stage1
+58C101,WPU58C101,Flooring and floor coverings retailing,0.008,other,services (non-AI),,,,own,0,True,stage1
+58E101,WPU58E101,Major household appliance retailing,0.044,other,services (non-AI),,,,own,0,True,stage1

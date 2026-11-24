@@ -1,0 +1,13 @@
+month,status,horizon,block,share_of_headline_weight_pct,share_of_block_above3_pct,contribution_to_headline_breadth_pp,headline_breadth_pct
+2026-09,BEA published,12m,core,89.078,60.626,54.004,59.804
+2026-09,BEA published,12m,energy,3.649,99.269,3.622,59.804
+2026-09,BEA published,12m,food,7.273,29.936,2.177,59.804
+2026-09,BEA published,3m_ann,core,89.031,44.814,39.898,43.717
+2026-09,BEA published,3m_ann,energy,3.878,57.897,2.245,43.717
+2026-09,BEA published,3m_ann,food,7.091,22.194,1.574,43.717
+2026-10,UMD est.,12m,core,89.135,54.038,48.167,53.994
+2026-10,UMD est.,12m,energy,3.598,100.0,3.598,53.994
+2026-10,UMD est.,12m,food,7.267,30.678,2.229,53.994
+2026-10,UMD est.,3m_ann,core,89.057,45.467,40.492,46.257
+2026-10,UMD est.,3m_ann,energy,3.868,90.634,3.506,46.257
+2026-10,UMD est.,3m_ann,food,7.075,31.936,2.26,46.257

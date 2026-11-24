@@ -1,0 +1,14 @@
+line,name,leaf,tier,weight_sep_window_pct,weight_oct_window_pct,r12_sep,r12_oct_est,direction,change_pp
+184,Nonprofit hospitals' services to households,184,observed_needs_seasonal,5.913,5.955,3.337,2.735,down through 3%,-5.913
+186,Government hospitals,186,observed_needs_seasonal,1.801,1.812,3.337,2.734,down through 3%,-1.801
+185,Proprietary hospitals,185,observed_needs_seasonal,1.008,1.013,3.337,2.734,down through 3%,-1.008
+301,Tax preparation and other related services,301,observed_needs_seasonal,0.283,0.284,3.992,2.47,down through 3%,-0.283
+28,Window coverings,28,observed_published,0.174,0.179,5.379,2.54,down through 3%,-0.174
+61,Musical instruments (part of 80),61,observed_published,0.048,0.048,2.919,3.166,up through 3%,0.048
+69,Educational books (96),69,observed_published,0.046,0.049,1.917,3.453,up through 3%,0.049
+232,Package tours,232,observed_published,0.138,0.14,1.302,3.089,up through 3%,0.14
+70,Luggage and similar personal items (part of 119),70,observed_published,0.276,0.277,2.94,4.13,up through 3%,0.277
+139,Cosmetic / perfumes / bath / nail preparations and implements,139,observed_published,0.41,0.411,1.394,3.145,up through 3%,0.411
+129,"Flowers, seeds, and potted plants",129,observed_published,0.418,0.422,2.769,5.228,up through 3%,0.422
+212,"Amusement parks, campgrounds, and related recreational services",212,observed_published,0.499,0.506,1.301,3.087,up through 3%,0.506
+52,"Sporting equipment, supplies, guns, and ammunition (part of 80)",52,observed_published,0.681,0.685,2.815,3.179,up through 3%,0.685

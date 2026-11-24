@@ -1,0 +1,13 @@
+# Sources
+- https://www.bls.gov/news.release/cpi.nr0.htm [O] Oct 2026 CPI released Nov 10; SA headline +0.4, core +0.3; no Oct 2026 12-month rates.
+- https://www.bls.gov/news.release/prod2.nr0.htm [O] Q3 2026 preliminary Productivity and Costs, released Nov 5, 2026; productivity 3.6, ULC -0.7, hourly comp 2.9 (q/q annualized), y/y 2.1/2.4/4.5.
+- https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026 [O] Sep 2026 release date Oct 29; PCE +0.5 m/m, 3.6 y/y; core +0.3 m/m, 3.1 y/y.
+- https://fred.stlouisfed.org/series/PCEPILFE [O] core PCE index Sep 2026 130.902, Aug 130.489.
+- https://api.bls.gov/publicAPI/v2/timeseries/data/ [O] BLS API (via retrieve_bls.py); raw/bls/bls_api_all_series_*_2026-11-10.json.
+- https://apps.bea.gov/api/data/ [O] BEA API (via retrieve_bea.py); raw/bea/*_2026-11-10.*.
+- https://api.stlouisfed.org/fred/ [O] FRED/ALFRED API: breakevens, Dallas trimmed mean, ALFRED first-release dates, cross-checks.
+- https://www.atlantafed.org/research/inflationproject/stickyprice [O] page link to sticky-price-data.xlsx (renamed); workbook downloaded and layout compared to Sep 26 file.
+- https://www.clevelandfed.org/indicators-and-data/median-cpi [O] trim_revised.csv and mediancpi_chartdata.csv.
+- https://www.newyorkfed.org/microeconomics/sce [O] frbny-sce-data.xlsx (5-year column moved into 'Inflation expectations' sheet).
+- https://www.sca.isr.umich.edu/ [O] home page: Preliminary Results for November 2026; https://www.sca.isr.umich.edu/files/tbmpx1px5.csv [O] ends Oct 2026 (PX_MD 4.7, PX5_MD 3.5).
+- https://www.philadelphiafed.org/surveys-and-data/ (SPF variable pages) [O] files end 2026 Q3; Q4 not yet released.

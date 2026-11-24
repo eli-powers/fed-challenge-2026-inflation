@@ -1,0 +1,88 @@
+{
+  "key": [
+    "ENERGY IS THE BIGGEST HEADLINE DRIVER, AND PUMP PRICES ARE REVERSING. Gasoline is the #1 contributor to 12-month headline CPI (+0.81 pp, just ahead of owners' equivalent rent at +0.77 pp) and PCE (+0.49 pp; +27.9% y/y), but it is falling at a ~31% annualized pace over the last 3 months in both indexes. Upstream energy is still up sharply on a 12-month basis (PPI diesel +78%, jet fuel +67%, finished consumer energy +21%), though those are also falling over 3 months. Airfares are NOT reversing (CPI +22% annualized over 3 months even as jet fuel fell ~31%).",
+    "PRICES IN ENERGY-EXPOSED SERVICES ARE RISING, BUT THE BASKET IS NARROW AND IT IS AIRFARES. Transport and delivery services are ~1.6-1.9% of core and add +0.27 pp to core CPI and +0.19 pp to core PCE; airfares (+23% CPI, +19.5% PCE) account for all of it (other transport items net slightly negative). Airfares dominate the energy-exposed transport basket; fuel costs are one possible explanation alongside demand and capacity (the data show rising prices, not causal pass-through). The rest of core runs ~2.1% y/y in CPI and ~2.9% y/y (2.2% annualized over 3 months) in PCE (weighted baskets, not official indexes). Freight PPI (+14%) and trade margins are pipeline risks. This does not explain why core PCE exceeds core CPI.",
+    "BEA'S SEPT 30 REVISION SHRANK THE CORE PCE-CPI GAP. Same-month comparison (July): 0.87 pp before the revision, 0.51 pp after; August: core PCE 3.01% vs core CPI 2.45% (0.56 pp). BEA's method changes cut measured portfolio-management inflation from 20.8% to 8.6% and software from 21.2% to 12.3% (July, y/y). Measured as excess over average core inflation, the two now add about +0.25 pp to core PCE (portfolio management ~0.10, software ~0.15; software is 1.2% of core PCE vs 0.04% of CPI): under half of the remaining gap, the rest unexplained here. The gap between core PCE and market-based core narrowed from +0.32 pp to +0.06 pp in July with the revision, and is ~0 in August (3.01 vs 3.03); the two indexes differ in scope and aggregation, so this gap is not the contribution of the excluded items. BEA Table 9.1U (headline only, Dec 2025-Aug 2026): PCE-only items +0.55 pp, shelter weight -0.46 pp.",
+    "AI PRICE PRESSURE IS VISIBLE UPSTREAM AND IN COMPUTERS, NOT ACROSS ELECTRONICS, AND THE DATA DON'T PROVE AI CAUSED IT. PPI electronic components +28% y/y and computers +22% (+75% annualized over 3 months); computers are +29% annualized over 3 months in both CPI and PCE (12-month: CPI +8.4%, PCE +8.4%). Against it: phones -14%, semiconductor-industry PPI -3%, hosting PPI +0.3%, application-software PPI -3.7%, and the CPI AI basket is -3.7% y/y. In the PCE AI basket (+10.5% y/y), software is 60% of the starting weight but ~90% of the 12-month contribution; software is +15.6% y/y but only +2.1% annualized over 3 months after BEA's revision.",
+    "UNDERLYING TREND IS NEAR 2.2-2.7%, AND MOMENTUM COOLED. Dallas trimmed-mean PCE 2.19% y/y (Aug), Cleveland trimmed-mean CPI 2.6%, Atlanta core sticky CPI 2.7% (2.4% annualized over 3 months). Core PCE annualized over 3 months: July 3.05% before the revision, 2.30% after, 2.05% in August, so part of the cooling is revision and part is new. Breadth (share of core PCE weight rising faster than 3% annualized over 3 months): July ~61% both before and after the revision (61.4% vs 60.3%), then 33% in August, a sharp one-month drop in new data, not a revision effect; core CPI 17%. On a 12-month basis 61% (PCE) vs 54% (CPI).",
+    "POLICY READ-THROUGH (interpretation, to test in Step 6): after BEA's revision core PCE is ~3.0% y/y but ~2.0% annualized over 3 months, and the asset-price measurement effect is much smaller (portfolio management now contributes ~0.15 pp to core PCE y/y as weight x rate, down from ~0.38; ~0.10 pp measured as excess over average core, as in the revision bullet above). What remains above target is concentrated: airfares (energy-exposed, not reversing), hospital services (+3.5% y/y, accelerating to +5.2% annualized), and housing (~3.1%), against an energy shock already reversing at the pump. None of this identifies causes or what another 25 bp hike would do."
+  ],
+  "index": {
+    "CPI headline": "Gasoline (+0.81 pp) and shelter (OER + rent +0.98 pp) dominate; gasoline now falling fast, so headline should ease.",
+    "CPI core": "Shelter (~1.3 pp) plus airfares (+0.27 pp; energy-exposed, cause not established: fuel costs, demand and capacity are all possible); car and health insurance are the main drags. Core excluding transport/delivery runs ~2.1% (weighted basket).",
+    "PCE headline": "Gasoline (+0.49 pp), owner housing (+0.36), hospitals (+0.18), airfares (+0.18) and software (+0.17) lead; drugs are the main drag.",
+    "PCE core": "Owner housing (+0.40 pp), hospitals (+0.21, accelerating), airfares (+0.20), software (+0.19) and restaurant meals (+0.19). Financial fees fell out of the top 5 after BEA's method change (+0.19 pp, 6.6% y/y).",
+    "Market-based PCE headline": "Excludes portfolio management and imputed bank services; gasoline, owner housing, hospitals, airfares and software lead. Contributions reconcile to BEA within 0.01 pp at 12 months.",
+    "Market-based PCE core": "3.03% vs core PCE 3.01%: after BEA's revision the gap between the two core rates has closed (July +0.32 -> +0.06 pp); the indexes differ in scope, so the gap is not a clean measure of the excluded items. Owner housing, hospitals, airfares, software and restaurant meals lead.",
+    "PPI final demand": "Consumer services (33% weight, +3.8%) and energy (+21%) lead; trade margins on consumer goods (+5.3%, accelerating) add 0.7 pp, consistent with retailers/wholesalers widening margins rather than absorbing costs.",
+    "PPI intermediate: processed goods": "Processed fuels (+26-33%) and durable manufacturing materials (+17%, e.g., metals) dominate; momentum easing.",
+    "PPI intermediate: unprocessed goods": "Unprocessed nonfood materials EXCEPT fuel (53% weight, +28% y/y) account for nearly all of the 12.8% rise, but that series is falling at a -30% annualized pace over 3 months. Unprocessed fuel is down slightly y/y (-0.6% to -1.8%) and rising over 3 months. Cause of the non-fuel rise is not identified here (metals are a candidate to check).",
+    "PPI intermediate: services": "Business services +2.9% (64% weight) plus freight transport (+9%) and trade margins (+10%): consistent with fuel costs passing through freight and distribution, though the data do not prove it.",
+    "PCE supercore (services ex energy & housing)": "Hospitals (+0.37 pp, accelerating), airfares (+0.35), restaurant meals (+0.34) and financial fees (+0.34, down from +0.72 before the revision). Excluding financial fees, supercore is ~3.31%."
+  },
+  "sheet": {
+    "CPI": [
+      "Source: BLS CPI-U U.S. city average, Aug 2026; weights = BLS relative importance (Dec 2024/Dec 2025) updated by relative price change. 12m changes NSA; 3m annualized SA. Contributions are calculated (weight x change).",
+      "Note: CPI has no portfolio-management item, and software is only 0.03% of CPI, so the two biggest PCE-specific movers barely register here."
+    ],
+    "PPI": [
+      "Source: BLS PPI FD-ID system, Aug 2026; weights = BLS relative importance (Dec 2025) within each parent basket. Named series use BLS commodity (WPU) or industry (PCU) indexes, NSA.",
+      "Trade services measure retailer/wholesaler margins; a rising trade index means margins are widening, not that goods prices rose."
+    ],
+    "PCE": [
+      "Source: BEA NIUnderlyingDetail U20404/U20405, August 2026, post-Sept 30 2026 annual-update vintage (history revised Jan 2021 onward; new methods for portfolio management, software, legal services). Component set = Dallas Fed 178-component list (176 mapped); weights = nominal expenditure shares. SA only. Pre-revision version archived in Price indexes/archive/vintage_2026-09-27_pre_annual_update/.",
+      "Financial service charges, fees, and commissions (line 258) contains portfolio management and investment advice (line 268); see drill-down. Revision impact (12m, July): portfolio management 20.8% -> 8.6%; software 21.2% -> 12.3%; air transportation 16.8% -> 19.0%; owner-occupied housing 3.25% -> 3.22%."
+    ],
+    "Market-based PCE": [
+      "Membership from BEA's official composition tables (market and other-than-market PCE categories, linked from BEA FAQ 83; 2009 vintage), mapped to current BEA lines by series code. Portfolio management and investment advice, mutual fund sales charges, trust services, financial services furnished without payment (lines 254-257), most insurance, gambling, net foreign travel and NPISH consumption are NON-market. Where BEA splits a leaf, its published market-only sub-lines are used (used autos line 14, used light trucks line 18, financial fees lines 259/261/264).",
+      "Checks (August 2026, post-revision): leaf spending matches every BEA market-based subcategory within $2 mn except line 218 (cable/streaming/AV services), missing from the Dallas component set (leaf total -0.92% vs BEA line 377). Summed contributions minus BEA published: headline +0.01 (12m), +0.07 (3m ann.); core -0.01, +0.08. A category-level version built only from BEA's published market-based subcategories reconciles within 0.013 pp (Market-based PCE/processed/category_components.csv). Rebuilt Sept 28 and rerun Oct 1 by Sonnet 5.5 subagents."
+    ],
+    "Trimmed & Sticky": [
+      "Published data only (per Eli: no reconstruction). Cleveland and Dallas publish component tables (Dallas: 'Components included and excluded from this month's Trimmed Mean', with trim status color-coded); Atlanta publishes rates only. An earlier version of this sheet wrongly said Dallas publishes no component detail (corrected Oct 1 per audit).",
+      "Cleveland 16% trimmed-mean CPI 12-month rate cited elsewhere (2.57%, Aug 2026) is from Cleveland Fed's published chart data (mediancpi_chartdata.csv, column trimmedmeancpi), saved in inflation_data/raw/fed_expectations/."
+    ],
+    "Hypothesis analysis": [
+      "Baskets are weight-averages of the component rates within core (calculated). Energy spillover = transport, travel and delivery services; AI-exposed = computers, software, phones/IT hardware, video equipment; Asset-price = financial services priced off asset values.",
+      "BEA Table 9.1U reconciles headline CPI and PCE monthly; summing Dec 2025-Aug 2026 gives the cumulative effects (PCE 2.60 vs CPI 2.90 over the period). BEA does not publish a core reconciliation.",
+      "Stress-test caveats: baskets and controls are weighted component averages, not official indexes; gross contributions are not a formal CPI-PCE decomposition; Table 9.1U monthly lines are rounded, so summed effects do not bridge exactly; none of these establish war or AI causation. PCE data are the post-Sept 30 2026 vintage; CPI/PPI are August 2026."
+    ],
+    "PCE supercore": [
+      "Published (BEA NIPA Table 2.8.4 line 28, PCE services excluding energy and housing): 3.46% 12m, 2.33% 3m annualized, August 2026 (post-revision). Components = PCE services leaves (BEA U20404 line >= 150) excluding housing (lines 153-164) and electricity & gas (169-171); 77 components. Summed contributions: 3.48% 12m.",
+      "KEY FINDING (revised): financial fees now add +0.34 pp of the 3.48% (5.1% weight, +6.6% y/y; was +0.72 pp before BEA's method change). Excluding them supercore is ~3.31%; also excluding imputed bank services ~3.36%; also excluding air transportation ~3.02% (weighted component averages; calculated). Hospitals (+5.2% annualized over 3 months) are the item accelerating."
+    ]
+  },
+  "sources": [
+    "CPI: BLS Public Data API (CUSR/CUUR0000 item series, 2017-2026) and BLS relative-importance tables Dec 2024 and Dec 2025 (Price indexes/CPI/raw/). 204 leaves; weights sum to 100.0%. Leaves without published indexes (unsampled items, legal, domestic services) have no data.",
+    "PPI: BLS API (WPS/WPU FD-ID series; WPU/PCU named series) and BLS PPI relative importance Dec 2025 (Price indexes/PPI/raw/).",
+    "PCE: BEA API NIUnderlyingDetail U20404 (prices) and U20405 (nominal spending), NIPA T20804/T20807, retrieved Oct 1, 2026 (post-Sept 30 annual update; latest = August 2026); Dallas Fed component list: 176 of 178 mapped (Price indexes/PCE/raw/). BEA Table 9.1U reconciliation (through Aug 2026) and NIPA Handbook ch. 5 (Table 5.B) PPI-source mapping (Price indexes/Cross-index analysis/raw/). Pre-revision outputs archived in Price indexes/archive/vintage_2026-09-27_pre_annual_update/.",
+    "Trimmed mean / sticky: Cleveland Fed median CPI component table; Dallas Fed trimmed mean PCE workbook; Atlanta Fed sticky-price CPI workbook (published values only).",
+    "Manager corrections: (1) PCE and market-based core use BEA's definition: exclude U20404 lines 73-103 (food & beverages off-premises), 113-119 (energy goods) and 169-171 (electricity & gas); clothing (104-112) and tobacco stay in core. An earlier version wrongly mixed food into core, and a later one wrongly dropped clothing; both are fixed. (2) 3-month contributions = weight x raw 3-month change, scaled to an annual rate at the aggregate level. (3) Tags corrected so 'less foods and energy' and 'less trade, transportation and warehousing' aggregates are not flagged.",
+    "Audit fixes (Codex audit 2026-09-27, applied 2026-09-28): market-based PCE rebuilt from BEA composition tables and verified against BEA subtotals; movers ranked by sign (upward = positive contributors only, downward = negative only; fewer than 5 shown when necessary); PPI unprocessed-goods finding corrected (the +28% series is nonfood materials EXCEPT fuel; cause not identified); wording fixes. Audit report: challenge research/working-notes/basket_audit1_2026-09-27.md.",
+    "Methods: contributions = start-of-period weight x component % change (3m uses annualized change). Direction: Accelerating if the 3m annualized rate is more than 1 pp above the 12m rate; Easing if more than 1 pp below. Excess vs 2018-19 = weight x (12m change minus the item's average 12m change in 2018-19). All contributions and basket aggregates are calculated, not published. Code: Price indexes/code/.",
+    "Stress test: independent critique by a second model (Sol) saved at challenge research/working-notes/basket_stress_test_sol_2026-09-27.md; material points are incorporated in the Summary.",
+    "Stress tests: v1 (Sol, Sept 27) and v2 (Sonnet 5.5, Oct 1) critiques in challenge research/working-notes/basket_stress_test_*.md. v2 corrections applied: same-month gap comparison; excess-over-core measure for portfolio management/software; revision vs new cooling separated; airfares not reversing; contrary AI evidence added.",
+    "Audit (Codex, Oct 1, 2026; challenge research/Price_Basket_Audit_2026-10-01.md) fixes applied: breadth revision vs new-month separated; AI basket weight vs contribution share; Dallas component detail added; energy-spillover wording made non-causal; core PCE minus market-based core described as a gap between indexes, not the contribution of excluded items. No numbers changed."
+  ],
+  "supercore_ex": [
+    [
+      "Supercore (all 77 components)",
+      3.48,
+      0.0
+    ],
+    [
+      "Excluding financial fees (line 258)",
+      3.31,
+      5.1
+    ],
+    [
+      "Also excluding imputed bank services (FSFWP, lines 255-257)",
+      3.36,
+      10.6
+    ],
+    [
+      "Also excluding air transportation (line 207)",
+      3.02,
+      12.4
+    ]
+  ]
+}

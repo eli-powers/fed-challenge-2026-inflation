@@ -1,0 +1,79 @@
+regime,k,level_response_pct_per_10pct,provenance,source
+pre,0,0.019622384,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,1,0.025737961,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,2,0.030137378,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,3,0.022629345,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,4,0.032257655,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,5,0.033937436,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,6,0.037365625,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,7,0.039211301,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,8,0.040928361,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,9,0.042140655,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,10,0.043115218,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,11,0.043850502,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,12,0.04442243,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,0,0.018832927,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,1,0.026483608,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,2,0.037560572,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,3,0.038819406,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,4,0.056569588,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,5,0.063368539,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,6,0.071169139,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,7,0.076036407,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,8,0.080144162,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,9,0.083094503,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,10,0.085397678,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,11,0.087118496,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+persistence_only,12,0.088433943,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,0,0.018377463,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,1,0.010519885,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,2,0.064386509,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,3,0.089577534,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,4,0.185012117,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,5,0.226887115,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,6,0.269008847,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,7,0.296143992,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,8,0.317886708,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,9,0.333446418,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,10,0.345235281,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,11,0.353909938,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+post,12,0.360388545,table,"FEDS Note De Michelis et al. 2026-11-09, accessible version, Figure 2 data table; five-economy average"
+pre,0,0.00999,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,1,0.013453,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,2,0.014654,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,3,0.01507,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,4,0.015214,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,5,0.015264,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,6,0.015281,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,7,0.015287,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,8,0.015289,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,9,0.01529,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,10,0.01529,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,11,0.01529,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+pre,12,0.015291,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,0,0.00999,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,1,0.016427,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,2,0.020575,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,3,0.023248,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,4,0.02497,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,5,0.026079,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,6,0.026794,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,7,0.027255,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,8,0.027552,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,9,0.027743,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,10,0.027867,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,11,0.027946,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+persistence_only,12,0.027997,reconstruction,Simulated from Table 2 sums with split g_all_lag1|d_all_current (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,0,0.027922,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,1,0.064745,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,2,0.113308,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,3,0.168374,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,4,0.229153,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,5,0.265846,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,6,0.296632,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,7,0.317821,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,8,0.334119,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,9,0.345882,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,10,0.354683,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,11,0.361134,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md
+post,12,0.365918,reconstruction,Simulated from Table 2 sums with split g_equal|d_equal5 (best-RMSE of 9 tested); NOT the note's numbers; see B_q4_mapping_math.md

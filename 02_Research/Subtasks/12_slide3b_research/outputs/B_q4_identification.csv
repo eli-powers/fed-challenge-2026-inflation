@@ -1,0 +1,4 @@
+regime,g_sum_fixed,best_g1_share,fitted_d_sum,rmse_level_pct,table_R12,cond_unconstrained
+pre,0.347,1.0,0.00245,0.00263,0.04442243,1005.8
+persistence_only,0.645,0.62,0.0032,0.00053,0.088433943,701.6
+post,0.645,0.54,0.01353,0.00222,0.360388545,156.8

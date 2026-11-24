@@ -1,0 +1,21 @@
+measure,question,answer,source,basis
+core,months with 3m ann > 12m > 6m ann (Jan 2018 - Oct 2026),"12 months; last 8: ['2019-12', '2020-07', '2020-08', '2022-01', '2022-07', '2022-08', '2024-10', '2026-10']",A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+core,Most recent month BEFORE Oct 2026 with 3m>12m>6m,2024-10,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+core,Pace test (3m ann > 6m ann): months true among last 12 (Nov 2025 - Oct 2026 est.),"6 of 12: ['2025-12', '2026-01', '2026-02', '2026-03', '2026-04', '2026-10']",A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+core,largest 3m-minus-6m gaps (pp) in sample,2020-08: +2.24; 2020-09: +1.78; 2020-07: +1.67; 2021-05: +1.40; 2021-12: +1.33; Oct 2026 est. +0.60,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+core,last month before Oct 2026 with 12m >= Oct est. (3.242),2023-11,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+core,last month before Oct 2026 with 3m ann >= Oct est. (3.551),2026-04,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+core,last month before Oct 2026 with 6m ann >= Oct est. (2.948),2026-07,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+core,last month before Oct 2026 with 1m >= Oct est. (0.295),2026-09,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+core,Sep 2026 (published) vs Oct 2026 (est.): 3m ann / 6m ann / 12m,2.90/2.92/3.12 -> 3.55/2.95/3.24,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+core,last 10 months of 1m % (Jan-Oct 2026),"2026-01:0.395, 2026-02:0.336, 2026-03:0.256, 2026-04:0.283, 2026-05:0.310, 2026-06:0.133, 2026-07:0.138, 2026-08:0.262, 2026-09:0.317, 2026-10:0.295",A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+headline,months with 3m ann > 12m > 6m ann (Jan 2018 - Oct 2026),"13 months; last 8: ['2023-10', '2024-02', '2024-03', '2024-10', '2024-11', '2024-12', '2025-10', '2026-10']",A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+headline,Most recent month BEFORE Oct 2026 with 3m>12m>6m,2025-10,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+headline,Pace test (3m ann > 6m ann): months true among last 12 (Nov 2025 - Oct 2026 est.),"7 of 12: ['2026-01', '2026-02', '2026-03', '2026-04', '2026-05', '2026-09', '2026-10']",A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+headline,largest 3m-minus-6m gaps (pp) in sample,2020-08: +3.05; 2020-07: +2.71; 2024-03: +1.65; 2021-12: +1.62; 2021-02: +1.55; Oct 2026 est. +1.53,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+headline,last month before Oct 2026 with 12m >= Oct est. (3.825),2023-05,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+headline,last month before Oct 2026 with 3m ann >= Oct est. (4.622),2026-05,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+headline,last month before Oct 2026 with 6m ann >= Oct est. (3.093),2026-09,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+headline,last month before Oct 2026 with 1m >= Oct est. (0.318),2026-09,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+headline,Sep 2026 (published) vs Oct 2026 (est.): 3m ann / 6m ann / 12m,3.56/3.34/3.65 -> 4.62/3.09/3.82,A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py
+headline,last 10 months of 1m % (Jan-Oct 2026),"2026-01:0.304, 2026-02:0.348, 2026-03:0.628, 2026-04:0.436, 2026-05:0.435, 2026-06:-0.103, 2026-07:0.062, 2026-08:0.323, 2026-09:0.491, 2026-10:0.318",A_ts_pce_rates.csv (BEA T20804 levels; Oct 2026 = est.),computed in A_worth_a_look.py

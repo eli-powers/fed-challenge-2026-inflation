@@ -1,0 +1,7 @@
+tier,n_lines,core_weight_share_oct_window_pct,core_weight_share_sep_window_pct,breadth_sep_contribution_pp,breadth_oct_contribution_pp,change_total_pp,of_which_rate_crossings_pp,of_which_weight_shift_pp,n_lines_crossing_3pct,n_down_crossings,n_up_crossings,share_of_total_change_pct,note,vintage
+assumed,24,11.23,11.25,4.979,4.976,-0.003,0.0,-0.003,0,0,0,0.0,,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); October = estimate
+blend,5,3.39,3.38,1.205,1.209,0.005,0.0,0.005,0,0,0,-0.1,,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); October = estimate
+observed_needs_seasonal,14,18.75,18.69,12.798,3.809,-8.989,-9.064,0.075,4,4,0,136.5,,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); October = estimate
+observed_published,140,66.47,66.52,38.573,40.975,2.402,2.359,0.043,9,1,8,-36.5,,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); October = estimate
+proxied,1,0.16,0.16,0.159,0.159,-0.0,0.0,-0.0,0,0,0,0.0,,BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); October = estimate
+ALL,184,100.0,100.0,57.713,51.127,-6.586,-6.705,0.119,13,5,8,100.0,"Sep 12m 57.713 -> Oct 12m 51.127 (sub-line, core, start-of-window weights: Sep 2025 shares for Sep, Oct 2025 shares for Oct). Oct breadth if the assumed lines had kept their Sep side of 3% (at Oct weights): 51.127. Ex-assumed breadth (renormalised): Sep 59.417, Oct 51.993, change -7.425",BEA U20404/U20405 vintage 2026-11-10 (data through Sep 2026); October = estimate

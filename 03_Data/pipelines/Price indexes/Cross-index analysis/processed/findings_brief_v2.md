@@ -1,0 +1,63 @@
+# Price-basket findings brief v2 (CPI/PPI Aug 2026; PCE Aug 2026, POST-Sept 30 2026 BEA annual-update vintage)
+Published: CPI 3.40% y/y (core 2.45; core 3m ann 1.97); PCE 3.42 (core 3.01; core 3m ann 2.05; 6m ann 2.74); supercore 3.46 (3m ann 2.33); market-based PCE 3.50 (core 3.03); PPI FD 5.44. Dallas trimmed-mean PCE 2.19 (Aug). July core PCE revised 3.34 -> 2.98.
+Revision facts (12m, July old -> July new -> Aug new): portfolio mgmt (line 268) 20.83 -> 8.61 -> 8.60; fin. fees parent (258) 14.07 -> 6.40 -> 6.63; software (50) 21.18 -> 12.30 -> 15.61; air transportation (207) 16.77 -> 18.95 -> 19.45; gasoline (115) 25.64 -> 24.87 -> 27.92; owner-occupied housing (162) 3.25 -> 3.22 -> 3.06.
+## Top movers (12m contribution pp; start weight %; 3m direction)
+- CPI headline: Top 5 Gasoline (all types) (w 2.95%, 27.4% y/y, +0.81pp, 3m -31.0%); Top 5 Owners' equivalent rent of primary residence (w 25.03%, 3.1% y/y, +0.77pp, 3m 2.8%); Top 5 Rent of primary residence (w 7.46%, 2.7% y/y, +0.21pp, 3m 2.3%); Top 5 Airline fares (w 0.85%, 23.4% y/y, +0.20pp, 3m 22.4%); Top 5 Hospital services (w 1.97%, 5.2% y/y, +0.10pp, 3m 2.7%); Top 5 Motor vehicle insurance (w 2.80%, -5.1% y/y, -0.14pp, 3m -11.6%); Top 5 Health insurance (w 0.80%, -8.5% y/y, -0.07pp, 3m -4.4%); Top 5 Used cars and trucks (w 2.44%, -2.3% y/y, -0.06pp, 3m 2.2%); Top 5 Telephone hardware, calculators, and other consumer information items (w 0.40%, -14.1% y/y, -0.06pp, 3m -14.5%); Top 5 Eggs (w 0.15%, -23.0% y/y, -0.04pp, 3m 29.9%)
+- CPI core: Top 5 Owners' equivalent rent of primary residence (w 33.58%, 3.1% y/y, +1.03pp, 3m 2.8%); Top 5 Rent of primary residence (w 10.00%, 2.7% y/y, +0.27pp, 3m 2.3%); Top 5 Airline fares (w 1.15%, 23.4% y/y, +0.27pp, 3m 22.4%); Top 5 Hospital services (w 2.64%, 5.2% y/y, +0.14pp, 3m 2.7%); Top 5 Dental services (w 1.27%, 5.0% y/y, +0.06pp, 3m -0.4%); Top 5 Motor vehicle insurance (w 3.76%, -5.1% y/y, -0.19pp, 3m -11.6%); Top 5 Health insurance (w 1.07%, -8.5% y/y, -0.09pp, 3m -4.4%); Top 5 Used cars and trucks (w 3.27%, -2.3% y/y, -0.08pp, 3m 2.2%); Top 5 Telephone hardware, calculators, and other consumer information items (w 0.54%, -14.1% y/y, -0.08pp, 3m -14.5%); Top 5 Prescription drugs (w 1.23%, -2.9% y/y, -0.04pp, 3m -3.5%)
+- PCE headline: Top 5 Gasoline and other motor fuel (w 1.74%, 27.9% y/y, +0.49pp, 3m -30.5%); Top 5 Owner-occupied stationary homes (w 11.64%, 3.1% y/y, +0.36pp, 3m 2.8%); Top 5 Nonprofit hospitals' services to households (w 5.25%, 3.5% y/y, +0.18pp, 3m 5.2%); Top 5 Air transportation (64) (w 0.91%, 19.4% y/y, +0.18pp, 3m 13.2%); Top 5 Computer software and accessories (w 1.09%, 15.6% y/y, +0.17pp, 3m 2.1%); Top 5 Prescription drugs (w 2.87%, -2.9% y/y, -0.08pp, 3m -3.5%); Top 5 Telephone and related communication equipment (w 0.17%, -14.1% y/y, -0.02pp, 3m -14.5%); Top 5 Eggs (w 0.08%, -23.0% y/y, -0.02pp, 3m 29.9%); Top 5 Used light trucks (w 0.82%, -2.3% y/y, -0.02pp, 3m 2.2%); Top 5 Nonprescription drugs (w 0.61%, -2.0% y/y, -0.01pp, 3m -4.7%)
+- PCE core: Top 5 Owner-occupied stationary homes (w 13.21%, 3.1% y/y, +0.40pp, 3m 2.8%); Top 5 Nonprofit hospitals' services to households (w 5.96%, 3.5% y/y, +0.21pp, 3m 5.2%); Top 5 Air transportation (64) (w 1.04%, 19.4% y/y, +0.20pp, 3m 13.2%); Top 5 Computer software and accessories (w 1.23%, 15.6% y/y, +0.19pp, 3m 2.1%); Top 5 Other purchased meals (w 5.76%, 3.3% y/y, +0.19pp, 3m 3.0%); Top 5 Prescription drugs (w 3.26%, -2.9% y/y, -0.10pp, 3m -3.5%); Top 5 Telephone and related communication equipment (w 0.20%, -14.1% y/y, -0.03pp, 3m -14.5%); Top 5 Used light trucks (w 0.93%, -2.3% y/y, -0.02pp, 3m 2.2%); Top 5 Nonprescription drugs (w 0.69%, -2.0% y/y, -0.01pp, 3m -4.7%); Top 5 Clocks, lamps, lighting fixtures, and other household decorative items (w 0.34%, -3.1% y/y, -0.01pp, 3m -4.8%)
+- PCE supercore (services ex energy & housing): Top 5 Nonprofit hospitals' services to households (w 10.42%, 3.5% y/y, +0.37pp, 3m 5.2%); Top 5 Air transportation (64) (w 1.81%, 19.4% y/y, +0.35pp, 3m 13.2%); Top 5 Other purchased meals (w 10.06%, 3.3% y/y, +0.34pp, 3m 3.0%); Top 5 Financial service charges, fees, and commissions (108) (w 5.06%, 6.6% y/y, +0.34pp, 3m 3.6%); Top 5 Paramedical services (46) (w 6.28%, 3.8% y/y, +0.24pp, 3m 3.1%); Top 5 Other road transportation service (w 0.39%, -3.7% y/y, -0.01pp, 3m -14.9%); Top 5 Membership clubs and participant sports centers (w 0.80%, -1.3% y/y, -0.01pp, 3m 0.4%); Top 5 Moving, storage, and freight services (w 0.21%, -4.6% y/y, -0.01pp, 3m -12.3%); Top 5 Motor vehicle leasing (w 0.53%, -1.0% y/y, -0.01pp, 3m -0.0%); Top 5 Spectator sports (w 0.42%, -0.8% y/y, -0.00pp, 3m 1.2%)
+- Market-based PCE headline: Top 5 Gasoline and other motor fuel (w 2.03%, 27.9% y/y, +0.57pp, 3m -30.5%); Top 5 Owner-occupied stationary homes (w 13.57%, 3.1% y/y, +0.42pp, 3m 2.8%); Top 5 Nonprofit hospitals' services to households (w 6.13%, 3.5% y/y, +0.22pp, 3m 5.2%); Top 5 Air transportation (64) (w 1.06%, 19.4% y/y, +0.21pp, 3m 13.2%); Top 5 Computer software and accessories (w 1.27%, 15.6% y/y, +0.20pp, 3m 2.1%); Top 5 Prescription drugs (w 3.35%, -2.9% y/y, -0.10pp, 3m -3.5%); Top 5 Telephone and related communication equipment (w 0.20%, -14.1% y/y, -0.03pp, 3m -14.5%); Top 5 Eggs (w 0.10%, -23.0% y/y, -0.02pp, 3m 29.9%); Top 5 Net transactions in used trucks (w 0.64%, -2.3% y/y, -0.01pp, 3m 2.1%); Top 5 Nonprescription drugs (w 0.71%, -2.0% y/y, -0.01pp, 3m -4.7%)
+- Market-based PCE core: Top 5 Owner-occupied stationary homes (w 15.54%, 3.1% y/y, +0.48pp, 3m 2.8%); Top 5 Nonprofit hospitals' services to households (w 7.01%, 3.5% y/y, +0.25pp, 3m 5.2%); Top 5 Air transportation (64) (w 1.22%, 19.4% y/y, +0.24pp, 3m 13.2%); Top 5 Computer software and accessories (w 1.45%, 15.6% y/y, +0.23pp, 3m 2.1%); Top 5 Other purchased meals (w 6.77%, 3.3% y/y, +0.23pp, 3m 3.0%); Top 5 Prescription drugs (w 3.83%, -2.9% y/y, -0.11pp, 3m -3.5%); Top 5 Telephone and related communication equipment (w 0.23%, -14.1% y/y, -0.03pp, 3m -14.5%); Top 5 Net transactions in used trucks (w 0.73%, -2.3% y/y, -0.02pp, 3m 2.1%); Top 5 Nonprescription drugs (w 0.81%, -2.0% y/y, -0.02pp, 3m -4.7%); Top 5 Financial service charges and fees (w 0.93%, -1.4% y/y, -0.01pp, 3m -8.0%)
+## Core baskets
+- CPI core | Energy spillover (transport & delivery services): wt 1.85%, 14.4% y/y, 12.5% 3m ann, contrib +0.27pp; control 2.08% y/y, 1.64% 3m ann
+- CPI core | AI-exposed consumer items: wt 0.96%, -3.7% y/y, 3.2% 3m ann, contrib -0.04pp; control 2.37% y/y, 1.82% 3m ann
+- CPI core | Asset-price-linked financial services: wt 0.00%, nan% y/y, nan% 3m ann, contrib +0.00pp; control 2.31% y/y, 1.84% 3m ann
+- PCE core | Energy spillover (transport & delivery services): wt 1.59%, 12.0% y/y, 6.8% 3m ann, contrib +0.19pp; control 2.89% y/y, 2.19% 3m ann
+- PCE core | AI-exposed consumer items: wt 2.06%, 10.4% y/y, 8.3% 3m ann, contrib +0.21pp; control 2.88% y/y, 2.14% 3m ann
+- PCE core | Asset-price-linked financial services: wt 2.90%, 6.6% y/y, 3.6% 3m ann, contrib +0.19pp; control 2.93% y/y, 2.22% 3m ann
+## PCE drill-down (core weight, 12m, 3m ann, core contrib)
+- Financial service charges, fees, and commissions (108): 2.86%, 6.6%, 3.6%, +0.19pp
+- Portfolio management and investment advice services: 1.77%, 8.6%, 7.7%, +0.15pp
+- Securities commissions: 0.20%, 9.6%, 4.0%, +0.02pp
+- Indirect commissions: 0.08%, 16.2%, -0.1%, +0.01pp
+- Trust, fiduciary, and custody activities: 0.11%, 24.6%, 13.3%, +0.03pp
+- Financial services furnished without payment (107): 3.14%, 2.5%, 1.4%, +0.08pp
+- Commercial banks: 1.41%, 5.5%, 6.4%, +0.08pp
+- Computer software and accessories: 1.22%, 15.6%, 2.1%, +0.19pp
+- Personal computers/tablets and peripheral equipment: 0.56%, 8.4%, 29.2%, +0.05pp
+- Telephone and related communication equipment: 0.19%, -14.1%, -14.5%, -0.03pp
+- Air transportation (64): 1.02%, 19.4%, 13.2%, +0.20pp
+- Gasoline and other motor fuel: 1.95%, 27.9%, -30.5%, +nanpp
+- CPI: software 0.031% of CPI (+25.4% y/y); airline fares 1.04% (+23.4%); computers 0.32% (+8.4% y/y, +29% 3m ann); telephone hardware 0.40% (-14.1%).
+## PPI named (12m / 3m ann)
+- semiconductors and related devices: -3.1% / -21.2%
+- electronic components: 27.6% / 13.8%
+- computers and computer equipment: 22.5% / 75.1%
+- data processing, hosting and related services: 0.3% / 6.0%
+- software publishers (application software): -3.7% / -16.4%
+- portfolio management: 18.8% / 22.0%
+- airline passenger services: 15.8% / 2.4%
+- hospital inpatient and outpatient care: 4.3% / 4.6%
+- hospital inpatient and outpatient care: 1.2% / 3.2%
+- physician care: 1.2% / -0.1%
+- truck transportation of freight: 14.3% / 3.8%
+- gasoline: 46.5% / -39.6%
+- diesel fuel: 77.8% / -11.8%
+- jet fuel: 66.8% / -30.5%
+- electric power: 2.8% / 4.1%
+- natural gas: 6.9% / 1.9%
+## Breadth
+- CPI core: >3% y/y 54%; >3% 3m ann 17%
+- PCE core: >3% y/y 61%; >3% 3m ann 33%
+- CPI headline: >3% y/y 60%; >3% 3m ann 19%
+- PCE headline: >3% y/y 61%; >3% 3m ann 32%
+## BEA Table 9.1U headline, sum 2025M12-2026M08: L1 PCE Chain-type price index (percent change) +2.60; L2 Less: Formula effect (percentage points) -0.05; L13 Less: Weight effect (percentage points) -0.33; L14 Rent of shelter -0.46; L18 Gasoline and other motor fuel -0.23; L20 Other +0.40; L21 Less: Scope effect - PCE price index items ou +0.55; L23 Hospital and nursing home services +0.18; L24 Financial services furnished without payment +0.06; L27 Other +0.18; L28 Plus: Scope effect - CPI items out-of-scope o +0.11; L32 Less: Other effects (percentage points) -0.08; L39 Equals: CPI (percent change) +2.90
+## Supercore ex: all 3.48; ex fin. fees 3.31; also ex FSFWP 3.36; also ex air 3.02.
+## DRAFT KEY FINDINGS TO STRESS-TEST
+1. ENERGY IS THE BIGGEST HEADLINE DRIVER BUT IS NOW REVERSING. Gasoline is the #1 contributor to 12-month headline CPI (+0.81 pp; +27% y/y) and PCE (+0.49 pp; +27.9% y/y), but it is falling at a -31% (CPI) / -31% (PCE) annualized pace over the last 3 months. Upstream energy is still up sharply on a 12-month basis (PPI diesel +78%, jet fuel +67%, finished consumer energy +21%), though those are also falling over 3 months.
+2. ENERGY SPILLOVER INTO CORE IS REAL BUT NARROW, AND MOSTLY AIRFARES. Transport and delivery services are ~1.6-1.9% of core and add +0.27 pp to core CPI and +0.19 pp to core PCE; airfares (+23% CPI, +19.5% PCE) are nearly all of it. The rest of core runs ~2.1% y/y in CPI and ~2.9% y/y (2.2% annualized over 3 months) in PCE (weighted baskets, not official indexes). Freight PPI (+14%) and trade margins are pipeline risks; capacity and demand also move airfares.
+3. BEA'S SEPT 30 REVISION SHRANK THE CORE PCE-CPI GAP FROM ~0.90 TO ~0.56 PP. Core PCE is 3.01% y/y in August (July revised from 3.34% to 2.98%) vs core CPI 2.45%. BEA's method changes cut measured portfolio-management inflation from 20.8% to 8.6% and software from 21.2% to 12.3% (July, y/y). In August they add about +0.15 pp (portfolio management) and +0.19 pp (software, 1.2% of core PCE vs 0.04% of CPI) to core PCE: an illustrative ~0.34 pp of the remaining gap, not a formal decomposition. BEA's market-based core (3.03%) now roughly equals core PCE (3.01%), so the non-market 'asset-price premium' found before the revision has essentially disappeared. BEA Table 9.1U (headline, Dec 2025-Aug 2026): PCE-only items +0.55 pp, shelter weight -0.46 pp.
+4. AI PRICE PRESSURE IS VISIBLE UPSTREAM AND IN COMPUTERS, NOT ACROSS ELECTRONICS, AND THE DATA DON'T PROVE AI CAUSED IT. PPI electronic components +28% y/y and computers +22% (+75% annualized over 3 months); CPI computers +29% and PCE computers/peripherals +29% annualized over 3 months. But phones are down 14%, the semiconductor-industry PPI is -3%, and PCE software is +15.6% y/y but only +2.1% annualized over 3 months after BEA's revision.
+5. UNDERLYING TREND IS NEAR 2.2-2.7%, AND MOMENTUM COOLED AFTER THE REVISION. Dallas trimmed-mean PCE 2.19% y/y (Aug), Cleveland trimmed-mean CPI 2.6%, Atlanta core sticky CPI 2.7% (2.4% annualized over 3 months). Core PCE is 2.05% annualized over 3 months. Breadth: 33% of core PCE weight is rising faster than 3% annualized over 3 months (61% before the revision), vs 17% of core CPI; on a 12-month basis 61% vs 54%.
+6. POLICY READ-THROUGH (interpretation, to test in Step 6): after BEA's revision, core PCE is ~3.0% y/y but ~2.0% annualized over 3 months, and the asset-price measurement effect we flagged is largely gone. What remains above target is concentrated: airfares (energy spillover), hospital services (+3.5% y/y, accelerating to +5.2% annualized), and housing (~3.1%), against an energy shock already reversing. None of this identifies causes or what another 25 bp hike would do.

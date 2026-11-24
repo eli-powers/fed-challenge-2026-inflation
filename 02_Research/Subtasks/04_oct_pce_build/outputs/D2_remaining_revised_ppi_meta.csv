@@ -1,0 +1,9 @@
+field,value
+file,D2_remaining_revised_ppi.csv
+script,code/D2_variant_first_release_pm.py
+content,"PPI inputs still priced from revised (current) data in the variant, by month, line, and line weight (w_c core-share, w_h headline-share of the pricing line)"
+units,"percent m/m (pp for misses), SA; weights are shares"
+window,"carry-forward window = 12 months (from backtest_window_choice.csv, not re-selected)"
+reproduction,swap off reproduces backtest_results.csv build estimates; max |diff| core 4.53e-05
+vintages,"targets: ALFRED first-print vintages; components and weights: current vintage (not real time); PM PPIs: BLS Detailed Reports, first-release"
+status,labeled variant; NOT the decision run; no Oct 2026 estimate

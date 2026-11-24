@@ -1,0 +1,13 @@
+# secrets
+.env
+# raw downloads: rebuilt by the fetch scripts (see README)
+03_Data/Raw/
+03_Data/pipelines/**/raw/
+# python / os / office
+__pycache__/
+*.pyc
+.DS_Store
+~$*
+.ipynb_checkpoints/
+# full text extracted from third-party papers and pages (copyrighted; regenerate with 11_slide3a_research/code/A_extract_texts.py)
+02_Research/Subtasks/*/outputs/text/

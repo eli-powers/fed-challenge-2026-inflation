@@ -1,0 +1,35 @@
+channel,indicator,source,freq,period,latest,units,yoy,short,short_label,mom,chg_units,baseline
+AI buildout,Real investment: information processing equipment,BEA NIPA 5.3.6 / 5.3.1,Quarterly,2026 Q3,854.9,"Bil. chained 2017 $, SAAR",29.094110327915402,37.4,Q/Q SAAR (BEA),,%,6.284380088691206
+AI buildout,Real investment: software,BEA NIPA 5.3.6 / 5.3.1,Quarterly,2026 Q3,985.7,"Bil. chained 2017 $, SAAR",12.84922533026358,9.6,Q/Q SAAR (BEA),,%,11.269753968160737
+AI buildout,Real investment: equipment (total),BEA NIPA 5.3.6 / 5.3.1,Quarterly,2026 Q3,1675.9,"Bil. chained 2017 $, SAAR",14.077119065754795,20.9,Q/Q SAAR (BEA),,%,2.4873395656775017
+AI buildout,Real investment: intellectual property products (total),BEA NIPA 5.3.6 / 5.3.1,Quarterly,2026 Q3,1796.4,"Bil. chained 2017 $, SAAR",9.306818513722703,8.4,Q/Q SAAR (BEA),,%,8.360895579667018
+AI buildout,Real nonresidential fixed investment (total),BEA NIPA 5.3.6 / 5.3.1,Quarterly,2026 Q3,4106.9,"Bil. chained 2017 $, SAAR",8.368782012327468,12.7,Q/Q SAAR (BEA),,%,4.272476769897418
+AI buildout,Data center construction spending (nominal),Census C30,Monthly,Sep 2026,96.5,"Bil. $, SAAR",80.25982298965857,211.3674394409336,3m/3m ann.,169.42587633036226,%,33.35478052313694
+AI buildout,Data centers as share of private nonresidential construction,Census C30,Monthly,Sep 2026,12.2,% of total,5.644216978405652,2.6222212057814343,3-mo change,,pp,
+AI buildout,Core capital goods orders (nondefense ex aircraft),Census M3,Monthly,Sep 2026,88.2,"Bil. $, SA",13.6536453970177,15.366734523451232,3m/3m ann.,8.077568509686284,%,1.5651355241197429
+AI buildout,Core capital goods shipments (nondefense ex aircraft),Census M3,Monthly,Sep 2026,86.1,"Bil. $, SA",11.553655851304967,16.712559025441198,3m/3m ann.,15.874689722650226,%,0.7944401347794408
+AI buildout,Computer & electronic products: new orders,Census M3,Monthly,Sep 2026,31.3,"Bil. $, SA",16.651121143155613,9.713155883833679,3m/3m ann.,10.15556860881992,%,3.2040680678039286
+AI buildout,Computer & electronic products: shipments,Census M3,Monthly,Sep 2026,34.7,"Bil. $, SA",9.71076339497392,4.405281981893916,3m/3m ann.,17.734639506401773,%,1.8862171939263808
+AI buildout,Industrial production: semiconductors & electronic components,Fed G.17,Monthly,Sep 2026,198.6,Index 2017=100,19.899255735903942,28.372958168456506,3m/3m ann.,28.53655636773551,%,7.526557209924806
+AI buildout,Hyperscaler cash capex (MSFT+GOOGL+AMZN+META),SEC filings (10-Q/10-K),Quarterly,2026 Q3,201.9,"Bil. $, quarterly, NSA",107.58807866681744,86.60805803043444,Trailing-4Q sum YoY,,%,
+AI buildout,   Microsoft cash capex,SEC filings,Quarterly,2026 Q3,39.4,"Bil. $, quarterly, NSA",102.98545942043931,,,,%,
+AI buildout,   Alphabet cash capex,SEC filings,Quarterly,2026 Q3,51.4,"Bil. $, quarterly, NSA",114.39903143656326,,,,%,
+AI buildout,   Amazon cash capex,SEC filings,Quarterly,2026 Q3,77.3,"Bil. $, quarterly, NSA",120.14247043738426,,,,%,
+AI buildout,   Meta cash capex,SEC filings,Quarterly,2026 Q3,33.9,"Bil. $, quarterly, NSA",80.26448563386266,,,,%,
+Consumer,"Real consumer spending (PCE), total",BEA,Monthly,Sep 2026,17.0,"Tril. chained 2017 $, SAAR",2.536552876146403,3.7746227152472445,3m/3m ann.,0.18537128344355835,%,2.495129583286001
+Consumer,Real PCE: goods,BEA,Monthly,Sep 2026,5.8,"Tril. chained 2017 $, SAAR",2.5101521852467945,3.039343692839447,3m/3m ann.,-3.491790915285242,%,3.71068661655682
+Consumer,Real PCE: services,BEA,Monthly,Sep 2026,11.2,"Tril. chained 2017 $, SAAR",2.5492665240825385,4.108349151591173,3m/3m ann.,1.8911021421029073,%,1.9369669052483678
+Consumer,Real disposable personal income,BEA,Monthly,Sep 2026,18.4,"Tril. chained 2017 $, SAAR",0.9531295519631389,2.30302539121936,3m/3m ann.,-3.2161124280868036,%,2.9423561033844217
+Consumer,Personal saving rate,BEA,Monthly,Sep 2026,3.8,% of disposable income,-1.2999999999999998,-0.6000000000000005,3-mo change,-0.20000000000000018,pp,6.214583333333333
+Consumer,"Gasoline & other energy goods, share of spending",BEA (computed share),Monthly,Sep 2026,2.44,% of nominal PCE,0.427313372444293,0.1974691094096519,3-mo change,0.19210958199440142,pp,2.4410899104027393
+Consumer,Retail & food services sales (nominal),Census,Monthly,Sep 2026,745.0,"Bil. $, SA",6.287627612889968,4.84261462515474,3m/3m ann.,9.652520000074439,%,3.7181428023112226
+Consumer,Retail control group (nominal),Census (computed),Monthly,Sep 2026,400.2,"Bil. $, SA",4.635304453322742,4.273768208582962,3m/3m ann.,1.6396511055378982,%,3.63564534066296
+Consumer,Gasoline station sales (nominal),Census,Monthly,Sep 2026,68.0,"Bil. $, SA",28.05399198027072,6.555403563994355,3m/3m ann.,109.71503270173177,%,3.3205771571403573
+Consumer,Revolving consumer credit outstanding,Fed G.19,Monthly,Sep 2026,1.4,"Tril. $, SA",4.246119738062881,2.539695565070721,3m/3m ann.,15.463108082101407,%,4.459779343438725
+Consumer,Household net worth / disposable income,Fed Z.1,Quarterly,2026 Q2,828.0,% of disposable income,59.400902139000095,47.126452432400015,Q/Q change,,pp,682.3949069483062
+Consumer,Michigan consumer sentiment [latest month PRELIMINARY] (rank: #7 lowest since 1952; ranked against final readings),Univ. of Michigan,Monthly,Nov 2026,51.0,Index (1966Q1=100),0.0,-0.7000000000000028,3-mo change,3.0,index pts,95.73958333333333
+Consumer,Michigan: current conditions [latest month PRELIMINARY] (rank: #6 lowest since 1951; ranked against final readings),Univ. of Michigan,Monthly,Nov 2026,51.0,Index (1966Q1=100),-0.10000000000000142,-0.8999999999999986,3-mo change,4.299999999999997,index pts,111.29583333333333
+Consumer,Michigan: expectations [latest month PRELIMINARY] (rank: #23 lowest since 1951; ranked against final readings),Univ. of Michigan,Monthly,Nov 2026,50.9,Index (1966Q1=100),-0.10000000000000142,-0.6000000000000014,3-mo change,2.1000000000000014,index pts,85.73958333333333
+Consumer,Conference Board confidence,The Conference Board (press releases),Monthly,Oct 2026,91.7,Index (1985=100),,1.5,3-mo change,7.5,index pts,
+Consumer,Conference Board expectations,The Conference Board (press releases),Monthly,Oct 2026,72.6,Index (1985=100),,-1.4000000000000057,3-mo change,6.8999999999999915,index pts,
+Consumer,Conference Board present situation,The Conference Board (press releases),Monthly,Oct 2026,120.4,Index (1985=100),,6.0,3-mo change,8.600000000000009,index pts,

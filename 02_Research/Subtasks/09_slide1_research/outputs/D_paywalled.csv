@@ -1,0 +1,9 @@
+URL,publisher,what it likely contains,why it matters
+https://www.reuters.com (Mutikani Nov 13 PPI story; original),Reuters,Verbatim consensus sentence on Oct core PCE post-PPI and maybe named forecasters,Confirms the ~0.3/3.2 consensus line wording
+https://www.bloomberg.com (Bloomberg survey / Economics Oct PCE tracking),Bloomberg,Bloomberg Economics and survey median Oct core PCE,Strongest named consensus for slide 1
+https://marketnews.com (MNI post-PPI PCE estimates note Nov 13),MNI,Range of sell-side Oct core PCE estimates after PPI (usually 2-decimal),Likely only source with many named banks at two decimals
+https://www.newsquawk.com (post-PPI sell-side commentary Nov 13),Newsquawk,MS/Pantheon/Oxford/Barclays post-PPI Oct core PCE (Oct-15 version covered Sept),Two-decimal numbers for several banks
+https://www.employamerica.org/core-cast/,Employ America,Core-Cast Oct PCE nowcast post-PPI,Independent non-bank nowcast
+https://www.pantheonmacro.com,Pantheon Macroeconomics,Post-PPI Oct core PCE deflator update,Existing entry is pre-PPI 0.35-0.40
+https://www.capitaleconomics.com (US Rapid Response PPI),Capital Economics,Original note behind press-reported 0.29/3.2,Upgrades existing secondary entry
+https://kalshi.com/markets/kxpcecore/us-core-pce-inflation/kxpcecore-26oct,Kalshi,Market-implied Oct core PCE distribution (fetch returned 429; public but rate-limited),Market-based corroboration

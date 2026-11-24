@@ -1,0 +1,23 @@
+{
+ "tr_check": {
+  "median_absdiff_colsum_vs_total": 0.034985240448283106,
+  "median_absdiff_colsum_vs_domestic": 0.2526052688078466,
+  "mean_colsum_bea": 2.0978789144278607,
+  "mean_colsum_total": 2.0631980637383482,
+  "mean_colsum_domestic": 1.8152855494475706
+ },
+ "n_ppi_series": 290,
+ "bad_data_series": [
+  "PCU33141-33141-",
+  "PCU331410331410",
+  "PCU332114332114"
+ ],
+ "unmapped_bridge_commodities": {
+  "central": {},
+  "direct": {},
+  "summary": {}
+ },
+ "ppi_prelim_note": "BLS PPI: last 4 months (Jul-Oct 2026) preliminary at retrieval",
+ "n_detail_commodities": 402,
+ "n_summary_commodities": 73
+}

@@ -1,0 +1,10 @@
+stage4 central energy Oct 2026: s=0.0642 R=18.016 B(24 months)=1.369 -> excess 1.069 (script 1.069)
+stage4 central tariff Oct 2026: s=0.2075 R=6.046 B(24 months)=1.947 -> excess 0.850 (script 0.850)
+stage4 central AI Oct 2026: sum of item contribs (top 10 AI items) = 0.270; group excess 0.272
+stage4 central total Oct 2026 = sum of groups 5.490; shares sum 1.0000
+spot WPUID54 2026-10: new raw 169.645 (bls_api_stage_commodities_2016_2026_batch26_2026-11-17.json) vs earlier raw 169.645 (bls_api_ppi_nsa_check_2017_2026_batch1_2026-11-15.json)
+spot WPUID51 2025-03: new raw 148.872 (bls_api_stage_commodities_2016_2026_batch26_2026-11-17.json) vs earlier raw 148.872 (bls_api_ppi_nsa_check_2017_2026_batch1_2026-11-15.json)
+spot WPU141205 2025-12: new raw 130.773 (bls_api_stage_commodities_2016_2026_batch18_2026-11-17.json) vs earlier raw 130.773 (bls_api_stage1_core_goods_commodities_batch1_2026-11-15.json)
+spot WPU102302 2026-10: new raw 436.849 (bls_api_stage_commodities_2016_2026_batch10_2026-11-17.json) vs earlier raw 436.849 (bls_api_stage1_core_goods_commodities_batch1_2026-11-15.json)
+stage4: goods with import share within 3 pp of 15%: 68 units, RI 5.45
+stage1: goods with import share within 3 pp of 15%: 53 units, RI 3.48

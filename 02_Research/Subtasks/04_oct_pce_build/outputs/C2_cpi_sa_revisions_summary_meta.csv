@@ -1,0 +1,7 @@
+field,value
+file,C2_cpi_sa_revisions_summary.csv
+rows,10
+source,"ALFRED (FRED API series/observations, output_type=1, realtime 1776-07-04..9999-12-31)"
+retrieved,2026-11-11
+script,code/C2_compute_first_release_revisions.py
+description,"Ten largest-share CPI SA series carried by ALFRED, ref months 2024-12..2026-09; level revised = SA level differs between first release and 2026-11-11 vintage."

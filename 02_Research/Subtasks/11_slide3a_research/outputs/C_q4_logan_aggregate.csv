@@ -1,0 +1,34 @@
+row_type,group,measure,value,observation,average_without_this
+aggregate,all,Simple average of 13,3.379,2026-11-14 build,
+aggregate,all,Median of 13,3.3,,
+aggregate,reference,"Logan quoted (Nov 10; staff, PCE-based)",3.1,2026-11-10,
+group_average,Business,Business (n=5),3.572,,
+group_average,Household,Household (n=3),4.67,,
+group_average,Market,Market (n=1),3.04,,
+group_average,Professional,Professional (n=4),2.255,,
+component,Household,"Michigan Surveys of Consumers, 1-yr expected price change (median)",4.3,2026-11-01,
+component,Household,"NY Fed Survey of Consumer Expectations, 1-yr inflation (median)",3.91,2026-10-01,
+component,Household,"Conference Board Consumer Confidence, 12-month inflation expectations (average)",5.8,2026-10,
+component,Business,"Atlanta Fed Business Inflation Expectations, year-ahead unit costs (mean)",2.3,2026-10-17,
+component,Business,"Cleveland Fed Survey of Firms' Inflation Expectations, 12-month CPI (mean)",3.3,2026.3,
+component,Business,"Richmond Fed manufacturing survey, expected prices received next 12 months",4.3,2026-10-01,
+component,Business,"Richmond Fed non-manufacturing (services) survey, expected prices received next 12 months",3.46,2026-10-01,
+component,Business,"CFO Survey (Richmond/Atlanta Feds, Duke), own-firm price growth for 2027 (mean)",4.5,2026Q3 (fielded Aug 17-Sep 4),
+component,Professional,"Survey of Professional Forecasters, headline PCE, next 4 quarters (median)",2.41,2026Q3 survey (Aug),
+component,Professional,"Livingston Survey, CPI-U Jun 2026 to Jun 2027 (median)",2.01,2026-06 (forecasts due Jun 3),
+component,Professional,"Aruoba Term Structure of Inflation Expectations, 12 months ahead",2.3,2026-10-01,
+component,Professional,"NY Fed Survey of Market Expectations (market participants), headline PCE 2027 Q4/Q4 (median)",2.3,2026-09 survey (due Sep 8),
+component,Market,Cleveland Fed 1-year expected inflation,3.04,2026-11-01,
+leave_one_out,Household,"Michigan Surveys of Consumers, 1-yr expected price change (median)",4.3,2026-11-01,3.302
+leave_one_out,Household,"NY Fed Survey of Consumer Expectations, 1-yr inflation (median)",3.91,2026-10-01,3.335
+leave_one_out,Household,"Conference Board Consumer Confidence, 12-month inflation expectations (average)",5.8,2026-10,3.177
+leave_one_out,Business,"Atlanta Fed Business Inflation Expectations, year-ahead unit costs (mean)",2.3,2026-10-17,3.469
+leave_one_out,Business,"Cleveland Fed Survey of Firms' Inflation Expectations, 12-month CPI (mean)",3.3,2026.3,3.386
+leave_one_out,Business,"Richmond Fed manufacturing survey, expected prices received next 12 months",4.3,2026-10-01,3.302
+leave_one_out,Business,"Richmond Fed non-manufacturing (services) survey, expected prices received next 12 months",3.46,2026-10-01,3.372
+leave_one_out,Business,"CFO Survey (Richmond/Atlanta Feds, Duke), own-firm price growth for 2027 (mean)",4.5,2026Q3 (fielded Aug 17-Sep 4),3.286
+leave_one_out,Professional,"Survey of Professional Forecasters, headline PCE, next 4 quarters (median)",2.41,2026Q3 survey (Aug),3.46
+leave_one_out,Professional,"Livingston Survey, CPI-U Jun 2026 to Jun 2027 (median)",2.01,2026-06 (forecasts due Jun 3),3.493
+leave_one_out,Professional,"Aruoba Term Structure of Inflation Expectations, 12 months ahead",2.3,2026-10-01,3.469
+leave_one_out,Professional,"NY Fed Survey of Market Expectations (market participants), headline PCE 2027 Q4/Q4 (median)",2.3,2026-09 survey (due Sep 8),3.469
+leave_one_out,Market,Cleveland Fed 1-year expected inflation,3.04,2026-11-01,3.407

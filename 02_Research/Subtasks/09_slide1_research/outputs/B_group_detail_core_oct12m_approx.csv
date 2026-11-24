@@ -1,0 +1,88 @@
+group,label,kind,pce_share_pct,pce_share_in_cpi_scope_pct,cpi_share_pct,pce_change_pct,cpi_change_pct
+AIR,Airline fares / air transportation,common,1.0532,1.0532,1.0912,16.7619,27.8204
+ALA,Alcohol away from home,common,0.9147,0.9147,0.4852,2.7548,2.7549
+ALH,Alcohol at home,common,0.0000,0.0000,0.5533,,-0.1875
+AP,Apparel and footwear,common,3.0249,3.0249,2.9247,3.0467,3.6372
+APS,Apparel services,common,0.0407,0.0407,0.0348,7.7688,7.7689
+CONLY:Gardening and lawncare services,Gardening and lawncare services,cpi_only,0.0000,0.0000,0.4198,,2.8149
+CONLY:Vehicle registration and license fees,Vehicle registration and license fees,cpi_only,0.0000,0.0000,0.3505,,1.8033
+DEN,Dental services,partial,1.0694,0.7663,1.1826,6.6042,6.6047
+EB,Educational books,common,0.0491,0.0491,0.0516,3.4530,3.4530
+EDU,Tuition and child care,common,2.2968,2.2968,3.1822,3.3630,3.8643
+FAFH,Food away from home (meals),common,6.0091,0.0000,0.0000,3.7950,
+FIN,Bank fees and tax preparation,common,1.0629,1.0629,0.3148,1.5779,0.8173
+FUN,Funeral,common,0.1715,0.1715,0.1738,2.9126,2.9123
+HF,Household furnishings and supplies,common,4.1643,4.1643,4.2696,1.0367,1.0279
+HHS,Household services,common,0.6239,0.6239,0.8629,4.8320,1.6941
+HI,Health insurance,common,1.3039,1.3039,0.9848,6.8449,-9.3632
+HINS,Tenants' and household insurance,common,0.0943,0.0943,0.5334,1.0962,3.0230
+HOSP,Hospital services,partial,8.7501,1.6014,2.4714,2.7344,6.0776
+HOTEL,Hotels and motels / other lodging away,common,0.8265,0.8265,1.3026,5.7052,5.3296
+HSCH,Housing at school,common,0.2531,0.2531,0.3048,3.5606,3.5633
+IFS,Individual and family services / care at home,partial,0.6819,0.1288,0.1988,3.8118,5.7719
+IT,Computers and other information equipment,common,0.5570,0.5570,0.3366,11.7415,11.4048
+JW,Jewelry and watches,common,0.5815,0.5815,0.2356,10.6956,10.4886
+LAUN,Laundry and dry cleaning,common,0.0848,0.0848,0.2079,5.3574,5.3572
+LEASE,Vehicle leasing,common,0.3000,0.3000,0.4914,-0.0312,-0.0308
+LEG,Legal services,common,0.8894,0.8894,0.4381,2.4856,4.4279
+MPG,"Stationery, luggage, misc personal goods",common,0.4509,0.4509,0.1933,4.1358,4.4445
+MVF,Parking and tolls,common,0.1650,0.1650,0.2668,2.7936,1.4384
+MVI,Motor vehicle insurance,common,0.5945,0.5945,3.4827,0.3056,-6.2969
+MVP,Motor vehicle parts and equipment,common,0.6868,0.6868,0.4539,0.4375,1.6089
+MVR,Motor vehicle maintenance and repair,common,1.5568,1.5568,1.3221,6.1487,6.2701
+MVRENT,Vehicle rental,common,0.1495,0.1495,0.3274,3.1759,1.4349
+NET,Internet access,common,0.6243,0.6243,1.1614,-0.7387,-0.7387
+NH,Nursing homes,partial,1.4391,0.1355,0.2091,3.1416,4.9905
+NV,New vehicles,common,2.1664,2.1664,5.3812,0.7377,0.7363
+OER,Owners' equivalent rent / imputed owner rent,common,13.5185,13.5185,32.8873,3.4179,3.4151
+OMP,"Nonprescription drugs, medical equipment, eyeglasses",common,1.2598,1.2598,1.1509,-0.0867,-0.0403
+OPB,Other personal business services,common,0.1282,0.1282,0.0754,4.4280,4.4279
+OPM,Other professional medical / home health / labs,partial,3.5674,0.4831,0.7455,3.2710,3.5502
+OPT,Other public transportation,common,0.6028,0.6028,0.6537,9.0633,10.0331
+PCP,Personal care products,common,1.1424,1.1424,0.8065,2.6338,2.7824
+PCS,Personal care services,common,1.1557,1.1557,0.8332,5.9926,3.7759
+PET,Pets and pet products,common,0.6201,0.6201,0.7770,2.2077,2.2076
+PETS,Veterinary and pet services,common,0.4053,0.4053,0.6782,3.4556,3.4853
+PH,Photography,common,0.1044,0.1044,0.0992,-1.3351,0.6508
+PHN,Telephone equipment,common,0.1924,0.1924,0.4917,-12.6554,-12.3212
+PHY,Physician services,partial,4.5151,1.4606,2.2541,1.2507,2.5150
+"PONLY:Employment agency, union and professional dues","Employment agency, union and professional dues",pce_only,0.1860,0.0000,0.0000,3.1138,
+PONLY:Financial services furnished without payment (imputed),Financial services furnished without payment (imputed),pce_only,3.1619,0.0000,0.0000,2.9835,
+PONLY:Gambling,Gambling,pce_only,1.1661,0.0000,0.0000,3.9492,
+PONLY:Income-loss and workers' compensation insurance,Income-loss and workers' compensation insurance,pce_only,0.2185,0.0000,0.0000,-1.8872,
+PONLY:Life insurance,Life insurance,pce_only,0.6917,0.0000,0.0000,2.7132,
+PONLY:NPISH final consumption expenditures,NPISH final consumption expenditures,pce_only,3.2265,0.0000,0.0000,1.4205,
+PONLY:Net expenditures abroad by U.S. residents,Net expenditures abroad by U.S. residents,pce_only,0.0703,0.0000,0.0000,3.1388,
+PONLY:Net foreign travel,Net foreign travel,pce_only,0.2688,0.0000,0.0000,-5.3215,
+PONLY:Portfolio management and investment advice,Portfolio management and investment advice,pce_only,1.7994,0.0000,0.0000,7.6460,
+PONLY:Rental value of farm dwellings,Rental value of farm dwellings,pce_only,0.1580,0.0000,0.0000,3.5332,
+"PONLY:Securities commissions, trust and custody","Securities commissions, trust and custody",pce_only,0.3324,0.0000,0.0000,12.5288,
+PONLY:Social services and religious/advocacy organizations,Social services and religious/advocacy organizations,pce_only,0.8551,0.0000,0.0000,2.8341,
+POST,Postage and delivery,common,0.0821,0.0821,0.0688,15.8786,13.4042
+RENT,Rent of primary residence / tenant rent,common,4.1481,4.1481,9.3515,2.8997,2.9044
+RR,Recreational reading,common,0.6862,0.6862,0.1238,14.3256,9.8199
+RS,Recreation services and admissions,common,1.7934,1.7934,2.5366,2.2121,3.0550
+RX,Prescription drugs,partial,3.2110,0.7428,1.1462,-4.1610,-4.1611
+SP,Sporting goods and recreational vehicles,common,1.2653,1.2653,0.5878,3.9143,4.6192
+SW,Computer software and accessories,common,1.2052,1.2052,0.0319,16.1223,25.8790
+TEL,Telephone services,common,0.9919,0.9919,1.7413,0.6705,2.8843
+TOB,Tobacco,common,0.5857,0.5857,0.6238,5.9250,5.9136
+TOY,"Toys, games, musical instruments",common,0.7978,0.7978,0.4298,8.5380,8.1391
+UV,Used vehicles,common,1.1747,1.1747,3.0169,-3.3635,-3.3130
+VA,"Video and audio (equipment, streaming, cable)",common,1.3352,1.3352,1.3227,5.4072,4.3855
+WST,"Water, sewer and trash",common,0.7406,0.7406,1.3658,5.1930,5.2412
+meta,pce_pub,3.2424487870090113
+meta,pce_L,3.2821525567993795
+meta,cpi_pub,2.814926700760423
+meta,cpi_ours,2.698970297680292
+meta,cpi_L1,2.7204562239796606
+meta,gap,0.42752208624858845
+meta,k,0.6479857639292386
+meta,S_C,0.6394085762594639
+meta,R_C,0.98676330847492
+meta,Pc,3.6543092841657603
+meta,Cc,2.7396180047940017
+meta,pce_closure,2.645456596006568e-05
+meta,cpi_imputed_share,9.655822248511784
+meta,cpi_segments,"[('2025M10', '2025M12', 'old'), ('2025M12', '2026M10', 'new')]"
+meta,cpi_imputed_leaves,"Care of invalids and elderly at home; Domestic services; Fees for lessons or instructions; Gardening and lawncare services; Legal services; Men's underwear, nightwear, swimwear, and accessories; Motor vehicle body work; Motor vehicle insurance; Photographers and photo processing; Repair of household items; Services by other medical professionals; Unsampled appliances; Unsampled furniture; Unsampled household operations; Unsampled information and information processing; Unsampled items; Unsampled men's apparel; Unsampled motor vehicle fees; Unsampled new and used motor vehicles; Unsampled owners' equivalent rent of secondary residences; Unsampled personal care products; Unsampled photography; Unsampled public transportation; Unsampled recreation commodities; Unsampled recreation services; Unsampled recreational reading materials; Unsampled service policies; Unsampled sporting goods; Unsampled tobacco and smoking products; Unsampled tools, hardware, outdoor equipment and supplies; Unsampled tuition, other school fees, and childcare; Unsampled video and audio; Unsampled women's apparel; Women's underwear, nightwear, swimwear, and accessories"

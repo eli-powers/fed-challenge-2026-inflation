@@ -1,0 +1,28 @@
+scope,period,status,horizon,breadth_pct,n_leaves,oer_leaves,vintage
+core,2025-09,BEA published,12m,58.823,149,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core,2025-09,BEA published,3m_ann,47.087,149,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core,2026-02,BEA published,12m,52.881,149,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core,2026-02,BEA published,3m_ann,56.468,149,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core,2026-09,BEA published,12m,60.626,149,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core,2026-09,BEA published,3m_ann,44.814,149,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core,2026-10,estimate,12m,54.038,149,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core,2026-10,estimate,3m_ann,45.467,149,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core,avg 2018-19,BEA published,12m,35.245,149,161;162,BEA U20404/U20405 2026-11-10
+core ex OER (harmonized),2025-09,BEA published,12m,52.355,147,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER (harmonized),2025-09,BEA published,3m_ann,38.728,147,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER (harmonized),2026-02,BEA published,12m,45.415,147,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER (harmonized),2026-02,BEA published,3m_ann,49.643,147,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER (harmonized),2026-09,BEA published,12m,54.44,147,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER (harmonized),2026-09,BEA published,3m_ann,36.262,147,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER (harmonized),2026-10,estimate,12m,46.825,147,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER (harmonized),2026-10,estimate,3m_ann,37.001,147,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER (harmonized),avg 2018-19,BEA published,12m,25.576,147,161;162,BEA U20404/U20405 2026-11-10
+core ex OER ex hospitals 184-186,2025-09,BEA published,12m,47.117,144,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER ex hospitals 184-186,2025-09,BEA published,3m_ann,43.061,144,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER ex hospitals 184-186,2026-02,BEA published,12m,50.489,144,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER ex hospitals 184-186,2026-02,BEA published,3m_ann,55.268,144,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER ex hospitals 184-186,2026-09,BEA published,12m,49.326,144,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER ex hospitals 184-186,2026-09,BEA published,3m_ann,40.402,144,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER ex hospitals 184-186,2026-10,estimate,12m,52.119,144,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER ex hospitals 184-186,2026-10,estimate,3m_ann,41.244,144,161 Owner-occupied mobile homes;162 Owner-occupied stationary homes,BEA U20404/U20405 2026-11-10; 2026-10 = UMD est.
+core ex OER ex hospitals 184-186,avg 2018-19,BEA published,12m,28.42,144,161;162,BEA U20404/U20405 2026-11-10

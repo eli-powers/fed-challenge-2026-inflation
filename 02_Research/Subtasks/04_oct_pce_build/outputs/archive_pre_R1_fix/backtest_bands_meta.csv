@@ -1,0 +1,7 @@
+field,value
+file,backtest_bands.csv
+script,code/D_backtest.py
+content,band (a) bottom-up quadrature per month; band (b) rule-month RMSE vs first print; reported = wider; PM allowance separate
+units,"percent m/m (pp for misses/contributions), SA"
+window,carry-forward window chosen = 12 months
+vintages,targets: ALFRED first-print vintages; current: U20404 2026-11-10; components and weights: current vintage (not real time)

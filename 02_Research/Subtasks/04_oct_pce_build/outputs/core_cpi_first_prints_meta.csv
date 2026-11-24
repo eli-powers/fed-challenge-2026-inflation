@@ -1,0 +1,10 @@
+field,description
+series_id,"CPILFESL = CPI-U All items less food and energy, U.S. city average, SA, index 1982-84=100 (BLS series CUSR0000SA0L1E via FRED/ALFRED)"
+seasonal_adjustment,"Seasonally adjusted. NB: BLS revises SA factors each February (Jan CPI release), so within-vintage and current-vintage m/m differ partly for that reason, not only data revision"
+units,"Index level; m/m and y/y in percent, (L_t/L_t-1 - 1)*100 from 3-decimal levels"
+ref_period,Feb 2017 .. Oct 2026 monthly (Jan 2017 omitted: Dec 2016 not pulled). in_pce_backtest_window = Jan 2024..Oct 2026
+first_release_vintage,Earliest ALFRED realtime_start with a non-missing value (ALFRED vintage date treated as BLS release date)
+first_print_calc,m/m and y/y use only levels as they stood in that first-release vintage
+mm_current_vintage,Both levels as of latest vintage in ALFRED pulled 2026-11-11 (vintage 2026-11-10 contains Oct 2026)
+raw_file,03_Data/Raw/ALFRED_CPILFESL_all_vintages_2026-11-11.json (output_type=1)
+script,02_Research/Subtasks/04_oct_pce_build/code/C_core_cpi_first_prints.py (+C_alfred_lib.py)

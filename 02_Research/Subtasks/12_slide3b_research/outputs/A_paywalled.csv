@@ -1,0 +1,7 @@
+item,url,status,checked
+ICE Brent futures curve (deadline snapshot),https://www.ice.com/products/219/Brent-Crude-Futures/data,"not retrievable without licence (page loads, data is JS/licensed); not used",2026-11-15
+CME Brent Last Day Financial futures settlements,https://www.cmegroup.com/markets/energy/crude-oil/brent-crude-oil.settlements.html,HTTP 403 to automated fetch,2026-11-15
+"EIA NYMEX WTI futures contracts 1-4 (RCLC1-RCLC4), deadline date",https://www.eia.gov/dnav/pet/hist_xls/RCLC1d.xls,"downloaded, but series ends 2024-04-05 (no 2026 data); cannot be used for Aug 2026",2026-11-15
+Brent futures contracts expiring in 2026 (Sep-Dec 2026) as of Aug 2026,https://query1.finance.yahoo.com/v8/finance/chart/BZV26.NYM,Yahoo returns no data for expired contracts; only Jan-2027 and later contracts retrievable,2026-11-15
+SPF Q4 2026 release (survey page),https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/spf-q4-2026,HTTP 404 (not yet published) at check time,2026-11-15 ~17:40 EST
+Philadelphia Fed Economic Release Calendar (SPF Q4 date),https://www.philadelphiafed.org/calendar-of-events?release=survey-of-professional-forecasters,calendar renders client-side; no SPF date in fetched HTML; scheduled date unverified,2026-11-15

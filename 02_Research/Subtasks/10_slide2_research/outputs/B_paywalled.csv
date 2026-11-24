@@ -1,0 +1,5 @@
+url,status,date,workaround
+https://www.bls.gov/bls/2025-lapse-revised-release-dates.htm,"403 to curl (BLS blocks generic clients); read via WebFetch instead",2026-11-15,"quoted from WebFetch read; not saved as raw file"
+https://www.bls.gov/ppi/notices/2025/government-shutdown-impact.htm,"403 to curl; URL guessed, not confirmed to exist",2026-11-15,"used the shutdown box in the saved Nov 2025 PPI Detailed Report instead"
+https://fraser.stlouisfed.org/title/economic-commentary-federal-reserve-bank-cleveland-4515/prices-cpi-forward-looking-others-think-690061,"curl HTTP/2 reset; WebFetch returned page without body",2026-11-15,"downloaded the same commentary from clevelandfed.org (HTML + PDF)"
+https://www.atlantafed.org/research-and-data/data/sticky-price-cpi/explainer,"component table is an image only (not machine-readable)",2026-11-15,"used Bryan-Meyer (2010) Table 1 text from clevelandfed.org"

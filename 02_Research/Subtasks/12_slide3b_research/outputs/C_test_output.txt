@@ -1,0 +1,14 @@
+# python3 -I 03_Data/pipelines/forecast_3b/tests/test_zero_gap.py  (run 2026-11-15 17:56 EST)
+raw=2026-11-15 spf=2026Q3 gap quarters=2026Q3..2027Q4 regimes=['pre', 'post', 'persistence_only']
+PASS 1 zero gap: scenario == baseline exactly in 30 rows (10 per regime x 3 regimes; 8 quarters 2026Q1..2027Q4 + 2 Q4/Q4 rows)
+PASS 2 constant +10% gap, pre             : L_k == R_k for k=0..12 (L_4=0.032258, L_8=0.040928, L_12=0.044422); matches B's map_gap_to_core
+PASS 2 constant +10% gap, post            : L_k == R_k for k=0..12 (L_4=0.185012, L_8=0.317887, L_12=0.360389); matches B's map_gap_to_core
+PASS 2 constant +10% gap, persistence_only: L_k == R_k for k=0..12 (L_4=0.056570, L_8=0.080144, L_12=0.088434); matches B's map_gap_to_core
+PASS 3 linearity P1_steo_latest       pre : L(2g)=2L(g), 4dL(2g)=2*4dL(g); exact-compounding 2027Q4 adj 0.0785 -> 0.1570 pp (ratio 2.0008; second-order only)
+PASS 3 linearity P1_steo_latest       post: L(2g)=2L(g), 4dL(2g)=2*4dL(g); exact-compounding 2027Q4 adj 0.8694 -> 1.7462 pp (ratio 2.0085; second-order only)
+PASS 3 linearity P2_110_flat          pre : L(2g)=2L(g), 4dL(2g)=2*4dL(g); exact-compounding 2027Q4 adj 0.1540 -> 0.3083 pp (ratio 2.0015; second-order only)
+PASS 3 linearity P2_110_flat          post: L(2g)=2L(g), 4dL(2g)=2*4dL(g); exact-compounding 2027Q4 adj 1.3305 -> 2.6783 pp (ratio 2.0130; second-order only)
+PASS 3 linearity P3_feb26steo_plus25  pre : L(2g)=2L(g), 4dL(2g)=2*4dL(g); exact-compounding 2027Q4 adj 0.1493 -> 0.2989 pp (ratio 2.0015; second-order only)
+PASS 3 linearity P3_feb26steo_plus25  post: L(2g)=2L(g), 4dL(2g)=2*4dL(g); exact-compounding 2027Q4 adj 0.5170 -> 1.0366 pp (ratio 2.0051; second-order only)
+ALL TESTS PASSED
+exit status: 0

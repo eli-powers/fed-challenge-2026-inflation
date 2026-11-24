@@ -1,0 +1,13 @@
+exhibit,agent,agent_rating,stress_test_rating,basis
+BB channel table,A,4,3,"Clean, page-cited; but read literally its labor leg (catch-up ~0, V/U 1.06 < 1.2) argues against a labor-driven second round. Survives only if the expectations channel (BB p.18) is shown alongside. Attack 8."
+V/U then vs now,A,4,4,"Like-for-like series (2.04 Mar 2022 vs 1.06 Sep 2026; BB 1.2). Hard to attack; cuts toward 'no labor second round', which is honest. Minor: Jan 2026 level shift unchecked; V/U rising +0.19 since Dec. Attacks 8, 17."
+wages vs benchmark,B,4,2,"Sign of the gap flips across 8 measures x 3 trends (D_q9_checks.csv rows 52-83). Trend choice moves benchmark 0.7 pp. Best as backup; ULC answers the same question without the trend choice. Attack 12."
+ULC 4q/8q,B,3,4,"Nets out productivity; 8q 1.92 vs 2018-19 1.90. Noisy q/q (SD 3.0 pp in 2018-19) but 4q/8q steady. Revisions ~1.4 pp; Nov 5 revision moved it up. Strongest single 'no wage second round' fact. Attacks 6, 7, 16."
+labor share,B,3,3,"Record low on current vintage (53.0 Q3 index 93.729) holds; 52.8 must go. Opens the margins/profits rival reading (implied price 4.05 vs ULC 2.39), which partly reflects the oil windfall in NFB output (not decomposed). Attack 11."
+catch-up surveys,B,3,2,"Plans and anecdotes only; NFIB price plans are a first-round echo; Richmond wage diffusion below 2018-19. Real wage -0.53 gives the motive but not the evidence. Spoken, not exhibit. Attacks 5, 14."
+expectations short vs long,C,4,3,"Split by respondent type survives (markets 2.2 vs households 3.3-3.4). Michigan long-run comparison to 2021-23 peak fails (2024 web switch; web-basis 2022 peak ~4.0). Use SCE and within-web Michigan only. Attacks 1, 9, 15."
+gas co-movement,C,3,2,"Descriptive, small n, autocorrelated; 2021-23 correlations (0.89/0.91) support the judge's 'thermometer' reading; Michigan 2024-26 window straddles the mode break. Backup only. Attack 4."
+underlying-trend panel,C,4,4,"Showing the full range (2.26 to 3.60, all above 2) pre-empts cherry-picking; Dallas alt-trim 2.57 backs the upper half. Weak spot: Logan-measure 'momentum' rests on Oct est. and is not unusual vs past year. Attacks 2, 13."
+trimmed-mean bias,A,3,3,"Verified quote plus two Dallas posts and data4 sheet; but Dallas calls the evidence not clear-cut, skewness ends Jun 2026, and the +0.35 pp correction is half the MCT-trimmed gap. Strong Q&A backup, weak exhibit. Attack 2."
+time above target,C,3,4,"67 months is a clean, exact fact (no month <=2.0 since Feb 2021); only weakness is the 'nearly six years' rounding and vintage-dependent start. Say 67 months. Attack 10."
+policy timeline,C,2,2,"Accurate (20 changes match FRED and Board) but context only; invites policy questions this slide is meant to defer."

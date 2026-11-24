@@ -1,0 +1,41 @@
+check,reproduced,source_value,abs_diff,tol,pass,source
+core leaf 12m 2026-09 (brief binding value),60.626,60.626,0.0002,0.01,True,brief_B.md / C_breadth.csv
+core leaf 12m 2026-10 (brief binding value),54.038,54.038,0.0002,0.01,True,brief_B.md / C_breadth.csv
+core leaf 3m 2026-09 (brief binding value),44.814,44.814,0.0001,0.01,True,brief_B.md / C_breadth.csv
+core leaf 3m 2026-10 (brief binding value),45.467,45.467,0.0003,0.01,True,brief_B.md / C_breadth.csv
+core sub-line 3m_ann 2026-09,43.667,43.667,0.0004,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+core leaf 3m_ann 2026-09,44.814,44.814,0.0001,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+core sub-line 12m 2026-09,57.713,57.713,0.0001,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+core leaf 12m 2026-09,60.626,60.626,0.0002,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+headline sub-line 3m_ann 2026-09,42.697,42.697,0.0004,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+headline leaf 3m_ann 2026-09,43.717,43.717,0.0003,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+headline sub-line 12m 2026-09,57.209,57.209,0.0001,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+headline leaf 12m 2026-09,59.804,59.804,0.0002,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+supercore sub-line 3m_ann 2026-09,37.817,37.817,0.0,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+supercore leaf 3m_ann 2026-09,39.798,39.798,0.0005,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+supercore sub-line 12m 2026-09,63.951,63.951,0.0002,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+supercore leaf 12m 2026-09,68.984,68.984,0.0002,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+core sub-line 3m_ann 2026-10,43.752,43.752,0.0001,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+core leaf 3m_ann 2026-10,45.467,45.467,0.0003,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+core sub-line 12m 2026-10,51.127,51.127,0.0001,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+core leaf 12m 2026-10,54.038,54.038,0.0002,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+headline sub-line 3m_ann 2026-10,44.729,44.729,0.0003,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+headline leaf 3m_ann 2026-10,46.257,46.257,0.0,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+headline sub-line 12m 2026-10,51.4,51.4,0.0002,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+headline leaf 12m 2026-10,53.994,53.994,0.0002,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+supercore sub-line 3m_ann 2026-10,35.748,35.748,0.0001,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+supercore leaf 3m_ann 2026-10,38.691,38.691,0.0004,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+supercore sub-line 12m 2026-10,49.45,49.45,0.0003,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+supercore leaf 12m 2026-10,54.477,54.477,0.0002,0.0006,True,C_breadth.csv (09_slide1_research/outputs)
+core_services leaf 12m 2026-09 (Waller weighted),70.815,70.815,0.0005,0.0006,True,C_waller_variants.csv
+supercore leaf 12m 2026-09 (Waller weighted),68.984,68.984,0.0002,0.0006,True,C_waller_variants.csv
+core_services sub-line 12m 2026-09 (Waller weighted),66.974,66.974,0.0001,0.0006,True,C_waller_variants.csv
+supercore sub-line 12m 2026-09 (Waller weighted),63.951,63.951,0.0002,0.0006,True,C_waller_variants.csv
+core_services leaf 12m 2026-10 (Waller weighted),59.74,59.74,0.0003,0.0006,True,C_waller_variants.csv
+supercore leaf 12m 2026-10 (Waller weighted),54.477,54.477,0.0002,0.0006,True,C_waller_variants.csv
+core_services sub-line 12m 2026-10 (Waller weighted),55.903,55.903,0.0002,0.0006,True,C_waller_variants.csv
+supercore sub-line 12m 2026-10 (Waller weighted),49.45,49.45,0.0003,0.0006,True,C_waller_variants.csv
+"core leaf 3m_ann monthly series 2018-01..2026-10, max abs diff",0.0,0.0,0.0,0.0011,True,C_breadth_ts.csv
+"core subline 3m_ann monthly series 2018-01..2026-10, max abs diff",0.0,0.0,0.0,0.0011,True,C_breadth_ts.csv
+"core leaf 12m monthly series 2018-01..2026-10, max abs diff",0.0,0.0,0.0,0.0011,True,C_breadth_ts.csv
+"core subline 12m monthly series 2018-01..2026-10, max abs diff",0.0,0.0,0.0,0.0011,True,C_breadth_ts.csv

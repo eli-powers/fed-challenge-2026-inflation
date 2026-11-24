@@ -1,0 +1,13 @@
+candidate_trend,period,value_pct,implied_wage_growth_2pct_inflation,kind,central_benchmark,note
+OPH 2010Q1-2019Q4 avg annualised (2009Q4->2019Q4),2010Q1-2019Q4,1.16,3.16,computed,,"FRED OPHNFB (=PRS85006093), current vintage; pre-pandemic full expansion; matches Jefferson prior-cycle 1.5%"
+"OPH 2007Q4-2019Q4 avg annualised (previous full cycle, NBER peak to peak)",2007Q4-2019Q4,1.52,3.52,computed,YES,"FRED OPHNFB; closest computed match to Jefferson ""previous business cycle"" 1.5%; matches CBO 1.5% claim"
+OPH 2000Q1-2019Q4 avg annualised (1999Q4->2019Q4),2000Q1-2019Q4,1.94,3.94,computed,,FRED OPHNFB; includes the 2000s boom
+OPH 2015Q1-2019Q4 avg annualised (2014Q4->2019Q4),2015Q1-2019Q4,1.6,3.6,computed,,"FRED OPHNFB; late-cycle, low-productivity stretch"
+OPH 2020Q1-2025Q4 avg annualised (2019Q4->2025Q4),2020Q1-2025Q4,2.21,4.21,computed,,FRED OPHNFB current vintage; compare Jefferson 2.2% (his construction not stated)
+OPH 2019Q4-2026Q3 avg annualised (2019Q4->2026Q3),2019Q4-2026Q3,2.22,4.22,computed,,FRED OPHNFB; whole post-pandemic span
+OPH 8-quarter annualised to 2026Q3 (2024Q3->2026Q3),2024Q3-2026Q3,2.36,4.36,computed,,"actual, not a trend estimate; recent momentum"
+OPH 4-quarter (y/y) to 2026Q3,2025Q3-2026Q3,2.06,4.06,computed,,actual; volatile
+OPH 1947Q1-2026Q3 avg annualised,1947Q1-2026Q3,2.16,4.16,computed,,long-run reference
+Jefferson speech: labor productivity 2020-2025 average,2020-2025,2.2,4.2,cited,,"[O] Jefferson, 2026-11-13, saved speech text; underlying series not stated"
+Jefferson speech: previous business cycle average,previous cycle,1.5,3.5,cited,,"[O] Jefferson, 2026-11-13; cycle dates not stated"
+CBO potential labor force productivity 2026-2036 (Feb 2026 Outlook),2026-2036,1.5,3.5,cited,,"[S] search snippet only; cbo.gov returned 403 to fetch, UNVERIFIED"

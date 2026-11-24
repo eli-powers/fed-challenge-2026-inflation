@@ -1,0 +1,62 @@
+leaf_bea_line,dallas_component,pricing_bea_line,pricing_line_name,share_within_leaf,share_of_headline_sep2026,tier
+281,Communication,283,"Land-line telephone services, local charges",0.02066898650002733,0.0003031695852362157,observed
+281,Communication,284,"Land-line telephone services, long-distance charges",0.013639648502735824,0.00020006431274879994,observed
+281,Communication,285,Cellular telephone services,0.5437246078449234,0.007975270768252305,observed
+281,Communication,287,First class postal service (by U.S. Postal Service),0.013915963732866937,0.00020411726298480635,observed
+281,Communication,288,Other delivery services (by non-U.S. postal facilities),0.03489770263622948,0.0005118742534332051,observed
+281,Communication,289,Internet access,0.3731561272143174,0.005473397948939953,observed
+176,Paramedical services,177,Home health care,0.32919649227152087,0.010501416751066014,observed
+176,Paramedical services,178,Medical laboratories,0.07938322952836102,0.0025323367529544224,observed
+176,Paramedical services,180,Specialty outpatient care facilities and health and allied services,0.42495535757915914,0.01355613870531845,observed
+176,Paramedical services,181,All other professional medical services,0.1664635244545527,0.005310211029547343,observed
+342,Final consumption expenditures of nonprofit institutions serving households,345,"Outpatient services, gross output",0.23256562569100456,0.006885917913060209,assumed
+342,Final consumption expenditures of nonprofit institutions serving households,346,"Nonprofit hospitals, gross output",1.8833697105715614,0.055763740614747925,assumed
+342,Final consumption expenditures of nonprofit institutions serving households,347,"Nonprofit nursing homes, gross output",0.13377547597522838,0.003960890366359979,assumed
+342,Final consumption expenditures of nonprofit institutions serving households,348,"Recreation services, gross output",0.13261120378824687,0.003926418020396584,assumed
+342,Final consumption expenditures of nonprofit institutions serving households,349,"Education services, gross output",0.43024520414625306,0.012738912508829641,assumed
+342,Final consumption expenditures of nonprofit institutions serving households,350,"Social services, gross output",0.3908239106007434,0.011571707378774478,assumed
+342,Final consumption expenditures of nonprofit institutions serving households,351,"Religious organizations, gross output",0.18513582423400968,0.005481592925241328,assumed
+342,Final consumption expenditures of nonprofit institutions serving households,352,"Foundations and grantmaking and giving organizations, gross output",0.10009130661724777,0.002963552842899632,assumed
+342,Final consumption expenditures of nonprofit institutions serving households,353,"Social advocacy establishments, gross output",0.0695329222780625,0.0020587651061472123,assumed
+342,Final consumption expenditures of nonprofit institutions serving households,354,"Civic and social organizations, gross output",0.03482136544759045,0.0010310081869594767,assumed
+342,Final consumption expenditures of nonprofit institutions serving households,355,"Professional advocacy, gross output",0.17437909243930066,0.005163102297354715,assumed
+342,Final consumption expenditures of nonprofit institutions serving households,356,Less: Receipts from sales of goods and services by nonprofit institutions,-2.7673516417892485,-0.08193711424598647,proxied
+272,Net household insurance,273,Household insurance premiums and premium supplements,2.336386853208972,0.0018742890635368983,observed
+272,Net household insurance,274,Less: Household insurance normal losses,-1.3363313346657784,-0.001072027606381036,observed
+241,Other purchased meals,242,Meals at limited service eating places,0.520698859244953,0.026464785206998867,observed
+241,Other purchased meals,243,Meals at other eating places,0.47153633013019924,0.023966074579628894,observed
+241,Other purchased meals,244,Meals at drinking places,0.007764810624847744,0.000394650461991789,observed
+156,Tenant-occupied stationary homes and landlord durables,157,Tenant-occupied stationary homes,,,observed
+156,Tenant-occupied stationary homes and landlord durables,158,Tenant landlord durables,,,observed
+275,Net health insurance,276,Medical care and hospitalization,0.8665584277423346,0.011790566691518824,observed
+275,Net health insurance,277,Income loss,0.01670720170738174,0.00022732151653381006,observed
+275,Net health insurance,278,Workers' compensation (WC),0.11673109719571714,0.0015882665754530173,observed
+194,Motor vehicle leasing,195,Auto leasing,0.31990146946402787,0.0008386934713652386,observed
+194,Motor vehicle leasing,196,Truck leasing,0.6800985305359721,0.001783030876354732,observed
+218,"Audio-video, photographic, and information processing equipment services",219,"Cable, satellite, and other live television services",0.38508659920235355,0.0030489765632585363,observed
+218,"Audio-video, photographic, and information processing equipment services",220,Photo processing,0.007458950459293593,5.905727486752197e-05,assumed
+218,"Audio-video, photographic, and information processing equipment services",221,Photo studios,0.06702930141247546,0.0005307137913434328,assumed
+218,"Audio-video, photographic, and information processing equipment services",222,"Repair and rental of audio-visual, photographic, and information processing equipment",0.0675693159253655,0.0005349894311528461,observed
+218,"Audio-video, photographic, and information processing equipment services",224,Video streaming and rental,0.4022826863471956,0.0031851289684395427,observed
+218,"Audio-video, photographic, and information processing equipment services",225,Audio streaming and radio services (including satellite radio),0.07057877180449225,0.0005588172155073893,observed
+187,Nursing homes,188,Nonprofit nursing homes' services to households,0.27250198493852706,0.003531054951769892,observed
+187,Nursing homes,189,Proprietary and government nursing homes,0.7275014521844635,0.00942689502146282,observed
+317,Social assistance,318,Homes for the elderly,0.1718604615098319,0.001974321219911298,assumed
+317,Social assistance,319,Residential mental health and substance abuse,0.1306603188387817,0.001501016800592176,assumed
+317,Social assistance,320,Individual and family services,0.5314147695552385,0.006104856503292688,assumed
+317,Social assistance,321,Vocational rehabilitation services,0.06390344891756095,0.0007341184476933369,assumed
+317,Social assistance,322,Community food and housing/emergency/other relief services,0.07166118727126108,0.0008232388149707965,assumed
+317,Social assistance,323,"Other social assistance, not elsewhere classified",0.030495936976614353,0.0003503352368838068,assumed
+13,Used autos,14,Net transactions in used autos,0.26370148615417516,0.0005492415638508906,observed
+13,Used autos,15,Used auto margin,0.7733989094408211,0.0016108472981964817,observed
+13,Used autos,16,Employee reimbursement,-0.037100395594996255,-7.727328197221012e-05,observed
+17,Used light trucks,18,Net transactions in used trucks,0.672720799613159,0.0056384999986638625,observed
+17,Used light trucks,19,Used truck margin,0.32727920038684105,0.0027431347031414374,observed
+258,"Financial service charges, fees, and commissions",259,Financial service charges and fees,0.25020439774391323,0.006719479725895858,observed
+258,"Financial service charges, fees, and commissions",262,Exchange-listed equities,0.017431437616813518,0.000468138021216081,observed
+258,"Financial service charges, fees, and commissions",263,Other direct commissions,0.007575569121263833,0.0002034491942645855,observed
+258,"Financial service charges, fees, and commissions",265,Over-the-counter equity securities,0.01085920022023546,0.000291634265333736,observed
+258,"Financial service charges, fees, and commissions",266,Other imputed commissions,0.01774321673126133,0.0004765111491761822,observed
+258,"Financial service charges, fees, and commissions",267,Mutual fund sales charges,0.017670247151284183,0.0004745514809302011,observed
+258,"Financial service charges, fees, and commissions",268,Portfolio management and investment advice services,0.6306777381420287,0.016937457187929512,assumed
+258,"Financial service charges, fees, and commissions",269,"Trust, fiduciary, and custody acitivities",0.0478398516727447,0.0012847852248140319,observed

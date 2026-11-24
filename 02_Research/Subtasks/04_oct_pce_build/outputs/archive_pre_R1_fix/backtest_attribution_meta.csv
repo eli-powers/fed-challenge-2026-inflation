@@ -1,0 +1,7 @@
+field,value
+file,backtest_attribution.csv
+script,code/D_backtest.py
+content,"diagnostic and REVISED: miss vs first print split into tier differences (our contribution minus BEA current-vintage contribution), identity residual (BEA components through our aggregation minus BEA published current), and revision (current minus first print). check_sum = total miss"
+units,"percent m/m (pp for misses/contributions), SA"
+window,carry-forward window chosen = 12 months
+vintages,targets: ALFRED first-print vintages; current: U20404 2026-11-10; components and weights: current vintage (not real time)

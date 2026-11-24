@@ -1,0 +1,4 @@
+url,status,what_it_would_add
+https://www.federalregister.gov/documents/2026/07/28/2026-15181/notice-of-actions-in-section-301-investigations-of-acts-policies-and-practices-of-various-economies,blocked (returned a "Request Access" page to automated fetch),Official HTML of the Section 301 forced-labor notice; the public-inspection PDF of the same document (2026-15181) was read instead
+https://www.federalregister.gov/documents/2026/02/25/2026-03824/imposing-a-temporary-import-surcharge-to-address-fundamental-international-payments-problems,not tried (govinfo HTML had annex tables as images),Annex text; the public-inspection PDF (2026-03824) was read instead
+CBP CSMS message 64724565 (April 2025 implementation of the electronics exception),not opened (seen in a search snippet only),CBP's implementing guidance; the presidential memorandum itself was read

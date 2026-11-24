@@ -1,0 +1,15 @@
+Inflation Slide 1 build check, 2026-11-15T16:33:33
+1. workbook formula cells: 154 checked after LibreOffice recalc; mismatches > 1e-9: 0
+2. chart points (incl. Reference), both slide versions, vs workbook chart tabs: 444 points; max abs diff 5.33e-15; category labels match tab dates (Jan/Jul)
+3. vs Slide1_Inflation_Data series (A_ts_pce_rates.csv): 148 values; max abs diff 4.97e-06 pp (csv rounded to 5 dp)
+   [guide] end label Core: 3.24%* at y=3.399 in (box top 3.179)
+   [guide] end label Headline: 3.82%* at y=2.939 in (box top 2.719)
+   [guide] end label 3-month: 3.55%* at y=3.135 in (box top 2.915)
+   [guide] end label 6-month: 2.95%* at y=3.595 in (box top 3.375)
+   [wide] end label Core: 3.24%* at y=3.399 in (box top 3.179)
+   [wide] end label Headline: 3.82%* at y=2.939 in (box top 2.719)
+   [wide] end label 3-month: 3.55%* at y=3.135 in (box top 2.915)
+   [wide] end label 6-month: 2.95%* at y=3.595 in (box top 3.375)
+4. y-axis 0-5 step 1 (data max 4.454, min 2.000); window 2023-10..2026-10; end labels = last values (both versions): True
+5. deck: 3 slides (section, slide 1 guide layout, slide 1 wide); section texts ['Inflation', 'SECTION 1']; duplicate zip entries: none
+RESULT: PASS

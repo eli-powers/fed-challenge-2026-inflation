@@ -1,0 +1,22 @@
+oil_variant,regime,gap_steps,adj_2026Q4_qq,adj_2027Q4_qq,adj_2026_q4q4,adj_2027_q4q4,share_of_full_2027_q4q4
+P1_steo_latest,pre,full,0.1966,0.0785,0.0493,-0.0016,
+P1_steo_latest,pre,2026H2 steps only (gap frozen at its 2026Q4 level from 2027Q1),0.1966,0.0895,0.0493,0.0369,
+P1_steo_latest,pre,2026Q3 step only (gap frozen at its 2026Q3 level),0.0306,0.0084,0.0077,0.0102,
+P1_steo_latest,post,full,0.1161,0.8694,0.0291,0.5269,1.0000
+P1_steo_latest,post,2026H2 steps only (gap frozen at its 2026Q4 level from 2027Q1),0.1161,1.0175,0.0291,0.6231,1.1826
+P1_steo_latest,post,2026Q3 step only (gap frozen at its 2026Q3 level),-0.0393,0.2088,-0.0099,0.2702,0.5129
+P1_steo_latest,gap,"gap path, log pts: 2026Q3 12.2, 2026Q4 32.8, 2027Q1 25.0, 2027Q2 22.6, 2027Q3 19.9, 2027Q4 16.9",,,,,
+P2_110_flat,pre,full,0.2324,0.1540,0.0583,0.0815,1.0000
+P2_110_flat,pre,2026H2 steps only (gap frozen at its 2026Q4 level from 2027Q1),0.2324,0.1070,0.0583,0.0426,0.5228
+P2_110_flat,pre,2026Q3 step only (gap frozen at its 2026Q3 level),0.0306,0.0084,0.0077,0.0102,0.1255
+P2_110_flat,post,full,0.1496,1.3305,0.0375,0.7625,1.0000
+P2_110_flat,post,2026H2 steps only (gap frozen at its 2026Q4 level from 2027Q1),0.1496,1.1924,0.0375,0.6992,0.9171
+P2_110_flat,post,2026Q3 step only (gap frozen at its 2026Q3 level),-0.0393,0.2088,-0.0099,0.2702,0.3544
+P2_110_flat,gap,"gap path, log pts: 2026Q3 12.2, 2026Q4 37.2, 2027Q1 39.6, 2027Q2 43.8, 2027Q3 48.1, 2027Q4 52.6",,,,,
+P3_feb26steo_plus25,pre,full,0.1055,0.1493,0.0265,0.0179,
+P3_feb26steo_plus25,pre,2026H2 steps only (gap frozen at its 2026Q4 level from 2027Q1),0.1055,0.0450,0.0265,0.0223,
+P3_feb26steo_plus25,pre,2026Q3 step only (gap frozen at its 2026Q3 level),0.0306,0.0084,0.0077,0.0102,
+P3_feb26steo_plus25,post,full,0.0308,0.5170,0.0077,0.3207,1.0000
+P3_feb26steo_plus25,post,2026H2 steps only (gap frozen at its 2026Q4 level from 2027Q1),0.0308,0.5731,0.0077,0.4293,1.3388
+P3_feb26steo_plus25,post,2026Q3 step only (gap frozen at its 2026Q3 level),-0.0393,0.2088,-0.0099,0.2702,0.8426
+P3_feb26steo_plus25,gap,"gap path, log pts: 2026Q3 12.2, 2026Q4 21.5, 2027Q1 5.3, 2027Q2 9.4, 2027Q3 13.7, 2027Q4 18.2",,,,,

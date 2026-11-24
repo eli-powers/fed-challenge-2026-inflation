@@ -1,0 +1,19 @@
+# BEA PCE basket | retrieval report
+
+Retrieval date: 2026-11-10; BEA vintage as retrieved; latest period used (latest present in U20404/U20405): 2026M09; base months 2025M09 (12m), 2026M06 (3m), 2026M08 (1m).
+Sources: BEA NIUnderlyingDetail U20404 (Fisher price indexes) and U20405 (current-dollar PCE, $millions SAAR); Dallas Fed 178-component technical note.
+Raw files: Price indexes/PCE/raw/BEA_NIUnderlyingDetail_U20404_2026-11-10.json; Price indexes/PCE/raw/BEA_NIUnderlyingDetail_U20405_2026-11-10.json; Price indexes/PCE/raw/BEA_NIPA_T20804_2026-11-10.json; Price indexes/PCE/raw/BEA_NIPA_T20807_2026-11-10.json; Price indexes/PCE/raw/Dallas_trimmed_mean_tech_2026-11-10.pdf; Price indexes/PCE/raw/Dallas_trimmed_mean_components_2026-11-10.xlsx.
+Coverage: 177 of 178 legacy Dallas components mapped to unique matching BEA lines; current Dallas detail workbook has 177 rows.
+N/A: none; plus 1 legacy-list entry absent from current Dallas workbook.
+Weights: nominal expenditure shares; core denominator sums components in core by BEA U20404 line position (excludes off-premises food/beverages and energy).
+Indexes are SA; pct_1m=(I_t/I_t-1-1)*100, pct_3m_ann=((I_t/I_t-3)^4-1)*100, pct_12m=(I_t/I_t-12-1)*100.
+Contributions use start-period nominal weight times component percent change; 3-month changes are annualized. avg_pct is the 24-month mean of Jan 2018-Dec 2019 YoY changes; excess_contrib uses latest weight times current-minus-average YoY change.
+Published rates computed from BEA NIPA T20804 (2026M09; 12m 2025M09->2026M09; 3m annualized 2026M06->2026M09; 1m): PCE headline: 12m 3.649, 3m_ann 3.558, 1m 0.491; PCE core: 12m 3.121, 3m_ann 2.903, 1m 0.317; Market-based headline: 12m 3.731, 3m_ann 3.692, 1m 0.538; Market-based core: 12m 3.118, 3m_ann 2.936, 1m 0.339. Lines: 1=Personal consumption expenditures (PCE), 25=PCE excluding food and energy, 30=Market-based PCE, 31=Market-based PCE excluding food and energy.
+Contributions to a chained Fisher index are approximate; see reconciliation.csv.
+Leaf contributions vs published (pp): PCE headline 12m: published 3.649, sum contrib 3.736, gap -0.087; PCE headline 3m_ann: published 3.558, sum contrib 3.982, gap -0.424; PCE core 12m: published 3.121, sum contrib 3.184, gap -0.063; PCE core 3m_ann: published 2.903, sum contrib 3.171, gap -0.268.
+Core membership: BEA line rule (exclude U20404 lines 73-103 food, 113-119 energy goods, 169-171 electricity & gas; clothing 104-112 stays core), 149 of 177 mapped leaves in core; flag vs line rule differs for: none. Superseded name rule (pre 2026-11-14) would differ for: line 86 Fresh milk; line 88 Eggs; line 80 Beef and veal; line 81 Pork; line 82 Other meats; line 100 Spirits; line 89 Fats and oils; line 102 Beer; line 101 Wine; line 248 Food supplied to military; line 247 Food supplied to civilians; line 141 Tobacco (127); line 83 Poultry; line 77 Cereals; line 91 Fruit (fresh); line 98 Mineral waters, soft drinks, and vegetable juices.
+Nominal leaf closure is reported in reconciliation.csv at 2026M09 and weight base months.
+Requested line audit: requested_component_tags.csv shows presence/location; portfolio management (U20404 line 268) and financial services furnished without payment (line 254) exist in BEA but are not separate Dallas leaf items; financial charges line 258, software line 50, and air transportation line 207 are matched.
+At retrieval the current Dallas workbook has 177 names while its technical note describes 178; one legacy entry is N/A; every current Dallas name is matched (audio-video equipment services = U20404 line 218 since 2026-11-14).
+2026M09 nominal leaf sum is $22,384,968 million versus total PCE $22,452,780 million (gap $-67,812 million, -0.30%); unmatched Dallas names/list-vintage mismatch explain uncertainty in closure.
+BEA data vintage is whatever BEA served on the retrieval date (the Sept 30, 2026 release includes the 2026 annual update, history revised from Jan 2021).

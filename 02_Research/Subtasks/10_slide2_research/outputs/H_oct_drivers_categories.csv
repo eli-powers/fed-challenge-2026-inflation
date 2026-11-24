@@ -1,0 +1,33 @@
+period,status,line,category,weight_pct,rate_12m,contrib_12m,contrib_12m_2018_19_avg,excess_vs_2018_19,rate_3m_ann,contrib_3m_ann
+2026-09,BEA published,4,Motor vehicles and parts,3.988,-0.114,-0.004,0.0194,-0.0234,2.635,0.1062
+2026-09,BEA published,23,Furnishings and durable household equipment,2.691,0.157,0.0032,-0.003,0.0062,-3.473,-0.0966
+2026-09,BEA published,38,Recreational goods and vehicles,3.835,8.366,0.3115,-0.124,0.4355,8.17,0.3048
+2026-09,BEA published,62,Other durable goods,1.624,2.572,0.0422,-0.034,0.0763,4.045,0.0653
+2026-09,BEA published,104,Clothing and footwear,3.047,2.801,0.0853,-0.0195,0.1047,0.798,0.0247
+2026-09,BEA published,120,Other nondurable goods,9.163,0.522,0.0482,0.0426,0.0056,0.045,0.0045
+2026-09,BEA published,153,Housing,17.558,3.152,0.5591,0.581,-0.0219,3.105,0.5454
+2026-09,BEA published,166,Water supply and sanitation,0.742,4.836,0.0357,0.0286,0.0071,4.64,0.0342
+2026-09,BEA published,172,Health care,19.398,3.028,0.585,0.3502,0.2348,1.627,0.3181
+2026-09,BEA published,190,Transportation services,3.953,9.208,0.3446,0.0763,0.2682,14.536,0.5362
+2026-09,BEA published,209,Recreation services,4.299,3.202,0.1385,0.0975,0.041,1.229,0.0533
+2026-09,BEA published,234,Food services and accommodations,8.07,3.471,0.2762,0.199,0.0772,3.372,0.27
+2026-09,BEA published,252,Financial services and insurance,9.057,4.407,0.3953,0.3553,0.04,2.976,0.2693
+2026-09,BEA published,280,Other services,9.243,2.92,0.2719,0.1361,0.1359,4.331,0.3967
+2026-09,BEA published,342,Nonprofit institutions (NPISH),3.331,0.87,0.0303,0.0683,-0.038,2.222,0.0738
+2026-09,BEA published,374,TOTAL core (sum),,3.123,3.1229,1.7737,1.3492,2.906,2.9059
+2026-10,estimate,4,Motor vehicles and parts,3.966,-0.566,-0.0225,0.0194,-0.0419,-0.104,-0.0038
+2026-10,estimate,23,Furnishings and durable household equipment,2.704,0.938,0.0248,-0.003,0.0278,3.222,0.0873
+2026-10,estimate,38,Recreational goods and vehicles,3.809,8.243,0.3059,-0.124,0.4298,1.367,0.0526
+2026-10,estimate,62,Other durable goods,1.634,2.869,0.0473,-0.034,0.0814,5.421,0.0877
+2026-10,estimate,104,Clothing and footwear,3.035,3.042,0.092,-0.0195,0.1115,0.884,0.0272
+2026-10,estimate,120,Other nondurable goods,9.218,1.416,0.132,0.0426,0.0894,3.901,0.3589
+2026-10,estimate,153,Housing,17.557,3.298,0.5842,0.581,0.0032,3.219,0.5664
+2026-10,estimate,166,Water supply and sanitation,0.744,5.207,0.0384,0.0286,0.0098,5.287,0.039
+2026-10,estimate,172,Health care,19.375,2.729,0.529,0.3502,0.1789,1.596,0.3129
+2026-10,estimate,190,Transportation services,3.94,8.75,0.3279,0.0763,0.2515,13.556,0.5032
+2026-10,estimate,209,Recreation services,4.308,3.695,0.1594,0.0975,0.0619,3.398,0.1466
+2026-10,estimate,234,Food services and accommodations,8.088,3.872,0.3084,0.199,0.1094,5.843,0.4645
+2026-10,estimate,252,Financial services and insurance,9.056,4.35,0.3908,0.3553,0.0355,3.882,0.3507
+2026-10,estimate,280,Other services,9.243,2.995,0.2788,0.1361,0.1427,5.478,0.5003
+2026-10,estimate,342,Nonprofit institutions (NPISH),3.324,1.42,0.048,0.0683,-0.0203,1.811,0.0606
+2026-10,estimate,374,TOTAL core (sum),,3.244,3.2442,1.7737,1.4705,3.554,3.554

@@ -1,0 +1,67 @@
+section,item,value,unit,note,source
+actual_quarterly_latest_vintage,2024Q3 avg index (2017=100),123.1563,index,quarterly avg of monthly SA index,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2024Q3 q/q annualized,2.3552,"% ann., SA",calc from quarterly averages,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2024Q4 avg index (2017=100),124.001,index,quarterly avg of monthly SA index,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2024Q4 q/q annualized,2.7717,"% ann., SA",calc from quarterly averages,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2024Q4 Q4/Q4,2.894,%,calc,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2025Q1 avg index (2017=100),124.9183,index,quarterly avg of monthly SA index,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2025Q1 q/q annualized,2.9921,"% ann., SA",calc from quarterly averages,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2025Q2 avg index (2017=100),125.825,index,quarterly avg of monthly SA index,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2025Q2 q/q annualized,2.935,"% ann., SA",calc from quarterly averages,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2025Q3 avg index (2017=100),126.6497,index,quarterly avg of monthly SA index,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2025Q3 q/q annualized,2.6475,"% ann., SA",calc from quarterly averages,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2025Q4 avg index (2017=100),127.431,index,quarterly avg of monthly SA index,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2025Q4 q/q annualized,2.4906,"% ann., SA",calc from quarterly averages,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2025Q4 Q4/Q4,2.7661,%,calc,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2026Q1 avg index (2017=100),128.667,index,quarterly avg of monthly SA index,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2026Q1 q/q annualized,3.9366,"% ann., SA",calc from quarterly averages,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2026Q2 avg index (2017=100),129.72,index,quarterly avg of monthly SA index,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2026Q2 q/q annualized,3.314,"% ann., SA",calc from quarterly averages,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2026Q3 avg index (2017=100),130.513,index,quarterly avg of monthly SA index,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2026Q3 q/q annualized,2.4678,"% ann., SA",calc from quarterly averages,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2025Q4 y/y (quarterly avg),2.7661,%,"calc, quarterly avg over same quarter a year earlier","FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2026Q1 y/y (quarterly avg),3.0009,%,"calc, quarterly avg over same quarter a year earlier","FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2026Q2 y/y (quarterly avg),3.0956,%,"calc, quarterly avg over same quarter a year earlier","FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_latest_vintage,2026Q3 y/y (quarterly avg),3.0504,%,"calc, quarterly avg over same quarter a year earlier","FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+actual_quarterly_as_of_spf_deadline,2025Q1 q/q annualized,3.275,"% ann., SA",calc; vintage known to forecasters,ALFRED PCEPILFE vintage in force on 2026-08-11 (file ALFRED_PCEPILFE_all_vintages_2026-11-11.json)
+actual_quarterly_as_of_spf_deadline,2025Q2 q/q annualized,2.5999,"% ann., SA",calc; vintage known to forecasters,ALFRED PCEPILFE vintage in force on 2026-08-11 (file ALFRED_PCEPILFE_all_vintages_2026-11-11.json)
+actual_quarterly_as_of_spf_deadline,2025Q3 q/q annualized,2.8762,"% ann., SA",calc; vintage known to forecasters,ALFRED PCEPILFE vintage in force on 2026-08-11 (file ALFRED_PCEPILFE_all_vintages_2026-11-11.json)
+actual_quarterly_as_of_spf_deadline,2025Q4 q/q annualized,2.657,"% ann., SA",calc; vintage known to forecasters,ALFRED PCEPILFE vintage in force on 2026-08-11 (file ALFRED_PCEPILFE_all_vintages_2026-11-11.json)
+actual_quarterly_as_of_spf_deadline,2026Q1 q/q annualized,4.4217,"% ann., SA",calc; vintage known to forecasters,ALFRED PCEPILFE vintage in force on 2026-08-11 (file ALFRED_PCEPILFE_all_vintages_2026-11-11.json)
+actual_quarterly_as_of_spf_deadline,2026Q2 q/q annualized,3.4187,"% ann., SA",calc; vintage known to forecasters,ALFRED PCEPILFE vintage in force on 2026-08-11 (file ALFRED_PCEPILFE_all_vintages_2026-11-11.json)
+actual_quarterly_as_of_spf_deadline,2025Q4 Q4/Q4,2.8517,%,calc; SPF PDF shows 2.9 'actual' for 2025,ALFRED PCEPILFE vintage in force on 2026-08-11 (file ALFRED_PCEPILFE_all_vintages_2026-11-11.json)
+actual_quarterly_vintage_revision,2026Q2 q/q ann.: latest minus as-of-deadline,-0.1047,pp,calc,both vintages above
+actual_quarterly_vintage_revision,2026Q1 q/q ann.: latest minus as-of-deadline,-0.4852,pp,calc,both vintages above
+actual_quarterly_vintage_revision,2025Q4 Q4/Q4: latest minus as-of-deadline,-0.0856,pp,calc,both vintages above
+spf_vs_actual,"2026Q2 SPF COREPCE1 (jump-off, 2026Q3 survey)",3.4,% ann.,published,"SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+spf_vs_actual,2026Q2 actual q/q ann. (latest vintage),3.314,% ann.,calc,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+spf_vs_actual,2026Q2 actual minus SPF jump-off,-0.086,pp,calc,"SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+spf_vs_actual,2026Q3 SPF COREPCE2 forecast,2.7,% ann.,"published (survey deadline Aug 11, before Q3 data)","SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+spf_vs_actual,"2026Q3 actual q/q ann. (latest vintage; BEA first print, Oct 29 vintage)",2.4678,% ann.,calc,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+spf_vs_actual,2026Q3 forecast error (actual minus SPF median),-0.2322,pp,calc,"SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+spf_vs_actual,2026Q3 actual minus SPF p75 (3.2),-0.7322,pp,calc; p75 from Dispersion_1 offset T,A_q1_spf_baseline.csv
+spf_vs_actual,2026Q4 SPF COREPCE3 forecast,2.6158,% ann.,published,"SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+spf_vs_actual,2026 Q4/Q4 SPF COREPCEA (median),3.2876,%,published,"SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+consistency,"2026 Q4/Q4 from actual Q1,Q2 + SPF Q3,Q4 medians",3.1402,%,calc: prod of (1+q/100)^(1/4); compare with published COREPCEA,"SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+consistency,Published COREPCEA minus that calc,0.1474,pp,calc; gap = medians of different respondents / vintage,"SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+consistency,"2026Q4 q/q ann. needed for 2026 Q4/Q4 = SPF COREPCEA, given actual Q1-Q3 (latest vintage)",3.4375,% ann.,"calc, not a forecast","SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+consistency,"2026 Q4/Q4 if 2026Q4 = SPF COREPCE3, given actual Q1-Q3 (latest vintage)",3.0819,%,"calc, not a forecast","SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+consistency,2027 Q4/Q4 if Q4 simply repeats Q3 SPF pace (2.3261),2.415,%,calc; vs published COREPCEB,"SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+consistency,Published COREPCEB 2027,2.4004,%,published,"SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+oct_estimate,Sep 2026 index (published),130.902,index,FRED,"FRED PCEPILFE, realtime 2026-10-29 (BEA release of Sep 2026 PCE)"
+oct_estimate,Oct 2026 index implied by m/m 0.295,131.2882,index,calc: Sep*(1+0.00295),"Slide1_Inflation_Data.xlsx Headline!C6 (m/m input, from brief)"
+oct_estimate,Oct 2026 y/y implied by that index vs Oct 2025,3.2424,%,calc; project stated 3.24% (Headline!C10),FRED Oct 2025 index
+calc_2026Q4_scenarios,"(i) m/m for Nov, Dec",0.295,%,Nov and Dec core m/m = 0.295 (Oct est.),calc; not a forecast
+calc_2026Q4_scenarios,(i) Dec 2026 y/y,3.3647,%,Nov and Dec core m/m = 0.295 (Oct est.),calc; not a forecast
+calc_2026Q4_scenarios,(i) 2026Q4 q/q annualized,3.6118,% ann.,Nov and Dec core m/m = 0.295 (Oct est.),calc; not a forecast
+calc_2026Q4_scenarios,(i) 2026 Q4/Q4,3.3311,%,Nov and Dec core m/m = 0.295 (Oct est.),calc; not a forecast
+calc_2026Q4_scenarios,"(ii-a) m/m for Nov, Dec",0.2154,%,Nov and Dec m/m = monthly equivalent of SPF 2026Q4 pace (2.6158% ann. -> 0.2154%/mo),calc; not a forecast
+calc_2026Q4_scenarios,(ii-a) Dec 2026 y/y,3.2007,%,Nov and Dec m/m = monthly equivalent of SPF 2026Q4 pace (2.6158% ann. -> 0.2154%/mo),calc; not a forecast
+calc_2026Q4_scenarios,(ii-a) 2026Q4 q/q annualized,3.2828,% ann.,Nov and Dec m/m = monthly equivalent of SPF 2026Q4 pace (2.6158% ann. -> 0.2154%/mo),calc; not a forecast
+calc_2026Q4_scenarios,(ii-a) 2026 Q4/Q4,3.249,%,Nov and Dec m/m = monthly equivalent of SPF 2026Q4 pace (2.6158% ann. -> 0.2154%/mo),calc; not a forecast
+calc_2026Q4_scenarios,"(ii-b) m/m for Nov, Dec",0.0534,%,Nov and Dec m/m solved so 2026Q4 q/q annualized equals SPF median (given our Oct est.),calc; not a forecast
+calc_2026Q4_scenarios,(ii-b) Dec 2026 y/y,2.8672,%,Nov and Dec m/m solved so 2026Q4 q/q annualized equals SPF median (given our Oct est.),calc; not a forecast
+calc_2026Q4_scenarios,(ii-b) 2026Q4 q/q annualized,2.6158,% ann.,Nov and Dec m/m solved so 2026Q4 q/q annualized equals SPF median (given our Oct est.),calc; not a forecast
+calc_2026Q4_scenarios,(ii-b) 2026 Q4/Q4,3.0819,%,Nov and Dec m/m solved so 2026Q4 q/q annualized equals SPF median (given our Oct est.),calc; not a forecast
+calc_2026Q4_scenarios,SPF 2026 Q4/Q4 median (for comparison),3.2876,%,published,"SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"
+calc_2026Q4_scenarios,SPF 2026Q4 q/q ann. median (for comparison),2.6158,% ann.,published,"SPF 2026Q3 median (COREPCE1..6, COREPCEA) vs latest vintage"

@@ -1,0 +1,25 @@
+series_id,label,group,base_2018_19,n_base,mar_2025,feb_2026,oct_2026,last,excess_oct,excess_mar25
+WPUID51,Stage 1 intermediate demand,stage,2.0,24,1.94,5.05,13.91,2026-10,11.91,-0.06
+WPUID52,Stage 2 intermediate demand,stage,1.35,24,2.64,4.44,13.3,2026-10,11.95,1.29
+WPUID53,Stage 3 intermediate demand,stage,2.37,24,1.66,1.32,8.42,2026-10,6.05,-0.71
+WPUID54,Stage 4 intermediate demand,stage,2.62,24,2.56,4.43,7.98,2026-10,5.36,-0.06
+WPUFD4,Final demand,stage,2.3,24,3.15,3.37,6.52,2026-10,4.22,0.85
+WPUID51113,"Stage 1: goods ex F&E, to goods producers",stage_core,-0.37,24,2.03,8.96,14.49,2026-10,14.86,2.4
+WPUID52113,"Stage 2: goods ex F&E, to goods producers",stage_core,1.65,24,4.95,11.04,16.89,2026-10,15.24,3.3
+WPUID53113,"Stage 3: goods ex F&E, to goods producers",stage_core,1.94,24,1.11,5.57,12.06,2026-10,10.12,-0.83
+WPUID54113,"Stage 4: goods ex F&E, to goods producers",stage_core,1.82,24,1.79,6.22,8.92,2026-10,7.1,-0.03
+WPUID54213,"Stage 4: goods ex F&E, to services producers",stage_core,2.35,24,2.39,3.37,4.85,2026-10,2.5,0.04
+WPUID54212,"Stage 4: energy, to services producers",energy,1.24,24,-1.06,3.79,7.48,2026-10,6.24,-2.3
+WPUID613,Processed fuels & lubricants (intermediate),energy,2.84,24,-6.67,2.37,43.08,2026-10,40.24,-9.51
+WPUFD412,Final demand energy,energy,2.92,24,-6.69,-0.41,37.03,2026-10,34.11,-9.61
+WPUFD41311,Finished consumer goods ex food & energy,tariff,2.51,24,2.09,3.38,3.58,2026-10,1.07,-0.42
+WPUFD413112,Durable consumer goods,tariff,1.52,24,1.67,3.37,3.61,2026-10,2.09,0.15
+WPUFD413111,Nondurable consumer goods ex food & energy,tariff,3.15,24,2.36,3.38,3.55,2026-10,0.4,-0.79
+WPUID61113,Materials for durable manufacturing,tariff,2.94,24,1.85,15.8,19.97,2026-10,17.03,-1.09
+WPUID6112,Components for manufacturing,tariff,1.63,24,1.82,5.27,7.75,2026-10,6.12,0.19
+WPU1017,Steel mill products,tariff,5.0,24,-5.99,20.92,32.92,2026-10,27.92,-10.99
+WPU1025,Nonferrous mill shapes (incl. aluminum),tariff,3.48,24,12.91,28.35,21.33,2026-10,17.85,9.43
+WPU1178,Electronic components & accessories,AI,-1.12,24,0.34,16.28,31.75,2026-10,32.87,1.46
+PCU33441-33441-,"Electronic components (incl. chips), industry",AI,-1.29,24,0.55,15.41,30.64,2026-10,31.93,1.84
+PCU334413334413,Semiconductors & related devices,AI,-4.56,24,-4.13,0.02,-2.66,2026-10,1.9,0.43
+PCU3341--3341--,Computers & peripherals,AI,-2.1,24,0.7,7.75,21.64,2026-10,23.74,2.8

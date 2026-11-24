@@ -1,0 +1,11 @@
+Hand-check: post-pandemic x P2 ($110 flat), SPF 2026Q3 baseline, Aug-2026 STEO assumption
+  last Brent obs 2026-11-11; 2026Q4 splice = 30 observed + 34 remaining weekdays
+  gaps (log pts x100): 2026Q3 12.180, 2026Q4 37.203, 2027Q1 39.642, 2027Q2 43.780, 2027Q3 48.097, 2027Q4 52.609
+  L (core level adj, %): 2026Q3 0.0224, 2026Q4 0.0588, 2027Q1 0.1092, 2027Q2 0.2804, 2027Q3 0.4775, 2027Q4 0.8006
+item              handcheck   pipeline       diff
+2026Q4 q/q ann     2.765384   2.765384   2.30e-08
+2027Q1 q/q ann     2.783714   2.783714   4.26e-07
+2027Q4 q/q ann     3.598351   3.598351  -8.83e-09
+2026 Q4/Q4         3.119404   3.119404  -1.21e-07
+2027 Q4/Q4         3.162859   3.162859   3.90e-07
+MATCH (|diff| < 1e-5 pp; pipeline CSV stores 6 decimals)

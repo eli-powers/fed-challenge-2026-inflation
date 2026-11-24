@@ -1,0 +1,9 @@
+field,value
+file,D2_backtest_variant_first_release_pm.csv
+script,code/D2_variant_first_release_pm.py
+content,"D2 variant: line 268 in old-table months (Nov 2025, Dec 2025-Jul 2026) priced from first-release same-report m/m of PCU5239405239401/02 (E_pm_ppi_first_release.csv); everything else = main run. row_type=month: core/headline estimate main vs variant, first print, misses, 1dp hits, PM line detail; row_type=summary: n, bias, MAE, SE of MAE (SD |miss| / sqrt n, ddof=1), MAE +/- 1 SE, RMSE, largest miss, 1dp hit rate, threshold leg (core, rule months; MAE+/-1SE vs 0.05), and variant-minus-main MAE"
+units,"percent m/m (pp for misses), SA; weights are shares"
+window,"carry-forward window = 12 months (from backtest_window_choice.csv, not re-selected)"
+reproduction,swap off reproduces backtest_results.csv build estimates; max |diff| core 4.53e-05
+vintages,"targets: ALFRED first-print vintages; components and weights: current vintage (not real time); PM PPIs: BLS Detailed Reports, first-release"
+status,labeled variant; NOT the decision run; no Oct 2026 estimate

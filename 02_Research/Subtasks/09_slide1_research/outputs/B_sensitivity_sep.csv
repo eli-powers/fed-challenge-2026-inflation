@@ -1,0 +1,28 @@
+run,effect,pp_bea_convention,pp_centered_alt,note
+main,formula,-0.0305,-0.0305,CPI NSA; medical third-party portion split out as PCE-only scope
+main,weight,-0.2830,0.9027,CPI NSA; medical third-party portion split out as PCE-only scope
+main,price,0.0492,0.0770,CPI NSA; medical third-party portion split out as PCE-only scope
+main,scope_PCE_only,0.9419,-0.3043,CPI NSA; medical third-party portion split out as PCE-only scope
+main,scope_CPI_only,-0.0233,0.0094,CPI NSA; medical third-party portion split out as PCE-only scope
+main,other,-0.0014,-0.0014,CPI NSA; medical third-party portion split out as PCE-only scope
+main,residual,-0.0961,-0.0961,CPI NSA; medical third-party portion split out as PCE-only scope
+main,weight: Owners' equivalent rent / imputed owner rent,-0.6281,-0.0947,CPI NSA; medical third-party portion split out as PCE-only scope
+main,weight: Rent of primary residence / tenant rent,-0.1439,-0.0090,CPI NSA; medical third-party portion split out as PCE-only scope
+cpi_sa_components,formula,-0.0305,-0.0305,"CPI SA item indexes, published SA core CPI 12m"
+cpi_sa_components,weight,-0.2830,0.9026,"CPI SA item indexes, published SA core CPI 12m"
+cpi_sa_components,price,0.0496,0.0776,"CPI SA item indexes, published SA core CPI 12m"
+cpi_sa_components,scope_PCE_only,0.9419,-0.3043,"CPI SA item indexes, published SA core CPI 12m"
+cpi_sa_components,scope_CPI_only,-0.0233,0.0094,"CPI SA item indexes, published SA core CPI 12m"
+cpi_sa_components,other,0.0060,0.0060,"CPI SA item indexes, published SA core CPI 12m"
+cpi_sa_components,residual,-0.1054,-0.1054,"CPI SA item indexes, published SA core CPI 12m"
+cpi_sa_components,weight: Owners' equivalent rent / imputed owner rent,-0.6282,-0.0948,"CPI SA item indexes, published SA core CPI 12m"
+cpi_sa_components,weight: Rent of primary residence / tenant rent,-0.1439,-0.0090,"CPI SA item indexes, published SA core CPI 12m"
+no_medical_split,formula,-0.0305,-0.0305,medical groups treated as fully in CPI scope (all PCE weight in weight effect)
+no_medical_split,weight,0.2798,0.8504,medical groups treated as fully in CPI scope (all PCE weight in weight effect)
+no_medical_split,price,-0.1560,-0.1905,medical groups treated as fully in CPI scope (all PCE weight in weight effect)
+no_medical_split,scope_PCE_only,0.5843,0.0156,medical groups treated as fully in CPI scope (all PCE weight in weight effect)
+no_medical_split,scope_CPI_only,-0.0233,0.0094,medical groups treated as fully in CPI scope (all PCE weight in weight effect)
+no_medical_split,other,-0.0014,-0.0014,medical groups treated as fully in CPI scope (all PCE weight in weight effect)
+no_medical_split,residual,-0.0961,-0.0961,medical groups treated as fully in CPI scope (all PCE weight in weight effect)
+no_medical_split,weight: Owners' equivalent rent / imputed owner rent,-0.6281,-0.1311,medical groups treated as fully in CPI scope (all PCE weight in weight effect)
+no_medical_split,weight: Rent of primary residence / tenant rent,-0.1439,-0.0134,medical groups treated as fully in CPI scope (all PCE weight in weight effect)

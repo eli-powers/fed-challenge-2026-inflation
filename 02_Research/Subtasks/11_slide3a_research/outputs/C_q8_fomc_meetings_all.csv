@@ -1,0 +1,56 @@
+statement_date,verb,lower,upper,vote,dissent,url,change_bp
+2020-03-03,lower,1.0,1.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20200303a.htm,-50
+2020-03-15,lower,0.0,0.25,see statement,"Loretta J. Mester, who was fully supportive of all of the actions taken to promote the smooth functioning of markets and the flow of credit to households and businesses but preferred to reduce the target range for the federal funds rate to 1/2 to 3/4 percent at this meeting. In a related set of acti",https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm,-100
+2020-04-29,maintain,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20200429a.htm,0
+2020-06-10,maintain,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20200610a.htm,0
+2020-07-29,maintain,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20200729a.htm,0
+2020-09-16,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20200916a.htm,0
+2020-11-05,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20201105a.htm,0
+2020-12-16,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20201216a.htm,0
+2021-01-27,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210127a.htm,0
+2021-03-17,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210317a.htm,0
+2021-04-28,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210428a.htm,0
+2021-06-16,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210616a.htm,0
+2021-07-28,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210728a.htm,0
+2021-09-22,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210922a.htm,0
+2021-11-03,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20211103a.htm,0
+2021-12-15,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20211215a.htm,0
+2022-01-26,keep,0.0,0.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220126a.htm,0
+2022-03-16,raise,0.25,0.5,see statement,"James Bullard, who preferred at this meeting to raise the target range for the federal funds rate by 0.5 percentage point to 1/2 to 3/4 percent.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm,25
+2022-05-04,raise,0.75,1.0,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220504a.htm,50
+2022-06-15,raise,1.5,1.75,see statement,"Esther L. George, who preferred at this meeting to raise the target range for the federal funds rate by 0.5 percentage point to 1-1/4 percent to 1-1/2 percent.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20220615a.htm,75
+2022-07-27,raise,2.25,2.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220727a.htm,75
+2022-09-21,raise,3.0,3.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm,75
+2022-11-02,raise,3.75,4.0,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20221102a.htm,75
+2022-12-14,raise,4.25,4.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm,50
+2023-02-01,raise,4.5,4.75,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230201a.htm,25
+2023-03-22,raise,4.75,5.0,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230322a.htm,25
+2023-05-03,raise,5.0,5.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230503a.htm,25
+2023-06-14,maintain,5.0,5.25,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230614a.htm,0
+2023-07-26,raise,5.25,5.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230726a.htm,25
+2023-09-20,maintain,5.25,5.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230920a.htm,0
+2023-11-01,maintain,5.25,5.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20231101a.htm,0
+2023-12-13,maintain,5.25,5.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20231213a.htm,0
+2024-01-31,maintain,5.25,5.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20240131a.htm,0
+2024-03-20,maintain,5.25,5.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20240320a.htm,0
+2024-05-01,maintain,5.25,5.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20240501a.htm,0
+2024-06-12,maintain,5.25,5.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20240612a.htm,0
+2024-07-31,maintain,5.25,5.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20240731a.htm,0
+2024-09-18,lower,4.75,5.0,see statement,"Michelle W. Bowman, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20240918a.htm,-50
+2024-11-07,lower,4.5,4.75,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20241107a.htm,-25
+2024-12-18,lower,4.25,4.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20241218a.htm,-25
+2025-01-29,maintain,4.25,4.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20250129a.htm,0
+2025-03-19,maintain,4.25,4.5,see statement,"Christopher J. Waller, who supported no change for the federal funds target range but preferred to continue the current pace of decline in securities holdings.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20250319a.htm,0
+2025-05-07,maintain,4.25,4.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20250507a.htm,0
+2025-06-18,maintain,4.25,4.5,see statement,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20250618a.htm,0
+2025-07-30,maintain,4.25,4.5,see statement,"Michelle W. Bowman and Christopher J. Waller, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting. Absent and not voting was Adriana D. Kugler.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20250730a.htm,0
+2025-09-17,lower,4.0,4.25,see statement,"Stephen I. Miran, who preferred to lower the target range for the federal funds rate by 1/2 percentage point at this meeting.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm,-25
+2025-10-29,lower,3.75,4.0,see statement,"Stephen I. Miran, who preferred to lower the target range for the federal funds rate by 1/2 percentage point at this meeting, and Jeffrey R. Schmid, who preferred no change to the target range for the federal funds rate at this meeting.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a.htm,-25
+2025-12-10,lower,3.5,3.75,see statement,"Stephen I. Miran, who preferred to lower the target range for the federal funds rate by 1/2 percentage point at this meeting; and Austan D. Goolsbee and Jeffrey R. Schmid, who preferred no change to the target range for the federal funds rate at this meeting.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm,-25
+2026-01-28,maintain,3.5,3.75,see statement,"Stephen I. Miran and Christopher J. Waller, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm,0
+2026-03-18,maintain,3.5,3.75,see statement,"Stephen I. Miran, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm,0
+2026-04-29,maintain,3.5,3.75,see statement,"Stephen I. Miran, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting; and Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who supported maintaining the target range for the federal funds rate but did not support inclusion of an easing bias ",https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm,0
+2026-06-17,maintain,3.5,3.75,12-0,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm,0
+2026-07-29,maintain,3.5,3.75,9-3,"Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm,0
+2026-09-16,raise,3.75,4.0,12-0,,https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm,25
+2026-10-28,maintain,3.75,4.0,10-2,"Lisa D. Cook and Beth M. Hammack, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.",https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm,0

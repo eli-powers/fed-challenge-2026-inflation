@@ -1,0 +1,7 @@
+source,item,url,date_tried,result,note
+CME Group,Brent (BZ) futures quotes,https://www.cmegroup.com/CmeWS/mvc/Quotes/Future/424/G,2026-11-15,HTTP 403,automated access blocked; full curve licensed
+CME Group,Brent futures settlements page,https://www.cmegroup.com/markets/energy/crude-oil/brent-crude-oil.settlements.html,2026-11-15,HTTP 403,blocked
+CME Group,WTI (CL) futures settlements API,https://www.cmegroup.com/CmeWS/mvc/Settlements/Futures/Settlements/425/FUT?tradeDate=11/13/2026,2026-11-15,HTTP 403,blocked
+ICE,Brent futures delayed market data,https://www.ice.com/marketdata/DelayedMarkets.shtml?getContractsAsJson=&productId=254&hubId=403,2026-11-15,HTTP 403,blocked; ICE Brent curve is licensed data
+Bloomberg,Brent futures curve (used by the FEDS note Fig. 3: 'Bloomberg'),n/a,2026-11-15,not attempted,paywalled terminal
+EIA,NYMEX WTI futures RCLC1-RCLC4,https://www.eia.gov/dnav/pet/pet_pri_fut_s1_d.htm,2026-11-15,discontinued,"free but series end 2024-04-05; EIA page: 'Futures prices after April 5, 2024, are not available'"

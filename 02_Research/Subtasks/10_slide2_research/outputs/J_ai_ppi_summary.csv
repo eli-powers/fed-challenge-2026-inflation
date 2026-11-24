@@ -1,0 +1,11 @@
+series_id,name,source,last_month,status,yoy_last,yoy_sep,yoy_peak,yoy_peak_month,yoy_rank_since_start,n_months,first_month,yoy_last_time_ge,yoy_avg_2018_19,mm_last
+PCU33441-33441-,Semiconductor and other electronic component mfg,Richmond Fig.1; Eli,2026-10,P,30.64,26.48,30.64,2026-10,1,238,2007-01,never (record),-1.29,3.91
+PCU334413334413,Semiconductor and related device mfg (narrower chip measure),Eli,2026-10,P,-2.66,-2.17,6.63,2022-10,86,238,2007-01,2026-09,-4.56,0.15
+PCU3341--3341--,Computer and peripheral equipment mfg,Richmond Fig.1; Eli,2026-10,P,21.64,22.69,24.22,2026-07,4,238,2007-01,2026-09,-2.1,0.0
+PCU334112334112,Computer storage device mfg,Eli,2026-10,P,80.34,87.28,87.97,2026-07,4,238,2007-01,2026-09,-0.87,0.0
+PCU334418334418,Printed circuit assembly mfg,Eli,2026-10,P,150.56,126.0,164.77,2026-06,4,238,2007-01,2026-07,-0.64,11.72
+PCU335313335313,Switchgear and switchboard apparatus mfg,Richmond Fig.2; Eli,2026-10,P,13.47,12.3,22.65,2022-08,17,238,2007-01,2026-04,2.75,0.35
+PCU3336--3336--,Turbine and power transmission equipment mfg,"Richmond Fig.2 (engine, turbine, power transmission)",2026-10,P,4.19,4.42,13.41,2009-01,57,238,2007-01,2026-09,1.97,-0.03
+PCU51321051321050502,Application software publishing,Richmond Fig.3; Eli,2026-10,P,1.8,0.42,7.2,2024-11,72,238,2007-01,2026-07,1.98,1.66
+PCU5182105182105,"Hosting, ASP and other IT infrastructure provisioning",Eli,2026-10,P,2.9,4.22,10.21,2025-07,47,227,2007-12,2026-09,2.03,-0.42
+PCU541330541330202,Municipal utility and power generation/distribution engineering,Richmond Fig.3 (grid engineering),2026-10,P,7.17,7.09,7.25,2026-04,4,191,2010-12,2026-06,2.93,0.92

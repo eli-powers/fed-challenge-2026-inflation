@@ -1,0 +1,7 @@
+field,value
+file,backtest_results.csv
+script,code/D_backtest.py
+content,"per month x measure x method: estimate, first print, current vintage, misses, 1dp hit, 12m error; then summary rows (row_type=summary) with n, bias, MAE, SE of MAE, RMSE, largest miss, hit rate, 12m error by group of months and target"
+units,"percent m/m (pp for misses/contributions), SA"
+window,carry-forward window chosen = 12 months
+vintages,targets: ALFRED first-print vintages; current: U20404 2026-11-10; components and weights: current vintage (not real time)

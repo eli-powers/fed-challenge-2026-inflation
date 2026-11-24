@@ -1,0 +1,13 @@
+# Notes, Agent B (raw, 2026-11-15)
+- Brief says CIU2020000000000I is SA. CIU = NSA; CIS = SA. Pipeline stores both; I use CIS (SA) index for q/q annualised and y/y, and report CIU NSA index and published NSA 12m (CIU2020000000000A) alongside.
+- ECI index published to 1 decimal, so q/q annualised from index is coarse (about +/-0.2pp).
+- ECI W&S private 2026Q3: SA y/y 3.12 (computed), published NSA 12m 3.1 [matches]; q/q ann 3.15. Total comp private y/y 3.34 (published NSA 3.4).
+- AHE Oct 2026: 38.00 (+0.4% m/m, 3.1% y/y per BLS text via WebFetch). Release date Nov 6, 2026 (search snippet + WebFetch).
+- WGT latest = Sep 2026 (3mma overall 3.9, stayer 3.4, switcher 4.7). Alternative WGT sheet exists because of the Oct-Nov 2025 CPS gap (Atlanta Fed blog 2024-08-28 "pause and resumption", per sheet). Not investigated.
+- ULC 2026Q3: q/q ann -0.66 (pub -0.7), y/y 2.39 (pub 2.4). Pre-revision 2026Q1/Q2 y/y 0.4/1.4 -> 1.8/2.6 (Subtask 01 report).
+- Labor share: PRS85006174 level 53.3 (Q2), 53.0 (Q3) in current vintage. Pre-Nov-5 vintage Q2 index 93.446 (Sep 3) x 0.565 = 52.8. Detail in B_q3_labor_share.md.
+- Trend productivity: 2007Q4-2019Q4 1.52 (reproduces Jefferson 1.5 "previous cycle"); 2020Q1-2025Q4 2.21 (reproduces 2.2). 2010-2019 alone 1.16.
+- NFIB Oct 2026 (released ~Nov 10): net 29% raised comp (+1), net 24% plan to raise comp (+4, highest since Dec 2025), net 33% raised prices (+2; hist avg 14), net 37% plan price increases (+6, highest since Jul 2022). Eli's 34%/24%: 24 matches comp plans (Oct 2026 and Nov 2025); 34 is NOT Oct 2026 plan-prices (37). 34 = actual net prices raised in Nov 2025 and plan-prices in Nov 2025 was 30 -- so the pair (34, 24) looks like Nov 2025 values (actual prices 34, comp plans 24) mixed. UNVERIFIED which table the podcast used; all NFIB figures are NET percentages (raise minus lower), not shares of firms planning.
+- Beige Book Oct 2026 (Last Update Oct 14; info to Oct 5), Labor Markets: "Five Districts described moderate growth in overall wages, four reported modest growth, and two reported slight growth. Several Districts noted that inflation has spawned additional wage pressure in the form of higher cost-of-living demands from individuals as well as challenges from rising benefit costs." Prices: "Higher oil prices permeated all District reports." (also: "Five Districts reported that some firms had ... delayed hiring ... after increasing productivity by investing in AI.")
+- CFO survey Q3 2026: avg wage CY2026 4.3% mean (3.8 median), up from 4.0 (3.1) in Q2.
+- Commands: curl for NFIB/Atlanta/Beige Book/Wayback downloads; BLS/FRED via B_fetch_bls.py and curl with FRED key (key not saved).

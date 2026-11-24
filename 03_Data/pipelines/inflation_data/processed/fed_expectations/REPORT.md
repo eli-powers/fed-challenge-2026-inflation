@@ -1,0 +1,123 @@
+# Fed expectations retrieval report
+
+Retrieved 2026-11-10. Official publisher payloads are saved unmodified (API-key redaction only).
+
+## Series retrieved
+- N/A `dallas_trimmed_mean_pce_1m_ann`: Publisher page reports rate series but its linked pcedata.xlsx chart workbook has only distribution rows; full historical rate CSV was not linked or retrieved. Latest six months shown in publisher page. No substitute or computed rate used. Source: https://www.dallasfed.org/research/pce
+- N/A `dallas_trimmed_mean_pce_6m_ann`: Publisher page reports rate series but its linked pcedata.xlsx chart workbook has only distribution rows; full historical rate CSV was not linked or retrieved. Latest six months shown in publisher page. No substitute or computed rate used. Source: https://www.dallasfed.org/research/pce
+- N/A `dallas_trimmed_mean_pce_12m`: Publisher page reports rate series but its linked pcedata.xlsx chart workbook has only distribution rows; full historical rate CSV was not linked or retrieved. Latest six months shown in publisher page. No substitute or computed rate used. Source: https://www.dallasfed.org/research/pce
+- `cleveland_trimmed_mean_cpi_trim_monthly_chg` (trim_revised): 1983-01-01 to 2026-10-01, 526 observations; trim_monthly_chg.
+- `cleveland_trimmed_mean_cpi_trim_ann_monthly_chg` (trim_revised): 1983-01-01 to 2026-10-01, 526 observations; trim_ann_monthly_chg.
+- `sticky_price_cpi_headline_other:1-month annualized` (1-mo annualized percent change.2): 1967-01-01 to 2026-10-01, 718 observations; 1-mo annualized percent change.2.
+- `sticky_price_cpi_headline_3m_ann` (3-mo a.r..2): 1967-01-01 to 2026-10-01, 718 observations; 3-mo a.r..2.
+- `sticky_price_cpi_headline_12m` (12mo.2): 1967-01-01 to 2026-10-01, 718 observations; 12mo.2.
+- `sticky_price_cpi_core_other:1-month annualized` (1-mo annualized percent change.3): 1967-01-01 to 2026-10-01, 718 observations; 1-mo annualized percent change.3.
+- `sticky_price_cpi_core_3m_ann` (3-mo a.r..3): 1967-01-01 to 2026-10-01, 718 observations; 3-mo a.r..3.
+- `sticky_price_cpi_core_12m` (12mo.3): 1967-01-01 to 2026-10-01, 718 observations; 12mo.3.
+- `sticky_price_cpi_less_shelter_other:1-month annualized` (1-mo annualized percent change.4): 1967-01-01 to 2026-10-01, 718 observations; 1-mo annualized percent change.4.
+- `sticky_price_cpi_less_shelter_3m_ann` (3-mo a.r..4): 1967-01-01 to 2026-10-01, 718 observations; 3-mo a.r..4.
+- `sticky_price_cpi_less_shelter_12m` (12mo.4): 1967-01-01 to 2026-10-01, 718 observations; 12mo.4.
+- `nyfed_sce_1y_inflation_expectation` (Median one-year ahead expected inflation rate): 2013-06-01 to 2026-10-01, 161 observations; median 1-year-ahead expected inflation.
+- `nyfed_sce_3y_inflation_expectation` (Median three-year ahead expected inflation rate): 2013-06-01 to 2026-10-01, 161 observations; median 3-year-ahead expected inflation.
+- `nyfed_sce_5y_inflation_expectation` (Median five-year ahead expected inflation rate): 2022-01-01 to 2026-10-01, 58 observations; median 5-year-ahead expected inflation.
+- N/A `umich_expected_prices_table_32`: Official current 2026 SCA table PDF archived; time-series transcription not completed. Tables report median and mean. Latest preliminary/final status requires the monthly release pages. Source: https://data.sca.isr.umich.edu/data-tables/
+- N/A `umich_expected_prices_table_33`: Official current 2026 SCA table PDF archived; time-series transcription not completed. Tables report median and mean. Latest preliminary/final status requires the monthly release pages. Source: https://data.sca.isr.umich.edu/data-tables/
+- `fred_t5yie` (T5YIE): 2003-01-02 to 2026-11-10, 6224 observations; 5-Year Breakeven Inflation Rate.
+- `fred_t10yie` (T10YIE): 2003-01-02 to 2026-11-10, 6224 observations; 10-Year Breakeven Inflation Rate.
+- `fred_t5yifr` (T5YIFR): 2003-01-02 to 2026-11-10, 6224 observations; 5-Year, 5-Year Forward Inflation Expectation Rate.
+- `spf_cpi_cpi1` (CPI): 1968-10-01 to 2026-07-01, 232 observations; Median CPI forecast.
+- `spf_cpi_cpi2` (CPI): 1968-10-01 to 2026-07-01, 232 observations; Median CPI forecast.
+- `spf_cpi_cpi3` (CPI): 1968-10-01 to 2026-07-01, 232 observations; Median CPI forecast.
+- `spf_cpi_cpi4` (CPI): 1968-10-01 to 2026-07-01, 232 observations; Median CPI forecast.
+- `spf_cpi_cpi5` (CPI): 1968-10-01 to 2026-07-01, 232 observations; Median CPI forecast.
+- `spf_cpi_cpi6` (CPI): 1968-10-01 to 2026-07-01, 232 observations; Median CPI forecast.
+- `spf_cpi_cpia` (CPI): 1968-10-01 to 2026-07-01, 232 observations; Median CPI forecast.
+- `spf_cpi_cpib` (CPI): 1968-10-01 to 2026-07-01, 232 observations; Median CPI forecast.
+- `spf_cpi_cpic` (CPI): 1968-10-01 to 2026-07-01, 232 observations; Median CPI forecast.
+- `spf_corecpi_corecpi1` (CORECPI): 1968-10-01 to 2026-07-01, 232 observations; Median CORECPI forecast.
+- `spf_corecpi_corecpi2` (CORECPI): 1968-10-01 to 2026-07-01, 232 observations; Median CORECPI forecast.
+- `spf_corecpi_corecpi3` (CORECPI): 1968-10-01 to 2026-07-01, 232 observations; Median CORECPI forecast.
+- `spf_corecpi_corecpi4` (CORECPI): 1968-10-01 to 2026-07-01, 232 observations; Median CORECPI forecast.
+- `spf_corecpi_corecpi5` (CORECPI): 1968-10-01 to 2026-07-01, 232 observations; Median CORECPI forecast.
+- `spf_corecpi_corecpi6` (CORECPI): 1968-10-01 to 2026-07-01, 232 observations; Median CORECPI forecast.
+- `spf_corecpi_corecpia` (CORECPI): 1968-10-01 to 2026-07-01, 232 observations; Median CORECPI forecast.
+- `spf_corecpi_corecpib` (CORECPI): 1968-10-01 to 2026-07-01, 232 observations; Median CORECPI forecast.
+- `spf_corecpi_corecpic` (CORECPI): 1968-10-01 to 2026-07-01, 232 observations; Median CORECPI forecast.
+- `spf_pce_pce1` (PCE): 1968-10-01 to 2026-07-01, 232 observations; Median PCE forecast.
+- `spf_pce_pce2` (PCE): 1968-10-01 to 2026-07-01, 232 observations; Median PCE forecast.
+- `spf_pce_pce3` (PCE): 1968-10-01 to 2026-07-01, 232 observations; Median PCE forecast.
+- `spf_pce_pce4` (PCE): 1968-10-01 to 2026-07-01, 232 observations; Median PCE forecast.
+- `spf_pce_pce5` (PCE): 1968-10-01 to 2026-07-01, 232 observations; Median PCE forecast.
+- `spf_pce_pce6` (PCE): 1968-10-01 to 2026-07-01, 232 observations; Median PCE forecast.
+- `spf_pce_pcea` (PCE): 1968-10-01 to 2026-07-01, 232 observations; Median PCE forecast.
+- `spf_pce_pceb` (PCE): 1968-10-01 to 2026-07-01, 232 observations; Median PCE forecast.
+- `spf_pce_pcec` (PCE): 1968-10-01 to 2026-07-01, 232 observations; Median PCE forecast.
+- `spf_corepce_corepce1` (COREPCE): 1968-10-01 to 2026-07-01, 232 observations; Median COREPCE forecast.
+- `spf_corepce_corepce2` (COREPCE): 1968-10-01 to 2026-07-01, 232 observations; Median COREPCE forecast.
+- `spf_corepce_corepce3` (COREPCE): 1968-10-01 to 2026-07-01, 232 observations; Median COREPCE forecast.
+- `spf_corepce_corepce4` (COREPCE): 1968-10-01 to 2026-07-01, 232 observations; Median COREPCE forecast.
+- `spf_corepce_corepce5` (COREPCE): 1968-10-01 to 2026-07-01, 232 observations; Median COREPCE forecast.
+- `spf_corepce_corepce6` (COREPCE): 1968-10-01 to 2026-07-01, 232 observations; Median COREPCE forecast.
+- `spf_corepce_corepcea` (COREPCE): 1968-10-01 to 2026-07-01, 232 observations; Median COREPCE forecast.
+- `spf_corepce_corepceb` (COREPCE): 1968-10-01 to 2026-07-01, 232 observations; Median COREPCE forecast.
+- `spf_corepce_corepcec` (COREPCE): 1968-10-01 to 2026-07-01, 232 observations; Median COREPCE forecast.
+- `spf_cpi5yr_cpi5yr` (CPI5YR): 1968-10-01 to 2026-07-01, 232 observations; Median CPI5YR forecast.
+- `spf_cpi10_cpi10` (CPI10): 1968-10-01 to 2026-07-01, 232 observations; Median CPI10 forecast.
+- `spf_pce5yr_pce5yr` (PCE5YR): 1968-10-01 to 2026-07-01, 232 observations; Median PCE5YR forecast.
+- `spf_pce10_pce10` (PCE10): 1968-10-01 to 2026-07-01, 232 observations; Median PCE10 forecast.
+
+## Verification and limitations
+- Publisher pages/download links checked: Dallas Fed PCE, Cleveland Fed median CPI page and CSV, Atlanta Fed Sticky-Price CPI workbook, New York Fed SCE chart-data workbook, Michigan SCA data tables, and Philadelphia Fed SPF variable pages/files.
+- Cleveland CSV contains monthly change and annualized monthly change only; no historical 12-month trimmed-mean rate/index level was in that download. October/November 2025 were interpolated by Cleveland following the federal shutdown. No index level is published for the trimmed mean.
+- Dallas pcedata.xlsx is a current chart-distribution table, not the full historical rate series; only publisher page rates are available there. Dallas historical rate observations remain N/A pending a direct time-series file/API link.
+- Atlanta workbook includes rates for headline sticky CPI, core sticky CPI, and sticky CPI excluding shelter. October and November 2025 CPI were not collected; workbook values for those months may be publisher treatment/blank and should be checked against the monthly release.
+- SCE values are the publisher chart workbook medians; 1- and 3-year begin June 2013, 5-year begins January 2022. The 3/5-year SCE questions concern one-year-ahead inflation two/four years from now.
+- Michigan table 32 (next year) and table 33 (next five years) PDFs are archived, but automated median/mean time-series extraction has not been completed. Tables publish both median and mean. Method moved from phone to mixed phone/web in April 2024, then web-only July 2024; latest preliminary/final status is not encoded.
+- SPF quarterly median source files are retrieved. Variable sheets preserve the publisher horizon codes. Current SPF data extend through 2026 Q3; Q3 2026 was released August 14, 2026.
+- FRED daily series T5YIE, T10YIE, and T5YIFR were retrieved as-originator data. No values were computed. The FRED metadata text is included in raw metadata JSON and describes underlying H.15 inputs.
+- Cross-checks against equivalent FRED series, ALFRED first-release dates for survey series, and publisher calendar dates were not completed. `release_dates.csv` presently records daily publication conventions only; latest-three differences remain unresolved. The requested release-date/check standard is incomplete.
+- FRED series IDs/titles were obtained directly from FRED metadata; market-based history starts 2003-01-02.
+
+## Manager supplement (supplement_fed_expectations.py)
+- Dallas trimmed mean: FRED fallback with Dallas attribution (no publisher historical file). Michigan: publisher CSV tbmpx1px5 (medians). Cleveland 12-month: publisher chart-data CSV from 2017-01. Atlanta MoM (decimal) columns added. SPF horizons relabeled per SPF documentation. Cleveland annualized monthly change relabeled from MoM to other:1-month annualized.
+- FRED cross-checks (latest 3):
+  - cleveland_trimmed_mean_cpi_12m 2026-08-01: publisher 2.570 | FRED TRMMEANCPIM159SFRBCLE 2.5698065 | diff -0.000
+  - cleveland_trimmed_mean_cpi_12m 2026-09-01: publisher 2.665 | FRED TRMMEANCPIM159SFRBCLE 2.6648678623 | diff +0.000
+  - cleveland_trimmed_mean_cpi_12m 2026-10-01: publisher 2.891 | FRED TRMMEANCPIM159SFRBCLE 2.891235998 | diff -0.000
+  - sticky_price_cpi_headline_12m 2026-08-01: publisher 2.741 | FRED STICKCPIM159SFRBATL 2.741335256 | diff +0.000
+  - sticky_price_cpi_headline_12m 2026-09-01: publisher 2.816 | FRED STICKCPIM159SFRBATL 2.81553373 | diff +0.000
+  - sticky_price_cpi_headline_12m 2026-10-01: publisher 3.094 | FRED STICKCPIM159SFRBATL 3.094394579 | diff +0.000
+  - sticky_price_cpi_core_12m 2026-08-01: publisher 2.701 | FRED CORESTICKM159SFRBATL 2.700641247 | diff -0.000
+  - sticky_price_cpi_core_12m 2026-09-01: publisher 2.777 | FRED CORESTICKM159SFRBATL 2.776528554 | diff +0.000
+  - sticky_price_cpi_core_12m 2026-10-01: publisher 3.059 | FRED CORESTICKM159SFRBATL 3.059467681 | diff -0.000
+  - sticky_price_cpi_less_shelter_12m 2026-08-01: publisher 2.494 | FRED STICKCPIXSHLTRM159SFRBATL 2.493797248 | diff -0.000
+  - sticky_price_cpi_less_shelter_12m 2026-09-01: publisher 2.506 | FRED STICKCPIXSHLTRM159SFRBATL 2.505789299 | diff +0.000
+  - sticky_price_cpi_less_shelter_12m 2026-10-01: publisher 2.898 | FRED STICKCPIXSHLTRM159SFRBATL 2.897679493 | diff +0.000
+  - sticky_price_cpi_core_3m_ann 2026-08-01: publisher 2.410 | FRED CORESTICKM679SFRBATL 2.410289402 | diff -0.000
+  - sticky_price_cpi_core_3m_ann 2026-09-01: publisher 3.360 | FRED CORESTICKM679SFRBATL 3.359893545 | diff +0.000
+  - sticky_price_cpi_core_3m_ann 2026-10-01: publisher 3.755 | FRED CORESTICKM679SFRBATL 3.755326673 | diff +0.000
+  - umich_1y_expected_price_change_median 2026-09-01: publisher 4.600 | FRED MICH 4.6 | diff +0.000
+  - umich_1y_expected_price_change_median 2026-10-01: publisher 4.700 | FRED MICH None | diff n/a
+  - umich_1y_expected_price_change_median 2026-11-01: publisher 4.300 | FRED MICH None | diff n/a
+
+## Manager supplement (supplement_fed_expectations.py)
+- Dallas trimmed mean: FRED fallback with Dallas attribution (no publisher historical file). Michigan: publisher CSV tbmpx1px5 (medians). Cleveland 12-month: publisher chart-data CSV from 2017-01. Atlanta MoM (decimal) columns added. SPF horizons relabeled per SPF documentation. Cleveland annualized monthly change relabeled from MoM to other:1-month annualized.
+- FRED cross-checks (latest 3):
+  - cleveland_trimmed_mean_cpi_12m 2026-09-01: publisher 2.665 | FRED TRMMEANCPIM159SFRBCLE 2.6648678623 | diff +0.000
+  - cleveland_trimmed_mean_cpi_12m 2026-10-01: publisher 2.891 | FRED TRMMEANCPIM159SFRBCLE 2.891235998 | diff -0.000
+  - cleveland_trimmed_mean_cpi_12m 2026-10-01: publisher 2.891 | FRED TRMMEANCPIM159SFRBCLE 2.891235998 | diff -0.000
+  - sticky_price_cpi_headline_12m 2026-08-01: publisher 2.741 | FRED STICKCPIM159SFRBATL 2.741335256 | diff +0.000
+  - sticky_price_cpi_headline_12m 2026-09-01: publisher 2.816 | FRED STICKCPIM159SFRBATL 2.81553373 | diff +0.000
+  - sticky_price_cpi_headline_12m 2026-10-01: publisher 3.094 | FRED STICKCPIM159SFRBATL 3.094394579 | diff +0.000
+  - sticky_price_cpi_core_12m 2026-08-01: publisher 2.701 | FRED CORESTICKM159SFRBATL 2.700641247 | diff -0.000
+  - sticky_price_cpi_core_12m 2026-09-01: publisher 2.777 | FRED CORESTICKM159SFRBATL 2.776528554 | diff +0.000
+  - sticky_price_cpi_core_12m 2026-10-01: publisher 3.059 | FRED CORESTICKM159SFRBATL 3.059467681 | diff -0.000
+  - sticky_price_cpi_less_shelter_12m 2026-08-01: publisher 2.494 | FRED STICKCPIXSHLTRM159SFRBATL 2.493797248 | diff -0.000
+  - sticky_price_cpi_less_shelter_12m 2026-09-01: publisher 2.506 | FRED STICKCPIXSHLTRM159SFRBATL 2.505789299 | diff +0.000
+  - sticky_price_cpi_less_shelter_12m 2026-10-01: publisher 2.898 | FRED STICKCPIXSHLTRM159SFRBATL 2.897679493 | diff +0.000
+  - sticky_price_cpi_core_3m_ann 2026-08-01: publisher 2.410 | FRED CORESTICKM679SFRBATL 2.410289402 | diff -0.000
+  - sticky_price_cpi_core_3m_ann 2026-09-01: publisher 3.360 | FRED CORESTICKM679SFRBATL 3.359893545 | diff +0.000
+  - sticky_price_cpi_core_3m_ann 2026-10-01: publisher 3.755 | FRED CORESTICKM679SFRBATL 3.755326673 | diff +0.000
+  - umich_1y_expected_price_change_median 2026-10-01: publisher 4.700 | FRED MICH None | diff n/a
+  - umich_1y_expected_price_change_median 2026-11-01: publisher 4.300 | FRED MICH None | diff n/a
+  - umich_1y_expected_price_change_median 2026-11-01: publisher 4.300 | FRED MICH None | diff n/a

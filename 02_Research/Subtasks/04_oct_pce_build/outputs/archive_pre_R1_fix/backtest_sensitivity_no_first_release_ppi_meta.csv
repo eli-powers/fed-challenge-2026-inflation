@@ -1,0 +1,10 @@
+field,value
+file,backtest_sensitivity_no_first_release_ppi.csv
+script,code/D_sensitivity_no_fr_ppi.py
+content,main run vs run with the 8 PPIs lacking ALFRED first-release history treated as missing (line -> assumed)
+series,PCU5239405239401;PCU5239405239402;PCU5231505231501011;PCU5231505231501012;PCU523150523150102;PCU5231505231502011;PCU5231505231502012;PCU5132105132107
+window,"12 months, from the main run (not re-selected)"
+months,Dec 2025 - Sep 2026 (rule months)
+target,"BEA first print m/m, percent; misses in pp"
+status,labeled sensitivity; NOT used for the decision rule
+judgment,"a blend with one such input (line 50 software, Aug-Sep 2026) moves to assumed as a whole, per the missing-source rule"

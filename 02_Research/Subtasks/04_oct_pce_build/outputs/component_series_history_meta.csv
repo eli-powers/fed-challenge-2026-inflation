@@ -1,0 +1,8 @@
+field,value
+file,component_series_history.csv
+rows,39346
+source,"BLS Public Data API v2, api.bls.gov/publicAPI/v2/timeseries/data/"
+retrieved,2026-11-13
+raw_files,bls_api_components_2015_2026_batch1_2026-11-13.json;bls_api_components_2015_2026_batch2_2026-11-13.json;bls_api_components_2015_2026_batch3_2026-11-13.json;bls_api_components_2015_2026_batch4_2026-11-13.json;bls_api_components_2015_2026_batch5_2026-11-13.json;bls_api_components_2015_2026_batch6_2026-11-13.json
+script,code/C2_build_history_coverage.py
+description,Tidy long monthly values from BLS API v2 (blank value = BLS '-' i.e. not available; footnote X = 2025 lapse in appropriations; P = preliminary). Monthly M01-M12 only. Values as published by BLS API on 2026-11-13 (current vintage).

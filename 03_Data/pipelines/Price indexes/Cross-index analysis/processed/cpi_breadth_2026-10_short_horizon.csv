@@ -1,0 +1,3 @@
+index,period,share_weight_3m_ann_above_3,weights_used,share_weight_3m_ann_above_3_w3mbase,n_components
+CPI headline,2026-10,59.75948722957962,"12m-base weights at Oct 2025 (approx., interpolated Oct 2025 base)",58.74860425265973,167
+CPI core,2026-10,60.733871909231915,"12m-base weights at Oct 2025 (approx., interpolated Oct 2025 base)",58.78633401486121,103

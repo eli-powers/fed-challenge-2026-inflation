@@ -1,0 +1,19 @@
+level,match,n_inputs
+detail,broader (3-digit),14
+detail,broader (4-digit),16
+detail,broader (5-digit),28
+detail,dropped (no NAICS),13
+detail,dropped (no PPI),84
+detail,exact,225
+detail,exact via NAICS-2022 crosswalk,7
+detail,margin index,3
+detail,sector aggregate,15
+summary,broader (3-digit),18
+summary,broader (4-digit),2
+summary,broader (5-digit),1
+summary,dropped (no NAICS),6
+summary,dropped (no PPI),21
+summary,exact,12
+summary,exact via NAICS-2022 crosswalk,1
+summary,margin index,3
+summary,sector aggregate,12

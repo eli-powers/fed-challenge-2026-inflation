@@ -1,0 +1,85 @@
+survey,variable,target_period,horizon_type,stat,value,published_or_derived,source_file
+2026Q3,COREPCE1,2026Q2,qq_ann,median,3.4,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q3)"
+2026Q3,COREPCE2,2026Q3,qq_ann,median,2.7,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q3)"
+2026Q3,COREPCE3,2026Q4,qq_ann,median,2.6158,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q3)"
+2026Q3,COREPCE4,2027Q1,qq_ann,median,2.5766,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q3)"
+2026Q3,COREPCE5,2027Q2,qq_ann,median,2.4313,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q3)"
+2026Q3,COREPCE6,2027Q3,qq_ann,median,2.3261,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q3)"
+2026Q3,COREPCEA,2026Q4/2025Q4,q4q4,median,3.2876,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q3)"
+2026Q3,COREPCEB,2027Q4/2026Q4,q4q4,median,2.4004,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q3)"
+2026Q3,COREPCEC,2028Q4/2027Q4,q4q4,median,2.1586,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q3)"
+2026Q2,COREPCE1,2026Q1,qq_ann,median,4.3,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q2)"
+2026Q2,COREPCE2,2026Q2,qq_ann,median,3.4,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q2)"
+2026Q2,COREPCE3,2026Q3,qq_ann,median,2.9374,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q2)"
+2026Q2,COREPCE4,2026Q4,qq_ann,median,2.6398,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q2)"
+2026Q2,COREPCE5,2027Q1,qq_ann,median,2.6,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q2)"
+2026Q2,COREPCE6,2027Q2,qq_ann,median,2.3902,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q2)"
+2026Q2,COREPCEA,2026Q4/2025Q4,q4q4,median,3.3111,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q2)"
+2026Q2,COREPCEB,2027Q4/2026Q4,q4q4,median,2.4,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q2)"
+2026Q2,COREPCEC,2028Q4/2027Q4,q4q4,median,2.1205,published,"PhilFed_SPF_2026Q3_2026-11-15/medianLevel.xlsx (sheet COREPCE, row 2026Q2)"
+2026Q3,COREPCE1,2026Q2,qq_ann,p25,3.4,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed)"
+2026Q3,COREPCE1,2026Q2,qq_ann,p75,3.4,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed)"
+2026Q3,COREPCE1,2026Q2,qq_ann,iqr,0.0,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed)"
+2026Q3,COREPCE1,2026Q2,qq_ann,n_respondents,30.0,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE1,2026Q2,qq_ann,min,3.4,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE1,2026Q2,qq_ann,max,3.4187,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE1,2026Q2,qq_ann,mean,3.4023,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE2,2026Q3,qq_ann,p25,2.6,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+0)"
+2026Q3,COREPCE2,2026Q3,qq_ann,p75,3.2,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+0)"
+2026Q3,COREPCE2,2026Q3,qq_ann,iqr,0.6,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+0)"
+2026Q3,COREPCE2,2026Q3,qq_ann,n_respondents,30.0,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE2,2026Q3,qq_ann,min,1.7439,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE2,2026Q3,qq_ann,max,4.5,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE2,2026Q3,qq_ann,mean,2.8606,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE3,2026Q4,qq_ann,p25,2.477,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+1)"
+2026Q3,COREPCE3,2026Q4,qq_ann,p75,2.9,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+1)"
+2026Q3,COREPCE3,2026Q4,qq_ann,iqr,0.423,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+1)"
+2026Q3,COREPCE3,2026Q4,qq_ann,n_respondents,30.0,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE3,2026Q4,qq_ann,min,1.111,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE3,2026Q4,qq_ann,max,4.4,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE3,2026Q4,qq_ann,mean,2.7504,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE4,2027Q1,qq_ann,p25,2.4,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+2)"
+2026Q3,COREPCE4,2027Q1,qq_ann,p75,2.9,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+2)"
+2026Q3,COREPCE4,2027Q1,qq_ann,iqr,0.5,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+2)"
+2026Q3,COREPCE4,2027Q1,qq_ann,n_respondents,30.0,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE4,2027Q1,qq_ann,min,1.4861,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE4,2027Q1,qq_ann,max,4.0,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE4,2027Q1,qq_ann,mean,2.6654,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE5,2027Q2,qq_ann,p25,2.3,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+3)"
+2026Q3,COREPCE5,2027Q2,qq_ann,p75,2.7,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+3)"
+2026Q3,COREPCE5,2027Q2,qq_ann,iqr,0.4,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+3)"
+2026Q3,COREPCE5,2027Q2,qq_ann,n_respondents,30.0,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE5,2027Q2,qq_ann,min,1.5381,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE5,2027Q2,qq_ann,max,3.7,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE5,2027Q2,qq_ann,mean,2.5426,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE6,2027Q3,qq_ann,p25,2.2,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+4)"
+2026Q3,COREPCE6,2027Q3,qq_ann,p75,2.5,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+4)"
+2026Q3,COREPCE6,2027Q3,qq_ann,iqr,0.3,published,"PhilFed_SPF_2026Q3_2026-11-15/Dispersion_1.xlsx (sheet COREPCE, row 2026Q3, offset T+4)"
+2026Q3,COREPCE6,2027Q3,qq_ann,n_respondents,30.0,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE6,2027Q3,qq_ann,min,0.7483,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE6,2027Q3,qq_ann,max,3.6,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCE6,2027Q3,qq_ann,mean,2.3928,derived,PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; computed)
+2026Q3,COREPCEA,2026Q4/2025Q4,q4q4,p25,3.2,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEA,2026Q4/2025Q4,q4q4,p75,3.473,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEA,2026Q4/2025Q4,q4q4,iqr,0.273,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEA,2026Q4/2025Q4,q4q4,n_respondents,30.0,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEA,2026Q4/2025Q4,q4q4,min,2.6646,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEA,2026Q4/2025Q4,q4q4,max,4.1851,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEA,2026Q4/2025Q4,q4q4,mean,3.3506,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEB,2027Q4/2026Q4,q4q4,p25,2.2499,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEB,2027Q4/2026Q4,q4q4,p75,2.7274,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEB,2027Q4/2026Q4,q4q4,iqr,0.4775,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEB,2027Q4/2026Q4,q4q4,n_respondents,30.0,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEB,2027Q4/2026Q4,q4q4,min,1.6654,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEB,2027Q4/2026Q4,q4q4,max,3.625,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEB,2027Q4/2026Q4,q4q4,mean,2.5048,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEC,2028Q4/2027Q4,q4q4,p25,2.0436,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEC,2028Q4/2027Q4,q4q4,p75,2.4,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEC,2028Q4/2027Q4,q4q4,iqr,0.3564,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEC,2028Q4/2027Q4,q4q4,n_respondents,26.0,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEC,2028Q4/2027Q4,q4q4,min,1.757,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEC,2028Q4/2027Q4,q4q4,max,3.4,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,COREPCEC,2028Q4/2027Q4,q4q4,mean,2.2637,derived,"PhilFed_SPF_2026Q3_2026-11-15/SPFmicrodata.xlsx (sheet COREPCE; Hazen percentile, computed; Dispersion_1 has no annual horizons)"
+2026Q3,DERIVED_from_COREPCE3-6_and_COREPCEB,2027Q4,qq_ann,median,2.2679,derived,"derived: 1+q4/100=(1+B/100)^4/prod(1+q_i/100), q1..q3=[np.float64(2.5766), np.float64(2.4313), np.float64(2.3261)], B=2.4004"
+2026Q3,DERIVED_sensitivity,2027Q4,qq_ann,median_if_COREPCEB_-0.05,2.0683,derived,"derived: same formula, annual median shifted"
+2026Q3,DERIVED_sensitivity,2027Q4,qq_ann,median_if_COREPCEB_+0.05,2.4678,derived,"derived: same formula, annual median shifted"

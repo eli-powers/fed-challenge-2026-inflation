@@ -1,0 +1,40 @@
+LineNumber,LineDescription,sum_pp,period
+1,PCE Chain-type price index (percent change),3.1,2025M12-2026M09
+2,Less: Formula effect (percentage points),-0.08,2025M12-2026M09
+3,Gasoline and other motor fuel,-0.04,2025M12-2026M09
+4,Personal computers and peripheral equipment,0.0,2025M12-2026M09
+5,Video and audio equipment,0.0,2025M12-2026M09
+6,Tobacco,0.0,2025M12-2026M09
+7,Health care,0.0,2025M12-2026M09
+8,"Electricity, gas, fuel oil, and other household fuels",-0.01,2025M12-2026M09
+9,Housing,0.0,2025M12-2026M09
+10,Food and beverages purchased for off-premises consumption,0.0,2025M12-2026M09
+11,Other,-0.03,2025M12-2026M09
+12,Equals: PCE fixed-weight price index (percent change),3.3200000000000003,2025M12-2026M09
+13,Less: Weight effect (percentage points),-0.48,2025M12-2026M09
+14,Rent of shelter,-0.52,2025M12-2026M09
+15,Imputed rental of owner-occupied nonfarm housing,-0.4,2025M12-2026M09
+16,Rental of tenant-occupied nonfarm housing,-0.11,2025M12-2026M09
+17,Hotels and motels,-0.02,2025M12-2026M09
+18,Gasoline and other motor fuel,-0.35,2025M12-2026M09
+19,"Electricity, gas, fuel oil, and other household fuels",-0.02,2025M12-2026M09
+20,Other,0.42000000000000004,2025M12-2026M09
+21,Less: Scope effect - PCE price index items out-of-scope of the CPI (percentage points),0.63,2025M12-2026M09
+22,Physician services,0.05,2025M12-2026M09
+23,Hospital and nursing home services,0.18,2025M12-2026M09
+24,Financial services furnished without payment,0.08,2025M12-2026M09
+25,Foreign travel by U.S. residents,0.06,2025M12-2026M09
+26,Final consumption expenditures of nonprofit institutions serving households,0.04,2025M12-2026M09
+27,Other,0.21,2025M12-2026M09
+28,Plus: Scope effect - CPI items out-of-scope of the PCE price index (percentage points),0.13,2025M12-2026M09
+29,Physician services,0.03,2025M12-2026M09
+30,Hospital and nursing home services,0.11,2025M12-2026M09
+31,Other,0.0,2025M12-2026M09
+32,Less: Other effects (percentage points),-0.08,2025M12-2026M09
+33,Seasonal adjustment,-0.12,2025M12-2026M09
+34,Price effects,0.03,2025M12-2026M09
+35,Gasoline and other motor fuel,0.0,2025M12-2026M09
+36,Air transportation,-0.07,2025M12-2026M09
+37,Other,0.1,2025M12-2026M09
+38,Other differences,0.0,2025M12-2026M09
+39,Equals: CPI (percent change),3.5,2025M12-2026M09

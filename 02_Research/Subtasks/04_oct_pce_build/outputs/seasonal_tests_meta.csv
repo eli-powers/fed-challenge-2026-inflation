@@ -1,0 +1,8 @@
+field,value
+file,seasonal_tests.csv
+script,code/D_seasonal_tests.py
+F-test,"one-way ANOVA of m/m by calendar month (= F-test on 12 month dummies), Feb 2015 - Sep 2026, current vintage"
+method B,"BEA implied adjustment for October = mean over prior Octobers of (BEA SA m/m - source NSA m/m), pp; BEA U20404 starts 2017, so Octobers 2017-2025; line 50 uses Feb 2021+ and lines 299/305 use Feb 2024+ (new source start per BEA; see D_common.NEW_METHOD_START)"
+method A,"own month-dummy factor on the NSA source: -(mean October m/m - mean of all months), pp, years before Oct 2026; cross-check only"
+Oct 2025,"PPIs have Oct 2025 values and are used; CPI inputs missing in Oct 2025 are filled with BEA geometric mean for m/m, and Oct 2025 is kept out of the October factor; Oct/Nov 2025 dropped from F-tests for those CPI series"
+look-ahead,BEA re-estimates seasonal factors each annual update; current-vintage BEA history embeds later information

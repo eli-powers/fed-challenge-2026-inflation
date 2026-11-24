@@ -1,0 +1,1 @@
+- FRED, CPIAUCSL (CPI-U, all items, SA, index 1982-84=100), https://fred.stlouisfed.org/series/CPIAUCSL [O]. Retrieved 2026-11-07 via fredgraph.csv. Supports both reported changes.

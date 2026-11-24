@@ -1,0 +1,11 @@
+url,what_it_would_support,status
+https://www.nfib.com/surveys/small-business-economic-trends/,NFIB SBET landing page / historical data download,403 to curl (bot block); monthly PDFs fetched directly instead (nfib.com/wp-content/uploads/2026/11/SBET-Report-October-2026.pdf OK). Full historical and unadjusted data are subscription ($250/yr per report text)
+https://assets.nfib.com/nfibcom/SBET-Dec-2020.pdf,NFIB 2018-2020 history,host no longer resolves; retrieved via web.archive.org copy instead
+https://www.cbo.gov/system/files/2026-02/62052-Economic-Outlook-Slides.pdf,CBO potential labor force productivity growth 2026-2036,403 to curl and WebFetch; CBO 1.5% figure is search-snippet only (UNVERIFIED)
+https://www.cbo.gov/publication/61882,CBO Feb 2026 Budget and Economic Outlook text,403 to WebFetch
+https://www.cbo.gov/system/files/2026-07/62564-NABE-Productivity-Growth.pdf,CBO productivity slides (NABE July 2026),403 to WebFetch
+https://www.bls.gov/news.release/empsit.nr0.htm,AHE release date/text,403 to curl; read through WebFetch only ([2] summary not saved); series values come from BLS API
+https://www.bls.gov/news.release/prod2.nr0.htm,Productivity release text,403 to curl; API values used
+https://www.conference-board.org/publications/us-salary-increase-budgets-2026-2027,Conference Board Salary Budget Survey 2027 (3.5% median),members-only report; public brief read via WebFetch ([2])
+Conference Board CEO Confidence / Consumer Confidence history,12-month inflation expectation history; CEO wage/price questions,history and tables are member/paywalled; only Oct 2026 press-release headline (5.8%) used; not retrieved
+Atlanta Fed BIE special questions on wages,wage / labor-cost special questions,none found in the BIE workbook; 'Quarterly-Price Fact (Disc)' labor-cost influence question ends Nov 2023 (not asked since); no current wage question located

@@ -1,0 +1,30 @@
+# Notes, Agent C (Q8-Q11), 2026-11-15
+
+All numbers are produced by scripts in `code/C_*.py` (rerun from project root with `python3 -I`): `C_common.py` (helpers), `C_q8_fetch.py`, `C_q8_fetch_oil_release.py`, `C_q8_fetch_nsa.py`, `C_q8_build.py`, `C_q9` (no script: text read), `C_q10_verify.py`, `C_q11_fetch.py`, `C_q11_build.py`. Raw downloads: `03_Data/Raw/BLS_PPI_stages_2026-11-15/`, `EIA_FRED_oil_daily_2026-11-15/`, `FedBoard_ISM_note_2026-11-15/`, `BLS_CPI_PPI_q11_2026-11-15/`, `EIA_fuel_spot_2026-11-15/`.
+
+## Q8 method and checks
+- Series list from the BLS wp.series catalogue (`bls_wp_series_2026-09-27.txt`, copied into the raw folder). 210 series pulled via BLS API v2 (2017-01 to 2026-10, SA): all WPSID5* (production flow, incl. ID59* totals), all WPSID6* (commodity type), WPSFD4 and a few FD aggregates. mm / 3m annualized / y/y computed from the SA index; 3m = (I_t/I_t-3)^4 - 1. Statistics ranked over 106 months (2018-01 to 2026-10).
+- **Label error (important).** ID61-ID64 are the "Intermediate demand by COMMODITY TYPE" series, not the production-flow stages: WPSID61 = processed goods, **WPSID62 = UNPROCESSED goods for intermediate demand**, WPSID63 = services, WPSID64 = construction. The production-flow stages are WPSID51 (stage 1), WPSID52, WPSID53, WPSID54 (catalogue titles in `C_q8_label_check.csv`). The brief and GO describe ID61-64 as stages 1-4. The Nov 10 refresh's "ID62 3m ann +41.5%, y/y +21.5%" is **unprocessed goods**, the commodity-type series (GO's "unprocessed intermediate (ID62)" is correct; the project's "stage 2" reading is not). Stage 1/2 are WPSID51/52.
+- **Vintage revision.** The Nov 13 release revised June-September (BLS footnote: "late reports and corrections by respondents"). WPSID62 Sep: 299.868 (Nov-10 vintage) -> 293.838 (-2.0%); so Sep 3m ann +41.5% -> +31.1%, y/y +21.5% -> +19.3% (`C_q8_vintage_revisions.csv`). FD Sep m/m revised 1.3 -> 1.4 (release Table A). Any slide number quoted from the Nov 10 refresh for ID62 is stale.
+- y/y check: NSA 12-month changes recomputed from WPUID51-54, WPUFD4, WPUID61-62 match the BLS release text (13.9, 13.3, 8.4, 8.0, 6.5, 14.6, 16.9) (`C_q8_nsa_yoy_check.csv`). SA-based y/y differ by up to 0.2 pp. m/m for Oct (stage 1 +0.6, 2 -0.2, 3 +0.3, 4 +0.4, FD +0.3; ID62 -3.1) and Sep match the release.
+- Energy share: stage energy sub-series are ID59115 / ID59215 / ID59315 / ID59415 (total energy goods inputs to stage N) plus producer-type energy lines (ID51112, ID51212, ID51312, ID52112, ID52212...). Relative importance (Dec 2025): energy goods = 7.4% of stage 1, 13.5% of stage 2, 4.4% of stage 3, 6.2% of stage 4 (BLS table `intermediate-demand-by-production-flow-relative-importance-by-component-series-2026.xlsx`, saved). Contributions use chain-updated shares (Dec weights x relative price change) times each component's m/m; residual vs the stage m/m is under 0.03 pp per month (`C_q8_energy_contributions*.csv`); windows are simple sums of monthly contributions, not compounded.
+- Oil: EIA RBRTE/RWTC daily spot (xls) equal FRED DCOILBRENTEU/DCOILWTICO exactly (max difference 0.0). Last observation Nov 11 (EIA lag). PPI pricing date: BLS Handbook of Methods "the Tuesday of the week that includes the 13th" = Oct 13, 2026 (Brent $125.78, WTI $95.39), so Oct PPI predates the drop.
+
+## Worth a look
+1. Label: ID61-64 are commodity-type, not stages (above). Stage 1 = WPSID51, stage 2 = WPSID52.
+2. Sep ID62 first print was 299.868, now 293.838 (-2.0%); Sep ID62 m/m was +8.4% on the old vintage and +6.2% now. Oct m/m -3.1%. ID62 level (284.8) still 20.9% below its June 2022 peak (359.9).
+3. Brent spot jumped +18.0% in one day on Oct 2 (114.82 -> 135.51) while WTI fell 1.9%; Brent-WTI spread averaged $21.9 in Oct (max $37.6) and $17.3 in Sep (max $30.8), against $3.6 in 2025, $6-7 in Jan-Feb 2026 and $7.3 in Aug; it fell back to $3.2 in Nov 1-11. Unusual; cause not investigated (physical Dated Brent vs futures-linked WTI?). 
+4. SA vs NSA for PPI airline services (WPU3022 NSA +4.3% Oct, WPS3022 SA -1.2%): the pipeline's "airline passenger services -1.24" is the SA series although labelled WPU3022 (component_id); confirm label in the workbook.
+5. Oct 2025 CPI was never published; CPI y/y for Oct 2026 does not exist for airfares and food away from home, so Oct y/y claims on those lines need the pipeline's approximation (flagged in its file names).
+6. Stage 1 is at a record level for the sample (172.6) and stage 3 and 4 and final demand also at records in Oct; stage 2 is 0.2% below its Sep peak (154.4).
+7. Stage 2 energy goods inputs (ID59215) -5.7% in Oct after +15.9% Sep; stage 1 energy goods -2.3%; but services inputs to stage 1 +0.9% and stage 2 +0.7%, and stage 1 transport and warehousing for goods producers (ID51122) 3m ann +39.9%.
+
+## Cross-check with the saved external views
+- Fed summary (`Fed_officials_2026-11/summary.md`): Bowman "Brent at or above $110 in late October then fell sharply on hopes of a U.S.-Iran deal": agrees with EIA daily (every close Sep 10 to Oct 30 at or above $110; Nov 4 $91.84). Paulson (knock-on effects in airfares and fertilizer; gasoline up ~35%, diesel 60%+ since the war began) and Jefferson ("energy shows up indirectly in airfares and transport") agree with Q11 item 1 upstream/in CPI airfares.
+- Waller says energy "down from their high rates over the past week or so": agrees (Brent $107 Nov 3, $91.84 Nov 4, $91-98 after).
+- Previous_Finalists_copy: keyword searches ("stage of processing", "intermediate demand", "production flow", "ISM", "airfare", "pipeline pressure") found no use of the PPI stage panel or the ISM text index by past finalists (only an unrelated 'ISM' hit); no agreements or differences to note.
+
+## Unverified / to confirm
+- Whether the ISM text indices exist as a public series (none found; ISM site gated).
+- Airline fuel cost share and passenger demand (not pulled); EIA jet fuel is US Gulf Coast spot, not what airlines pay.
+- Why Sep ID62 was revised by 2% and whether further revisions will hit Jul-Oct in February.

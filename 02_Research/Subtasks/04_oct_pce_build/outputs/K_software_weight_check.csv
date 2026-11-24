@@ -1,0 +1,6 @@
+spec,w_cpi_software,w_ppi_game_software,w_ppi_hosting,sum_w,rmse_pp,r2,n,sample
+"unconstrained OLS, no intercept",0.5732,0.1474,0.0079,0.7285,0.5828,0.9805,56,2022-01..2026-08
+sum-to-one by substitution (OLS),0.6359,0.1629,0.2012,1.0,0.9126,0.9522,56,2022-01..2026-08
+NNLS with sum-to-one (as in D_common),0.6359,0.1629,0.2012,1.0,0.9126,0.9522,56,2022-01..2026-08
+equal weights,0.3333,0.3333,0.3333,1.0,3.3485,0.3559,56,2022-01..2026-08
+CPI only,1.0,0.0,0.0,1.0,3.7216,0.2044,56,2022-01..2026-08

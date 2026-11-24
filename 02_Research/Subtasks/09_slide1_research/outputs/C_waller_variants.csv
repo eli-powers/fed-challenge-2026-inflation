@@ -1,0 +1,33 @@
+period,status,scope,method,n_units,variant,value_pct,exceeds_70
+2026-09,BEA published,core_services,leaf,84,count (unweighted),63.095,False
+2026-09,BEA published,core_services,leaf,84,weight: start-of-window (shares 12 months before the end month),70.815,True
+2026-09,BEA published,core_services,leaf,84,weight: latest shares (Sep 2026),71.075,True
+2026-09,BEA published,core_services,leaf,84,"count, ex housing leaves (153-164)",64.103,False
+2026-09,BEA published,core_services,leaf,84,"count, ex housing and ex NPISH (342)",64.935,False
+2026-09,BEA published,supercore,leaf,78,count (unweighted),64.103,False
+2026-09,BEA published,supercore,leaf,78,weight: start-of-window (shares 12 months before the end month),68.984,False
+2026-09,BEA published,supercore,leaf,78,weight: latest shares (Sep 2026),69.321,False
+2026-09,BEA published,core_services,sub-line,116,count (unweighted),58.621,False
+2026-09,BEA published,core_services,sub-line,116,weight: start-of-window (shares 12 months before the end month),66.974,False
+2026-09,BEA published,core_services,sub-line,116,weight: latest shares (Sep 2026),67.28,False
+2026-09,BEA published,core_services,sub-line,116,"count, ex housing leaves (153-164)",59.091,False
+2026-09,BEA published,core_services,sub-line,116,"count, ex housing and ex NPISH (342)",59.633,False
+2026-09,BEA published,supercore,sub-line,110,count (unweighted),59.091,False
+2026-09,BEA published,supercore,sub-line,110,weight: start-of-window (shares 12 months before the end month),63.951,False
+2026-09,BEA published,supercore,sub-line,110,weight: latest shares (Sep 2026),64.373,False
+2026-10,estimate,core_services,leaf,84,count (unweighted),60.714,False
+2026-10,estimate,core_services,leaf,84,weight: start-of-window (shares 12 months before the end month),59.74,False
+2026-10,estimate,core_services,leaf,84,weight: latest shares (Sep 2026),59.817,False
+2026-10,estimate,core_services,leaf,84,"count, ex housing leaves (153-164)",61.538,False
+2026-10,estimate,core_services,leaf,84,"count, ex housing and ex NPISH (342)",62.338,False
+2026-10,estimate,supercore,leaf,78,count (unweighted),61.538,False
+2026-10,estimate,supercore,leaf,78,weight: start-of-window (shares 12 months before the end month),54.477,False
+2026-10,estimate,supercore,leaf,78,weight: latest shares (Sep 2026),54.644,False
+2026-10,estimate,core_services,sub-line,116,count (unweighted),56.897,False
+2026-10,estimate,core_services,sub-line,116,weight: start-of-window (shares 12 months before the end month),55.903,False
+2026-10,estimate,core_services,sub-line,116,weight: latest shares (Sep 2026),56.021,False
+2026-10,estimate,core_services,sub-line,116,"count, ex housing leaves (153-164)",57.273,False
+2026-10,estimate,core_services,sub-line,116,"count, ex housing and ex NPISH (342)",57.798,False
+2026-10,estimate,supercore,sub-line,110,count (unweighted),57.273,False
+2026-10,estimate,supercore,sub-line,110,weight: start-of-window (shares 12 months before the end month),49.45,False
+2026-10,estimate,supercore,sub-line,110,weight: latest shares (Sep 2026),49.696,False

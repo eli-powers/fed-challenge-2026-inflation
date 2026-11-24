@@ -1,0 +1,482 @@
+level,bea_code,naics_2017,ppi_series,match,matched_naics,ppi_title
+detail,1111A0,"11111,11112",,dropped (no PPI),,
+detail,1111B0,"11113,11114,11115,11116,11119",,dropped (no PPI),,
+detail,111200,1112,,dropped (no PPI),,
+detail,111300,1113,,dropped (no PPI),,
+detail,111400,1114,,dropped (no PPI),,
+detail,111900,1119,,dropped (no PPI),,
+detail,112120,11212,,dropped (no PPI),,
+detail,1121A0,"11211,11213",,dropped (no PPI),,
+detail,112300,1123,,dropped (no PPI),,
+detail,112A00,"1122,1124,1125,1129",,dropped (no PPI),,
+detail,113000,113,,dropped (no PPI),,
+detail,114000,114,,dropped (no PPI),,
+detail,115000,115,,dropped (no PPI),,
+detail,211000,211,PCU211---211---,exact,211,"PPI industry sub-sector data for Oil and gas extraction, not seasonally adjusted"
+detail,212100,2121,PCU2121--2121--,exact,2121,"PPI industry group data for Coal mining, not seasonally adjusted"
+detail,212230,21223,PCU2122--2122--,broader (4-digit),2122,"PPI industry group data for Metal ore mining, not seasonally adjusted"
+detail,2122A0,"21221,21222,21229",PCU2122--2122--,broader (4-digit),2122,"PPI industry group data for Metal ore mining, not seasonally adjusted"
+detail,212310,21231,PCU2123--2123--,broader (4-digit),2123,"PPI industry group data for Nonmetallic mineral mining & quarrying, not seasonally adjusted"
+detail,2123A0,"21232,21239",PCU2123--2123--,broader (4-digit),2123,"PPI industry group data for Nonmetallic mineral mining & quarrying, not seasonally adjusted"
+detail,213111,213111,PCU213111213111,exact,213111,"PPI industry data for Drilling oil and gas wells, not seasonally adjusted"
+detail,21311A,"213112,213113,213114,213115",PCU21311-21311-,broader (5-digit),21311,"PPI industry data for Mining support activities, not seasonally adjusted"
+detail,221100,2211,PCU2211--2211--,exact,2211,"PPI industry group data for Electric power generation, transmission, and distribution, not seasonally adjusted"
+detail,221200,2212,PCU2212--2212--,exact,2212,"PPI industry group data for Natural gas distribution, not seasonally adjusted"
+detail,221300,2213,PCU221---221---,broader (3-digit),221,"PPI industry sub-sector data for Utilities, not seasonally adjusted"
+detail,233210,23,,dropped (no PPI),,
+detail,233262,23,,dropped (no PPI),,
+detail,230301,23,,dropped (no PPI),,
+detail,230302,23,,dropped (no PPI),,
+detail,2332A0,23,,dropped (no PPI),,
+detail,233412,23,,dropped (no PPI),,
+detail,2334A0,23,,dropped (no PPI),,
+detail,233230,23,,dropped (no PPI),,
+detail,2332D0,23,,dropped (no PPI),,
+detail,233240,23,,dropped (no PPI),,
+detail,233411,23,,dropped (no PPI),,
+detail,2332C0,23,,dropped (no PPI),,
+detail,321100,3211,PCU3211--3211--,exact,3211,"PPI industry group data for Sawmills and wood preservation, not seasonally adjusted"
+detail,321200,3212,PCU3212--3212--,exact,3212,"PPI industry group data for Plywood and engineered wood product mfg, not seasonally adjusted"
+detail,321910,32191,PCU32191-32191-,exact,32191,"PPI industry data for Millwork, not seasonally adjusted"
+detail,3219A0,"32192,32193,32194,32195,32196,32197,32198,32199",PCU3219--3219--,broader (4-digit),3219,"PPI industry group data for Other wood product manufacturing, not seasonally adjusted"
+detail,327100,3271,PCU3271--3271--,exact,3271,"PPI industry group data for Clay product and refractory manufacturing, not seasonally adjusted"
+detail,327200,3272,PCU3272--3272--,exact,3272,"PPI industry group data for Glass and glass product manufacturing, not seasonally adjusted"
+detail,327310,32731,PCU32731-32731-,exact,32731,"PPI industry data for Cement manufacturing, not seasonally adjusted"
+detail,327320,32732,PCU32732-32732-,exact,32732,"PPI industry data for Ready-mix concrete manufacturing, not seasonally adjusted"
+detail,327330,32733,PCU32733-32733-,exact,32733,"PPI industry data for Concrete pipe, brick, and block manufacturing, not seasonally adjusted"
+detail,327390,32739,PCU32739-32739-,exact,32739,"PPI industry data for Other concrete product manufacturing, not seasonally adjusted"
+detail,327400,3274,PCU327---327---,broader (3-digit),327,"PPI industry sub-sector data for Nonmetallic mineral product manufacturing, not seasonally adjusted"
+detail,327910,32791,PCU32791-32791-,exact,32791,"PPI industry data for Abrasive product manufacturing, not seasonally adjusted"
+detail,327991,327991,PCU327991327991,exact,327991,"PPI industry data for Cut stone and stone product manufacturing, not seasonally adjusted"
+detail,327992,327992,PCU327992327992,exact,327992,"PPI industry data for Ground or treated mineral and earths manufacturing, not seasonally adjusted"
+detail,327993,327993,PCU327993327993,exact,327993,"PPI industry data for Mineral wool manufacturing, not seasonally adjusted"
+detail,327999,327999,PCU327999327999,exact,327999,"PPI industry data for Miscellaneous nonmetallic mineral products manufacturing, not seasonally adjusted"
+detail,331110,3311,PCU3311--3311--,exact,3311,"PPI industry group data for Iron & steel mills & ferroalloy mfg, not seasonally adjusted"
+detail,331200,3312,PCU3312--3312--,exact,3312,"PPI industry group data for Steel product mfg from purchased steel, not seasonally adjusted"
+detail,331313,331313,PCU33131-33131-,broader (5-digit),33131,"PPI industry data for Alumina & aluminum production & processing, not seasonally adjusted"
+detail,33131B,"331315,331318",PCU33131-33131-,broader (5-digit),33131,"PPI industry data for Alumina & aluminum production & processing, not seasonally adjusted"
+detail,331410,331410,PCU3314--3314--,broader (4-digit),3314,"PPI industry group data for Nonferrous (exc alum) production & processing, not seasonally adjusted"
+detail,331420,33142,PCU33142-33142-,exact,33142,"PPI industry data for Copper rolling/drawing/extruding & alloying, not seasonally adjusted"
+detail,331490,33149,PCU33149-33149-,exact,33149,"PPI industry data for Other nonferrous roll/draw/extruding/alloying, not seasonally adjusted"
+detail,331510,33151,PCU33151-33151-,exact,33151,"PPI industry data for Ferrous metal foundries, not seasonally adjusted"
+detail,331520,33152,PCU33152-33152-,exact,33152,"PPI industry data for Nonferrous metal foundries, not seasonally adjusted"
+detail,332114,332114,PCU33211-33211-,broader (5-digit),33211,"PPI industry data for Forging & stamping, not seasonally adjusted"
+detail,33211A,"332111,332112,332117",PCU33211-33211-,broader (5-digit),33211,"PPI industry data for Forging & stamping, not seasonally adjusted"
+detail,332119,332119,PCU332119332119,exact,332119,"PPI industry data for Other metal stamping, except automotive, not seasonally adjusted"
+detail,332200,3322,PCU332---332---,broader (3-digit),332,"PPI industry sub-sector data for Fabricated metal product mfg, not seasonally adjusted"
+detail,332310,33231,PCU33231-33231-,exact,33231,"PPI industry data for Plate work & fabricated structural prod mfg, not seasonally adjusted"
+detail,332320,33232,PCU33232-33232-,exact,33232,"PPI industry data for Ornamental & architectural metal prod mfg, not seasonally adjusted"
+detail,332410,33241,PCU33241-33241-,exact,33241,"PPI industry data for Power boiler & heat exchanger mfg, not seasonally adjusted"
+detail,332420,33242,PCU33242-33242-,exact,33242,"PPI industry data for Metal tank (heavy gauge) mfg, not seasonally adjusted"
+detail,332430,33243,PCU33243-33243-,exact,33243,"PPI industry data for Light gauge metal container mfg, not seasonally adjusted"
+detail,332500,3325,PCU3325--3325--,exact,3325,"PPI industry group data for Hardware mfg, not seasonally adjusted"
+detail,332600,3326,PCU3326--3326--,exact,3326,"PPI industry group data for Spring & wire product mfg, not seasonally adjusted"
+detail,332710,33271,PCU33271-33271-,exact,33271,"PPI industry data for Machine shops, not seasonally adjusted"
+detail,332720,33272,PCU33272-33272-,exact,33272,"PPI industry data for Turned product & screw, nut & bolt mfg, not seasonally adjusted"
+detail,332800,3328,PCU3328--3328--,exact,3328,"PPI industry group data for Coating/engrave/heat treating & other activity, not seasonally adjusted"
+detail,332913,332913,PCU332913332913,exact,332913,"PPI industry data for Plumbing fixture fitting and trim mfg, not seasonally adjusted"
+detail,33291A,"332911,332912,332919",PCU33291-33291-,broader (5-digit),33291,"PPI industry data for Metal valve mfg, not seasonally adjusted"
+detail,332991,332991,PCU332991332991,exact,332991,"PPI industry data for Ball and roller bearing mfg, not seasonally adjusted"
+detail,332996,332996,PCU332996332996,exact,332996,"PPI industry data for Fabricated pipe and pipe fitting mfg, not seasonally adjusted"
+detail,33299A,"332992,332993,332994",PCU33299-33299-,broader (5-digit),33299,"PPI industry data for All other fabricated metal product mfg, not seasonally adjusted"
+detail,332999,332999,PCU332999332999,exact,332999,"PPI industry data for Miscellaneous fabricated metal product mfg, not seasonally adjusted"
+detail,333111,333111,PCU333111333111,exact,333111,"PPI industry data for Farm machinery and equipment mfg, not seasonally adjusted"
+detail,333112,333112,PCU333112333112,exact,333112,"PPI industry data for Lawn and garden equipment mfg, not seasonally adjusted"
+detail,333120,33312,PCU33312-33312-,exact,33312,"PPI industry data for Construction machinery manufacturing, not seasonally adjusted"
+detail,333130,33313,PCU33313-33313-,exact,33313,"PPI industry data for Mining and oil and gas field machinery mfg, not seasonally adjusted"
+detail,333242,333242,PCU333242333242,exact,333242,"PPI industry data for Semiconductor machinery mfg, not seasonally adjusted"
+detail,33329A,"333241,333243,333244,333249",PCU33324-33324-,broader (5-digit),33324,"PPI industry data for Other industrial machinery manufacturing, not seasonally adjusted"
+detail,333314,333314,PCU33331-33331-,broader (5-digit),33331,"PPI industry data for Commercial and service industry machinery manufacturing, not seasonally adjusted"
+detail,333316,333316,PCU33331-33331-,broader (5-digit),33331,"PPI industry data for Commercial and service industry machinery manufacturing, not seasonally adjusted"
+detail,333318,333318,PCU33331-33331-,broader (5-digit),33331,"PPI industry data for Commercial and service industry machinery manufacturing, not seasonally adjusted"
+detail,333414,333414,PCU333414333414,exact,333414,"PPI industry data for Heating equipment (except warm air furnaces) mfg, not seasonally adjusted"
+detail,333415,333415,PCU333415333415,exact,333415,"PPI industry data for Air-conditioning, refrigeration, and forced air heating equipment mfg, not seasonally adjusted"
+detail,333413,333413,PCU333413333413,exact,333413,"PPI industry data for Fan, blower, air purification equipment mfg, not seasonally adjusted"
+detail,333511,333511,PCU333511333511,exact,333511,"PPI industry data for Industrial mold mfg, not seasonally adjusted"
+detail,333514,333514,PCU333514333514,exact,333514,"PPI industry data for Special tool, die, jig, and fixture mfg, not seasonally adjusted"
+detail,333517,333517,PCU333517333517,exact,333517,"PPI industry data for Machine tool mfg, not seasonally adjusted"
+detail,33351B,"333515,333519",PCU33351-33351-,broader (5-digit),33351,"PPI industry data for Metalworking machinery manufacturing, not seasonally adjusted"
+detail,333611,333611,PCU333611333611,exact,333611,"PPI industry data for Turbine and turbine generator set units mfg, not seasonally adjusted"
+detail,333612,333612,PCU333612333612,exact,333612,"PPI industry data for Speed changer, drive, and gear mfg, not seasonally adjusted"
+detail,333613,333613,PCU333613333613,exact,333613,"PPI industry data for Mechanical power transmission equipment mfg, not seasonally adjusted"
+detail,333618,333618,PCU333618333618,exact,333618,"PPI industry data for Other engine equipment mfg, not seasonally adjusted"
+detail,333912,333912,PCU333912333912,exact,333912,"PPI industry data for Air and gas compressor mfg, not seasonally adjusted"
+detail,333914,333914,PCU333914333914,exact,333914,"PPI industry data for Measuring, dispensing, and other pumping equipment mfg, not seasonally adjusted"
+detail,333920,33392,PCU33392-33392-,exact,33392,"PPI industry data for Material handling equipment manufacturing, not seasonally adjusted"
+detail,333991,333991,PCU33399-33399-,broader (5-digit),33399,"PPI industry data for All other general purpose machinery mfg, not seasonally adjusted"
+detail,333993,333993,PCU333993333993,exact,333993,"PPI industry data for Packaging machinery mfg, not seasonally adjusted"
+detail,333994,333994,PCU333994333994,exact,333994,"PPI industry data for Industrial process furnace and oven mfg, not seasonally adjusted"
+detail,33399A,"333992,333997,333999",PCU33399-33399-,broader (5-digit),33399,"PPI industry data for All other general purpose machinery mfg, not seasonally adjusted"
+detail,33399B,"333995,333996",PCU33399-33399-,broader (5-digit),33399,"PPI industry data for All other general purpose machinery mfg, not seasonally adjusted"
+detail,334111,334111,PCU334111334111,exact,334111,"PPI industry data for Electronic computer mfg, not seasonally adjusted"
+detail,334112,334112,PCU334112334112,exact,334112,"PPI industry data for Computer storage device mfg, not seasonally adjusted"
+detail,334118,334118,PCU334118334118,exact,334118,"PPI industry data for Computer terminal and other computer peripheral equipment mfg, not seasonally adjusted"
+detail,334210,33421,PCU33421-33421-,exact,33421,"PPI industry data for Telephone apparatus mfg, not seasonally adjusted"
+detail,334220,33422,PCU33422-33422-,exact,33422,"PPI industry data for Radio/TV broadcast & wireless comm equip mfg, not seasonally adjusted"
+detail,334290,33429,PCU3342--3342--,broader (4-digit),3342,"PPI industry group data for Communications equipment mfg, not seasonally adjusted"
+detail,334413,334413,PCU334413334413,exact,334413,"PPI industry data for Semiconductor and related device mfg, not seasonally adjusted"
+detail,334418,334418,PCU334418334418,exact,334418,"PPI industry data for Printed circuit assembly mfg, not seasonally adjusted"
+detail,33441A,"334412,334416,334417,334419",PCU33441-33441-,broader (5-digit),33441,"PPI industry data for Semiconductor and other electronic component mfg, not seasonally adjusted"
+detail,334510,334510,PCU334510334510,exact,334510,"PPI industry data for Electromedical apparatus mfg, not seasonally adjusted"
+detail,334511,334511,PCU334511334511,exact,334511,"PPI industry data for Search, detection, and navigation instruments, not seasonally adjusted"
+detail,334512,334512,PCU334512334512,exact,334512,"PPI industry data for Automatic environmental control mfg, not seasonally adjusted"
+detail,334513,334513,PCU334513334513,exact,334513,"PPI industry data for Industrial process variable instruments, not seasonally adjusted"
+detail,334514,334514,PCU334514334514,exact,334514,"PPI industry data for Totalizing fluid meters and counting devices mfg, not seasonally adjusted"
+detail,334515,334515,PCU334515334515,exact,334515,"PPI industry data for Electricity and signal testing instruments mfg, not seasonally adjusted"
+detail,334516,334516,PCU334516334516,exact,334516,"PPI industry data for Analytical laboratory instrument mfg, not seasonally adjusted"
+detail,334517,334517,PCU334517334517,exact,334517,"PPI industry data for Irradiation apparatus mfg, not seasonally adjusted"
+detail,33451A,334519,PCU334519334519,exact,334519,"PPI industry data for Other measuring and controlling device mfg, not seasonally adjusted"
+detail,334300,3343,PCU3343--3343--,exact,3343,"PPI industry group data for Audio & video equipment mfg, not seasonally adjusted"
+detail,334610,33461,PCU334---334---,broader (3-digit),334,"PPI industry sub-sector data for Computer & electronic product mfg, not seasonally adjusted"
+detail,335110,33511,PCU3351--3351--,broader (4-digit),3351,"PPI industry group data for Electric lighting equipment mfg, not seasonally adjusted"
+detail,335120,33512,PCU3351--3351--,broader (4-digit),3351,"PPI industry group data for Electric lighting equipment mfg, not seasonally adjusted"
+detail,335210,33521,PCU33521-33521-,exact,33521,"PPI industry data for Small electrical appliance mfg, not seasonally adjusted"
+detail,335220,335220,PCU335220335220,exact,335220,"PPI industry data for Major household appliance mfg, not seasonally adjusted"
+detail,335311,335311,PCU335311335311,exact,335311,"PPI industry data for Electric power and specialty transformer mfg, not seasonally adjusted"
+detail,335312,335312,PCU335312335312,exact,335312,"PPI industry data for Motor and generator mfg, not seasonally adjusted"
+detail,335313,335313,PCU335313335313,exact,335313,"PPI industry data for Switchgear and switchboard apparatus mfg, not seasonally adjusted"
+detail,335314,335314,PCU335314335314,exact,335314,"PPI industry data for Relay and industrial control mfg, not seasonally adjusted"
+detail,335911,335911,PCU33591-33591-,broader (5-digit),33591,"PPI industry data for Storage battery mfg, not seasonally adjusted"
+detail,335912,335912,PCU33591-33591-,broader (5-digit),33591,"PPI industry data for Storage battery mfg, not seasonally adjusted"
+detail,335920,33592,PCU33592-33592-,exact,33592,"PPI industry data for Communication & energy wire & cable mfg, not seasonally adjusted"
+detail,335930,33593,PCU33593-33593-,exact,33593,"PPI industry data for Wiring device mfg, not seasonally adjusted"
+detail,335991,335991,PCU335991335991,exact,335991,"PPI industry data for Carbon and graphite product mfg, not seasonally adjusted"
+detail,335999,335999,PCU335999335999,exact,335999,"PPI industry data for Miscellaneous electrical equipment mfg, not seasonally adjusted"
+detail,336111,336111,PCU33611-33611-,broader (5-digit),33611,"PPI industry data for Automobile and light truck manufacturing, not seasonally adjusted"
+detail,336112,336112,PCU33611-33611-,broader (5-digit),33611,"PPI industry data for Automobile and light truck manufacturing, not seasonally adjusted"
+detail,336120,33612,PCU33612-33612-,exact,33612,"PPI industry data for Heavy duty truck manufacturing, not seasonally adjusted"
+detail,336211,336211,PCU336211336211,exact,336211,"PPI industry data for Motor vehicle body mfg, not seasonally adjusted"
+detail,336212,336212,PCU336212336212,exact,336212,"PPI industry data for Truck trailer mfg, not seasonally adjusted"
+detail,336213,336213,PCU336213336213,exact,336213,"PPI industry data for Motor home mfg, not seasonally adjusted"
+detail,336214,336214,PCU336214336214,exact,336214,"PPI industry data for Travel trailer and camper mfg, not seasonally adjusted"
+detail,336310,33631,PCU33631-33631-,exact,33631,"PPI industry data for Motor vehicle gasoline engine and parts mfg, not seasonally adjusted"
+detail,336320,33632,PCU33632-33632-,exact,33632,"PPI industry data for Motor vehicle electric equipment, not seasonally adjusted"
+detail,336350,33635,PCU33635-33635-,exact,33635,"PPI industry data for Motor vehicle power train components mfg, not seasonally adjusted"
+detail,336360,33636,PCU33636-33636-,exact,33636,"PPI industry data for Motor vehicle seating and interior trim mfg, not seasonally adjusted"
+detail,336370,33637,PCU33637-33637-,exact,33637,"PPI industry data for Motor vehicle metal stamping, not seasonally adjusted"
+detail,336390,33639,PCU33639-33639-,exact,33639,"PPI industry data for Other motor vehicle parts manufacturing, not seasonally adjusted"
+detail,3363A0,"33633,33634",PCU3363--3363--,broader (4-digit),3363,"PPI industry group data for Motor vehicle parts manufacturing, not seasonally adjusted"
+detail,336411,336411,PCU336411336411,exact,336411,"PPI industry data for Aircraft mfg, not seasonally adjusted"
+detail,336412,336412,PCU336412336412,exact,336412,"PPI industry data for Aircraft engine and engine parts mfg, not seasonally adjusted"
+detail,336413,336413,PCU336413336413,exact,336413,"PPI industry data for Other aircraft parts and equipment mfg, not seasonally adjusted"
+detail,336414,336414,PCU33641-33641-,broader (5-digit),33641,"PPI industry data for Aerospace product and parts manufacturing, not seasonally adjusted"
+detail,33641A,"336415,336419",PCU33641-33641-,broader (5-digit),33641,"PPI industry data for Aerospace product and parts manufacturing, not seasonally adjusted"
+detail,336500,3365,PCU3365--3365--,exact,3365,"PPI industry group data for Railroad rolling stock manufacturing, not seasonally adjusted"
+detail,336611,336611,PCU336611336611,exact,336611,"PPI industry data for Ship building and repairing, not seasonally adjusted"
+detail,336612,336612,PCU336612336612,exact,336612,"PPI industry data for Boat building, not seasonally adjusted"
+detail,336991,336991,PCU336991336991,exact,336991,"PPI industry data for Motorcycle, bicycle, and parts mfg, not seasonally adjusted"
+detail,336992,336992,PCU33699-33699-,broader (5-digit),33699,"PPI industry data for Other transportation equipment manufacturing, not seasonally adjusted"
+detail,336999,336999,PCU336999336999,exact,336999,"PPI industry data for All other transportation equipment mfg, not seasonally adjusted"
+detail,337110,33711,PCU33711-33711-,exact,33711,"PPI industry data for Wood kitchen cabinet & countertop mfg, not seasonally adjusted"
+detail,337121,337121,PCU337121337121,exact,337121,"PPI industry data for Upholstered household furniture mfg, not seasonally adjusted"
+detail,337122,337122,PCU337122337122,exact,337122,"PPI industry data for Nonupholstered wood household furniture mfg, not seasonally adjusted"
+detail,337127,337127,PCU337127337127,exact,337127,"PPI industry data for Institutional furniture mfg, not seasonally adjusted"
+detail,33712N,"337124,337125",PCU33712-33712-,broader (5-digit),33712,"PPI industry data for Household & institutional furniture mfg, not seasonally adjusted"
+detail,337215,337215,PCU337215337215,exact,337215,"PPI industry data for Showcases, partitions, shelving, and lockers mfg, not seasonally adjusted"
+detail,33721A,"337211,337212,337214",PCU33721-33721-,broader (5-digit),33721,"PPI industry data for Office furniture (including fixtures) mfg, not seasonally adjusted"
+detail,337900,3379,PCU337---337---,broader (3-digit),337,"PPI industry sub-sector data for Furniture & related product mfg, not seasonally adjusted"
+detail,339112,339112,PCU339112339112,exact,339112,"PPI industry data for Surgical and medical instrument mfg, not seasonally adjusted"
+detail,339113,339113,PCU339113339113,exact,339113,"PPI industry data for Surgical appliance and supplies mfg, not seasonally adjusted"
+detail,339114,339114,PCU339114339114,exact,339114,"PPI industry data for Dental equipment and supplies mfg, not seasonally adjusted"
+detail,339115,339115,PCU339115339115,exact,339115,"PPI industry data for Ophthalmic goods mfg, not seasonally adjusted"
+detail,339116,339116,PCU33911-33911-,broader (5-digit),33911,"PPI industry data for Medical equipment & supplies mfg, not seasonally adjusted"
+detail,339910,33991,PCU33991-33991-,exact,33991,"PPI industry data for Jewelry & silverware mfg, not seasonally adjusted"
+detail,339920,33992,PCU33992-33992-,exact,33992,"PPI industry data for Sporting & athletic goods mfg, not seasonally adjusted"
+detail,339930,33993,PCU339---339---,broader (3-digit),339,"PPI industry sub-sector data for Miscellaneous mfg, not seasonally adjusted"
+detail,339940,33994,PCU339---339---,broader (3-digit),339,"PPI industry sub-sector data for Miscellaneous mfg, not seasonally adjusted"
+detail,339950,33995,PCU33995-33995-,exact,33995,"PPI industry data for Sign mfg, not seasonally adjusted"
+detail,339990,33999,PCU339---339---,broader (3-digit),339,"PPI industry sub-sector data for Miscellaneous mfg, not seasonally adjusted"
+detail,311111,311111,PCU311111311111,exact,311111,"PPI industry data for Dog and cat food manufacturing, not seasonally adjusted"
+detail,311119,311119,PCU311119311119,exact,311119,"PPI industry data for Other animal food manufacturing, not seasonally adjusted"
+detail,311210,31121,PCU31121-31121-,exact,31121,"PPI industry data for Flour milling & malt mfg, not seasonally adjusted"
+detail,311221,311221,PCU311221311221,exact,311221,"PPI industry data for Wet corn milling and starch manufacturing, not seasonally adjusted"
+detail,311225,311225,PCU311225311225,exact,311225,"PPI industry data for Fats and oils refining and blending, not seasonally adjusted"
+detail,311224,311224,PCU311224311224,exact,311224,"PPI industry data for Soybean and other oilseed processing, not seasonally adjusted"
+detail,311230,31123,PCU31123-31123-,exact,31123,"PPI industry data for Breakfast cereal manufacturing, not seasonally adjusted"
+detail,311300,3113,PCU3113--3113--,exact,3113,"PPI industry group data for Sugar & confectionery product mfg, not seasonally adjusted"
+detail,311410,31141,PCU31141-31141-,exact,31141,"PPI industry data for Frozen food manufacturing, not seasonally adjusted"
+detail,311420,31142,PCU31142-31142-,exact,31142,"PPI industry data for Fruit & vegetable canning, pickling & drying, not seasonally adjusted"
+detail,311513,311513,PCU311513311513,exact,311513,"PPI industry data for Cheese manufacturing, not seasonally adjusted"
+detail,311514,311514,PCU311514311514,exact,311514,"PPI industry data for Dry, condensed, and evaporated dairy products, not seasonally adjusted"
+detail,31151A,"311511,311512",PCU31151-31151-,broader (5-digit),31151,"PPI industry data for Dairy product (except frozen) mfg, not seasonally adjusted"
+detail,311520,31152,PCU31152-31152-,exact,31152,"PPI industry data for Ice cream and frozen dessert mfg, not seasonally adjusted"
+detail,311615,311615,PCU311615311615,exact,311615,"PPI industry data for Poultry processing, not seasonally adjusted"
+detail,31161A,"311611,311612,311613",PCU31161-31161-,broader (5-digit),31161,"PPI industry data for Animal slaughtering & processing, not seasonally adjusted"
+detail,311700,3117,PCU3117--3117--,exact,3117,"PPI industry group data for Seafood product preparation & packaging, not seasonally adjusted"
+detail,311810,31181,PCU31181-31181-,exact,31181,"PPI industry data for Bread & bakery product mfg, not seasonally adjusted"
+detail,3118A0,"31182,31183",PCU3118--3118--,broader (4-digit),3118,"PPI industry group data for Bakeries & tortilla mfg, not seasonally adjusted"
+detail,311910,31191,PCU31191-31191-,exact,31191,"PPI industry data for Snack food mfg, not seasonally adjusted"
+detail,311920,31192,PCU31192-31192-,exact,31192,"PPI industry data for Coffee & tea mfg, not seasonally adjusted"
+detail,311930,31193,PCU31193-31193-,exact,31193,"PPI industry data for Flavoring syrup & concentrate mfg, not seasonally adjusted"
+detail,311940,31194,PCU31194-31194-,exact,31194,"PPI industry data for Seasoning & dressing mfg, not seasonally adjusted"
+detail,311990,31199,PCU31199-31199-,exact,31199,"PPI industry data for All other food mfg, not seasonally adjusted"
+detail,312110,31211,PCU31211-31211-,exact,31211,"PPI industry data for Soft drink & ice mfg, not seasonally adjusted"
+detail,312120,31212,PCU31212-31212-,exact,31212,"PPI industry data for Breweries, not seasonally adjusted"
+detail,312130,31213,PCU31213-31213-,exact,31213,"PPI industry data for Wineries, not seasonally adjusted"
+detail,312140,31214,PCU31214-31214-,exact,31214,"PPI industry data for Distilleries, not seasonally adjusted"
+detail,312200,3122,PCU3122--3122--,exact,3122,"PPI industry group data for Tobacco mfg, not seasonally adjusted"
+detail,313100,3131,PCU3131--3131--,exact,3131,"PPI industry group data for Fiber, yarn, and thread mills, not seasonally adjusted"
+detail,313200,3132,PCU3132--3132--,exact,3132,"PPI industry group data for Fabric mills, not seasonally adjusted"
+detail,313300,3133,PCU3133--3133--,exact,3133,"PPI industry group data for Textile and fabric finishing mills, not seasonally adjusted"
+detail,314110,31411,PCU31411-31411-,exact,31411,"PPI industry data for Carpet and rug mills, not seasonally adjusted"
+detail,314120,31412,PCU31412-31412-,exact,31412,"PPI industry data for Curtain and linen mills, not seasonally adjusted"
+detail,314900,3149,PCU3149--3149--,exact,3149,"PPI industry group data for Other textile product mills, not seasonally adjusted"
+detail,315000,315,PCU315---315---,exact,315,"PPI industry sub-sector data for Apparel manufacturing, not seasonally adjusted"
+detail,316000,316,PCUOMFG--OMFG--,sector aggregate,31,"PPI industry group data for Total manufacturing industries, not seasonally adjusted"
+detail,322110,32211,PCU32211-32211-,exact,32211,"PPI industry data for Pulp mills, not seasonally adjusted"
+detail,322120,32212,PCU32212-32212-,exact,32212,"PPI industry data for Paper mills, not seasonally adjusted"
+detail,322130,32213,PCU32213-32213-,exact,32213,"PPI industry data for Paperboard mills, not seasonally adjusted"
+detail,322210,32221,PCU32221-32221-,exact,32221,"PPI industry data for Paper container mfg, not seasonally adjusted"
+detail,322220,32222,PCU32222-32222-,exact,32222,"PPI industry data for Paper bag and coated and treated paper mfg, not seasonally adjusted"
+detail,322230,32223,PCU32223-32223-,exact,32223,"PPI industry data for Stationery product mfg, not seasonally adjusted"
+detail,322291,322291,PCU322291322291,exact,322291,"PPI industry data for Sanitary paper product manufacturing, not seasonally adjusted"
+detail,322299,322299,PCU322299322299,exact,322299,"PPI industry data for All other converted paper product mfg., not seasonally adjusted"
+detail,323110,32311,PCU32311-32311-,exact,32311,"PPI industry data for Printing, not seasonally adjusted"
+detail,323120,32312,PCU3231--3231--,broader (4-digit),3231,"PPI industry group data for Printing and related support activities, not seasonally adjusted"
+detail,324110,32411,PCU32411-32411-,exact,32411,"PPI industry data for Petroleum refineries, not seasonally adjusted"
+detail,324121,324121,PCU324121324121,exact,324121,"PPI industry data for Asphalt paving mixture & block manufacturing, not seasonally adjusted"
+detail,324122,324122,PCU324122324122,exact,324122,"PPI industry data for Asphalt shingle and coating materials manufacturing, not seasonally adjusted"
+detail,324190,32419,PCU32419-32419-,exact,32419,"PPI industry data for Other petroleum and coal products mfg, not seasonally adjusted"
+detail,325110,32511,PCU32511-32511-,exact,32511,"PPI industry data for Petrochemical mfg, not seasonally adjusted"
+detail,325120,32512,PCU32512-32512-,exact,32512,"PPI industry data for Industrial gas mfg, not seasonally adjusted"
+detail,325130,32513,PCU32513-32513-,exact,32513,"PPI industry data for Synthetic dye and pigment mfg, not seasonally adjusted"
+detail,325180,32518,PCU32518-32518-,exact,32518,"PPI industry data for Other basic inorganic chemical manufacturing, not seasonally adjusted"
+detail,325190,32519,PCU32519-32519-,exact,32519,"PPI industry data for Other basic organic chemical mfg, not seasonally adjusted"
+detail,325211,325211,PCU325211325211,exact,325211,"PPI industry data for Plastics material and resin manufacturing, not seasonally adjusted"
+detail,3252A0,"325212,32522",PCU3252--3252--,broader (4-digit),3252,"PPI industry group data for Resin, synthetic rubber, and artificial/synthetic fiber/filaments mfg, not seasonally adjusted"
+detail,325411,325411,PCU325411325411,exact,325411,"PPI industry data for Medicinal and botanical manufacturing, not seasonally adjusted"
+detail,325412,325412,PCU325412325412,exact,325412,"PPI industry data for Pharmaceutical preparation manufacturing, not seasonally adjusted"
+detail,325413,325413,PCU325413325413,exact,325413,"PPI industry data for In-vitro diagnostic substance manufacturing, not seasonally adjusted"
+detail,325414,325414,PCU325414325414,exact,325414,"PPI industry data for Other biological product manufacturing, not seasonally adjusted"
+detail,325310,32531,PCU32531-32531-,exact,32531,"PPI industry data for Fertilizer mfg, not seasonally adjusted"
+detail,325320,32532,PCU32532-32532-,exact,32532,"PPI industry data for Pesticide and other agricultural chemical mfg, not seasonally adjusted"
+detail,325510,32551,PCU32551-32551-,exact,32551,"PPI industry data for Paint and coating mfg, not seasonally adjusted"
+detail,325520,32552,PCU32552-32552-,exact,32552,"PPI industry data for Adhesive mfg, not seasonally adjusted"
+detail,325610,32561,PCU32561-32561-,exact,32561,"PPI industry data for Soap & cleaning compound mfg, not seasonally adjusted"
+detail,325620,32562,PCU32562-32562-,exact,32562,"PPI industry data for Toilet preparation mfg, not seasonally adjusted"
+detail,325910,32591,PCU32591-32591-,exact,32591,"PPI industry data for Printing ink mfg, not seasonally adjusted"
+detail,3259A0,"32592,32599",PCU3259--3259--,broader (4-digit),3259,"PPI industry group data for Other chemical product & preparation mfg, not seasonally adjusted"
+detail,326110,32611,PCU32611-32611-,exact,32611,"PPI industry data for Unsupported plastics film, sheet, and bag mfg, not seasonally adjusted"
+detail,326120,32612,PCU32612-32612-,exact,32612,"PPI industry data for Plastics pipe/fitting/unsupported shapes mfg, not seasonally adjusted"
+detail,326130,32613,PCU32613-32613-,exact,32613,"PPI industry data for Laminated plastics plate, sheet, and shape mfg, not seasonally adjusted"
+detail,326140,32614,PCU32614-32614-,exact,32614,"PPI industry data for Polystyrene foam product mfg, not seasonally adjusted"
+detail,326150,32615,PCU32615-32615-,exact,32615,"PPI industry data for Foam product (ex polystyrene) mfg, not seasonally adjusted"
+detail,326160,32616,PCU32616-32616-,exact,32616,"PPI industry data for Plastics bottle mfg, not seasonally adjusted"
+detail,326190,32619,PCU32619-32619-,exact,32619,"PPI industry data for Other plastics product mfg, not seasonally adjusted"
+detail,326210,32621,PCU32621-32621-,exact,32621,"PPI industry data for Tire mfg, not seasonally adjusted"
+detail,326220,32622,PCU32622-32622-,exact,32622,"PPI industry data for Rubber and plastics hose and belting, not seasonally adjusted"
+detail,326290,32629,PCU32629-32629-,exact,32629,"PPI industry data for Other rubber product mfg, not seasonally adjusted"
+detail,423100,4231,PCU4231--4231--,exact,4231,"PPI industry group data for Motor vehicle and parts merchant wholesalers, not seasonally adjusted"
+detail,423400,4234,PCU4234--4234--,exact,4234,"PPI industry group data for Professional and commercial equipment and supplies merchant wholesalers, not seasonally adjusted"
+detail,423600,4236,PCU4236--4236--,exact,4236,"PPI industry group data for Household appliances and electrical and electronic goods merchant wholesalers, not seasonally adjusted"
+detail,423800,4238,PCU4238--4238--,exact,4238,"PPI industry group data for Machinery, equipment, and supplies merchant wholesalers, not seasonally adjusted"
+detail,423A00,"4232,4233,4235,4237,4239",PCU423---423---,broader (3-digit),423,"PPI industry sub-sector data for Merchant wholesalers, durable goods, not seasonally adjusted"
+detail,424200,4242,PCU4242--4242--,exact,4242,"PPI industry group data for Drugs and druggists' sundries merchant wholesalers, not seasonally adjusted"
+detail,424400,4244,PCU4244--4244--,exact,4244,"PPI industry group data for Grocery and related product merchant wholesalers, not seasonally adjusted"
+detail,424700,4247,PCU4247--4247--,exact,4247,"PPI industry group data for Petroleum and petroleum products merchant wholesalers, not seasonally adjusted"
+detail,424A00,"4241,4243,4245,4246,4248,4249",PCU424---424---,broader (3-digit),424,"PPI industry sub-sector data for Merchant wholesalers, nondurable goods, not seasonally adjusted"
+detail,425000,425,PCUAWHLTRAWHLTR,sector aggregate,42,"PPI industry data for Total wholesale trade industries, not seasonally adjusted"
+detail,4200ID,,,dropped (no NAICS),,
+detail,441000,441,PCU441---441---,exact,441,"PPI industry sub-sector data for Motor vehicle and parts dealers, not seasonally adjusted"
+detail,445000,445,PCU445---445---,exact,445,"PPI industry sub-sector data for Food and beverage retailers, not seasonally adjusted"
+detail,452000,452,PCU455---455---,exact via NAICS-2022 crosswalk,455,"PPI industry sub-sector data for General merchandise retailers, not seasonally adjusted"
+detail,444000,444,PCU444---444---,exact,444,"PPI industry sub-sector data for Building material & garden supply retailers, not seasonally adjusted"
+detail,446000,446,PCU456---456---,exact via NAICS-2022 crosswalk,456,"PPI industry sub-sector data for Health and personal care retailers, not seasonally adjusted"
+detail,447000,447,PCUARETTRARETTR,sector aggregate,44,"PPI industry data for Total retail trade industries, not seasonally adjusted"
+detail,448000,448,PCU458---458---,exact via NAICS-2022 crosswalk,458,"PPI industry sub-sector data for Clothing and clothing accessories retailers, not seasonally adjusted"
+detail,454000,454,PCUARETTRARETTR,sector aggregate,44,"PPI industry data for Total retail trade industries, not seasonally adjusted"
+detail,4B0000,"442,443,451,453",PCUARETTRARETTR,sector aggregate,44,"PPI industry data for Total retail trade industries, not seasonally adjusted"
+detail,481000,481,PCU481---481---,exact,481,"PPI industry sub-sector data for Air transportation, not seasonally adjusted"
+detail,482000,482,PCU482---482---,exact,482,"PPI industry sub-sector data for Rail transportation, not seasonally adjusted"
+detail,483000,483,PCU483---483---,exact,483,"PPI industry sub-sector data for Water transportation, not seasonally adjusted"
+detail,484000,484,PCU484---484---,exact,484,"PPI industry sub-sector data for Truck transportation, not seasonally adjusted"
+detail,485000,485,PCUATRNWRATRNWR,sector aggregate,48,"PPI industry data for Transportation and warehousing industries, not seasonally adjusted"
+detail,486000,486,PCUATRNWRATRNWR,sector aggregate,48,"PPI industry data for Transportation and warehousing industries, not seasonally adjusted"
+detail,48A000,"487,488",PCUATRNWRATRNWR,sector aggregate,48,"PPI industry data for Transportation and warehousing industries, not seasonally adjusted"
+detail,492000,492,PCU492---492---,exact,492,"PPI industry sub-sector data for Couriers and messengers, not seasonally adjusted"
+detail,493000,493,PCU493---493---,exact,493,"PPI industry sub-sector data for Warehousing and storage, not seasonally adjusted"
+detail,511110,51111,PCUAINFO-AINFO-,sector aggregate,51,"PPI industry data for Information, not seasonally adjusted"
+detail,511120,51112,PCUAINFO-AINFO-,sector aggregate,51,"PPI industry data for Information, not seasonally adjusted"
+detail,511130,51113,PCUAINFO-AINFO-,sector aggregate,51,"PPI industry data for Information, not seasonally adjusted"
+detail,5111A0,"51114,51119",PCUAINFO-AINFO-,sector aggregate,51,"PPI industry data for Information, not seasonally adjusted"
+detail,511200,51121,PCU51321-51321-,exact via NAICS-2022 crosswalk,51321,"PPI industry data for Software publishers, not seasonally adjusted"
+detail,512100,5121,PCUAINFO-AINFO-,sector aggregate,51,"PPI industry data for Information, not seasonally adjusted"
+detail,512200,5122,PCUAINFO-AINFO-,sector aggregate,51,"PPI industry data for Information, not seasonally adjusted"
+detail,515100,5151,PCU5161--5161--,exact via NAICS-2022 crosswalk,5161,"PPI industry group data for Radio and television broadcasting, not seasonally adjusted"
+detail,515200,5152,PCU5162--5162--,exact via NAICS-2022 crosswalk,5162,"PPI industry group data for Cable and other subscription programming, not seasonally adjusted"
+detail,517110,517311,PCU517311517311,exact,517311,"PPI industry data for Wired telecommunications carriers, not seasonally adjusted"
+detail,517210,517312,PCU517312517312,exact,517312,"PPI industry data for Wireless telecommunications carriers, not seasonally adjusted"
+detail,517A00,"5174,5175,5176,5177,5178,5179",PCU517---517---,broader (3-digit),517,"PPI industry sub-sector data for Telecommunications, not seasonally adjusted"
+detail,518200,5182,PCU5182--5182--,exact,5182,"PPI industry group data for Data processing and related services, not seasonally adjusted"
+detail,519130,51913,PCU51621-51621-,exact via NAICS-2022 crosswalk,51621,"PPI industry data for Cable and other subscription programming, not seasonally adjusted"
+detail,5191A0,"51911,51912,51919",PCUAINFO-AINFO-,sector aggregate,51,"PPI industry data for Information, not seasonally adjusted"
+detail,522A00,"5222,5223",,dropped (no PPI),,
+detail,52A000,"521,5221",,dropped (no PPI),,
+detail,523900,5239,PCU523---523---,broader (3-digit),523,"PPI industry sub-sector data for Security, commodity contracts and like activity, not seasonally adjusted"
+detail,523A00,"5231,5232",PCU523---523---,broader (3-digit),523,"PPI industry sub-sector data for Security, commodity contracts and like activity, not seasonally adjusted"
+detail,524113,524113,PCU524113524113,exact,524113,"PPI industry data for Direct life insurance carriers, not seasonally adjusted"
+detail,5241XX,"524114,52412,52413",PCU5241--5241--,broader (4-digit),5241,"PPI industry group data for Insurance carriers, not seasonally adjusted"
+detail,524200,5242,PCU524---524---,broader (3-digit),524,"PPI industry sub-sector data for Insurance carriers and related activities, not seasonally adjusted"
+detail,525000,525,,dropped (no PPI),,
+detail,531HSO,,,dropped (no NAICS),,
+detail,531HST,531,,dropped (no PPI),,
+detail,531ORE,531,,dropped (no PPI),,
+detail,532100,5321,PCU5321--5321--,exact,5321,"PPI industry group data for Automotive equipment rental and leasing, not seasonally adjusted"
+detail,532400,5324,,dropped (no PPI),,
+detail,532A00,"5322,5323",,dropped (no PPI),,
+detail,533000,533,,dropped (no PPI),,
+detail,541100,5411,PCU5411--5411--,exact,5411,"PPI industry group data for Legal services, not seasonally adjusted"
+detail,541511,541511,,dropped (no PPI),,
+detail,541512,541512,,dropped (no PPI),,
+detail,54151A,"541513,541519",,dropped (no PPI),,
+detail,541200,5412,,dropped (no PPI),,
+detail,541300,5413,PCU5413--5413--,exact,5413,"PPI industry group data for Architectural, engineering and related services, not seasonally adjusted"
+detail,541610,54161,PCU54161-54161-,exact,54161,"PPI industry data for Management consulting services, not seasonally adjusted"
+detail,5416A0,"54162,54169",PCU5416--5416--,broader (4-digit),5416,"PPI industry group data for Management and technical consulting services, not seasonally adjusted"
+detail,541700,5417,,dropped (no PPI),,
+detail,541800,5418,,dropped (no PPI),,
+detail,541400,5414,,dropped (no PPI),,
+detail,541920,54192,,dropped (no PPI),,
+detail,541940,54194,,dropped (no PPI),,
+detail,5419A0,"54191,54193,54199",,dropped (no PPI),,
+detail,550000,55,,dropped (no PPI),,
+detail,561300,5613,PCU5613--5613--,exact,5613,"PPI industry group data for Employment services, not seasonally adjusted"
+detail,561700,5617,,dropped (no PPI),,
+detail,561100,5611,,dropped (no PPI),,
+detail,561200,5612,,dropped (no PPI),,
+detail,561400,5614,,dropped (no PPI),,
+detail,561500,5615,,dropped (no PPI),,
+detail,561600,5616,,dropped (no PPI),,
+detail,561900,5619,,dropped (no PPI),,
+detail,562000,562,,dropped (no PPI),,
+detail,611100,6111,,dropped (no PPI),,
+detail,611A00,"6112,6113",,dropped (no PPI),,
+detail,611B00,"6114,6115,6116,6117",,dropped (no PPI),,
+detail,621100,6211,PCU6211--6211--,exact,6211,"PPI industry group data for Offices of physicians, not seasonally adjusted"
+detail,621200,6212,PCU6212--6212--,exact,6212,"PPI industry group data for Offices of dentists, not seasonally adjusted"
+detail,621300,6213,,dropped (no PPI),,
+detail,621400,6214,,dropped (no PPI),,
+detail,621500,6215,PCU6215--6215--,exact,6215,"PPI industry group data for Medical and diagnostic laboratories, not seasonally adjusted"
+detail,621600,6216,PCU6216--6216--,exact,6216,"PPI industry group data for Home health care services, not seasonally adjusted"
+detail,621900,6219,,dropped (no PPI),,
+detail,622000,622,PCU622---622---,exact,622,"PPI industry sub-sector data for Hospitals, not seasonally adjusted"
+detail,623A00,"6231,6233",,dropped (no PPI),,
+detail,623B00,"6232,6239",,dropped (no PPI),,
+detail,624100,6241,,dropped (no PPI),,
+detail,624400,6244,,dropped (no PPI),,
+detail,624A00,"6242,6243",,dropped (no PPI),,
+detail,711100,7111,,dropped (no PPI),,
+detail,711200,7112,,dropped (no PPI),,
+detail,711500,7115,,dropped (no PPI),,
+detail,711A00,"7113,7114",,dropped (no PPI),,
+detail,712000,712,,dropped (no PPI),,
+detail,713100,7131,PCU7131--7131--,exact,7131,"PPI industry group data for Amusement and theme parks, not seasonally adjusted"
+detail,713200,7132,,dropped (no PPI),,
+detail,713900,7139,,dropped (no PPI),,
+detail,721000,721,PCU721---721---,exact,721,"PPI industry sub-sector data for Accommodation, not seasonally adjusted"
+detail,722110,722511,,dropped (no PPI),,
+detail,722211,722513,,dropped (no PPI),,
+detail,722A00,"7223,7224,722514,722515",,dropped (no PPI),,
+detail,811100,8111,,dropped (no PPI),,
+detail,811200,8112,,dropped (no PPI),,
+detail,811300,8113,PCU8113--8113--,exact,8113,"PPI industry group data for Commercial machinery repair and maintenance, not seasonally adjusted"
+detail,811400,8114,,dropped (no PPI),,
+detail,812100,8121,,dropped (no PPI),,
+detail,812200,8122,,dropped (no PPI),,
+detail,812300,8123,,dropped (no PPI),,
+detail,812900,8129,,dropped (no PPI),,
+detail,813100,8131,,dropped (no PPI),,
+detail,813A00,"8132,8133",,dropped (no PPI),,
+detail,813B00,"8134,8139",,dropped (no PPI),,
+detail,814000,814,,dropped (no PPI),,
+detail,S00500,,,dropped (no NAICS),,
+detail,S00600,,,dropped (no NAICS),,
+detail,491000,491,PCU491---491---,exact,491,"PPI industry sub-sector data for U.S. Postal Service, not seasonally adjusted"
+detail,S00102,,,dropped (no NAICS),,
+detail,GSLGE,,,dropped (no NAICS),,
+detail,GSLGH,,,dropped (no NAICS),,
+detail,GSLGO,,,dropped (no NAICS),,
+detail,S00203,,,dropped (no NAICS),,
+detail,S00401,,,dropped (no NAICS),,
+detail,S00402,,,dropped (no NAICS),,
+detail,S00300,,,dropped (no NAICS),,
+detail,S00900,,,dropped (no NAICS),,
+detail,MRG_WHOLESALE,margin,PCUAWHLTRAWHLTR,margin index,,"PPI industry data for Total wholesale trade industries, not seasonally adjusted"
+detail,MRG_RETAIL,margin,PCUARETTRARETTR,margin index,,"PPI industry data for Total retail trade industries, not seasonally adjusted"
+detail,MRG_TRANSPORT,margin,PCUATRNWRATRNWR,margin index,,"PPI industry data for Transportation and warehousing industries, not seasonally adjusted"
+summary,111CA,"11111,11112,11113,11114,11115,11116,11119,1112,1113,1114,1119,11211,11212,11213,1122,1123,1124,1125,1129",,dropped (no PPI),,
+summary,113FF,"113,114,115",,dropped (no PPI),,
+summary,211,211,PCU211---211---,exact,211,"PPI industry sub-sector data for Oil and gas extraction, not seasonally adjusted"
+summary,212,"2121,21221,21222,21223,21229,21231,21232,21239",PCU212---212---,broader (3-digit),212,"PPI industry sub-sector data for Mining (except oil & gas), not seasonally adjusted"
+summary,213,"213111,213112,213113,213114,213115",PCU21311-21311-,broader (5-digit),21311,"PPI industry data for Mining support activities, not seasonally adjusted"
+summary,22,"2211,2212,2213",PCU221---221---,broader (3-digit),221,"PPI industry sub-sector data for Utilities, not seasonally adjusted"
+summary,23,23,,dropped (no PPI),,
+summary,321,"3211,3212,32191,32192,32193,32194,32195,32196,32197,32198,32199",PCU321---321---,broader (3-digit),321,"PPI industry sub-sector data for Wood product manufacturing, not seasonally adjusted"
+summary,327,"3271,3272,32731,32732,32733,32739,3274,32791,327991,327992,327993,327999",PCU327---327---,broader (3-digit),327,"PPI industry sub-sector data for Nonmetallic mineral product manufacturing, not seasonally adjusted"
+summary,331,"3311,3312,331313,331314,331315,331318,331410,33142,33149,33151,33152",PCU331---331---,broader (3-digit),331,"PPI industry sub-sector data for Primary metal mfg, not seasonally adjusted"
+summary,332,"332111,332112,332114,332117,332119,3322,33231,33232,33241,33242,33243,3325,3326,33271,33272,3328,332911,332912,332913,332919,332991,332992,332993,332994,332996,332999",PCU332---332---,broader (3-digit),332,"PPI industry sub-sector data for Fabricated metal product mfg, not seasonally adjusted"
+summary,333,"333111,333112,33312,33313,333241,333242,333243,333244,333249,333314,333316,333318,333413,333414,333415,333511,333514,333515,333517,333519,333611,333612,333613,333618,333912,333914,33392,333991,333992,333993,333994,333995,333996,333997,333999",PCU333---333---,broader (3-digit),333,"PPI industry sub-sector data for Machinery manufacturing, not seasonally adjusted"
+summary,334,"334111,334112,334118,33421,33422,33429,3343,334412,334413,334416,334417,334418,334419,334510,334511,334512,334513,334514,334515,334516,334517,334519,33461",PCU334---334---,broader (3-digit),334,"PPI industry sub-sector data for Computer & electronic product mfg, not seasonally adjusted"
+summary,335,"33511,33512,33521,335220,335311,335312,335313,335314,335911,335912,33592,33593,335991,335999",PCU335---335---,broader (3-digit),335,"PPI industry sub-sector data for Electrical equipment  and appliance mfg, not seasonally adjusted"
+summary,3361MV,"336111,336112,33612,336211,336212,336213,336214,33631,33632,33633,33634,33635,33636,33637,33639",PCU336---336---,broader (3-digit),336,"PPI industry sub-sector data for Transportation equipment manufacturing, not seasonally adjusted"
+summary,3364OT,"336411,336412,336413,336414,336415,336419,3365,336611,336612,336991,336992,336999",PCU336---336---,broader (3-digit),336,"PPI industry sub-sector data for Transportation equipment manufacturing, not seasonally adjusted"
+summary,337,"33711,337121,337122,337124,337125,337127,337211,337212,337214,337215,3379",PCU337---337---,broader (3-digit),337,"PPI industry sub-sector data for Furniture & related product mfg, not seasonally adjusted"
+summary,339,"339112,339113,339114,339115,339116,33991,33992,33993,33994,33995,33999",PCU339---339---,broader (3-digit),339,"PPI industry sub-sector data for Miscellaneous mfg, not seasonally adjusted"
+summary,311FT,"311111,311119,31121,311221,311224,311225,31123,3113,31141,31142,311511,311512,311513,311514,31152,311611,311612,311613,311615,3117,31181,31182,31183,31191,31192,31193,31194,31199,31211,31212,31213,31214,3122",PCUOMFG--OMFG--,sector aggregate,31,"PPI industry group data for Total manufacturing industries, not seasonally adjusted"
+summary,313TT,"3131,3132,3133,31411,31412,3149",PCUOMFG--OMFG--,sector aggregate,31,"PPI industry group data for Total manufacturing industries, not seasonally adjusted"
+summary,315AL,"315,316",PCUOMFG--OMFG--,sector aggregate,31,"PPI industry group data for Total manufacturing industries, not seasonally adjusted"
+summary,322,"32211,32212,32213,32221,32222,32223,322291,322299",PCU322---322---,broader (3-digit),322,"PPI industry sub-sector data for Paper manufacturing, not seasonally adjusted"
+summary,323,"32311,32312",PCU3231--3231--,broader (4-digit),3231,"PPI industry group data for Printing and related support activities, not seasonally adjusted"
+summary,324,"32411,324121,324122,32419",PCU3241--3241--,broader (4-digit),3241,"PPI industry group data for Petroleum and coal products mfg, not seasonally adjusted"
+summary,325,"32511,32512,32513,32518,32519,325211,325212,32522,32531,32532,325411,325412,325413,325414,32551,32552,32561,32562,32591,32592,32599",PCU325---325---,broader (3-digit),325,"PPI industry sub-sector data for Chemical mfg, not seasonally adjusted"
+summary,326,"32611,32612,32613,32614,32615,32616,32619,32621,32622,32629",PCU326---326---,broader (3-digit),326,"PPI industry sub-sector data for Plastics and rubber products mfg, not seasonally adjusted"
+summary,42,"4231,4232,4233,4234,4235,4236,4237,4238,4239,4241,4242,4243,4244,4245,4246,4247,4248,4249,425",PCUAWHLTRAWHLTR,sector aggregate,42,"PPI industry data for Total wholesale trade industries, not seasonally adjusted"
+summary,441,441,PCU441---441---,exact,441,"PPI industry sub-sector data for Motor vehicle and parts dealers, not seasonally adjusted"
+summary,445,445,PCU445---445---,exact,445,"PPI industry sub-sector data for Food and beverage retailers, not seasonally adjusted"
+summary,452,452,PCU455---455---,exact via NAICS-2022 crosswalk,455,"PPI industry sub-sector data for General merchandise retailers, not seasonally adjusted"
+summary,4A0,"442,443,444,446,447,448,451,453,454",PCUARETTRARETTR,sector aggregate,44,"PPI industry data for Total retail trade industries, not seasonally adjusted"
+summary,481,481,PCU481---481---,exact,481,"PPI industry sub-sector data for Air transportation, not seasonally adjusted"
+summary,482,482,PCU482---482---,exact,482,"PPI industry sub-sector data for Rail transportation, not seasonally adjusted"
+summary,483,483,PCU483---483---,exact,483,"PPI industry sub-sector data for Water transportation, not seasonally adjusted"
+summary,484,484,PCU484---484---,exact,484,"PPI industry sub-sector data for Truck transportation, not seasonally adjusted"
+summary,485,485,PCUATRNWRATRNWR,sector aggregate,48,"PPI industry data for Transportation and warehousing industries, not seasonally adjusted"
+summary,486,486,PCUATRNWRATRNWR,sector aggregate,48,"PPI industry data for Transportation and warehousing industries, not seasonally adjusted"
+summary,487OS,"487,488,492",PCUATRNWRATRNWR,sector aggregate,48,"PPI industry data for Transportation and warehousing industries, not seasonally adjusted"
+summary,493,493,PCU493---493---,exact,493,"PPI industry sub-sector data for Warehousing and storage, not seasonally adjusted"
+summary,511,"51111,51112,51113,51114,51119,51121",PCUAINFO-AINFO-,sector aggregate,51,"PPI industry data for Information, not seasonally adjusted"
+summary,512,"5121,5122",PCUAINFO-AINFO-,sector aggregate,51,"PPI industry data for Information, not seasonally adjusted"
+summary,513,"5151,5152,517311,517312,5174,5175,5176,5177,5178,5179",PCUAINFO-AINFO-,sector aggregate,51,"PPI industry data for Information, not seasonally adjusted"
+summary,514,"5182,51911,51912,51913,51919",PCUAINFO-AINFO-,sector aggregate,51,"PPI industry data for Information, not seasonally adjusted"
+summary,521CI,"521,5221,5222,5223",,dropped (no PPI),,
+summary,523,"5231,5232,5239",PCU523---523---,broader (3-digit),523,"PPI industry sub-sector data for Security, commodity contracts and like activity, not seasonally adjusted"
+summary,524,"524113,524114,52412,52413,5242",PCU524---524---,broader (3-digit),524,"PPI industry sub-sector data for Insurance carriers and related activities, not seasonally adjusted"
+summary,525,525,,dropped (no PPI),,
+summary,HS,531,,dropped (no PPI),,
+summary,ORE,531,,dropped (no PPI),,
+summary,532RL,"5321,5322,5323,5324,533",,dropped (no PPI),,
+summary,5411,5411,PCU5411--5411--,exact,5411,"PPI industry group data for Legal services, not seasonally adjusted"
+summary,5415,"541511,541512,541513,541519",,dropped (no PPI),,
+summary,5412OP,"5412,5413,5414,54161,54162,54169,5417,5418,54191,54192,54193,54194,54199",,dropped (no PPI),,
+summary,55,55,,dropped (no PPI),,
+summary,561,"5611,5612,5613,5614,5615,5616,5617,5619",,dropped (no PPI),,
+summary,562,562,,dropped (no PPI),,
+summary,61,"6111,6112,6113,6114,6115,6116,6117",,dropped (no PPI),,
+summary,621,"6211,6212,6213,6214,6215,6216,6219",,dropped (no PPI),,
+summary,622,622,PCU622---622---,exact,622,"PPI industry sub-sector data for Hospitals, not seasonally adjusted"
+summary,623,"6231,6232,6233,6239",,dropped (no PPI),,
+summary,624,"6241,6242,6243,6244",,dropped (no PPI),,
+summary,711AS,"7111,7112,7113,7114,7115,712",,dropped (no PPI),,
+summary,713,"7131,7132,7139",,dropped (no PPI),,
+summary,721,721,PCU721---721---,exact,721,"PPI industry sub-sector data for Accommodation, not seasonally adjusted"
+summary,722,"7223,7224,722511,722513,722514,722515",,dropped (no PPI),,
+summary,81,"8111,8112,8113,8114,8121,8122,8123,8129,8131,8132,8133,8134,8139,814",,dropped (no PPI),,
+summary,GFGD,,,dropped (no NAICS),,
+summary,GFGN,,,dropped (no NAICS),,
+summary,GFE,491,PCU491---491---,exact,491,"PPI industry sub-sector data for U.S. Postal Service, not seasonally adjusted"
+summary,GSLG,,,dropped (no NAICS),,
+summary,GSLE,,,dropped (no NAICS),,
+summary,Used,,,dropped (no NAICS),,
+summary,Other,,,dropped (no NAICS),,
+summary,MRG_WHOLESALE,margin,PCUAWHLTRAWHLTR,margin index,,"PPI industry data for Total wholesale trade industries, not seasonally adjusted"
+summary,MRG_RETAIL,margin,PCUARETTRARETTR,margin index,,"PPI industry data for Total retail trade industries, not seasonally adjusted"
+summary,MRG_TRANSPORT,margin,PCUATRNWRATRNWR,margin index,,"PPI industry data for Transportation and warehousing industries, not seasonally adjusted"

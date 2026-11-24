@@ -1,0 +1,14 @@
+component,published_1m_annualized_pct,published_weight_normalized_pct,published_cumulative_weight_pct,tail,latest_period,source_ids,raw_file,source_line
+Car and truck rental,-50.58,0.1,0.1,lower,2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,2
+Used cars and trucks,-13.74,2.6,2.8,lower,2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,3
+Women's and girls' apparel,-7.4,0.9,3.7,lower,2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,4
+Non-alcoholic beverages and beverage materials,-3.19,1.0,4.7,lower,2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,5
+Processed fruits and vegetables,-2.96,0.3,4.9,lower,2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,6
+Infants' and toddlers' apparel,-2.8,0.1,5.0,lower,2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,7
+Communication,-1.04,3.2,8.2,lower cutoff component (published weight crosses 8th percentile),2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,8
+Recreation,10.25,5.1,96.3,upper cutoff component (published weight crosses 92nd percentile),2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,41
+Fresh fruits and vegetables,10.4,1.0,97.3,upper,2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,42
+Footwear,13.23,0.6,97.9,upper,2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,43
+Watches and jewelry,18.9,0.2,98.1,upper,2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,44
+Public transportation,26.73,1.7,99.8,upper,2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,45
+Fuel oil and other fuels,33.22,0.2,100.0,upper,2026-10-01,Cleveland Fed mediancpi_component_table.csv,Price indexes/Trimmed mean/raw/clevelandfed_mediancpi_component_table_2026-11-10.csv,46

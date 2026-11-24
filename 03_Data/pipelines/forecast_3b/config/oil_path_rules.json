@@ -1,0 +1,31 @@
+{
+  "_doc": "Oil path definitions for forecast.py. Brent spot FOB, $/bbl, NSA. Each path = actual EIA daily Brent (quarterly mean of trading days) for completed quarters; the quarter containing the last observation is spliced day-weighted (observed days + remaining weekdays at the rule value, Thanksgiving/Dec 25/Jan 1 dropped); later quarters = rule or STEO quarterly mean. Rules start the day after the last EIA observation. Definitions from Agent B (02_Research/Subtasks/12_slide3b_research/outputs/B_q3_path_definitions.md), coordinator-verified 2026-11-15. central=true marks the 3 paths on the 3x2 grid; the rest are sensitivity rows.",
+  "variants": [
+    {"variant_id": "P1_steo_latest", "path_id": "P1", "central": true, "type": "steo_latest",
+     "label": "P1 Baseline oil: latest EIA STEO Brent path",
+     "source": "EIA STEO archive <latest>_base.xlsx, sheet 2tab, BREPUUS; quarter = mean of monthly"},
+    {"variant_id": "P1_futures_2026-11-13", "path_id": "P1", "central": false, "type": "futures_curve",
+     "file": "config/futures_curve_2026-11-13.csv",
+     "label": "P1 alt (market check): NYMEX BZ futures closes 2026-11-13",
+     "source": "Yahoo Finance chart API closes of NYMEX BZ contracts [secondary]; quarter = mean of 3 contract months; rest of current quarter at the front (BZ=F) close"},
+    {"variant_id": "P2_110_flat", "path_id": "P2", "central": true, "type": "flat", "usd": 110.0,
+     "label": "P2 Oil rises again: Brent $110 flat",
+     "source": "rule; Bowman, Nov 10 2026 speech: Brent 'moved up to and above $110 per barrel in the second half of October'"},
+    {"variant_id": "P2_octavg_flat", "path_id": "P2", "central": false, "type": "flat_month_mean", "month": "2026-10",
+     "label": "P2 alt (harsher): Brent at its Oct-2026 monthly mean, flat",
+     "source": "rule; EIA RBRTE Oct 2026 mean of trading days"},
+    {"variant_id": "P3_feb26steo_plus25", "path_id": "P3", "central": true, "type": "steo_plus", "vintage": "feb26", "premium": 25.0,
+     "label": "P3 Hormuz reopens: pre-war trend (Feb-2026 STEO) + $25 residual premium",
+     "source": "rule; EIA STEO Feb 2026 (completed 2026-02-05; last pre-war vintage, onset 2026-02-28 per Mar-2026 STEO p.5) + $25; premium anchored on Waller, Nov 10 2026 ('$20 to $30 a barrel')"},
+    {"variant_id": "P3_feb26steo_plus20", "path_id": "P3", "central": false, "type": "steo_plus", "vintage": "feb26", "premium": 20.0,
+     "label": "P3 alt: Feb-2026 STEO + $20", "source": "rule; Waller low end"},
+    {"variant_id": "P3_feb26steo_plus30", "path_id": "P3", "central": false, "type": "steo_plus", "vintage": "feb26", "premium": 30.0,
+     "label": "P3 alt: Feb-2026 STEO + $30", "source": "rule; Waller high end"},
+    {"variant_id": "P3_feb26steo_plus0", "path_id": "P3", "central": false, "type": "steo_plus", "vintage": "feb26", "premium": 0.0,
+     "label": "P3 alt: Feb-2026 STEO + $0 (no residual premium)", "source": "rule; premise check, B_q3_path_definitions.md"},
+    {"variant_id": "P3_janfebavg_plus25", "path_id": "P3", "central": false, "type": "spot_mean_plus",
+     "start": "2026-01-01", "end": "2026-02-27", "premium": 25.0,
+     "label": "P3 alt trend: Jan 1-Feb 27 2026 Brent spot mean + $25", "source": "rule; EIA RBRTE"}
+  ],
+  "prewar_steo_vintages": ["feb26"]
+}
